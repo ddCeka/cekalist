@@ -1,0 +1,11 @@
+*.php
+*.py
+*.sh
+*.txt
+*.json
+domain
+hosts
+hosts-temp
+test
+tracker
+update

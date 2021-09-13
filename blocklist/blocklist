@@ -1,8 +1,8 @@
 ######################################
 # CekaList
-# Released: 13/Sep/2021 13:52
+# Released: 13/Sep/2021 22:42
 # Personal use Block list filter
-# Domains: 148198
+# Domains: 148209
 ######################################
 
 0.0.0.0 0--e.info
@@ -13957,6 +13957,7 @@
 0.0.0.0 amazonwebstore.122.2o7.net
 0.0.0.0 amazy.ru
 0.0.0.0 ambaab.com
+0.0.0.0 ambae.co.id
 0.0.0.0 ambangnetwork.com.my
 0.0.0.0 amberandangela.com
 0.0.0.0 ambercrow.com
@@ -20403,6 +20404,7 @@
 0.0.0.0 bat.maydream.com
 0.0.0.0 bat.r.msn.com
 0.0.0.0 batampos.co.id
+0.0.0.0 bataramedia.com
 0.0.0.0 batarapos.com
 0.0.0.0 batasales.online
 0.0.0.0 batbuilding.com
@@ -21777,6 +21779,7 @@
 0.0.0.0 bidgear.com
 0.0.0.0 bidgummer.com
 0.0.0.0 bidhead.net
+0.0.0.0 bidiknasional.co.id
 0.0.0.0 bidio.pl
 0.0.0.0 bidiology.com
 0.0.0.0 bidmachine.io
@@ -27784,6 +27787,7 @@
 0.0.0.0 chimachinenow.com
 0.0.0.0 chimaerason.com
 0.0.0.0 chimeaverthem.com
+0.0.0.0 chimpstatic.com
 0.0.0.0 chin-adnetwork.com
 0.0.0.0 chin-adnetwork.genieesspv.jp
 0.0.0.0 china-cdn3.unityads.unity3d.com
@@ -55376,6 +55380,7 @@
 0.0.0.0 insticator-d.openx.net
 0.0.0.0 insticator.com
 0.0.0.0 instinctiveads.com
+0.0.0.0 instingjurnalis.com
 0.0.0.0 institto.casa
 0.0.0.0 institutionclose.com
 0.0.0.0 institutohumanus.org.br
@@ -58459,6 +58464,7 @@
 0.0.0.0 kabarmanado.com
 0.0.0.0 kabarmedan.com
 0.0.0.0 kabarntb.com
+0.0.0.0 kabarnuansa.id
 0.0.0.0 kabarnusa.com
 0.0.0.0 kabaroto.com
 0.0.0.0 kabarpapua.co
@@ -59939,6 +59945,7 @@
 0.0.0.0 kuludelo.com
 0.0.0.0 kuma-film.com
 0.0.0.0 kumanaun.net
+0.0.0.0 kumanika.com
 0.0.0.0 kumobiles.com
 0.0.0.0 kumparan.com
 0.0.0.0 kumpulblogger.com
@@ -96461,6 +96468,7 @@
 0.0.0.0 spanids.dictionary.com
 0.0.0.0 spanids.thesaurus.com
 0.0.0.0 spanishdict-d.openx.net
+0.0.0.0 spankbang.com
 0.0.0.0 spankmasters.com
 0.0.0.0 spankswindlewatchman.com
 0.0.0.0 spannenk.ml
@@ -100138,6 +100146,7 @@
 0.0.0.0 sulminaslaticinios.com.br
 0.0.0.0 sulphurrnills.com
 0.0.0.0 sulphursceneryhenceforward.com
+0.0.0.0 sulselekspres.com
 0.0.0.0 sulselnet.com
 0.0.0.0 sulselsatu.com
 0.0.0.0 sultancolicin.com
@@ -145676,6 +145685,7 @@
 0.0.0.0 xouzmvlt.com
 0.0.0.0 xovq5nemr.com
 0.0.0.0 xoxo5-eng.spankbang.com
+0.0.0.0 xoxo6-eng.spankbang.com
 0.0.0.0 xpanama.net
 0.0.0.0 xpantivirus.com
 0.0.0.0 xpanux.biz
@@ -147785,6 +147795,7 @@
 0.0.0.0 zn01kcimngrmdi4qt-chegg.siteintercept.qualtrics.com
 0.0.0.0 zn0gukjd7tjtqjzrh-dtts.siteintercept.qualtrics.com
 0.0.0.0 zn1fdmrst7jsai9mt-customer.siteintercept.qualtrics.com
+0.0.0.0 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 0.0.0.0 zn2t6mdnujruus8jh-inc.siteintercept.qualtrics.com
 0.0.0.0 zn3aphtrmui7fnkwh-redventures.siteintercept.qualtrics.com
 0.0.0.0 zn5hsliyrlhlj7ndr-abcotv.siteintercept.qualtrics.com

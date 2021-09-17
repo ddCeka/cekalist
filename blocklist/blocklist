@@ -1,8 +1,8 @@
 ######################################
 # CekaList
-# Released: 17/Sep/2021 16:41
+# Released: 17/Sep/2021 21:41
 # Personal use Block list filter
-# Domains: 114262
+# Domains: 114281
 ######################################
 
 0.0.0.0 0--e.info
@@ -3595,6 +3595,7 @@
 0.0.0.0 absorbingprison.com
 0.0.0.0 abstinencecalculation.com
 0.0.0.0 abstractedamount.com
+0.0.0.0 abstractedauthority.com
 0.0.0.0 absurdapple.com
 0.0.0.0 absurdwater.com
 0.0.0.0 abtasty.com
@@ -10855,6 +10856,7 @@
 0.0.0.0 analytics.clickpathmedia.com
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 analytics.cloudron.io
+0.0.0.0 analytics.cmn.com
 0.0.0.0 analytics.cn.ru
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 analytics.cocolog-nifty.com
@@ -16867,6 +16869,7 @@
 0.0.0.0 bota.com.vn
 0.0.0.0 botd.wordpress.com
 0.0.0.0 botd2.wordpress.com
+0.0.0.0 botdetection.hbrsd.com
 0.0.0.0 botdetector.ru
 0.0.0.0 botiviga.com
 0.0.0.0 botize.com
@@ -18848,6 +18851,7 @@
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 ccgateway.net
 0.0.0.0 cchfjz.com
+0.0.0.0 ccioo.vip
 0.0.0.0 ccjudian.com
 0.0.0.0 ccjxybj.cn
 0.0.0.0 cckgate.com
@@ -24647,6 +24651,8 @@
 0.0.0.0 d366o5iwycvbsk.cloudfront.net
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d36sxvmjoflc2i.cloudfront.net
+0.0.0.0 d36u3psykfwy91.cloudfront.net
+0.0.0.0 d36upaw912d02q.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
 0.0.0.0 d36zfztxfflmqo.cloudfront.net
 0.0.0.0 d37abonb6ucrhx.cloudfront.net
@@ -24677,6 +24683,7 @@
 0.0.0.0 d3b4x0ran5qs0c.cloudfront.net
 0.0.0.0 d3b75cfc88a9.com
 0.0.0.0 d3beefy8kd1pr7.cloudfront.net
+0.0.0.0 d3bj8nkfly20uo.cloudfront.net
 0.0.0.0 d3c3tktxbub3yt.cloudfront.net
 0.0.0.0 d3c3uihon9kmp.cloudfront.net
 0.0.0.0 d3c8l61zd5ltf8.cloudfront.net
@@ -24771,6 +24778,7 @@
 0.0.0.0 d3pvcolmug0tz6.cloudfront.net
 0.0.0.0 d3q33rbmdkxzj.cloudfront.net
 0.0.0.0 d3q7vxy7usqoub.cloudfront.net
+0.0.0.0 d3qfdthu9f51gu.cloudfront.net
 0.0.0.0 d3qk9u6c2k2cid.cloudfront.net
 0.0.0.0 d3qrbrazsnzdog.cloudfront.net
 0.0.0.0 d3qu0b872n4q3x.cloudfront.net
@@ -27944,6 +27952,7 @@
 0.0.0.0 dunjakke-no.com
 0.0.0.0 dunlop.force9.co.uk
 0.0.0.0 duobaoqj.com
+0.0.0.0 duofulai.vip
 0.0.0.0 duoleioaf.com
 0.0.0.0 duomai.com
 0.0.0.0 duosia.id
@@ -33384,6 +33393,7 @@
 0.0.0.0 future-price.co.uk
 0.0.0.0 future.uwindsor.ca
 0.0.0.0 futureadlabs.com
+0.0.0.0 futurehybrid.tech
 0.0.0.0 futurepublications.uk.intellitxt.com
 0.0.0.0 futureresiduals.com
 0.0.0.0 futurespace.orbitships.org
@@ -40236,6 +40246,7 @@
 0.0.0.0 inner-active.com
 0.0.0.0 inner-active.mobi
 0.0.0.0 inner.newinform.com
+0.0.0.0 innerskinresearch.com
 0.0.0.0 innertrends.com
 0.0.0.0 innity.com
 0.0.0.0 innity.net
@@ -41650,6 +41661,7 @@
 0.0.0.0 jiaofulin.cn
 0.0.0.0 jiaoyou8.com
 0.0.0.0 jiasdart.cn
+0.0.0.0 jiasheng-china.cn
 0.0.0.0 jiawen88.com
 0.0.0.0 jiayiss.com
 0.0.0.0 jibn12.jintang114.org
@@ -41723,6 +41735,7 @@
 0.0.0.0 jintonghua.com
 0.0.0.0 jinxexaminesketch.com
 0.0.0.0 jinxiuzhilv.com
+0.0.0.0 jinyingbaozhuang.com
 0.0.0.0 jinyinggroup.cn
 0.0.0.0 jinzpeng.cn
 0.0.0.0 jioads.akamaized.net
@@ -41821,6 +41834,7 @@
 0.0.0.0 jme1quxporf.info
 0.0.0.0 jme5erxdn.tech
 0.0.0.0 jmf-news1.club
+0.0.0.0 jmhai.com
 0.0.0.0 jmk16zzbpqt0.org
 0.0.0.0 jmk1uz3dodz.online
 0.0.0.0 jmm.livestat.com
@@ -55837,6 +55851,7 @@
 0.0.0.0 our.affiliatetracking.net
 0.0.0.0 ouradse.com
 0.0.0.0 oureviewi.club
+0.0.0.0 ourhypewords.com
 0.0.0.0 ournet-analytics.com
 0.0.0.0 ouroborosx.com
 0.0.0.0 ouropenin.club
@@ -55866,6 +55881,7 @@
 0.0.0.0 out1.cityads.com
 0.0.0.0 out2.cityads.com
 0.0.0.0 out3.cityads.com
+0.0.0.0 outabsola.com
 0.0.0.0 outal.origo.hu
 0.0.0.0 outbalancecapitalist.com
 0.0.0.0 outbanner.hu.co.kr
@@ -61136,6 +61152,7 @@
 0.0.0.0 qiyeb.iaskbus.com
 0.0.0.0 qiyebaopin.cn
 0.0.0.0 qiyegongqiu1.qiyegongqiu.com
+0.0.0.0 qiyix.cn
 0.0.0.0 qiyou.com
 0.0.0.0 qizixsw.com
 0.0.0.0 qizltkyxlgua.com
@@ -64266,6 +64283,7 @@
 0.0.0.0 rum.kobo.com
 0.0.0.0 rum.layer0.co
 0.0.0.0 rum.marquardmedia.hu
+0.0.0.0 rum.minutemediaservices.com
 0.0.0.0 rum.nccgroup-webperf.com
 0.0.0.0 rum.perfops.net
 0.0.0.0 rum.uptime.com
@@ -74108,7 +74126,6 @@
 0.0.0.0 taplytics.com
 0.0.0.0 tapnative.com
 0.0.0.0 tapnetwork.ru
-0.0.0.0 tapochek.net
 0.0.0.0 tapone.jp
 0.0.0.0 taponejs-184e.kxcdn.com
 0.0.0.0 tappx.com
@@ -112408,6 +112425,7 @@
 0.0.0.0 xtyizilaijx.cn
 0.0.0.0 xu5ctufltn.com
 0.0.0.0 xu7b.com
+0.0.0.0 xuakak.com
 0.0.0.0 xuanmin.wang
 0.0.0.0 xuanmingyc.com
 0.0.0.0 xubob.com
@@ -112741,6 +112759,7 @@
 0.0.0.0 ydtrafrclb.com
 0.0.0.0 ydworld.com
 0.0.0.0 ydwsjt-2.com
+0.0.0.0 ye-n-universitiy.xyz
 0.0.0.0 ye185hcamw.com
 0.0.0.0 ye2017.com
 0.0.0.0 ye3.com

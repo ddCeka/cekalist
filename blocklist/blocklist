@@ -1,8 +1,8 @@
 ######################################
 # CekaList
-# Released: 22/Sep/2021 22:48
+# Released: 23/Sep/2021 02:10
 # Personal use Block list filter
-# Domains: 153818
+# Domains: 153846
 ######################################
 
 0.0.0.0 0--e.info
@@ -12691,6 +12691,7 @@
 0.0.0.0 advertising.embarcaderopublishing.com
 0.0.0.0 advertising.entensity.net
 0.0.0.0 advertising.expedia.com
+0.0.0.0 advertising.gammassp.com
 0.0.0.0 advertising.gawker.com
 0.0.0.0 advertising.goldseek.com
 0.0.0.0 advertising.guildlaunch.net
@@ -17099,6 +17100,7 @@
 0.0.0.0 api-na.ip.sb
 0.0.0.0 api-news.dailyhunt.in
 0.0.0.0 api-partner.breaktime.com.tw
+0.0.0.0 api-player.urekamedia.com
 0.0.0.0 api-pravoved.s3.amazonaws.com
 0.0.0.0 api-public.addthis.com
 0.0.0.0 api-publishers.propellerads.com
@@ -19357,6 +19359,7 @@
 0.0.0.0 assimilatesmartlyawfully.com
 0.0.0.0 assist.js.skimresources.com
 0.0.0.0 assist.skimresources.com
+0.0.0.0 assisteggs.com
 0.0.0.0 assistjs.skimresources.com
 0.0.0.0 assistvantp.biz
 0.0.0.0 assoass.global
@@ -27601,6 +27604,7 @@
 0.0.0.0 cdn-inner-active.edgekey.net
 0.0.0.0 cdn-jp.gsecondscreen.com
 0.0.0.0 cdn-js.net
+0.0.0.0 cdn-js.urekamedia.com
 0.0.0.0 cdn-ketchapp.akamaized.net
 0.0.0.0 cdn-lb.vungle.akadns.net
 0.0.0.0 cdn-lb.vungle.com
@@ -27623,6 +27627,7 @@
 0.0.0.0 cdn-otf-cas.prfct.cc
 0.0.0.0 cdn-partners-references.lesoir.be
 0.0.0.0 cdn-pci.optimizely.com
+0.0.0.0 cdn-player.urekamedia.com
 0.0.0.0 cdn-prod.kampyle.com
 0.0.0.0 cdn-promox.pnperf.com
 0.0.0.0 cdn-ps.nxtck.com
@@ -30737,6 +30742,7 @@
 0.0.0.0 clk.boulanger.com
 0.0.0.0 clk.content-ad.net
 0.0.0.0 clk.furthermoreads.com
+0.0.0.0 clk.gammadsp.com
 0.0.0.0 clk.gammaplatform.com
 0.0.0.0 clk.im
 0.0.0.0 clk.kau.li
@@ -31014,6 +31020,7 @@
 0.0.0.0 cm.e.qq.com
 0.0.0.0 cm.eyereturn.com
 0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 cm.gammadsp.com
 0.0.0.0 cm.gammaplatform.com
 0.0.0.0 cm.gcm.ksmobile.com
 0.0.0.0 cm.idealmedia.io
@@ -48637,6 +48644,7 @@
 0.0.0.0 gamingpartners.org
 0.0.0.0 gamingskin.com
 0.0.0.0 gammachug.com
+0.0.0.0 gammadsp.com
 0.0.0.0 gammae.com
 0.0.0.0 gammamaximum.com
 0.0.0.0 gammaplatform.com
@@ -52372,6 +52380,7 @@
 0.0.0.0 harahero.top
 0.0.0.0 haraldjelinek.at
 0.0.0.0 haraloyalty.com
+0.0.0.0 haramainsoftware.com
 0.0.0.0 harapanrakyat.com
 0.0.0.0 harassinganticipation.com
 0.0.0.0 harassinglimb.com
@@ -56671,6 +56680,7 @@
 0.0.0.0 imp.dmm.co.jp
 0.0.0.0 imp.dmm.com
 0.0.0.0 imp.emxdgt.com
+0.0.0.0 imp.gammadsp.com
 0.0.0.0 imp.gammaplatform.com
 0.0.0.0 imp.go.sohu.com
 0.0.0.0 imp.m.ambient-platform.com
@@ -61143,6 +61153,7 @@
 0.0.0.0 k1024.de
 0.0.0.0 k1815.com
 0.0.0.0 k1xpatrickmohrmk5.com
+0.0.0.0 k2215.cn
 0.0.0.0 k22x6.cn
 0.0.0.0 k26fe9xhuzm.com
 0.0.0.0 k2n0f.cn
@@ -61370,6 +61381,7 @@
 0.0.0.0 karamlol.000webhostapp.com
 0.0.0.0 karanrajesh.london
 0.0.0.0 karaoke-flat.com
+0.0.0.0 karaoke.urekamedia.com
 0.0.0.0 karaokepesni.ru
 0.0.0.0 karar.zapto.org
 0.0.0.0 karasutanu.com
@@ -61681,6 +61693,7 @@
 0.0.0.0 kervanlokum.com
 0.0.0.0 kesevitamus.com
 0.0.0.0 kesimon.com
+0.0.0.0 kesmatic.com
 0.0.0.0 kesmdg.com
 0.0.0.0 ket.ru
 0.0.0.0 ketadeep.com
@@ -68931,8 +68944,8 @@
 0.0.0.0 mazhenkai.top
 0.0.0.0 mazilan.com
 0.0.0.0 mazon24.com
-0.0.0.0 mazterize.co
 0.0.0.0 mazterize.com
+0.0.0.0 mazterize.net
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mazuma.ru
 0.0.0.0 mazury.info.pl
@@ -70053,6 +70066,7 @@
 0.0.0.0 meituan.yoga
 0.0.0.0 meituangov.cn
 0.0.0.0 meitustat.com
+0.0.0.0 meiyuedu.vip
 0.0.0.0 meizhuli365.cn
 0.0.0.0 meja13.me
 0.0.0.0 mekadr.com
@@ -70780,6 +70794,7 @@
 0.0.0.0 metrics.ftd.ca
 0.0.0.0 metrics.ftd.com
 0.0.0.0 metrics.fuzeon.com
+0.0.0.0 metrics.gammadsp.com
 0.0.0.0 metrics.gap.co.jp
 0.0.0.0 metrics.gap.co.uk
 0.0.0.0 metrics.gap.com
@@ -71516,6 +71531,7 @@
 0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 mideacapitalholdings.com
 0.0.0.0 mideast-today.com
+0.0.0.0 midenterprise.com
 0.0.0.0 midlemee.ru
 0.0.0.0 midnightclicking.com
 0.0.0.0 midnightimpressionperception.com
@@ -71761,6 +71777,7 @@
 0.0.0.0 minwear.com.cn
 0.0.0.0 minyaartcrafts.cn
 0.0.0.0 minyanville.adblade.com
+0.0.0.0 minzhouxinxi.cn
 0.0.0.0 minzo.com
 0.0.0.0 miokoo.com
 0.0.0.0 mipagerank.com
@@ -76459,6 +76476,7 @@
 0.0.0.0 nonewnews.name
 0.0.0.0 nonfictionrobustchastise.com
 0.0.0.0 nongfumg.com
+0.0.0.0 nongjingly.com
 0.0.0.0 nonglirili.net
 0.0.0.0 nongsalei.com
 0.0.0.0 nongzhifu.cn
@@ -84435,6 +84453,7 @@
 0.0.0.0 player.mediafuse.com
 0.0.0.0 player.movenetworks.com
 0.0.0.0 player.stats.live-video.net
+0.0.0.0 player.urekamedia.com
 0.0.0.0 player1.aniview.com
 0.0.0.0 playerassets.info
 0.0.0.0 playerassist.com
@@ -85802,6 +85821,7 @@
 0.0.0.0 premieropinion.com
 0.0.0.0 premierpartners.marketo.com
 0.0.0.0 premieruandcsystems.com
+0.0.0.0 premiogiusto.com
 0.0.0.0 premium-adserver.djaxadserver.com
 0.0.0.0 premium-giveaways.com
 0.0.0.0 premium-img.cacafly.net
@@ -88256,6 +88276,7 @@
 0.0.0.0 qiuqiu.biz
 0.0.0.0 qivaiw.com
 0.0.0.0 qivsod.com
+0.0.0.0 qivuu.cn
 0.0.0.0 qiwarin.xyz
 0.0.0.0 qiwi-api.site
 0.0.0.0 qixedu.com
@@ -95604,6 +95625,7 @@
 0.0.0.0 sellaction.net
 0.0.0.0 sellebrity.com
 0.0.0.0 sellerbackstagejolly.com
+0.0.0.0 sellers.urekamedia.com
 0.0.0.0 sellhealth.com
 0.0.0.0 selling-group.com
 0.0.0.0 sellingprostituteinformant.com
@@ -99921,6 +99943,7 @@
 0.0.0.0 solumaticsac.com
 0.0.0.0 solusidinamikautama.com
 0.0.0.0 solution.umeng.com
+0.0.0.0 solution.urekamedia.com
 0.0.0.0 solution.weborama.fr
 0.0.0.0 solution911.com
 0.0.0.0 solutionixinc.com
@@ -100129,6 +100152,7 @@
 0.0.0.0 soosooka.com
 0.0.0.0 sootheside.com
 0.0.0.0 sootuglyconfer.com
+0.0.0.0 sop.urekamedia.com
 0.0.0.0 sopasti.com
 0.0.0.0 sopdamptotes.com
 0.0.0.0 soperson.com
@@ -112292,6 +112316,7 @@
 0.0.0.0 trk.gamasutra.com
 0.0.0.0 trk.gamedeveloper.com
 0.0.0.0 trk.games-to-run123.com
+0.0.0.0 trk.gammadsp.com
 0.0.0.0 trk.geico.com
 0.0.0.0 trk.glispa.com
 0.0.0.0 trk.goddytracker.com
@@ -113167,6 +113192,8 @@
 0.0.0.0 u-9204.onetouch6.com
 0.0.0.0 u-ad.info
 0.0.0.0 u-ads.adap.tv
+0.0.0.0 u-connect.urekamedia.com
+0.0.0.0 u-dmp.urekamedia.com
 0.0.0.0 u-on.eu
 0.0.0.0 u-us.openx.net
 0.0.0.0 u-watchit.com
@@ -132270,6 +132297,7 @@
 0.0.0.0 www.gamigoads.com
 0.0.0.0 www.gamingpartners.org
 0.0.0.0 www.gammachug.com
+0.0.0.0 www.gammadsp.com
 0.0.0.0 www.gammaplatform.com
 0.0.0.0 www.gammassp.com
 0.0.0.0 www.gandrad.org

@@ -1,8 +1,8 @@
 ######################################
 # CekaList
-# Released: 20/Sep/2021 23:33
+# Released: 23/Sep/2021 14:13
 # Personal use White list - SFW filter
-# Domains: 6322
+# Domains: 6317
 ######################################
 
 # reddit.com
@@ -4683,6 +4683,8 @@
 104.27.186.143 static.akiba-online.com
 
 # oddsportal.com
+188.92.41.44 oddsportal.com
+188.92.41.44 www.oddsportal.com
 188.92.41.44 fb.oddsportal.com
 188.92.41.44 rb.oddsportal.com
 188.92.41.44 sb.oddsportal.com
@@ -4691,10 +4693,9 @@
 188.92.40.102 i.oddsportal.com
 5.189.168.226 dino.oddsportal.com
 74.119.118.149 hiuplq.oddsportal.com
+178.250.0.157 hiuplq.oddsportal.com
 188.92.41.44 widgets.oddsportal.com
 188.92.41.44 advert.oddsportal.com
-188.92.41.44 www.oddsportal.com
-188.92.41.44 oddsportal.com
 188.92.41.36 datalb.oddsportal.com
 
 # evozi.com

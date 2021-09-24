@@ -1,8 +1,8 @@
 ######################################
 # CekaList
-# Released: 18/Sep/2021 01:33
+# Released: 24/Sep/2021 23:41
 # Personal use Sosmed filter
-# Domains: 7095
+# Domains: 7096
 ######################################
 
 0.0.0.0 0-act.channel.facebook.com
@@ -4782,6 +4782,7 @@
 0.0.0.0 rupload.facebook.com
 0.0.0.0 rw.linkedin.com
 0.0.0.0 s-external.ak.fbcdn.net
+0.0.0.0 s-media-cache-ak0.pinimg.com
 0.0.0.0 s-passets.pinimg.com
 0.0.0.0 s-pinimg-com.gslb.pinterest.com
 0.0.0.0 s-static.ak.facebook.com

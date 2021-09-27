@@ -16,7 +16,7 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
     <img src="https://img.shields.io/github/repo-size/ddCeka/CekaList?label=Repo%20Size&color=black" alt="repo size" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" > 
-    <img src="https://img.shields.io/badge/Updated%20Hosts-27/Sep/2021-darkblue" >
+    <img src="https://img.shields.io/badge/Updated%20Hosts-28/Sep/2021-darkblue" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" > 
     <img src="https://img.shields.io/github/last-commit/ddCeka/CekaList?label=Last%20Commit" alt="last commit" >
@@ -47,7 +47,7 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
 | Daftar hosts | Deskripsi | Link |
 | --- |---| --- |
 | Block list | Daftar ini berisi Iklan, Gangguan, Analitik, dan Pelacak di Indonesia. _Disarankan untuk menggunakan daftar ini_ untuk memblokir iklan-iklan di website Indonesia. | [`link`](https://raw.githubusercontent.com/ddCeka/CekaList/master/blocklist/blocklist)
-| Sosmed | Daftar ini adalah tambahan untuk memblokir korporasi dan sosial media dari berbagai sumber. Memblokir Facebook, LinkedIn, Pinterest dan TikTok. | [`link`](https://raw.githubusercontent.com/ddCeka/CekaList/master/blocklist/sosmed)
+| Sosmed | Daftar ini adalah tambahan untuk memblokir korporasi dan sosial media. Memblokir Facebook dan TikTok. | [`link`](https://raw.githubusercontent.com/ddCeka/CekaList/master/blocklist/sosmed)
 | Block list-Extended | Saya tidak merekomendasikan daftar ini untuk sebagian besar pengguna. Ini adalah daftar blokir yang sangat agresif untuk pelacakan, penargetan geografis, & iklan. Daftar ini kemungkinan akan merusak fungsionalitas, jadi jangan menggunakannya kecuali Anda bersedia mempertahankan _White List_ Anda sendiri. Gunakan ini dengan hati-hati. Ingatlah bahwa ini adalah daftar yang agresif. | [`link`](https://raw.githubusercontent.com/ddCeka/CekaList/master/blocklist/blocklist-extended)
 | Unblock list | File host untuk membuka blokir beberapa situs yang diblokir di Indonesia (berdasarkan [`bebasid`](https://bebasid.github.io/)). Dengan filter _`anti LGBT & anti Child Abuse`_, Iklan dan situs Judi | [`link`](https://raw.githubusercontent.com/ddCeka/CekaList/master/unblocklist/whitelist)
 | Unblock list-SFW | File host untuk membuka blokir beberapa situs yang diblokir di Indonesia khusus konten SFW (Konten semua umur). | [`link`](https://raw.githubusercontent.com/ddCeka/CekaList/master/unblocklist/whitelist-sfw)

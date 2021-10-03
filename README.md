@@ -22,7 +22,7 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
     <img src="https://img.shields.io/github/last-commit/ddCeka/CekaList?label=Last%20Commit" alt="last commit" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" > 
-    <img src="https://img.shields.io/badge/Maintained-on-hold-blue" >
+    <img src="https://img.shields.io/badge/Maintained-onhold-blue" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/blob/master/LICENSE" > 
     <img src="https://img.shields.io/github/license/ddCeka/CekaList?label=License&color=lightblue" alt="license" >

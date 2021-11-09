@@ -43,7 +43,9 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
 
 ## <ins>Link Filter Blokir</ins>
 
-```https://raw.githubusercontent.com/ddCeka/CekaList/master/blocklist/blocklist```
+```
+https://raw.githubusercontent.com/ddCeka/CekaList/master/blocklist/blocklist
+```
 
 &nbsp;
 

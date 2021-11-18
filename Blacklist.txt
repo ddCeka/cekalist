@@ -1,5 +1,4 @@
-﻿
-0.0.0.0 01.static.xsf.ximxim.com
+﻿0.0.0.0 01.static.xsf.ximxim.com
 0.0.0.0 02.static.xsf.ximxim.com
 0.0.0.0 04.static.xsf.ximxim.com
 0.0.0.0 1001tutorial.com

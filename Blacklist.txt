@@ -3329,3 +3329,10 @@
 0.0.0.0 zumobi.com
 0.0.0.0 zwaar.org
 0.0.0.0 zxcfiles.com
+0.0.0.0 crs-event.line.me
+0.0.0.0 a.line.me
+0.0.0.0 crs-event.line.me
+0.0.0.0 sentry-uit.line-apps.com
+0.0.0.0 torimochi.line-apps.com
+0.0.0.0 lcs.naver.jp
+0.0.0.0 share.pluso.ru

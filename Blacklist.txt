@@ -1,4 +1,9 @@
-﻿0.0.0.0 01.static.xsf.ximxim.com
+﻿! Title: CekaList
+! Description: Host file anti iklan umum di Indonesia
+! Last modified: 22 Nov 2021 13:51 UTC (updated regularly)
+! Homepage: https://github.com/ddCeka/CekaList
+
+0.0.0.0 01.static.xsf.ximxim.com
 0.0.0.0 02.static.xsf.ximxim.com
 0.0.0.0 04.static.xsf.ximxim.com
 0.0.0.0 1001tutorial.com
@@ -40,6 +45,7 @@
 0.0.0.0 a.applvn.com
 0.0.0.0 a.fiksu.com
 0.0.0.0 a.jumptap.com
+0.0.0.0 a.line.me
 0.0.0.0 a.mouseflow.com
 0.0.0.0 a.tiles.mapbox.com
 0.0.0.0 a.vdo.ai
@@ -918,6 +924,7 @@
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 crosspromo.zeptolab.com
+0.0.0.0 crs-event.line.me
 0.0.0.0 crwdcntrl.net
 0.0.0.0 cryaptall.club
 0.0.0.0 cryptobrowser.site
@@ -1844,6 +1851,7 @@
 0.0.0.0 laz-img-cdn.alicdn.com
 0.0.0.0 lazada.co.id
 0.0.0.0 lbs.amap.com
+0.0.0.0 lcs.naver.jp
 0.0.0.0 lduhtrp.net
 0.0.0.0 leadbolt.com
 0.0.0.0 leadbolt.net
@@ -2707,6 +2715,7 @@
 0.0.0.0 sendapaleba.com
 0.0.0.0 senentangnews.com
 0.0.0.0 seniartaja.blogspot.com
+0.0.0.0 sentry-uit.line-apps.com
 0.0.0.0 seputarforex.com
 0.0.0.0 seputarkepri.co.id
 0.0.0.0 seputarntb.com
@@ -2742,6 +2751,7 @@
 0.0.0.0 sg.rayjump.com
 0.0.0.0 sg01.rayjump.com
 0.0.0.0 share.payoneer-affiliates.com
+0.0.0.0 share.pluso.ru
 0.0.0.0 share.yandex.ru
 0.0.0.0 sharemydrive.xyz
 0.0.0.0 sharethrough.com
@@ -3022,6 +3032,7 @@
 0.0.0.0 top-news.co.id
 0.0.0.0 topfilm21.com
 0.0.0.0 topikindonesia.id
+0.0.0.0 torimochi.line-apps.com
 0.0.0.0 totabuan.news
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpro.co.id
@@ -3329,10 +3340,3 @@
 0.0.0.0 zumobi.com
 0.0.0.0 zwaar.org
 0.0.0.0 zxcfiles.com
-0.0.0.0 crs-event.line.me
-0.0.0.0 a.line.me
-0.0.0.0 crs-event.line.me
-0.0.0.0 sentry-uit.line-apps.com
-0.0.0.0 torimochi.line-apps.com
-0.0.0.0 lcs.naver.jp
-0.0.0.0 share.pluso.ru

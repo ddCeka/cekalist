@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 22 Nov 2021 13:51 UTC (updated regularly)
+! Last modified: 22 Nov 2021 23:56 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -413,6 +413,7 @@
 0.0.0.0 api.cnbcindonesia.com
 0.0.0.0 api.docodoco.jp
 0.0.0.0 api.gameanalytics.com
+0.0.0.0 api.ipdata.co
 0.0.0.0 api.ktplay.com
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.massrelevance.com
@@ -993,6 +994,7 @@
 0.0.0.0 datakeluar.net
 0.0.0.0 datamaya.com
 0.0.0.0 datuksakti.blogspot.com
+0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 dc.webtrends.com
 0.0.0.0 de.advertising.yahoo.com
 0.0.0.0 de.ioam.de
@@ -1450,6 +1452,7 @@
 0.0.0.0 id.google.com
 0.0.0.0 id.google.de
 0.0.0.0 id.l.google.com
+0.0.0.0 id.rlcdn.com
 0.0.0.0 id.techinasia.com
 0.0.0.0 id.theasianparent.com
 0.0.0.0 id.vpnmentor.com
@@ -2437,6 +2440,8 @@
 0.0.0.0 potterheadunited.com
 0.0.0.0 powerad.ai
 0.0.0.0 prebid.org
+0.0.0.0 prebid.pub.network
+0.0.0.0 prebid-web.pub.network
 0.0.0.0 prediksibola88.net
 0.0.0.0 prediksigame.com
 0.0.0.0 presage.io
@@ -2446,6 +2451,7 @@
 0.0.0.0 priceapi.bitsplus.cn
 0.0.0.0 priceza.co.id
 0.0.0.0 print.theyeshivaworld.info
+0.0.0.0 pro.ip-api.com
 0.0.0.0 proapkmod.com
 0.0.0.0 probet.biz
 0.0.0.0 prodeteksi.com
@@ -2940,6 +2946,7 @@
 0.0.0.0 syairmbahjitu.blogspot.com
 0.0.0.0 sygic-api.infinario.com
 0.0.0.0 sync.adotmob.com
+0.0.0.0 sync.serverbid.com
 0.0.0.0 sync2ad.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 sypi.gpshopper.com

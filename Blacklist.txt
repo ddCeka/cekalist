@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 22 Nov 2021 23:56 UTC (updated regularly)
+! Last modified: 23 Nov 2021 23:08 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -279,6 +279,7 @@
 0.0.0.0 adverserve.net
 0.0.0.0 adverticum.net
 0.0.0.0 advertisement.keepo.me
+0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 advertising-indonesia.id
 0.0.0.0 advertising.com
 0.0.0.0 advertising.katadata.co.id
@@ -296,6 +297,7 @@
 0.0.0.0 affiliate.coral.co.uk
 0.0.0.0 affiliate.fc2.com
 0.0.0.0 affiliate.geekbuying.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
 0.0.0.0 aftermarketplus.id
 0.0.0.0 agansultan.co
 0.0.0.0 agency-iklan.com
@@ -347,6 +349,8 @@
 0.0.0.0 am.myapps123.com
 0.0.0.0 amazemobilemedia.com
 0.0.0.0 amazon-adsystem.com
+0.0.0.0 amazonaax.com
+0.0.0.0 amazonclix.com
 0.0.0.0 ambae.co.id
 0.0.0.0 amobee.com
 0.0.0.0 amplitude.com
@@ -372,6 +376,7 @@
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yinzcam.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 andomedia.com
 0.0.0.0 andreasagung.com
 0.0.0.0 android-quinoa-config-prod.sense360eng.com
@@ -406,6 +411,7 @@
 0.0.0.0 api-02.360dialog.io
 0.0.0.0 api-device.mocaplatform.com
 0.0.0.0 api-gdpr.voodoo-tech.io
+0.0.0.0 api-hotjar.com
 0.0.0.0 api-rewarded-video.fyber.com
 0.0.0.0 api-v2.rctiplus.com
 0.0.0.0 api.ad.xiaomi.com
@@ -449,6 +455,7 @@
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
 0.0.0.0 app.chat.xiaomi.net
+0.0.0.0 app.getsentry.com
 0.0.0.0 app.roximity.com
 0.0.0.0 app.top1mobiad1.com
 0.0.0.0 appads.com
@@ -949,6 +956,7 @@
 0.0.0.0 cyberlampung.com
 0.0.0.0 cyxso.cyworld.com
 0.0.0.0 d.applvn.com
+0.0.0.0 d.reddit.com
 0.0.0.0 d01.notifa.info
 0.0.0.0 d138am4hd4ke4y.cloudfront.net
 0.0.0.0 d24afgsm39csxt.cloudfront.net
@@ -1423,6 +1431,7 @@
 0.0.0.0 hoster.co.id
 0.0.0.0 hot-mob.com
 0.0.0.0 hotabis.com
+0.0.0.0 hotjar-analytics.com
 0.0.0.0 hotjar.com
 0.0.0.0 hotwords.com
 0.0.0.0 houndify.com
@@ -3216,6 +3225,7 @@
 0.0.0.0 widget.pushbullet.com
 0.0.0.0 widget.whatsbroadcast.com
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 widgets.pinterest.com
 0.0.0.0 wigetmedia.com
 0.0.0.0 windowmentaria.com
 0.0.0.0 winlive88.org

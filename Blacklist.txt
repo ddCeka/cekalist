@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 24 Nov 2021 21:39 UTC (updated regularly)
+! Last modified: 26 Nov 2021 05:04 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -431,6 +431,7 @@
 0.0.0.0 api.rctiplus.com
 0.0.0.0 api.redshell.io
 0.0.0.0 api.smbeat.jp
+0.0.0.0 api.tradplusad.com
 0.0.0.0 api.treasuredata.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.unthem.com
@@ -1263,6 +1264,7 @@
 0.0.0.0 freshmarketer.com
 0.0.0.0 frm.acuant.net
 0.0.0.0 fromthebasement.tv
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 fus.yad2.co.il
 0.0.0.0 fusion.dn.se
 0.0.0.0 fwmrm.net
@@ -2254,6 +2256,7 @@
 0.0.0.0 nr-data.net
 0.0.0.0 nspmotion.com
 0.0.0.0 nt1.co
+0.0.0.0 ntp.report-uri.com
 0.0.0.0 ntt-news.com
 0.0.0.0 nuflix.online
 0.0.0.0 nuggad.net
@@ -2328,6 +2331,7 @@
 0.0.0.0 ox-d.advanceweb.com
 0.0.0.0 ox-d.majorgeeks.com
 0.0.0.0 p-store.net
+0.0.0.0 p.imgur.com
 0.0.0.0 p.jwpcdn.com
 0.0.0.0 p.sindonews.tv
 0.0.0.0 p01.notifa.info

@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 27 Nov 2021 19:12 UTC (updated regularly)
+! Last modified: 06 Dec 2021 01:00 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -782,6 +782,7 @@
 0.0.0.0 cdn.detik.net.id
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 cdn.feedify.net
+0.0.0.0 cdn.fedxy.xyz
 0.0.0.0 cdn.geni.us
 0.0.0.0 cdn.jwplayer.com
 0.0.0.0 cdn.luckyorange.com

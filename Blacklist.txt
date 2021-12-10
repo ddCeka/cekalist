@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 06 Dec 2021 01:00 UTC (updated regularly)
+! Last modified: 11 Dec 2021 06:10 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -1958,6 +1958,7 @@
 0.0.0.0 lps.innogamescdn.com
 0.0.0.0 ltv-data-api.kube-prod.vungle.com
 0.0.0.0 luangusaha.com
+0.0.0.0 lumaktoys.com
 0.0.0.0 lutim-news.com
 0.0.0.0 m.airpush.com
 0.0.0.0 m.akurat.co

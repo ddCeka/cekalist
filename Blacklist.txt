@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 11 Dec 2021 06:10 UTC (updated regularly)
+! Last modified: 16 Dec 2021 22:40 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -387,18 +387,6 @@
 0.0.0.0 androidads23.adcolony.com
 0.0.0.0 androidbusiness.us
 0.0.0.0 angkasareview.com
-0.0.0.0 anichin.my.id
-0.0.0.0 anidraw.net
-0.0.0.0 anifiles.org
-0.0.0.0 animasu.tv
-0.0.0.0 animebatch.web.id
-0.0.0.0 animebatchs.net
-0.0.0.0 animebloom.xyz
-0.0.0.0 animecracks.com
-0.0.0.0 animee.xyz
-0.0.0.0 animekompi.web.id
-0.0.0.0 animexin.xyz
-0.0.0.0 anitoki.com
 0.0.0.0 anjingkita.com
 0.0.0.0 anjingras.com
 0.0.0.0 annews.co.id
@@ -424,6 +412,7 @@
 0.0.0.0 api.ktplay.com
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.massrelevance.com
+0.0.0.0 api.microsite.id
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.nontongo.win
 0.0.0.0 api.propertyguru.com
@@ -531,6 +520,7 @@
 0.0.0.0 aukalerim.com
 0.0.0.0 autonetmagz.com
 0.0.0.0 av1.xdrig.com
+0.0.0.0 avengers.linkaja.com
 0.0.0.0 avocarrot.com
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 awem.zendesk.com
@@ -546,7 +536,6 @@
 0.0.0.0 b.link
 0.0.0.0 babla.co.id
 0.0.0.0 bacaanasik.cc
-0.0.0.0 bacakomik.co
 0.0.0.0 backelite.com
 0.0.0.0 backpackstory.me
 0.0.0.0 bagas31.info
@@ -735,7 +724,6 @@
 0.0.0.0 bufferapp.com
 0.0.0.0 bugly.qq.com
 0.0.0.0 bugsnag.com
-0.0.0.0 bukalapak.com
 0.0.0.0 bunaken.co.id
 0.0.0.0 bungfrangki.com
 0.0.0.0 business.samsungusa.com
@@ -789,7 +777,9 @@
 0.0.0.0 cdn.media.amp.avai.com
 0.0.0.0 cdn.millennialmedia.com
 0.0.0.0 cdn.playwire.com
+0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 cdn.video.playwire.com
+0.0.0.0 cdn.vidible.tv
 0.0.0.0 cdn.ziffstatic.com
 0.0.0.0 cdn1.gigya.com
 0.0.0.0 cdn1.smartadserver.com
@@ -867,6 +857,7 @@
 0.0.0.0 client-api.matchinguu.com
 0.0.0.0 client.okezone.com
 0.0.0.0 client.rave-api.com
+0.0.0.0 clientservices.googleapis.com
 0.0.0.0 clk.mobgold.com
 0.0.0.0 clk1004.com
 0.0.0.0 clkdeals.com
@@ -961,6 +952,7 @@
 0.0.0.0 d.applvn.com
 0.0.0.0 d.reddit.com
 0.0.0.0 d01.notifa.info
+0.0.0.0 d11enq2rymy0yl.cloudfront.net
 0.0.0.0 d138am4hd4ke4y.cloudfront.net
 0.0.0.0 d24afgsm39csxt.cloudfront.net
 0.0.0.0 d27x580xb9ao1l.cloudfront.net
@@ -1030,10 +1022,7 @@
 0.0.0.0 detak.co
 0.0.0.0 detakbanten.com
 0.0.0.0 detect.rayjump.com
-0.0.0.0 detik.com
-0.0.0.0 detik.id
 0.0.0.0 detikglobalnews.com
-0.0.0.0 detiknews.id
 0.0.0.0 detiksumsel.com
 0.0.0.0 detikxxi.com
 0.0.0.0 detotabuan.com
@@ -1098,18 +1087,6 @@
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dr-farfar.net
 0.0.0.0 dra.amazon-adsystem.com
-0.0.0.0 drachindo.com
-0.0.0.0 drakorcute.com
-0.0.0.0 drakorfans.com
-0.0.0.0 drakorindofilms.work
-0.0.0.0 drakorku.my.id
-0.0.0.0 dramabarat.com
-0.0.0.0 dramaencode.co
-0.0.0.0 dramaencode.com
-0.0.0.0 dramafilm21.com
-0.0.0.0 dramakor.club
-0.0.0.0 dramaluv.com
-0.0.0.0 dramazon.id
 0.0.0.0 drda5yf9kgz5p.cloudfront.net
 0.0.0.0 driverays.com
 0.0.0.0 drnxs.com
@@ -1129,6 +1106,7 @@
 0.0.0.0 dutafilm.asia
 0.0.0.0 dutaislam.com
 0.0.0.0 dutatv.com
+0.0.0.0 dwarfsubmerge.com
 0.0.0.0 dwcash.us
 0.0.0.0 dwscr.net
 0.0.0.0 dwscr.xyz
@@ -1204,6 +1182,7 @@
 0.0.0.0 expossumbar.com
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 eyewonder.com
+0.0.0.0 f.convertkit.com
 0.0.0.0 f.shopee.co.id
 0.0.0.0 fachmycasofa.com
 0.0.0.0 fajar.co.id
@@ -1295,7 +1274,6 @@
 0.0.0.0 garudapos.com
 0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gatra.com
-0.0.0.0 gatsunime.net
 0.0.0.0 gbos.club
 0.0.0.0 gce-sc.bidswitch.net
 0.0.0.0 gcs.sc-cdn.net
@@ -1338,7 +1316,6 @@
 0.0.0.0 go.bebi.com
 0.0.0.0 go.markets.com
 0.0.0.0 goal388.org
-0.0.0.0 goanimedesu.net
 0.0.0.0 gogiok.com
 0.0.0.0 gol699.com
 0.0.0.0 goldennews.co.id
@@ -1363,14 +1340,13 @@
 0.0.0.0 gosipyuk.com
 0.0.0.0 gotvnews.co.id
 0.0.0.0 gpmojo.co
+0.0.0.0 gql.tokopedia.com
 0.0.0.0 grade.market.yandex.ru
 0.0.0.0 grairgos.net
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.instagram.com
-0.0.0.0 gresiknews.co
 0.0.0.0 greystripe.com
 0.0.0.0 grid.amap.com
-0.0.0.0 grid.id
 0.0.0.0 gridoto.com
 0.0.0.0 growingtechapp.bid
 0.0.0.0 gsp-aeu004-se02.gamesparks.net
@@ -1387,7 +1363,6 @@
 0.0.0.0 h2.msn.com
 0.0.0.0 habanusantara.net
 0.0.0.0 hai.grid.id
-0.0.0.0 haibunda.com
 0.0.0.0 hakamovie.vip
 0.0.0.0 halal.ad
 0.0.0.0 halamansembilan.com
@@ -1632,7 +1607,6 @@
 0.0.0.0 jagoankode.com
 0.0.0.0 jagoanssh.com
 0.0.0.0 jagokata.com
-0.0.0.0 jalantikus.com
 0.0.0.0 jalurnews.com
 0.0.0.0 jambihariini.com
 0.0.0.0 jambiline.com
@@ -1717,15 +1691,12 @@
 0.0.0.0 karyaiklan.co.id
 0.0.0.0 karyaone.co.id
 0.0.0.0 kasirhoki.com
-0.0.0.0 kaskus.co.id
 0.0.0.0 katada.id
-0.0.0.0 katadata.co.id
 0.0.0.0 kau.li
 0.0.0.0 kawinmuda.net
 0.0.0.0 kazefuri.net
 0.0.0.0 kba.one
 0.0.0.0 keganjilan.com
-0.0.0.0 keisekaikuy.blogspot.com
 0.0.0.0 kejarfakta.com
 0.0.0.0 keluarannomor.net
 0.0.0.0 kendaripos.co.id
@@ -1749,7 +1720,6 @@
 0.0.0.0 kimia.es
 0.0.0.0 kincir.com
 0.0.0.0 kiryuu.id
-0.0.0.0 kitabisa.com
 0.0.0.0 kittydesu.com
 0.0.0.0 kixer.com
 0.0.0.0 klasika.kompas.com
@@ -1776,14 +1746,7 @@
 0.0.0.0 kombatch.com
 0.0.0.0 komentar.co.id
 0.0.0.0 komentaren.net
-0.0.0.0 komikcast.com
-0.0.0.0 komikindo.co
-0.0.0.0 komikindo.id
-0.0.0.0 komikmoe.my.id
-0.0.0.0 komikstation.com
-0.0.0.0 komiku.co.id
 0.0.0.0 komoona.com
-0.0.0.0 kompas.com
 0.0.0.0 kompas.tv
 0.0.0.0 kompasiana.com
 0.0.0.0 kompaslampung.com
@@ -1823,11 +1786,9 @@
 0.0.0.0 kshowsubindo.org
 0.0.0.0 ktbs.in
 0.0.0.0 kucingmania.net
-0.0.0.0 kudonime.xyz
 0.0.0.0 kulcis.blogspot.com
 0.0.0.0 kuliahkomputer.com
 0.0.0.0 kumanika.com
-0.0.0.0 kumparan.com
 0.0.0.0 kumpulblogger.com
 0.0.0.0 kumpulmanga.org
 0.0.0.0 kuncihijau.com
@@ -1865,7 +1826,6 @@
 0.0.0.0 layshyjar.com
 0.0.0.0 laz-g-cdn.alicdn.com
 0.0.0.0 laz-img-cdn.alicdn.com
-0.0.0.0 lazada.co.id
 0.0.0.0 lbs.amap.com
 0.0.0.0 lcs.naver.jp
 0.0.0.0 lduhtrp.net
@@ -1905,7 +1865,6 @@
 0.0.0.0 lintaslampung.com
 0.0.0.0 lintasntt.com
 0.0.0.0 lintastungkal.com
-0.0.0.0 liputan6.com
 0.0.0.0 liputanbengkulu.com
 0.0.0.0 liputanberita21.com
 0.0.0.0 liputanntb.com
@@ -2003,17 +1962,6 @@
 0.0.0.0 mandalikapost.com
 0.0.0.0 mandiripos.com
 0.0.0.0 mandreel.com
-0.0.0.0 mangacanblog.com
-0.0.0.0 mangadisk.web.id
-0.0.0.0 mangaindo.web.id
-0.0.0.0 mangakita.net
-0.0.0.0 mangaku.club
-0.0.0.0 mangalist.org
-0.0.0.0 manganime.in
-0.0.0.0 mangapor.com
-0.0.0.0 mangindo.xyz
-0.0.0.0 manhwaindo.id
-0.0.0.0 manhwaland.org
 0.0.0.0 maniakandroid.com
 0.0.0.0 maniakmotor.com
 0.0.0.0 manifest.localytics.com
@@ -2087,7 +2035,6 @@
 0.0.0.0 medyanetads.com
 0.0.0.0 meetkcm.com
 0.0.0.0 megaiklan.com
-0.0.0.0 meganebuk.net
 0.0.0.0 megaurl.in
 0.0.0.0 meja13.me
 0.0.0.0 mellowads.com
@@ -2098,7 +2045,6 @@
 0.0.0.0 memoo.xyz
 0.0.0.0 menangpiala.com
 0.0.0.0 menjelajahi.com
-0.0.0.0 meownime.my.id
 0.0.0.0 merahputih.com
 0.0.0.0 mercusuar.uzone.id
 0.0.0.0 merdeka.com
@@ -2132,7 +2078,6 @@
 0.0.0.0 millennialmedia.com
 0.0.0.0 mimbarpublik.com
 0.0.0.0 minangsatu.com
-0.0.0.0 minioppai.org
 0.0.0.0 misayukiusagi.blogspot.com
 0.0.0.0 missionsandiego.com
 0.0.0.0 misterbell.com
@@ -2206,6 +2151,7 @@
 0.0.0.0 my-code4you.blogspot.com
 0.0.0.0 my.mobfox.com
 0.0.0.0 my.tealiumiq.com
+0.0.0.0 myads.id
 0.0.0.0 mydas.mobi
 0.0.0.0 mydirtsheet.com
 0.0.0.0 mydramalist.com
@@ -2217,12 +2163,10 @@
 0.0.0.0 nafaskuda.com
 0.0.0.0 nakita.grid.id
 0.0.0.0 nanidrama.com
-0.0.0.0 nanime.biz
 0.0.0.0 nasionalnews.id
 0.0.0.0 nativex.com
 0.0.0.0 nblindonesia.com
 0.0.0.0 negumo.com
-0.0.0.0 nekopoi.web.id
 0.0.0.0 neosubs.net
 0.0.0.0 net.rayjump.com
 0.0.0.0 neumanga.tv
@@ -2236,7 +2180,6 @@
 0.0.0.0 newskaltim.com
 0.0.0.0 nexage.com
 0.0.0.0 nexus.ensighten.com
-0.0.0.0 nezunime.com
 0.0.0.0 ngalam.co
 0.0.0.0 nganggurajah.blogspot.com
 0.0.0.0 ngiklan.gratis
@@ -2270,6 +2213,7 @@
 0.0.0.0 nv-sdk.jumio.com
 0.0.0.0 o259296.ingest.sentry.io
 0.0.0.0 o370407.ingest.sentry.io
+0.0.0.0 o418887.ingest.sentry.io
 0.0.0.0 o71119.ingest.sentry.io
 0.0.0.0 oasisme.com
 0.0.0.0 obor-nusantara.com
@@ -2280,7 +2224,6 @@
 0.0.0.0 ofiskita.com
 0.0.0.0 ok.ru
 0.0.0.0 okemedan.com
-0.0.0.0 okezone.com
 0.0.0.0 okezone.visionplus.id
 0.0.0.0 olenation.org
 0.0.0.0 om.forgeofempires.com
@@ -2324,8 +2267,6 @@
 0.0.0.0 otakudesu.moe
 0.0.0.0 otherlevels.com
 0.0.0.0 otomotifzone.com
-0.0.0.0 otosia.com
-0.0.0.0 ouo.io
 0.0.0.0 outbrain.com
 0.0.0.0 outcome.supersonicads.com
 0.0.0.0 ow-gateway.supersonicads.com
@@ -2384,7 +2325,6 @@
 0.0.0.0 pasaranindo.com
 0.0.0.0 pasardana.id
 0.0.0.0 pasarjitu.me
-0.0.0.0 pastebin.com
 0.0.0.0 pastigol.info
 0.0.0.0 pastiseru.com
 0.0.0.0 pc3ads.com
@@ -2455,6 +2395,7 @@
 0.0.0.0 potret24.com
 0.0.0.0 potterheadunited.com
 0.0.0.0 powerad.ai
+0.0.0.0 prd-idn-telkomsel-dap.timwe.com
 0.0.0.0 prebid.org
 0.0.0.0 prebid.pub.network
 0.0.0.0 prebid-web.pub.network
@@ -2563,6 +2504,7 @@
 0.0.0.0 realitasonline.id
 0.0.0.0 rec.detik.com
 0.0.0.0 rec.replay.answerscloud.com
+0.0.0.0 recirculation.spot.im
 0.0.0.0 recommendations.data.tm-awx.com
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 redaksisulut.com
@@ -2636,7 +2578,6 @@
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s.lazada.co.id
 0.0.0.0 s.mobclix.com
-0.0.0.0 s.youtube.com
 0.0.0.0 s0-2mdn-net.l.google.com
 0.0.0.0 s1-2mdn-net.l.google.com
 0.0.0.0 s1.2mdn.net
@@ -2686,7 +2627,6 @@
 0.0.0.0 scandit.com
 0.0.0.0 scanscout.com
 0.0.0.0 scheme.mobpowertech.com
-0.0.0.0 schibsted.com
 0.0.0.0 schibsted.io
 0.0.0.0 sd.sindonews.net
 0.0.0.0 sdhfbvd.com
@@ -2728,9 +2668,7 @@
 0.0.0.0 segment.com
 0.0.0.0 sejs.moatads.com
 0.0.0.0 sekilasindonesia.id
-0.0.0.0 sekilastekno.com
 0.0.0.0 sekindo.com
-0.0.0.0 sektekomik.com
 0.0.0.0 semarakpost.com
 0.0.0.0 semawur.com
 0.0.0.0 semogauntung.com
@@ -2784,7 +2722,6 @@
 0.0.0.0 shinyspiesyou.com
 0.0.0.0 shitiphu.com
 0.0.0.0 shln.pw
-0.0.0.0 shopee.co.id
 0.0.0.0 shopkick.com
 0.0.0.0 shopkick.de
 0.0.0.0 shortapp.net
@@ -2794,7 +2731,6 @@
 0.0.0.0 shrinkads.com
 0.0.0.0 shrinke.me
 0.0.0.0 shrinkme.in
-0.0.0.0 shutterstock.com
 0.0.0.0 siapbisnis.net
 0.0.0.0 sidakpost.id
 0.0.0.0 sidoarjopos.net
@@ -2808,9 +2744,7 @@
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 simonscatpoptime.tactilews.com
 0.0.0.0 sinarpidie.co
-0.0.0.0 sindikasi.okezone.com
 0.0.0.0 sindomanado.com
-0.0.0.0 sindonews.com
 0.0.0.0 singlespot.com
 0.0.0.0 sinjai.info
 0.0.0.0 sinopsisdrama.id
@@ -2968,6 +2902,7 @@
 0.0.0.0 syndication.twitter.com
 0.0.0.0 sypi.gpshopper.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 ta.tokopedia.com
 0.0.0.0 tabikpun.com
 0.0.0.0 taboola.com
 0.0.0.0 taboolasyndication.com
@@ -3028,17 +2963,15 @@
 0.0.0.0 thekingofmobapp.bid
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 tigaribu.net
-0.0.0.0 tiket.com
-0.0.0.0 timesindonesia.co.id
 0.0.0.0 timnasjunior.com
 0.0.0.0 timor-media.com
 0.0.0.0 timorline.com
 0.0.0.0 timur-online.com
+0.0.0.0 timwe.com
 0.0.0.0 tipsbelajarbahasainggris.com
 0.0.0.0 tipspetani.com
 0.0.0.0 tipssehatcantik.com
 0.0.0.0 tiqcdn.com
-0.0.0.0 tirto.id
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tm.amap.com
 0.0.0.0 tmcblog.com
@@ -3048,7 +2981,6 @@
 0.0.0.0 togeputih.com
 0.0.0.0 tohaboy.web.id
 0.0.0.0 tokcernews.com
-0.0.0.0 tokopedia.com
 0.0.0.0 tokosexy.com
 0.0.0.0 tom.itv.com
 0.0.0.0 tomato.co.id
@@ -3096,7 +3028,6 @@
 0.0.0.0 tribalfusion.com
 0.0.0.0 tribratanewsacehbesar.com
 0.0.0.0 tribuanapos.net
-0.0.0.0 tribunnews.com
 0.0.0.0 tribunnewswiki.com
 0.0.0.0 trk.clmbtrck.in
 0.0.0.0 trk.glispa.com
@@ -3185,7 +3116,6 @@
 0.0.0.0 viralkaltim.com
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 visitjateng.com
-0.0.0.0 viva.co.id
 0.0.0.0 vjs.zencdn.net
 0.0.0.0 vkcdnservice.com
 0.0.0.0 vlt.me
@@ -3224,7 +3154,6 @@
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 wegner.tech
 0.0.0.0 welcome.indihome.co.id
-0.0.0.0 westmanga.info
 0.0.0.0 wh.ipaddress.com
 0.0.0.0 wi.cr
 0.0.0.0 wibudesu.com
@@ -3341,7 +3270,6 @@
 0.0.0.0 youtube.cleverads.vn
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
-0.0.0.0 yukinime.com
 0.0.0.0 yumenetworks.com
 0.0.0.0 yunoya.id
 0.0.0.0 yuntuapi.amap.com

@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 16 Dec 2021 22:40 UTC (updated regularly)
+! Last modified: 18 Dec 2021 10:45 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -3029,6 +3029,7 @@
 0.0.0.0 tribratanewsacehbesar.com
 0.0.0.0 tribuanapos.net
 0.0.0.0 tribunnewswiki.com
+0.0.0.0 trinitymedia.ai
 0.0.0.0 trk.clmbtrck.in
 0.0.0.0 trk.glispa.com
 0.0.0.0 trk.ipaddress.com

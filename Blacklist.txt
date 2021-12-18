@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 18 Dec 2021 10:45 UTC (updated regularly)
+! Last modified: 19 Dec 2021 01:38 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -506,6 +506,7 @@
 0.0.0.0 assoc-amazon.com
 0.0.0.0 astra-honda.com
 0.0.0.0 asuransiku.info
+0.0.0.0 at.adtech.redventures.io
 0.0.0.0 ata-ads.realmemobile.com
 0.0.0.0 ataeh.blogspot.com
 0.0.0.0 atdmt.com

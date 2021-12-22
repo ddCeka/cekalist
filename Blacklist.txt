@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 19 Dec 2021 01:38 UTC (updated regularly)
+! Last modified: 23 Dec 2021 06:52 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -397,6 +397,7 @@
 0.0.0.0 apahabar.com
 0.0.0.0 apamanfaat.id
 0.0.0.0 apasih.pw
+0.0.0.0 aphycolourses.info
 0.0.0.0 api-02.360dialog.io
 0.0.0.0 api-device.mocaplatform.com
 0.0.0.0 api-gdpr.voodoo-tech.io
@@ -701,6 +702,7 @@
 0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 boomxxi.monster
 0.0.0.0 boostads.site
+0.0.0.0 boot.pbstck.com
 0.0.0.0 borneonews.co.id
 0.0.0.0 borukaro.com
 0.0.0.0 bospedia.com
@@ -777,6 +779,7 @@
 0.0.0.0 cdn.luckyorange.com
 0.0.0.0 cdn.media.amp.avai.com
 0.0.0.0 cdn.millennialmedia.com
+0.0.0.0 cdn.otnolatrnup.com
 0.0.0.0 cdn.playwire.com
 0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 cdn.video.playwire.com
@@ -953,6 +956,7 @@
 0.0.0.0 d.applvn.com
 0.0.0.0 d.reddit.com
 0.0.0.0 d01.notifa.info
+0.0.0.0 d10lumateci472.cloudfront.net
 0.0.0.0 d11enq2rymy0yl.cloudfront.net
 0.0.0.0 d138am4hd4ke4y.cloudfront.net
 0.0.0.0 d24afgsm39csxt.cloudfront.net
@@ -1093,6 +1097,7 @@
 0.0.0.0 drnxs.com
 0.0.0.0 dropshipin.id
 0.0.0.0 dryzapsol.com
+0.0.0.0 ds88pc0kw6cvc.cloudfront.net
 0.0.0.0 dsp.persona.ly
 0.0.0.0 dts.startappservice.com
 0.0.0.0 duapps.com
@@ -2019,6 +2024,7 @@
 0.0.0.0 media.fastclick.net
 0.0.0.0 media.net
 0.0.0.0 mediaaceh.com
+0.0.0.0 mediafire-d.openx.net
 0.0.0.0 mediaformasi.com
 0.0.0.0 mediaindonesia.com
 0.0.0.0 mediakendari.com
@@ -2267,6 +2273,7 @@
 0.0.0.0 otakudere.net
 0.0.0.0 otakudesu.moe
 0.0.0.0 otherlevels.com
+0.0.0.0 otnolatrnup.com
 0.0.0.0 otomotifzone.com
 0.0.0.0 outbrain.com
 0.0.0.0 outcome.supersonicads.com

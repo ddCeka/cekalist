@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 23 Dec 2021 06:52 UTC (updated regularly)
+! Last modified: 31 Dec 2021 11:00 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -2176,6 +2176,7 @@
 0.0.0.0 negumo.com
 0.0.0.0 neosubs.net
 0.0.0.0 net.rayjump.com
+0.0.0.0 netsafe.indosatm2.com
 0.0.0.0 neumanga.tv
 0.0.0.0 newcomment.detik.com
 0.0.0.0 newhealthblog.com

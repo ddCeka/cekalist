@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 31 Dec 2021 11:00 UTC (updated regularly)
+! Last modified: 05 Jan 2022 20:42 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -1570,6 +1570,7 @@
 0.0.0.0 inspirasipagi.id
 0.0.0.0 instingjurnalis.com
 0.0.0.0 instreamatic.com
+0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 integral-marketing.com
 0.0.0.0 integralads.com
 0.0.0.0 integritasmedia.com
@@ -2685,6 +2686,7 @@
 0.0.0.0 sendapaleba.com
 0.0.0.0 senentangnews.com
 0.0.0.0 seniartaja.blogspot.com
+0.0.0.0 sentry.io
 0.0.0.0 sentry-uit.line-apps.com
 0.0.0.0 seputarforex.com
 0.0.0.0 seputarkepri.co.id

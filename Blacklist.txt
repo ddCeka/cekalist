@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 06 Jan 2022 16:05 UTC (updated regularly)
+! Last modified: 16 Jan 2022 13:14 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -2865,6 +2865,7 @@
 0.0.0.0 subindo.cyou
 0.0.0.0 submit.shutterstock.com
 0.0.0.0 suckittrees.com
+0.0.0.0 suggestqueries.google.com #Depends on the User Usage
 0.0.0.0 suhux.com
 0.0.0.0 sulawesiekspress.com
 0.0.0.0 sulawesion.com
@@ -3061,6 +3062,7 @@
 0.0.0.0 ucweb.com
 0.0.0.0 udc.msn.com
 0.0.0.0 udc.yahoo.com
+0.0.0.0 uid.mavencoalition.io
 0.0.0.0 uimserv.net
 0.0.0.0 uiz.io
 0.0.0.0 uk.advertising.yahoo.com

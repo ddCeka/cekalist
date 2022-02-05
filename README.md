@@ -80,10 +80,6 @@ Custom DNS untuk Android 9.0+ [Non-Root] contoh dari cara di atas
 ```
 	dns.quad9.net
 ```
-[DNS Watch:](https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Fireware/services/dnswatch/dnswatch_config_examples_c.html#:~:text=In%20the%20DNSWatch%20settings%2C%20enable,configured%20with%20different%20DNS%20servers.)
-```
-	resolver1.dns.watch
-```
 [Blah DNS:](https://github.com/ookangzheng/blahdns)
 ```
 	dot-ch.blahdns.com

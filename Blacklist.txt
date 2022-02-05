@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 16 Jan 2022 13:14 UTC (updated regularly)
+! Last modified: 6 Feb 2022 03:52 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -1599,6 +1599,7 @@
 0.0.0.0 istar.bet
 0.0.0.0 it.advertising.yahoo.com
 0.0.0.0 itcjaya.com
+0.0.0.0 itineraryupper.com
 0.0.0.0 itsafelink.com
 0.0.0.0 itx5-publicidad.smartadserver.com
 0.0.0.0 itx5.smartadserver.com
@@ -2673,6 +2674,7 @@
 0.0.0.0 secure.quantserve.com
 0.0.0.0 secure.rebel.ai
 0.0.0.0 secure.starsaffiliateclub.com
+0.0.0.0 secureads.g.doubleclick.net
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 sederet.com
@@ -3289,6 +3291,7 @@
 0.0.0.0 yunoya.id
 0.0.0.0 yuntuapi.amap.com
 0.0.0.0 z.moatads.com
+0.0.0.0 zap.buzz
 0.0.0.0 zapr.in
 0.0.0.0 zedo.com
 0.0.0.0 zestads.com

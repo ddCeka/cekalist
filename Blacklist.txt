@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 09 Feb 2022 15:06 UTC (updated regularly)
+! Last modified: 15 Feb 2022 16:40 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -1387,6 +1387,7 @@
 0.0.0.0 harianmemokepri.com
 0.0.0.0 hariannusa.com
 0.0.0.0 hariansuara.com
+0.0.0.0 harrietproverb.com
 0.0.0.0 harimanado.com
 0.0.0.0 hayfatduh.com
 0.0.0.0 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
@@ -1856,6 +1857,7 @@
 0.0.0.0 lg88.online
 0.0.0.0 lgemas.com
 0.0.0.0 li1432-193.members.linode.com
+0.0.0.0 libertywallow.com
 0.0.0.0 lifesurance.info
 0.0.0.0 liftoff.io
 0.0.0.0 ligaolahraga.com

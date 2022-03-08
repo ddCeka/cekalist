@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 15 Feb 2022 16:40 UTC (updated regularly)
+! Last modified: 08 Mar 2022 23:06 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -775,6 +775,7 @@
 0.0.0.0 cdn.feedify.net
 0.0.0.0 cdn.fedsy.xyz
 0.0.0.0 cdn.geni.us
+0.0.0.0 cdn.holmesmind.com
 0.0.0.0 cdn.jwplayer.com
 0.0.0.0 cdn.luckyorange.com
 0.0.0.0 cdn.media.amp.avai.com
@@ -791,6 +792,7 @@
 0.0.0.0 cdn1.uzone.id
 0.0.0.0 cdn2.gigya.com
 0.0.0.0 cdn2.inner-active.mobi
+0.0.0.0 cdn2.sales-frontier.com
 0.0.0.0 cdn2.sponsorpay.com
 0.0.0.0 cdn2.uzone.id
 0.0.0.0 cdn3.gigya.com

@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 17 Mar 2022 13:04 UTC (updated regularly)
+! Last modified: 27 Mar 2022 21:39 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -1224,6 +1224,7 @@
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebase.com
 0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firsthanddisagree.com
 0.0.0.0 firstimpression.io
 0.0.0.0 fixsirrod.site
 0.0.0.0 fjb.kaskus.co.id

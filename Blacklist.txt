@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 07 Apr 2022 14:04 UTC (updated regularly)
+! Last modified: 25 Apr 2022 23:30 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -416,6 +416,7 @@
 0.0.0.0 api.microsite.id
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.nontongo.win
+0.0.0.0 api.onesignal.com
 0.0.0.0 api.propertyguru.com
 0.0.0.0 api.pubnative.net
 0.0.0.0 api.rctiplus.com
@@ -1651,6 +1652,7 @@
 0.0.0.0 jossprediksikasir4d.blogspot.com
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.adsrvr.org
+0.0.0.0 js.datadome.co
 0.0.0.0 js.digiads.co.id
 0.0.0.0 js.gsspcln.jp
 0.0.0.0 js.moatads.com
@@ -2301,6 +2303,7 @@
 0.0.0.0 p.imgur.com
 0.0.0.0 p.jwpcdn.com
 0.0.0.0 p.sindonews.tv
+0.0.0.0 p.typekit.net
 0.0.0.0 p01.notifa.info
 0.0.0.0 p02.notifa.info
 0.0.0.0 p03.notifa.info
@@ -3239,6 +3242,7 @@
 0.0.0.0 www.googleads.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googleanalytics.com
+0.0.0.0 www.googleoptimize.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.inmobi.com

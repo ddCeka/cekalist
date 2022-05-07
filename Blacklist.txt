@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 02 May 2022 20:25 UTC (updated regularly)
+! Last modified: 07 May 2022 19:05 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -2315,6 +2315,7 @@
 0.0.0.0 padangmedia.com
 0.0.0.0 padangtime.com
 0.0.0.0 padsdel.com
+0.0.0.0 page2.googlesyndication.com
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.googleadservices.com
 0.0.0.0 pagead.googlesyndication.com
@@ -2581,6 +2582,7 @@
 0.0.0.0 rmol.id
 0.0.0.0 rnmd.net
 0.0.0.0 robo-indonesia.com
+0.0.0.0 rotarb.bid
 0.0.0.0 rowoardog.com
 0.0.0.0 royhanafi.com
 0.0.0.0 rri.co.id

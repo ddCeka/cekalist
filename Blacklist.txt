@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 07 May 2022 19:05 UTC (updated regularly)
+! Last modified: 09 May 2022 00:37 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -935,6 +935,7 @@
 0.0.0.0 criteo.net
 0.0.0.0 crosspromo.zeptolab.com
 0.0.0.0 crs-event.line.me
+0.0.0.0 crt.sectigo.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 cryaptall.club
 0.0.0.0 cryptobrowser.site
@@ -2935,6 +2936,7 @@
 0.0.0.0 syndication.twitter.com
 0.0.0.0 sypi.gpshopper.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 t.dailymail.co.uk
 0.0.0.0 ta.tokopedia.com
 0.0.0.0 tabikpun.com
 0.0.0.0 taboola.com
@@ -2964,6 +2966,7 @@
 0.0.0.0 teboonline.id
 0.0.0.0 techfor.id
 0.0.0.0 technorati.com
+0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 teh-goyang.blogspot.com
 0.0.0.0 teknobos.com
 0.0.0.0 teknoding.com

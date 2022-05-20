@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 15 May 2022 23:03 UTC (updated regularly)
+! Last modified: 20 May 2022 14:19 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -772,6 +772,7 @@
 0.0.0.0 cdn.bhisma.cloud
 0.0.0.0 cdn.bidder.dev
 0.0.0.0 cdn.cnbcindonesia.com
+0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.detik.net.id
 0.0.0.0 cdn.fastclick.net
@@ -910,6 +911,7 @@
 0.0.0.0 connect.decknetwork.net
 0.0.0.0 connect.detik.com
 0.0.0.0 connect.tapjoy.com
+0.0.0.0 consentmanager.mgr.consensu.org
 0.0.0.0 console.miyuki.mobi
 0.0.0.0 content-ad.net
 0.0.0.0 content.ad
@@ -1152,6 +1154,7 @@
 0.0.0.0 emediate.se
 0.0.0.0 emerer.com
 0.0.0.0 ena-native-ads4.com
+0.0.0.0 encloseddealing.com
 0.0.0.0 engine.a.redditmedia.com
 0.0.0.0 engine.fyber.com
 0.0.0.0 engine.mobileapptracking.com

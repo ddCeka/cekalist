@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 20 May 2022 14:19 UTC (updated regularly)
+! Last modified: 21 May 2022 17:08 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -405,6 +405,7 @@
 0.0.0.0 api-rewarded-video.fyber.com
 0.0.0.0 api-v2.rctiplus.com
 0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.avo.app
 0.0.0.0 api.branch.io
 0.0.0.0 api.cnbcindonesia.com
 0.0.0.0 api.docodoco.jp
@@ -1935,6 +1936,7 @@
 0.0.0.0 lomboktoday.co.id
 0.0.0.0 loncatin.keneono.site
 0.0.0.0 lottery-fl.com
+0.0.0 0 louchees.net
 0.0.0.0 lp.pinxta.com
 0.0.0.0 lp.understandsolar.com
 0.0.0.0 lp.wifi.id

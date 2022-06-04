@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 21 May 2022 17:08 UTC (updated regularly)
+! Last modified: 04 Jun 2022 13:16 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -720,6 +720,7 @@
 0.0.0.0 brilio.net
 0.0.0.0 brotutor.net
 0.0.0.0 browser.events.data.microsoft.com
+0.0.0.0 browser.events.data.msn.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 browsertelemetry.tk
 0.0.0.0 brucelead.com
@@ -1008,6 +1009,7 @@
 0.0.0.0 databerries.com
 0.0.0.0 datacloud.tealiumiq.com
 0.0.0.0 datadikdasmen.com
+0.0.0.0 datadome.patreon.com
 0.0.0.0 datakeluar.net
 0.0.0.0 datamaya.com
 0.0.0.0 datuksakti.blogspot.com
@@ -2495,6 +2497,7 @@
 0.0.0.0 qua-telkomsel-dap.timwe.com
 0.0.0.0 qualtrics.com
 0.0.0.0 quantcast.com
+0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quantcast.net
 0.0.0.0 quantcount.com
 0.0.0.0 questionmarket.com
@@ -2915,6 +2918,7 @@
 0.0.0.0 sumselindependen.com
 0.0.0.0 sumselnian.com
 0.0.0.0 sumselupdate.com
+0.0.0.0 summonedessencetrap.com
 0.0.0.0 supersonic.com
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 supersonicads.com

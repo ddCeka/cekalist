@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 04 Jun 2022 13:16 UTC (updated regularly)
+! Last modified: 20 Jun 2022 04:01 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -1164,6 +1164,7 @@
 0.0.0.0 engine.sponsorpay.com
 0.0.0.0 engine.voodoo-ads.io
 0.0.0.0 enthus1ast.com
+0.0.0.0 envato.market.ct.impactradius.com
 0.0.0.0 epom.com
 0.0.0.0 eqx.smartadserver.com
 0.0.0.0 eramuslim.com
@@ -3019,6 +3020,7 @@
 0.0.0.0 tipspetani.com
 0.0.0.0 tipssehatcantik.com
 0.0.0.0 tiqcdn.com
+0.0.0.0 tiwhaiph.net
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tm.amap.com
 0.0.0.0 tmcblog.com

@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 20 Jun 2022 04:01 UTC (updated regularly)
+! Last modified: 24 Jun 2022 18:52 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -674,6 +674,7 @@
 0.0.0.0 blockchainmedia.id
 0.0.0.0 blog-dnz.com
 0.0.0.0 bloging-gampang.blogspot.com
+0.0.0.0 bloglines.com
 0.0.0.0 blogrumahan.com
 0.0.0.0 blogsecond.com
 0.0.0.0 blokbojonegoro.com
@@ -758,6 +759,7 @@
 0.0.0.0 caribanner.bid
 0.0.0.0 cartalog.id
 0.0.0.0 casafelink2.blogspot.com
+0.0.0.0 casserolehunchcontract.com
 0.0.0.0 castplatform.com
 0.0.0.0 catwenbat.com
 0.0.0.0 cb-cdn.com
@@ -913,6 +915,7 @@
 0.0.0.0 connect.decknetwork.net
 0.0.0.0 connect.detik.com
 0.0.0.0 connect.tapjoy.com
+0.0.0.0 consent.cookiebot.com
 0.0.0.0 consentmanager.mgr.consensu.org
 0.0.0.0 console.miyuki.mobi
 0.0.0.0 content-ad.net
@@ -1740,6 +1743,7 @@
 0.0.0.0 keywordblocks.com
 0.0.0.0 khasiat.id
 0.0.0.0 kherysuryawan.id
+0.0.0.0 kickstarter.siteintercept.qualtrics.com
 0.0.0.0 kid-control.com
 0.0.0.0 kidrarsi.net
 0.0.0.0 kiip.me
@@ -2210,6 +2214,7 @@
 0.0.0.0 news.uzone.id
 0.0.0.0 newsadsppush.com
 0.0.0.0 newsbalikpapan.com
+0.0.0.0 newsgator.com
 0.0.0.0 newskaltim.com
 0.0.0.0 nexage.com
 0.0.0.0 nexus.ensighten.com

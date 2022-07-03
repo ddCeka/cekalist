@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 24 Jun 2022 18:52 UTC (updated regularly)
+! Last modified: 3 Jul 2022 12:26 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -1109,6 +1109,7 @@
 0.0.0.0 drda5yf9kgz5p.cloudfront.net
 0.0.0.0 driverays.com
 0.0.0.0 drnxs.com
+0.0.0.0 dropboxfingerprintjs.com
 0.0.0.0 dropshipin.id
 0.0.0.0 dryzapsol.com
 0.0.0.0 ds88pc0kw6cvc.cloudfront.net
@@ -1887,6 +1888,7 @@
 0.0.0.0 lijit.com
 0.0.0.0 linegee.net
 0.0.0.0 link.gojacksoft.com
+0.0.0.0 link.medium.com
 0.0.0.0 link48.net
 0.0.0.0 linkconfig.com
 0.0.0.0 linkerload.com
@@ -2287,6 +2289,7 @@
 0.0.0.0 open.oneplus.net
 0.0.0.0 open.sns.ymcart.com
 0.0.0.0 openclick.com
+0.0.0.0 openfpcdn.io
 0.0.0.0 openvideoads.com
 0.0.0.0 openvideoads.org
 0.0.0.0 openx.com
@@ -3124,6 +3127,7 @@
 0.0.0.0 uptobox.com
 0.0.0.0 urbanairship.com
 0.0.0.0 urbanasia.com
+0.0.0.0 urbandictionary-com.videoplayerhub.com
 0.0.0.0 urbandigital.id
 0.0.0.0 urlto.id
 0.0.0.0 us-ads.openx.net

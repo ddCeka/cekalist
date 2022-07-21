@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 3 Jul 2022 12:26 UTC (updated regularly)
+! Last modified: 21 Jul 2022 18:58 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -672,6 +672,7 @@
 0.0.0.0 blackavelic.com
 0.0.0.0 block.uzone.id
 0.0.0.0 blockchainmedia.id
+0.0.0.0 blog.branch.io
 0.0.0.0 blog-dnz.com
 0.0.0.0 bloging-gampang.blogspot.com
 0.0.0.0 bloglines.com
@@ -1515,6 +1516,7 @@
 0.0.0.0 img.onesignal.com
 0.0.0.0 imp.startappservice.com
 0.0.0.0 impressions.api.miyuki.mobi
+0.0.0.0 improving.duckduckgo.com
 0.0.0.0 in.advertising.yahoo.com
 0.0.0.0 in.appcenter.ms
 0.0.0.0 inblogspot.com
@@ -2493,6 +2495,7 @@
 0.0.0.0 pushnative.com
 0.0.0.0 pushwoosh.com
 0.0.0.0 pwmu.co
+0.0.0.0 pw.ztgame.com.cn
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.moatads.com
 0.0.0.0 pyze.com
@@ -2830,6 +2833,7 @@
 0.0.0.0 sorotmakassar.com
 0.0.0.0 soundwave.mobile.yahoo.com
 0.0.0.0 sp.analytics.yahoo.com
+0.0.0.0 sp-ao.shortpixel.ai
 0.0.0.0 spaceshooter.rocketstudio.com.vn
 0.0.0.0 speednews-manado.com
 0.0.0.0 spiritsumbar.com
@@ -3273,6 +3277,7 @@
 0.0.0.0 www.googleoptimize.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
+0.0.0.0 www.indirads.org
 0.0.0.0 www.inmobi.com
 0.0.0.0 www.kampyle.com
 0.0.0.0 www.leanplum.com

@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 21 Jul 2022 18:58 UTC (updated regularly)
+! Last modified: 30 Jul 2022 09:52 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -898,6 +898,7 @@
 0.0.0.0 cold-cold-freezing.com
 0.0.0.0 collect.tealiumiq.com
 0.0.0.0 collector.githubapp.com
+0.0.0.0 collector.github.com
 0.0.0.0 colocator.net
 0.0.0.0 com.tenjin.ios.api
 0.0.0.0 combine.urbanairship.com
@@ -1672,6 +1673,7 @@
 0.0.0.0 js.digiads.co.id
 0.0.0.0 js.gsspcln.jp
 0.0.0.0 js.moatads.com
+0.0.0.0 js.monitor.azure.com
 0.0.0.0 js.stripe.com
 0.0.0.0 jssdk.rayjump.com
 0.0.0.0 jualo.com
@@ -2180,6 +2182,7 @@
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms.applvn.com
 0.0.0.0 msads.net
+0.0.0.0 msite.baidu.com
 0.0.0.0 mtburn.com
 0.0.0.0 muhammadyoga.me
 0.0.0.0 munadi.id

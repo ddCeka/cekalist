@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 30 Jul 2022 09:52 UTC (updated regularly)
+! Last modified: 09 Aug 2022 01:41 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -48,6 +48,7 @@
 0.0.0.0 a.jumptap.com
 0.0.0.0 a.line.me
 0.0.0.0 a.mouseflow.com
+0.0.0.0 a.realsrv.com
 0.0.0.0 a.tiles.mapbox.com
 0.0.0.0 a.vdo.ai
 0.0.0.0 a01.uadexchange.com
@@ -251,6 +252,7 @@
 0.0.0.0 adsmogo.mobi
 0.0.0.0 adsmogo.net
 0.0.0.0 adsnative.com
+0.0.0.0 adsninja.ca
 0.0.0.0 adspecs.yahoo.com
 0.0.0.0 adspeed.com
 0.0.0.0 adspending01.bwnet.com.tw
@@ -439,8 +441,8 @@
 0.0.0.0 apistaging.airpush.com
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 apk.sekilastekno.com
-0.0.0.0 aplikasipc.com
 0.0.0.0 aplikasi.kirim.email
+0.0.0.0 aplikasipc.com
 0.0.0.0 app-adforce.jp
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app-config.enhance.co
@@ -672,8 +674,8 @@
 0.0.0.0 blackavelic.com
 0.0.0.0 block.uzone.id
 0.0.0.0 blockchainmedia.id
-0.0.0.0 blog.branch.io
 0.0.0.0 blog-dnz.com
+0.0.0.0 blog.branch.io
 0.0.0.0 bloging-gampang.blogspot.com
 0.0.0.0 bloglines.com
 0.0.0.0 blogrumahan.com
@@ -776,13 +778,14 @@
 0.0.0.0 cdn.barlo.xyz
 0.0.0.0 cdn.bhisma.cloud
 0.0.0.0 cdn.bidder.dev
+0.0.0.0 cdn.browsiprod.com
 0.0.0.0 cdn.cnbcindonesia.com
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.detik.net.id
 0.0.0.0 cdn.fastclick.net
-0.0.0.0 cdn.feedify.net
 0.0.0.0 cdn.fedsy.xyz
+0.0.0.0 cdn.feedify.net
 0.0.0.0 cdn.geni.us
 0.0.0.0 cdn.holmesmind.com
 0.0.0.0 cdn.jwplayer.com
@@ -897,8 +900,8 @@
 0.0.0.0 coinvestasi.com
 0.0.0.0 cold-cold-freezing.com
 0.0.0.0 collect.tealiumiq.com
-0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.github.com
+0.0.0.0 collector.githubapp.com
 0.0.0.0 colocator.net
 0.0.0.0 com.tenjin.ios.api
 0.0.0.0 combine.urbanairship.com
@@ -1409,8 +1412,8 @@
 0.0.0.0 harianmemokepri.com
 0.0.0.0 hariannusa.com
 0.0.0.0 hariansuara.com
-0.0.0.0 harrietproverb.com
 0.0.0.0 harimanado.com
+0.0.0.0 harrietproverb.com
 0.0.0.0 hayfatduh.com
 0.0.0.0 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
 0.0.0.0 headlinelampung.com
@@ -1591,6 +1594,7 @@
 0.0.0.0 insertlive.com
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insightexpressai.com
+0.0.0.0 insights.algolia.io
 0.0.0.0 inspira.tv
 0.0.0.0 inspirasipagi.id
 0.0.0.0 instingjurnalis.com
@@ -1913,6 +1917,7 @@
 0.0.0.0 listingberita.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 live.direct.ly
+0.0.0.0 live.primis.tech
 0.0.0.0 liveadexchanger.com
 0.0.0.0 liveintent.com
 0.0.0.0 liveops-prod-us-east-1-cdn.coem.aps-awemprod2.com
@@ -1949,7 +1954,7 @@
 0.0.0.0 lomboktoday.co.id
 0.0.0.0 loncatin.keneono.site
 0.0.0.0 lottery-fl.com
-0.0.0 0 louchees.net
+0.0.0.0 louchees.net
 0.0.0.0 lp.pinxta.com
 0.0.0.0 lp.understandsolar.com
 0.0.0.0 lp.wifi.id
@@ -2448,9 +2453,9 @@
 0.0.0.0 potterheadunited.com
 0.0.0.0 powerad.ai
 0.0.0.0 prd-idn-telkomsel-dap.timwe.com
+0.0.0.0 prebid-web.pub.network
 0.0.0.0 prebid.org
 0.0.0.0 prebid.pub.network
-0.0.0.0 prebid-web.pub.network
 0.0.0.0 prediksibola88.net
 0.0.0.0 prediksigame.com
 0.0.0.0 presage.io
@@ -2497,8 +2502,8 @@
 0.0.0.0 push.xdrig.com
 0.0.0.0 pushnative.com
 0.0.0.0 pushwoosh.com
-0.0.0.0 pwmu.co
 0.0.0.0 pw.ztgame.com.cn
+0.0.0.0 pwmu.co
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.moatads.com
 0.0.0.0 pyze.com
@@ -2732,8 +2737,8 @@
 0.0.0.0 sendapaleba.com
 0.0.0.0 senentangnews.com
 0.0.0.0 seniartaja.blogspot.com
-0.0.0.0 sentry.io
 0.0.0.0 sentry-uit.line-apps.com
+0.0.0.0 sentry.io
 0.0.0.0 seputarforex.com
 0.0.0.0 seputarkepri.co.id
 0.0.0.0 seputarntb.com
@@ -2835,8 +2840,8 @@
 0.0.0.0 sopasti.com
 0.0.0.0 sorotmakassar.com
 0.0.0.0 soundwave.mobile.yahoo.com
-0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 sp-ao.shortpixel.ai
+0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 spaceshooter.rocketstudio.com.vn
 0.0.0.0 speednews-manado.com
 0.0.0.0 spiritsumbar.com
@@ -2931,10 +2936,10 @@
 0.0.0.0 sumaterapost.co
 0.0.0.0 sumbartime.com
 0.0.0.0 sumeks.co
+0.0.0.0 summonedessencetrap.com
 0.0.0.0 sumselindependen.com
 0.0.0.0 sumselnian.com
 0.0.0.0 sumselupdate.com
-0.0.0.0 summonedessencetrap.com
 0.0.0.0 supersonic.com
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 supersonicads.com

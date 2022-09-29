@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 19 Sep 2022 17:15 UTC (updated regularly)
+! Last modified: 29 Sep 2022 21:11 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -787,6 +787,7 @@
 0.0.0.0 business.samsungusa.com
 0.0.0.0 buysellads.com
 0.0.0.0 buzzcity.net
+0.0.0.0 c-api-bit.shopeemobile.com
 0.0.0.0 c-stat.eu
 0.0.0.0 c.adtwirl.com
 0.0.0.0 c.amazon-adsystem.com
@@ -2249,6 +2250,7 @@
 0.0.0.0 metroworldhost.com
 0.0.0.0 mgid.com
 0.0.0.0 mi-globe.com
+0.0.0.0 midgerelativelyhoax.com
 0.0.0.0 mifsirnhvvrps.top
 0.0.0.0 mikanime.com
 0.0.0.0 milano-ruus.blogspot.com
@@ -3314,6 +3316,7 @@
 0.0.0.0 trk.glispa.com
 0.0.0.0 trk.ipaddress.com
 0.0.0.0 trk.pinterest.com
+0.0.0.0 trvwjyjgkgeagd.com
 0.0.0.0 tsyndolls.com
 0.0.0.0 tummiarunzpf.com
 0.0.0.0 tuntasonline.com

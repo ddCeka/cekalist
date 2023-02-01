@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 24 Nov 2022 19:46 UTC (updated regularly)
+! Last modified: 01 Feb 2023 21:38 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -142,6 +142,7 @@
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adelva.com
+0.0.0.0 adeumssp.com
 0.0.0.0 adexprt.com
 0.0.0.0 adfalcon.com
 0.0.0.0 adflazz.com
@@ -1973,6 +1974,7 @@
 0.0.0.0 lagigame.net
 0.0.0.0 lahanpoker.gold
 0.0.0.0 laluvygy.com
+0.0.0.0 lamanlabuh.aduankonten.id
 0.0.0.0 lampost.co
 0.0.0.0 lampung1.com
 0.0.0.0 lampungcentral.com
@@ -2539,6 +2541,7 @@
 0.0.0.0 pasarjitu.me
 0.0.0.0 pastigol.info
 0.0.0.0 pastiseru.com
+0.0.0.0 payingbeswim.com
 0.0.0.0 paypopup.com
 0.0.0.0 pc3ads.com
 0.0.0.0 pclick.yahoo.com

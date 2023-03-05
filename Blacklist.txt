@@ -1727,6 +1727,7 @@
 0.0.0.0 irnanto.com
 0.0.0.0 is.gd
 0.0.0.0 islampos.com
+0.0.0.0 isortflorent.com
 0.0.0.0 isrul.com
 0.0.0.0 istana-impian.com
 0.0.0.0 istana-impian2.com
@@ -3262,6 +3263,7 @@
 0.0.0.0 topikindonesia.id
 0.0.0.0 topklik.com
 0.0.0.0 topsurfer.com
+0.0.0.0 torflegorb.com
 0.0.0.0 torimochi.line-apps.com
 0.0.0.0 totabuan.news
 0.0.0.0 tpc.googlesyndication.com

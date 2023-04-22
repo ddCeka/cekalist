@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 01 Apr 2023 12:36 UTC (updated regularly)
+! Last modified: 23 Apr 2023 01:36 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
@@ -880,6 +880,7 @@
 0.0.0.0 beta.airpush.com
 0.0.0.0 betflix.id
 0.0.0.0 bevru.club
+0.0.0.0 bhuroid.com
 0.0.0.0 bidvertiser.com
 0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 biggo.id
@@ -1268,6 +1269,7 @@
 0.0.0.0 dailypost.id
 0.0.0.0 dailysocial.id
 0.0.0.0 dairouzy.net
+0.0.0.0 dalefs.com
 0.0.0.0 damoh.spiegel.de
 0.0.0.0 danirachmat.com
 0.0.0.0 dapalan.com
@@ -1341,6 +1343,7 @@
 0.0.0.0 dewiku.com
 0.0.0.0 dewsburg.info
 0.0.0.0 dezige-in.blogspot.com
+0.0.0.0 dggerys.com
 0.0.0.0 dgw7ae5vrovs7.cloudfront.net
 0.0.0.0 dhadigital.com
 0.0.0.0 dhpikd1t89arn.cloudfront.net
@@ -1359,6 +1362,7 @@
 0.0.0.0 direct.musical.ly
 0.0.0.0 directme.info
 0.0.0.0 directrev.com
+0.0.0.0 discess.net
 0.0.0.0 disingkat.in
 0.0.0.0 diskon.com
 0.0.0.0 dispatcher.mng-ads.com
@@ -1466,6 +1470,7 @@
 0.0.0.0 emerer.com
 0.0.0.0 ena-native-ads4.com
 0.0.0.0 encloseddealing.com
+0.0.0.0 enestcon.com
 0.0.0.0 engine.a.redditmedia.com
 0.0.0.0 engine.fyber.com
 0.0.0.0 engine.mobileapptracking.com
@@ -1612,6 +1617,7 @@
 0.0.0.0 frontier.tiktokv.com
 0.0.0.0 frpiksdeygy.com
 0.0.0.0 fryruejoust.cam
+0.0.0.0 fuerob.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 furocmay.com
 0.0.0.0 fus.yad2.co.il
@@ -1623,6 +1629,7 @@
 0.0.0.0 g1.ads.oppomobile.com
 0.0.0.0 gabungyuk.com
 0.0.0.0 gadgetren.com
+0.0.0.0 gadlito.com
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gagasanriau.com
 0.0.0.0 gagpetwet.com
@@ -1677,6 +1684,7 @@
 0.0.0.0 geograpik.blogspot.com
 0.0.0.0 geolocation.1trust.app
 0.0.0.0 gerai.kompas.id
+0.0.0.0 gerfane.com
 0.0.0.0 get.d3b3e6340.website
 0.0.0.0 get.surfshark.net
 0.0.0.0 get4link.xyz
@@ -1706,6 +1714,7 @@
 0.0.0.0 goingsilltrusty.com
 0.0.0.0 gol699.com
 0.0.0.0 goldennews.co.id
+0.0.0.0 goldoson.net
 0.0.0.0 golpaten.blogspot.com
 0.0.0.0 gomentod.com
 0.0.0.0 gomunime.red
@@ -1793,6 +1802,7 @@
 0.0.0.0 hit-log.viva.co.id
 0.0.0.0 hitadsmedia.com
 0.0.0.0 hitekno.com
+0.0.0.0 hjorsjopa.com
 0.0.0.0 hkg1.aastocks.com
 0.0.0.0 ho.lazada.co.id
 0.0.0.0 hockeyapp.net
@@ -1818,6 +1828,7 @@
 0.0.0.0 houndify.com
 0.0.0.0 houseads.ttpsdk.info
 0.0.0.0 housextriertst.bid
+0.0.0.0 htyyed.com
 0.0.0.0 hxfile.co
 0.0.0.0 hxload.co
 0.0.0.0 hybird.rayjump.com
@@ -2597,6 +2608,7 @@
 0.0.0.0 merdeka.com
 0.0.0.0 mesiniklan.andipublisher.com
 0.0.0.0 meteor.tiktok.com
+0.0.0.0 methinno.net
 0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.brightcove.com
@@ -2783,6 +2795,7 @@
 0.0.0.0 nativex.com
 0.0.0.0 nblindonesia.com
 0.0.0.0 nc.pubpowerplatform.io
+0.0.0.0 necktro.com
 0.0.0.0 negumo.com
 0.0.0.0 neosubs.net
 0.0.0.0 net.rayjump.com
@@ -2854,6 +2867,7 @@
 0.0.0.0 offerjuice.me
 0.0.0.0 offerwall.yandex.net
 0.0.0.0 ofiskita.com
+0.0.0.0 ojiskorp.net
 0.0.0.0 ok.ru
 0.0.0.0 okemedan.com
 0.0.0.0 okezone.visionplus.id
@@ -2864,6 +2878,7 @@
 0.0.0.0 omax.admarvel.com
 0.0.0.0 omniture.com
 0.0.0.0 omtrdc.net
+0.0.0.0 onanico.net
 0.0.0.0 onbatch.my.id
 0.0.0.0 onclasrv.com
 0.0.0.0 onclickads.net
@@ -2888,6 +2903,7 @@
 0.0.0.0 openfpcdn.io
 0.0.0.0 openvideoads.com
 0.0.0.0 openvideoads.org
+0.0.0.0 openwor.com
 0.0.0.0 openx.com
 0.0.0.0 openx.jp
 0.0.0.0 openx.net
@@ -3039,6 +3055,7 @@
 0.0.0.0 phd.co.id
 0.0.0.0 pheersie.com
 0.0.0.0 phudrour.net
+0.0.0.0 phyerh.net
 0.0.0.0 pickybest.id
 0.0.0.0 pics.ys1pve.site
 0.0.0.0 pikiran-rakyat.com
@@ -3395,6 +3412,7 @@
 0.0.0.0 rich.otherlevels.com
 0.0.0.0 richmondgokarts.com
 0.0.0.0 ridingintractable.com
+0.0.0.0 ridinra.com
 0.0.0.0 rikucan.com
 0.0.0.0 rink.hockeyapp.net
 0.0.0.0 rmco.id
@@ -3403,6 +3421,7 @@
 0.0.0.0 rnmd.net
 0.0.0.0 robo-indonesia.com
 0.0.0.0 rotarb.bid
+0.0.0.0 rouperdo.net
 0.0.0.0 rowoardog.com
 0.0.0.0 royhanafi.com
 0.0.0.0 rri.co.id
@@ -3700,13 +3719,16 @@
 0.0.0.0 soalkakita.com
 0.0.0.0 social-plugins.line.me
 0.0.0.0 soda.startappservice.com
+0.0.0.0 soildonutkiel.com
 0.0.0.0 solotrend.net
 0.0.0.0 soma.smaato.net
 0.0.0.0 sonicnotify.com
 0.0.0.0 sonora.id
 0.0.0.0 soom.la
 0.0.0.0 sopasti.com
+0.0.0.0 soridok2kpop.com
 0.0.0.0 sorotmakassar.com
+0.0.0.0 sorrowdeepkold.com
 0.0.0.0 soundwave.mobile.yahoo.com
 0.0.0.0 sp-ao.shortpixel.ai
 0.0.0.0 sp.analytics.yahoo.com
@@ -3814,6 +3836,7 @@
 0.0.0.0 sumselindependen.com
 0.0.0.0 sumselnian.com
 0.0.0.0 sumselupdate.com
+0.0.0.0 superdonaldkood.com
 0.0.0.0 supersonic.com
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 supersonicads.com
@@ -3914,8 +3937,10 @@
 0.0.0.0 tfp.sapphirum.com
 0.0.0.0 theclickers.net
 0.0.0.0 thekingofmobapp.bid
+0.0.0.0 thervide.net
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 tidnqztumpnk.com
+0.0.0.0 tiffyre.net
 0.0.0.0 tigaribu.net
 0.0.0.0 tiktok-core-lb-maliva-useast2a.byteoversea.net
 0.0.0.0 tiktok-core-lb-maliva.byteoversea.net
@@ -4103,6 +4128,7 @@
 0.0.0.0 trck.at
 0.0.0.0 trck.bebi.com
 0.0.0.0 treasuredata.com
+0.0.0.0 treffaas.com
 0.0.0.0 tremorhub.com
 0.0.0.0 tremormedia.com
 0.0.0.0 trendlope.com
@@ -4348,6 +4374,7 @@
 0.0.0.0 vigo-lb-alisg.byteoversea.net
 0.0.0.0 viralberita.net
 0.0.0.0 viralkaltim.com
+0.0.0.0 visceun.com
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 visitjateng.com
 0.0.0.0 vjs.zencdn.net

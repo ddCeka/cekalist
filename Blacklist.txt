@@ -1,16 +1,21 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 23 Apr 2023 01:36 UTC (updated regularly)
+! Last modified: 16 May 2023 07:00 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 01.static.xsf.ximxim.com
 0.0.0.0 02.static.xsf.ximxim.com
 0.0.0.0 04.static.xsf.ximxim.com
 0.0.0.0 05ee3a24ed11df058c8.com
+0.0.0.0 10.24.224.140
 0.0.0.0 1001tutorial.com
 0.0.0.0 1001win1.live
 0.0.0.0 1066themovie.biz
+0.0.0.0 114.6.128.4
+0.0.0.0 166.62.7.206
 0.0.0.0 1681.engine.mobileapptracking.com
+0.0.0.0 172.104.108.25
+0.0.0.0 188.166.197.120
 0.0.0.0 188affiliates.com
 0.0.0.0 19534.redirect.appmetrica.yandex.com
 0.0.0.0 1b969cef84d93b43.com
@@ -34,6 +39,7 @@
 0.0.0.0 34667c8ece5.com
 0.0.0.0 360yield.com
 0.0.0.0 365wp.org
+0.0.0.0 396club.co
 0.0.0.0 4.redirect.appmetrica.yandex.com
 0.0.0.0 4chan-ads.org
 0.0.0.0 4dsply.com
@@ -404,6 +410,7 @@
 0.0.0.0 ampclicks.com
 0.0.0.0 amplitude.com
 0.0.0.0 amtread.com
+0.0.0.0 amutheastse.com
 0.0.0.0 an.yandex.ru
 0.0.0.0 analisadaily.com
 0.0.0.0 analysis2.chartboosts.com
@@ -420,6 +427,7 @@
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.rayjump.com
+0.0.0.0 analytics.s.id
 0.0.0.0 analytics.samsungknox.com
 0.0.0.0 analytics.social.unity.com
 0.0.0.0 analytics.tiktok.com
@@ -443,6 +451,7 @@
 0.0.0.0 anon.wapsite.info
 0.0.0.0 antburape.club
 0.0.0.0 anteroaceh.com
+0.0.0.0 aogkfujgtmfwp.xyz
 0.0.0.0 aopxnvrugx.com
 0.0.0.0 apahabar.com
 0.0.0.0 apamanfaat.id
@@ -1102,6 +1111,7 @@
 0.0.0.0 chefkoch-einkaufsliste.firebaseapp.com
 0.0.0.0 chiarafarina.blogspot.com
 0.0.0.0 chidsimp.com
+0.0.0.0 chimamanndgaocozmi.com
 0.0.0.0 chimpstatic.com
 0.0.0.0 china.inmobi.com
 0.0.0.0 chitika.net
@@ -1253,6 +1263,7 @@
 0.0.0.0 d335luupugsy2.cloudfront.net
 0.0.0.0 d3c3tktxbub3yt.cloudfront.net
 0.0.0.0 d3e54v103j8qbb.cloudfront.net
+0.0.0.0 d3kh1c1apu7ke8.cloudfront.net
 0.0.0.0 d3oep4gb91kpuv.cloudfront.net
 0.0.0.0 d3p8w7to4066sy.cloudfront.net
 0.0.0.0 d3w2id5zlqvvik.cloudfront.net
@@ -1296,6 +1307,7 @@
 0.0.0.0 datakeluar.net
 0.0.0.0 datamaya.com
 0.0.0.0 datuksakti.blogspot.com
+0.0.0.0 daudejuw.com
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 dc.webtrends.com
 0.0.0.0 de.advertising.yahoo.com
@@ -1420,6 +1432,7 @@
 0.0.0.0 dsp.persona.ly
 0.0.0.0 dts.startappservice.com
 0.0.0.0 duapps.com
+0.0.0.0 ducmiptu.net
 0.0.0.0 duit.cc
 0.0.0.0 dumetschool.com
 0.0.0.0 duniafintech.com
@@ -1532,6 +1545,7 @@
 0.0.0.0 expossumbar.com
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 eyewonder.com
+0.0.0.0 eze99.me
 0.0.0.0 f.convertkit.com
 0.0.0.0 f.shopee.co.id
 0.0.0.0 fachmycasofa.com
@@ -1683,6 +1697,7 @@
 0.0.0.0 geodata.otherlevels.com
 0.0.0.0 geograpik.blogspot.com
 0.0.0.0 geolocation.1trust.app
+0.0.0.0 geozo.com
 0.0.0.0 gerai.kompas.id
 0.0.0.0 gerfane.com
 0.0.0.0 get.d3b3e6340.website
@@ -1729,6 +1744,7 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
+0.0.0.0 googleusercontent.com
 0.0.0.0 goozir.com
 0.0.0.0 goraps.com
 0.0.0.0 goriau.com
@@ -1797,6 +1813,7 @@
 0.0.0.0 hesftig.site
 0.0.0.0 heyriad.com
 0.0.0.0 heyzap.com
+0.0.0.0 hfvamxbcfccycm.com
 0.0.0.0 himedik.com
 0.0.0.0 hipwee.com
 0.0.0.0 hit-log.viva.co.id
@@ -1992,6 +2009,7 @@
 0.0.0.0 inisumedang.com
 0.0.0.0 init.startappservice.com
 0.0.0.0 init.supersonicads.com
+0.0.0.0 initogel.net
 0.0.0.0 inlocomedia.com
 0.0.0.0 inmobi.cn
 0.0.0.0 inmobi.com
@@ -2057,6 +2075,7 @@
 0.0.0.0 itcjaya.com
 0.0.0.0 itineraryupper.com
 0.0.0.0 itsafelink.com
+0.0.0.0 itwasbrghttohwe.xyz
 0.0.0.0 itx5-publicidad.smartadserver.com
 0.0.0.0 itx5.smartadserver.com
 0.0.0.0 iupqelechcmj.com
@@ -2080,6 +2099,7 @@
 0.0.0.0 jambiline.com
 0.0.0.0 jambiseru.com
 0.0.0.0 jambiupdate.co
+0.0.0.0 jame3s67jo9yc4e.com
 0.0.0.0 japan.inmobi.com
 0.0.0.0 jaridewa.com
 0.0.0.0 jarumjam.com
@@ -2214,8 +2234,10 @@
 0.0.0.0 klik-4d.com
 0.0.0.0 klik-ntt.com
 0.0.0.0 klik4a.me
+0.0.0.0 klik66.co
 0.0.0.0 klikajadeh.com
 0.0.0.0 klikjatim.com
+0.0.0.0 klikkiu.top
 0.0.0.0 klikmanga.com
 0.0.0.0 klikmania.net
 0.0.0.0 klikmbc.co.id
@@ -2311,6 +2333,7 @@
 0.0.0.0 landing.parkplatzkartei.com
 0.0.0.0 langganan.tempo.co
 0.0.0.0 langitselatan.com
+0.0.0.0 lapak-online.net
 0.0.0.0 lapakinfo.net
 0.0.0.0 larantukagypsum.com
 0.0.0.0 lark-frontier.byteoversea.com
@@ -2331,6 +2354,7 @@
 0.0.0.0 leadboltapps.net
 0.0.0.0 leadzu.com
 0.0.0.0 leanplum.com
+0.0.0.0 lechihah.com
 0.0.0.0 legaleraindonesia.com
 0.0.0.0 lensametro.com
 0.0.0.0 lensantb.com
@@ -2360,6 +2384,7 @@
 0.0.0.0 library.musical.ly
 0.0.0.0 lifesurance.info
 0.0.0.0 liftoff.io
+0.0.0.0 ligakiukiu.top
 0.0.0.0 ligaolahraga.com
 0.0.0.0 ligatus.com
 0.0.0.0 ligo.id
@@ -2372,6 +2397,7 @@
 0.0.0.0 link48.net
 0.0.0.0 linkconfig.com
 0.0.0.0 linkerload.com
+0.0.0.0 linkgenerator.xyz
 0.0.0.0 linkpoi.me
 0.0.0.0 linktr.ee
 0.0.0.0 linkvertise.com
@@ -2440,6 +2466,7 @@
 0.0.0.0 login.tiktok.com
 0.0.0.0 login.xing.com
 0.0.0.0 loginmkv.com
+0.0.0.0 logitxaequk.com
 0.0.0.0 logo.clearbit.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.locarta.co
@@ -2456,9 +2483,11 @@
 0.0.0.0 lp.understandsolar.com
 0.0.0.0 lp.wifi.id
 0.0.0.0 lpaizureik.com
+0.0.0.0 lpkiukiu.pw
 0.0.0.0 lps.innogames.com
 0.0.0.0 lps.innogamescdn.com
 0.0.0.0 lsgqlgoc.com
+0.0.0.0 lttxwrvhyzb.com
 0.0.0.0 ltv-data-api.kube-prod.vungle.com
 0.0.0.0 luangusaha.com
 0.0.0.0 luckyads.com
@@ -2606,6 +2635,7 @@
 0.0.0.0 merahputih.com
 0.0.0.0 mercusuar.uzone.id
 0.0.0.0 merdeka.com
+0.0.0.0 meredithcorp.io
 0.0.0.0 mesiniklan.andipublisher.com
 0.0.0.0 meteor.tiktok.com
 0.0.0.0 methinno.net
@@ -2791,6 +2821,7 @@
 0.0.0.0 nafaskuda.com
 0.0.0.0 nakita.grid.id
 0.0.0.0 nanidrama.com
+0.0.0.0 nanime.biz
 0.0.0.0 nasionalnews.id
 0.0.0.0 nativex.com
 0.0.0.0 nblindonesia.com
@@ -2830,6 +2861,7 @@
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 nomis.id
 0.0.0.0 nonton.com
+0.0.0.0 noobscript.com
 0.0.0.0 notifa.info
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 nova.grid.id
@@ -2869,6 +2901,7 @@
 0.0.0.0 ofiskita.com
 0.0.0.0 ojiskorp.net
 0.0.0.0 ok.ru
+0.0.0.0 okebos.top
 0.0.0.0 okemedan.com
 0.0.0.0 okezone.visionplus.id
 0.0.0.0 olenation.org
@@ -2930,6 +2963,7 @@
 0.0.0.0 outbrain.com
 0.0.0.0 outcome.supersonicads.com
 0.0.0.0 ow-gateway.supersonicads.com
+0.0.0.0 owkuwquf.com
 0.0.0.0 owl-sg.tiktokv.com
 0.0.0.0 owncutone.com
 0.0.0.0 ox-d.advanceweb.com
@@ -2980,6 +3014,7 @@
 0.0.0.0 p77-sg.tiktokcdn.com
 0.0.0.0 p77-sign-sg-lite.tiktokcdn.com	
 0.0.0.0 p77-sign-sg.tiktokcdn.com
+0.0.0.0 pacapa.my.id
 0.0.0.0 padangkita.com
 0.0.0.0 padangmedia.com
 0.0.0.0 padangtime.com
@@ -3042,6 +3077,7 @@
 0.0.0.0 penamerdeka.com
 0.0.0.0 penasatu.com
 0.0.0.0 penatimor.com
+0.0.0.0 pencetpoker.gir
 0.0.0.0 pengusahamuslim.com
 0.0.0.0 performancehorizon.com
 0.0.0.0 persona.ly
@@ -3096,6 +3132,7 @@
 0.0.0.0 popclck.net
 0.0.0.0 popularitas.com
 0.0.0.0 popunderjs.club
+0.0.0.0 popunderstar.com
 0.0.0.0 portalntt.com
 0.0.0.0 portaltebo.id
 0.0.0.0 posbagus.com
@@ -3114,6 +3151,7 @@
 0.0.0.0 prebid.pub.network
 0.0.0.0 prediksibola88.net
 0.0.0.0 prediksigame.com
+0.0.0.0 prediksitogeljitu.in
 0.0.0.0 presage.io
 0.0.0.0 presbanise.pw
 0.0.0.0 presmedia.id
@@ -3498,6 +3536,7 @@
 0.0.0.0 sanglah.com
 0.0.0.0 santaibareng.net
 0.0.0.0 santriema.blogspot.com
+0.0.0.0 saranapoker.poker
 0.0.0.0 sarapbeh.com
 0.0.0.0 sasambonews.com
 0.0.0.0 sasihsaum.com
@@ -3516,6 +3555,7 @@
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 scandit.com
 0.0.0.0 scanscout.com
+0.0.0.0 scentedindication.com
 0.0.0.0 scheme.mobpowertech.com
 0.0.0.0 schibsted.io
 0.0.0.0 scriptall.ml
@@ -3887,6 +3927,7 @@
 0.0.0.0 tangerang7.com
 0.0.0.0 tangerangekspres.co.id
 0.0.0.0 tangerangnews.com
+0.0.0.0 tangkas.gold
 0.0.0.0 tanjungpinangpos.id
 0.0.0.0 tap2-cdn.rubiconproject.com
 0.0.0.0 tapjoy.com
@@ -4145,6 +4186,7 @@
 0.0.0.0 trvwjyjgkgeagd.com
 0.0.0.0 tsyndolls.com
 0.0.0.0 tt2-bkk-v1.l.byteoversea.net
+0.0.0.0 ttgambar.xyz
 0.0.0.0 tummiarunzpf.com
 0.0.0.0 tuntasonline.com
 0.0.0.0 turn.com
@@ -4170,6 +4212,7 @@
 0.0.0.0 uimserv.net
 0.0.0.0 uiz.io
 0.0.0.0 uk.advertising.yahoo.com
+0.0.0.0 ultima7.fun
 0.0.0.0 ultraadserver.com
 0.0.0.0 umeng.com
 0.0.0.0 umlazada.alibaba.com
@@ -4372,6 +4415,8 @@
 0.0.0.0 view-prod.ad.singular.net
 0.0.0.0 view.adjust.com
 0.0.0.0 vigo-lb-alisg.byteoversea.net
+0.0.0.0 vimaxasli.id
+0.0.0.0 vimaxpills.id
 0.0.0.0 viralberita.net
 0.0.0.0 viralkaltim.com
 0.0.0.0 visceun.com
@@ -4571,6 +4616,7 @@
 0.0.0.0 x-tags.net
 0.0.0.0 x.heyzap.com
 0.0.0.0 xcvza.my.id
+0.0.0.0 xdkvvtucvbqhv.xyz
 0.0.0.0 ximad.com
 0.0.0.0 xizuanime.blogspot.com
 0.0.0.0 xlog-va.byteoversea.com
@@ -4582,6 +4628,7 @@
 0.0.0.0 xpromo-cdn.qublixaws.com
 0.0.0.0 xtendmedia.com
 0.0.0.0 xtgem.com
+0.0.0.0 xwmxdrnl.com
 0.0.0.0 yamaha-jatim.co.id
 0.0.0.0 yandexadexchange.net
 0.0.0.0 yen.appsfire.net
@@ -4601,9 +4648,11 @@
 0.0.0.0 yunoya.id
 0.0.0.0 yuntuapi.amap.com
 0.0.0.0 yx-ads6.com
+0.0.0.0 yxcblckd.com
 0.0.0.0 z.moatads.com
 0.0.0.0 zap.buzz
 0.0.0.0 zapr.in
+0.0.0.0 zaubanel.com
 0.0.0.0 zedo.com
 0.0.0.0 zestads.com
 0.0.0.0 zestadz.com

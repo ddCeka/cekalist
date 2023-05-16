@@ -49,11 +49,9 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
 
 ## <ins>Cara Penggunaan?</ins>
 
-- Salin salah satu URL di atas ke dalam aplikasi HOSTS apa pun yang memungkinkan penambahan URL sebagai sumber.
+- Salin URL di atas ke dalam aplikasi HOSTS apa pun yang memungkinkan penambahan URL sebagai sumber. Untuk Android bisa gunakan app seperti [personalDNSfilter](https://f-droid.org/en/packages/dnsfilter.android/), [AdAway](https://f-droid.org/en/packages/org.adaway/).  Semua tersedia di [F-Droid.](https://www.f-droid.org/).
 
-- Awalnya dibuat untuk digunakan dengan Android.  Untuk perangkat yang tidak di-root, gunakan [personalDNSfilter.](https://f-droid.org/en/packages/dnsfilter.android/)  Untuk perangkat yang di-rooting, coba [AdAway](https://f-droid.org/en/packages/org.adaway/).  Semua tersedia di [F-Droid.](https://www.f-droid.org/)
-
-- Perlu dicatat bahwa DNSfilter dapat menangani entri karakter pengganti, yang akan menawarkan cakupan pemblokiran subdomain yang lebih baik, tetapi menggunakan VPN bawaan Android untuk menangani pemblokiran.
+- Perlu dicatat bahwa filter ini sebagai pelengkap filter Internasional seperti [StevenBlack](https://github.com/StevenBlack/hosts), [Energized Protection](https://github.com/EnergizedProtection/block).
 &nbsp;
 
 ## <ins>Alternatif lain untuk Android</ins>

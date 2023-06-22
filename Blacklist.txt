@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 07 Jun 2023 11:39 UTC (updated regularly)
+! Last modified: 22 Jun 2023 15:29 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0.fls.doubleclick.net
@@ -4053,7 +4053,6 @@
 0.0.0.0 jogglo.com
 0.0.0.0 jogjahost.co.id
 0.0.0.0 jogjastreamers.com
-0.0.0.0 joiplay.cyou
 0.0.0.0 jossprediksikasir4d.blogspot.com
 0.0.0.0 jp.admob.com
 0.0.0.0 js-agent.newrelic.com
@@ -4262,7 +4261,6 @@
 0.0.0.0 lagigame.net
 0.0.0.0 lahanpoker.gold
 0.0.0.0 laluvygy.com
-0.0.0.0 lamanlabuh.aduankonten.id
 0.0.0.0 lampost.co
 0.0.0.0 lampung1.com
 0.0.0.0 lampungcentral.com

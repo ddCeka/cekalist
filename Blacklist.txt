@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 22 Jun 2023 15:29 UTC (updated regularly)
+! Last modified: 15 Aug 2023 10:42 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0.fls.doubleclick.net
@@ -3689,6 +3689,7 @@
 0.0.0.0 heyue.xiaomi.com
 0.0.0.0 heyzap.com
 0.0.0.0 hfvamxbcfccycm.com
+0.0.0.0 highwaycpmrevenue.com
 0.0.0.0 himedik.com
 0.0.0.0 hipwee.com
 0.0.0.0 hit-log.viva.co.id

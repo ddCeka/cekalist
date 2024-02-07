@@ -9391,7 +9391,6 @@
 0.0.0.0 serba-serbi-bisa.blogspot.com
 0.0.0.0 serbacara.com
 0.0.0.0 serbada.com
-0.0.0.0 serbada.com$image,third-party
 0.0.0.0 serbapromo.com
 0.0.0.0 sergap.co.id
 0.0.0.0 sergaplampung.com

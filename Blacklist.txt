@@ -1,6 +1,6 @@
 ﻿! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 11 Jan 2024 15:04 UTC (updated regularly)
+! Last modified: 11 Jan 2024 00:28 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0.fls.doubleclick.net
@@ -9391,6 +9391,7 @@
 0.0.0.0 serba-serbi-bisa.blogspot.com
 0.0.0.0 serbacara.com
 0.0.0.0 serbada.com
+0.0.0.0 serbada.com$image,third-party
 0.0.0.0 serbapromo.com
 0.0.0.0 sergap.co.id
 0.0.0.0 sergaplampung.com

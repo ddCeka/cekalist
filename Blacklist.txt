@@ -10180,7 +10180,6 @@
 0.0.0.0 tokcernews.com
 0.0.0.0 tokocrypto.com
 0.0.0.0 tokojasaview.com
-0.0.0.0 tokopedia.com
 0.0.0.0 tokopedia.link
 0.0.0.0 tokosexy.com
 0.0.0.0 tom.itv.com

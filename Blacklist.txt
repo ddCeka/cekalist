@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 23 Feb 2025 22:44 UTC (updated regularly)
-! host_count: 7543
+! Last modified: 11 Mar 2025 19:35 UTC (updated regularly)
+! host_count: 7555
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -13,7 +13,11 @@
 0.0.0.0 1.bdl99down.kukulaa.cn
 0.0.0.0 100kpj.com
 0.0.0.0 139520.aioc.qbgxl.com
+0.0.0.0 166.62.7.206
 0.0.0.0 16horsepower.net
+0.0.0.0 172.104.108.25
+0.0.0.0 172.105.216.174
+0.0.0.0 188.166.197.120
 0.0.0.0 188affiliates.com
 0.0.0.0 1b969cef84d93b43.com
 0.0.0.0 1detik.info
@@ -28,6 +32,7 @@
 0.0.0.0 21cineplex.com
 0.0.0.0 247realmedia.com
 0.0.0.0 24hpoker.com
+0.0.0.0 31.14.252.148
 0.0.0.0 32redpoker.com
 0.0.0.0 33across.com
 0.0.0.0 34667c8ece5.com
@@ -38,6 +43,7 @@
 0.0.0.0 4841a27a-aeca-4563-9acf-b84bd2e4a572.random.fihsifuiiusuiuduf.com
 0.0.0.0 4seeresults.com
 0.0.0.0 508327fbe9.95bd06d118.com
+0.0.0.0 54.222.186.106
 0.0.0.0 58yongzhe.com
 0.0.0.0 5news.co.id
 0.0.0.0 64p3am9x95ct.com
@@ -1261,6 +1267,7 @@
 0.0.0.0 brainly.co.id
 0.0.0.0 brand.ad
 0.0.0.0 bratapos.com
+0.0.0.0 braveglobal.tv
 0.0.0.0 breadtokenapp.com
 0.0.0.0 brealtime.com
 0.0.0.0 bri.co.id
@@ -2459,6 +2466,7 @@
 0.0.0.0 gladius.ws
 0.0.0.0 glints.com
 0.0.0.0 global-news.co.id
+0.0.0.0 global-staticplat.cdn.bcebos.com
 0.0.0.0 global.appnext.com
 0.0.0.0 global.proper.io
 0.0.0.0 globalapi.ad.xiaomi.com
@@ -3786,6 +3794,7 @@
 0.0.0.0 logs.gaaana.com
 0.0.0.0 logs.gshopper.com
 0.0.0.0 logs.ironsrc.mobi
+0.0.0.0 logs.nebulahoroscope.com
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1407.xiti.com
@@ -3959,6 +3968,7 @@
 0.0.0.0 mcoreads.com
 0.0.0.0 mcrogers.com
 0.0.0.0 mcs-va.tiktokv.com
+0.0.0.0 mcs.tiktokw.us
 0.0.0.0 mcwnews.com
 0.0.0.0 mebablo.com
 0.0.0.0 med-api.admost.com
@@ -4928,6 +4938,7 @@
 0.0.0.0 patrolipost.com
 0.0.0.0 patunas.co.id
 0.0.0.0 pavoboxapp.com
+0.0.0.0 pavoshare.com
 0.0.0.0 paxful.com.ng
 0.0.0.0 payingbeswim.com
 0.0.0.0 paylaterin.com
@@ -7152,6 +7163,7 @@
 0.0.0.0 wp-monero-miner.de
 0.0.0.0 wpcdn1.herokuapp.com
 0.0.0.0 wpfc.ml
+0.0.0.0 wpiohdquqo.com
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 wsmetrics.batch.com
 0.0.0.0 wsmwidget.mediaprimalabs.com

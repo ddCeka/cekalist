@@ -1,8 +1,3 @@
-! Title: CekaList
-! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 8 Feb 2025 09:27 UTC (updated regularly)
-! Homepage: https://github.com/ddCeka/CekaList
-
 ||accounts.google.com/gsi/*$xhr,script,3p
 ||1337x.vpnonly.site
 ||blogger.googleusercontent.com/img/a/*$image
@@ -11079,3 +11074,178 @@ kompas.*##.newBanner-wrap
 cnbcindonesia.*##.smartbanner_new
 cnbcindonesia.*##.ads-slot
 cnbcindonesia.*##.footer__about__apps
+||accounts.google.com/gsi/*$xhr,script,3p
+||1337x.vpnonly.site
+||blogger.googleusercontent.com/img/a/*$image
+||ko-fi.com/cdromance/?hidefeed=true&widget=true&embed=true&preview=true$subdocument
+||embedly.forbes.com/widgets/media.html$subdocument
+
+f95zone.to##a.uix_tabItem:nth-of-type(1)
+f95zone.to##a.uix_tabItem:nth-of-type(2)
+f95zone.to##.tabs--standalone.tabs
+f95zone.to##a.tabs-tab:nth-of-type(2)
+f95zone.to##.badgeContainer.js-badge--conversations.uix_tabItem
+f95zone.to##.badgeContainer.js-badge--alerts.uix_tabItem
+f95zone.to##.notice-content
+f95zone.to##.notice--primary.js-notice.notice
+f95zone.to##.uix_noticeIcon
+f95zone.to##.p-footer-inner > .pageContent
+f95zone.to##.p-breadcrumbs--bottom.p-breadcrumbs > li > [href="/forums/games.2/"]
+f95zone.to##.block-bottomRadiusContent.block-topRadiusContent.message--quickReply.message > .message-inner > .message-cell--main.message-cell
+f95zone.to##.p-footer-inner
+f95zone.to##footer > p
+f95zone.to##.blockMessage--warning.blockMessage
+f95zone.to##.uix_tabBar
+f95zone.to##.block--category12.block--category.block > .block-container > .uix_block-body--outer > .block-body
+f95zone.to##.block--category12.block--category.block > .js-nodeMain.block-header
+f95zone.to##.block--category8.block--category.block > .block-container > .uix_block-body--outer > .block-body
+f95zone.to##.block--category8.block--category.block > .js-nodeMain.block-header
+f95zone.to##.block--category72.block--category.block > .block-container > .uix_block-body--outer > .block-body
+f95zone.to##.block--category72.block--category.block > .js-nodeMain.block-header
+f95zone.to##.block--category34.block--category.block > .block-container > .uix_block-body--outer > .block-body
+f95zone.to##.block--category34.block--category.block > .js-nodeMain.block-header
+f95zone.to##.js-filterInput.input
+f95zone.to##.is-disabled.button--wrap.button
+f95zone.to##.badgeContainer.cxf-awnbat-uix--whatsnew.p-navgroup-link--iconic.p-navgroup-link > i
+f95zone.to##.bratr-rating.br-widget--withSelected.br-widget
+f95zone.to##.uix_sidebar--scroller
+f95zone.to##.uix_extendedFooter
+
+onlinetexttools.com##div.py-5.container:nth-of-type(8)
+onlinetexttools.com##.pt-3.pb-4.container
+onlinetexttools.com##.py-3.col-lg-5.col-md-5.col-sm-12.col-xs-12
+onlinetexttools.com##.py-3.col-lg-6.col-md-6.col-sm-12.col-xs-12
+onlinetexttools.com##.pt-1.text-muted.text-lg-start.text-center
+onlinetexttools.com##.pb-4.col-12
+onlinetexttools.com##div.pb-3.col-12:nth-of-type(2)
+onlinetexttools.com##div.pb-3.col-12:nth-of-type(1)
+onlinetexttools.com##div.py-5.container:nth-of-type(15)
+onlinetexttools.com##.py-4.container
+onlinetexttools.com##.py-5.container-fluid
+onlinetexttools.com##.fs-2.text-center.pb-5
+onlinetexttools.com##.pt-5.text-center.col-12
+onlinetexttools.com##.visible.center.active.glider-slide.align-items-center.justify-content-center.d-inline-flex
+onlinetexttools.com##.all-tools.bg-2 > .py-5.container > .pb-3.row
+
+imgur.com##.isTop.active.HomeNavbar.Navbar
+imgur.com##.Gallery-EngagementBarContainer
+imgur.com##.BottomRecirc-label
+imgur.com##.UploadSpinner-contentWrapper
+
+www.androidpolice.com##.active-content.no-badge.small.article-card.article.scroll-offset.display-card
+
+gamefaqs.gamespot.com##.masthead_strip > .row.container
+gamefaqs.gamespot.com##.row.container.masthead_main
+gamefaqs.gamespot.com##.menubutton
+gamefaqs.gamespot.com##.header_split
+gamefaqs.gamespot.com##.title
+gamefaqs.gamespot.com###js_content_nav_toggle
+gamefaqs.gamespot.com##.row.container.footer_site
+gamefaqs.gamespot.com##.footer_network > .row.container
+gamefaqs.gamespot.com##.footer_network
+gamefaqs.gamespot.com##div.cnav_item.cnav_imp > [href="/boards/929914-way-of-the-samurai-3"]
+gamefaqs.gamespot.com##div.cnav_item.cnav_imp > [href="/ps3/929914-way-of-the-samurai-3/answers"]
+gamefaqs.gamespot.com##.content_nav_imp_wrap > .cnav_item_active.cnav_imp > [href="/ps3/929914-way-of-the-samurai-3/faqs"]
+gamefaqs.gamespot.com##div.cnav_item.cnav_imp:nth-of-type(3)
+gamefaqs.gamespot.com##div.cnav_item.cnav_imp:nth-of-type(2)
+gamefaqs.gamespot.com##.content_nav_imp_wrap > .cnav_item_active.cnav_imp
+gamefaqs.gamespot.com##.fixed.top_link
+gamefaqs.gamespot.com##.fixed.rec_closed
+gamefaqs.gamespot.com##.ftoc
+gamefaqs.gamespot.com##p:nth-of-type(2)
+gamefaqs.gamespot.com###rec_one
+gamefaqs.gamespot.com###contrib_rec
+gamefaqs.gamespot.com###faq_header_wrap
+gamefaqs.gamespot.com##.paginate .fa-list-ul.fa
+
+fearlessrevolution.com##.bar-bottom.action-bar
+fearlessrevolution.com##.actions-jump.action-bar
+fearlessrevolution.com##.online-list.stat-block > h3
+fearlessrevolution.com##.online-list.stat-block > p
+fearlessrevolution.com##.copyright
+fearlessrevolution.com###page-footer > .navbar
+fearlessrevolution.com##.profile-rank
+fearlessrevolution.com##.postprofile
+fearlessrevolution.com##.bar-top.action-bar > .pagination
+fearlessrevolution.com##.bar-top.action-bar
+fearlessrevolution.com##.first
+fearlessrevolution.com##.button-icon-only.button
+fearlessrevolution.com##.guest.positive.post-reputation.button
+fearlessrevolution.com##.headerbar
+fearlessrevolution.com##.navlinks.linklist.nav-breadcrumbs
+fearlessrevolution.com###page-header > .navbar
+
+www.pcgamingwiki.com###site-notice
+
+www.xda-developers.com##.adsninja-rail-container.sidebar
+
+forum.mobilism.org##.welcome-bar
+forum.mobilism.org##footer
+forum.mobilism.org##div.row-fluid:nth-of-type(2)
+forum.mobilism.org##.statistics > .span12
+forum.mobilism.org##.social-top > .pull-right
+
+answers.microsoft.com###Announcements > div.f-information.m-alert > div
+
+www.iplay.com###blockers
+www.iplay.com##.search__field
+
+www.gtaall.com##.banners
+www.gtaall.com##.guest.stop-waiting
+www.gtainside.com##.box_highlight_error
+www.gtaind.com###p89f
+
+www.patreon.com##.kolbIl.sc-2cbc2aa3-0
+www.patreon.com##.hkeFJF.sc-eaaab2ce-3
+
+userupload.net##.adb-overlay
+
+retrogametalk.com###kofi-wo-container-mobikofi-widget-overlay-ef50aade-87e6-4ca7-8b25-22704be183b2
+retrogametalk.com##.floatingchat-container-wrap-mobi
+retrogametalk.com###custom_html-20 > .custom-html-widget.textwidget
+retrogametalk.com##.widget-area.sidebar
+
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/For you/i))
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/People also watched/i))
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/People also search for/i))
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Previously watched/i))
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Explore more/i))
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Related to your search/i))
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/From related searches/i))
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scopel-widget.textwidget
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+
+www.cnnindonesia.com##.z-\[1\].relative.rounded-full.h-\[40px\].w-\[40px\].justify-center.items-center.inline-flex.bg-cnn_red.social-open-menu
+www.cnnindonesia.com##.lihatjg
+www.cnnindonesia.com##.p-4.stretch.bg-cnn_black_light.relative
+www.cnnindonesia.com##.bg-cnn_red.stretch.px-4.pb-4
+
+bravebangers.com##.wp-block-group-is-layout-constrained.is-layout-constrained.has-global-padding.wp-block-group > div.wp-block-group-is-layout-constrained.is-layout-constrained.has-global-padding.wp-block-group
+bravebangers.com##.wp-block-columns-is-layout-flex.wp-container-core-columns-is-layout-3.is-layout-flex.alignwide.wp-block-columns
+bravebangers.com##footer.wp-block-template-part > .wp-block-group-is-layout-constrained.is-layout-constrained.has-global-padding.alignfull.wp-block-group
+
+tokopedia.com##[data-testid="divSRPTopadsIcon"]:upward([data-testid="divProductWrapper"])
+tokopedia.com##[data-testid="topadsCPMWrapper"]out-constrained.has-global-padding.align
+tokopedia.com##[data-testid="linkProductTopads"]:upward([data-testid="master-product-card"])
+tokopedia.com##[data-testid="icnHomeTopadsRecom"]:upward([class="prd_container-card css-1c4umxf"])
+tokopedia.com##[data-testid="icnHomeTopadsRecom"]:upward([data-testid="divProduct"])
+shopee.*##.shopee-search-item-result__item:has([data-sqe="ad"])
+
+time.is###menupositioner
+time.is###quote
+
+github.com##.flex-items-center.flex-justify-between.d-flex.my-3
+github.com##.rounded-1.border.blankslate-spacious.blankslate
+github.com##.d-block.d-md-none.mt-3.pt-3.color-border-muted.border-top
+github.com##.mt-md-0.mt-2.flex-md-order-none.flex-order-1
+
+community.chocolatey.org##.py-2.callout-warning.callout
+
+www.tokopedia.com##.An4DXsEyL5oEEiTcq281.OutDcB456rSM42f_wwcl
+www.tokopedia.com##.css-1v3uscg
+www.tokopedia.com##.Ihe49KbGjSssxGXypLMp.OutDcB456rSM42f_wwcl
+
+www.forbes.com##.toaster
+www.forbes.com##.embed-1.link-embed.color-body-border.color-body.embed-base
+www.forbes.com##.embed-2.link-embed.color-body-border.color-body.embed-base
+www.forbes.com##.embed-3.link-embed.color-body-border.color-body.embed-base

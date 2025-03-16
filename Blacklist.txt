@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 11 Mar 2025 19:35 UTC (updated regularly)
-! host_count: 7555
+! Last modified: 17 Mar 2025 05:32 UTC (updated regularly)
+! host_count: 7561
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -1552,6 +1552,7 @@
 0.0.0.0 cmshow.gtimg.cn
 0.0.0.0 cnbcindonesia.com
 0.0.0.0 cnhv.co
+0.0.0.0 cnlogs.umengcloud.com
 0.0.0.0 cnnindonesia.com
 0.0.0.0 cnt.statistic.date
 0.0.0.0 co.akisinn.info
@@ -3798,6 +3799,7 @@
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1407.xiti.com
+0.0.0.0 logservice.dbankcloud.cn
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.dbankcloud.cn
 0.0.0.0 logservice1.hicloud.com
@@ -4664,6 +4666,7 @@
 0.0.0.0 npcdn1.now.sh
 0.0.0.0 npcnc.org
 0.0.0.0 nr-events.taboola.com
+0.0.0.0 nr.bidderstack.com
 0.0.0.0 nrc.tapas.net
 0.0.0.0 nstool.netease.com
 0.0.0.0 ntbpos.com
@@ -6137,6 +6140,7 @@
 0.0.0.0 stat.m.360.cn
 0.0.0.0 stat.media
 0.0.0.0 stat.meitudata.com
+0.0.0.0 stat.nsc-lab.io
 0.0.0.0 stat.weamvideo.com
 0.0.0.0 stat.y.qq.com
 0.0.0.0 statclick.nate.com
@@ -6180,6 +6184,7 @@
 0.0.0.0 statsf-tm.everesttech.net
 0.0.0.0 status-token.com
 0.0.0.0 statustoken.im
+0.0.0.0 stbid.ru
 0.0.0.0 stdown.dinju.com
 0.0.0.0 steadfastsound.com
 0.0.0.0 stekom.ac.id
@@ -7254,6 +7259,7 @@
 0.0.0.0 x.dlx.addthis.com
 0.0.0.0 xdrig.com
 0.0.0.0 xiangshunjy.com
+0.0.0.0 xihubo.click
 0.0.0.0 ximad.com
 0.0.0.0 xjudi.com
 0.0.0.0 xlog-va.tiktokv.com

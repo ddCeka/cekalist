@@ -1,6 +1,6 @@
 ! Title: Amnesty
 ! Description: Source from - https://raw.githubusercontent.com/originalsouth/NSOMet/master/nsomet_hosts.txt
-! Last modified: 17 Mar 2025 05:32 UTC (updated regularly)
+! Last modified: 25 Mar 2025 20:28 UTC (updated regularly)
 ! host_count: 4519
 ! Homepage: https://github.com/ddCeka/CekaList
 

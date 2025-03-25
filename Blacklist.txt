@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 17 Mar 2025 05:32 UTC (updated regularly)
-! host_count: 7561
+! Last modified: 25 Mar 2025 20:30 UTC (updated regularly)
+! host_count: 7566
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -760,6 +760,7 @@
 0.0.0.0 as.adfonic.net
 0.0.0.0 as.cfcdist.loan
 0.0.0.0 as.uncn.jp
+0.0.0.0 asanalytics.booking.com
 0.0.0.0 asarpua.com
 0.0.0.0 asbanda.org
 0.0.0.0 ashgrrwt.click
@@ -1636,6 +1637,7 @@
 0.0.0.0 correcto.id
 0.0.0.0 cosmopolitan.co.id
 0.0.0.0 costco-adbutler.com
+0.0.0.0 counters.booking.com
 0.0.0.0 countly.globaldelight.net
 0.0.0.0 coverbothside.com
 0.0.0.0 cp.blazemvpn.com
@@ -1656,6 +1658,7 @@
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 crome-update-gr.com
+0.0.0.0 crossadsapi.ecomobileapp.com
 0.0.0.0 crossboardmobile.com
 0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 crosspromotion-us.avosapps.us
@@ -2647,6 +2650,7 @@
 0.0.0.0 hibiki-track.logica.bz
 0.0.0.0 hide.ovh
 0.0.0.0 hikmah.co
+0.0.0.0 hilton.data.adobedc.net
 0.0.0.0 himedik.com
 0.0.0.0 hipakad63.news
 0.0.0.0 hipwee.com
@@ -5894,6 +5898,7 @@
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 servedby.o2.co.uk
 0.0.0.0 serveraddr.service.kugou.com
+0.0.0.0 service-ad-image-ga.prd.pluto.tv
 0.0.0.0 service4refresh.info
 0.0.0.0 servisaludocupacional.pe
 0.0.0.0 servr-jkt.com

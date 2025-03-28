@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 12 Mar 2025 21:44 UTC (updated regularly)
+! Last modified: 28 Mar 2025 20:18 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -7647,6 +7647,8 @@ record.xl.pt###BannerINQ
 record.xl.pt##A[href^="http://partner.sbaffiliates.com/"]
 reddit.*###get-app
 reddit.*##.premium-banner
+reddit.com###xpromo-bottom-sheet
+reddit.com##.DualPartInterstitial
 reddup.co/images/reddup-plus.gif
 redirect.id/themes/*.*$domain=redirect.id,image
 redtube.com##.add-blocker-msg

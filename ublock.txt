@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 28 Mar 2025 20:18 UTC (updated regularly)
+! Last modified: 10 Apr 2025 17:27 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -5788,6 +5788,8 @@ keepimg.com/*/*.*$domain=menujulink.com,image
 keepo.me/embed/quiz
 kemendagri.go.id/*/banner/*
 kemendagri.go.id/template/*/images/*
+kemono.su##.backdrop
+kemono.su##.expanded.global-sidebar
 kesaksiansegalabangsa.blogspot.com##.btn.button_email
 kesaksiansegalabangsa.blogspot.com##.button_print
 kesaksiansegalabangsa.blogspot.com##.go-left

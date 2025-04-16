@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 10 Apr 2025 17:27 UTC (updated regularly)
+! Last modified: 16 Apr 2025 14:23 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -2215,10 +2215,6 @@ agar.io###advertisement
 agarserv.com#@##adsense
 ah-me.com##.allIMwindow
 ah-me.com##.movie-pop
-ahok.org/*/themes/*/images/*.jpg
-ahok.org/*/themes/*/images/begron.png
-ahok.org/*/themes/*/images/graybg.png
-ahok.org/*/themes/*/images/tematik.png
 aida64.*##.popup-content
 airy-youtube-downloader.com/*/products/*/*.jpg
 airy-youtube-downloader.com/*/products/*/*.png
@@ -7678,7 +7674,10 @@ restricted.tri.co.id##DIV[class="content"]
 restricted.tri.co.id##IMG[src="GPLOGO.jpg"]
 retrogametalk.com###custom_html-20 > .custom-html-widget.textwidget
 retrogametalk.com###kofi-wo-container-mobikofi-widget-overlay-ef50aade-87e6-4ca7-8b25-22704be183b2
+retrogametalk.com##.author-info
+retrogametalk.com##.comments-block
 retrogametalk.com##.floatingchat-container-wrap-mobi
+retrogametalk.com##.site-info.site-footer
 retrogametalk.com##.widget-area.sidebar
 retry.apk.dog##[href="http://apk.dog/contact"]
 reuters.com##.RTVSyndicatedPlayer
@@ -8612,17 +8611,13 @@ tmpo.co/web/teco/images/*.png
 tnctrx.com/*
 tobys.dk#@#.adsbygoogle
 tokonewtech.com/*/TOKO_NEWTECH_LOGO268x50.png
-tokopedia.*##.css-1n2mv2k
 tokopedia.*##.unf-footer-android
 tokopedia.*##.unf-footer-ios
 tokopedia.*/img/*/error-404*.*$domain=tokopedia.com,image
 tokopedia.com###product-socialholder
 tokopedia.com###shop-cover
-tokopedia.com##.An4DXsEyL5oEEiTcq281.OutDcB456rSM42f_wwcl
-tokopedia.com##.Ihe49KbGjSssxGXypLMp.OutDcB456rSM42f_wwcl
 tokopedia.com##.article-share
 tokopedia.com##.article-share-button
-tokopedia.com##.css-1v3uscg
 tokopedia.com##.jssocials-shares
 tokopedia.com##.jssocials.product-socialholder__button
 tokopedia.com##.rvm-shares-product
@@ -9082,31 +9077,6 @@ twitch.tv/*/about3.mp4
 twitch.tv/*/about4.mp4
 twitchapp.net/*/*.jpg$domain=app.twitch.tv,image
 twitchapp.net/*/*.png$domain=app.twitch.tv,image
-twitter.com###drk_settings_icon
-twitter.com##.StaticLoggedOutHomePage-communicationBlock
-twitter.com##.promoted-tweet[data-disclosure-type="promoted"]
-twitter.com##.stream .tweet[data-card2-type="promo_website"]
-twitter.com##.tweet[data-card2-type="promo_website"]
-twitter.com##A[class="ProfileCard-bg js-nav"]
-twitter.com##DIV[class="background-companion-tweets"]
-twitter.com##DIV[class="flex-module import-prompt"]
-twitter.com##DIV[class="front-bg"]
-twitter.com##DIV[class="front-image"]
-twitter.com##DIV[class="front-welcome"]
-twitter.com##DIV[class="front-welcome-text"]
-twitter.com##DIV[id="page-container"][class="AppContent wrapper wrapper-download"]
-twitter.com##[class="t1-form form-horizontal sms-form"]
-twitter.com##[href="//support.twitter.com"]
-twitter.com##[href^="https://ads.twitter.com/"]
-twitter.com##[id="device-registration-form"]
-twitter.com/*/*.gif
-twitter.com/*/*.jpg
-twitter.com/*/*.mp4
-twitter.com/*/*.png
-twitter.com/widgets/*$domain=jagokata.com,subdocument
-twitter.com/widgets/*.*$domain=hiapphere.com,subdocument
-twitter.com/widgets/*.*$domain=m.hiapphere.com,subdocument
-twitter.com/widgets/tweet_button.*
 twojeip.wp.pl#@##adverts
 twoo-a.akamaihd.net/static/*/img-phones.png$domain=twoo.com,image
 twoo.com##.jsHighlightMessageUpsell
@@ -9622,8 +9592,6 @@ www.gtaind.com###p89f
 www.gtainside.com##.box_highlight_error
 www.iplay.com###blockers
 www.iplay.com##.search__field
-www.patreon.com##.hkeFJF.sc-eaaab2ce-3
-www.patreon.com##.kolbIl.sc-2cbc2aa3-0
 www.pcgamingwiki.com###site-notice
 www.tokopedia.com##.An4DXsEyL5oEEiTcq281.OutDcB456rSM42f_wwcl
 www.tokopedia.com##.Ihe49KbGjSssxGXypLMp.OutDcB456rSM42f_wwcl
@@ -9914,12 +9882,6 @@ ziddu.com/images/image6.jpg
 ziddu.com/images/image7.jpg
 ziddu.com/images/image8.jpg
 ziddu.com/images/image9.jpg
-zippyshare.*###bottom
-zippyshare.*##.video-share
-zippyshare.com##DIV[class="logo"]
-zippyshare.com##DIV[class="ramka_container"]
-zippyshare.com##DIV[class="slickbox"]
-zippyshare.com##DIV[id="qrCode"]
 zlshorte.net##.banner-inner
 zmovs.com##.closeBtn
 zmovs.com##.inplayer_banners
@@ -10004,8 +9966,6 @@ zuuk.org###fl10
 ||@@uploadev.*##.directl
 ||@@uploadev.*##input
 ||@@vidio.*##.site-header__container
-||@@zippyshare.*###dlbutton
-||@@zippyshare.*##.download
 ||a.optnmnstr.com^$third-party
 ||a.optnmstr.com^$third-party
 ||accounts.google.com/gsi/*$xhr,script,3p

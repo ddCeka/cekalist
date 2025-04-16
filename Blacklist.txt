@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 08 Apr 2025 03:30 UTC (updated regularly)
-! host_count: 7571
+! Last modified: 16 Apr 2025 14:26 UTC (updated regularly)
+! host_count: 7583
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -697,6 +697,8 @@
 0.0.0.0 api2.branch.io
 0.0.0.0 api3.branch.io
 0.0.0.0 apis.appnxt.net
+0.0.0.0 apishow.babybus.com
+0.0.0.0 apishowstats.babybus.com
 0.0.0.0 apitu.org
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 aplikasi-indonesia.com
@@ -730,6 +732,7 @@
 0.0.0.0 appnexus-partners.tremorhub.com
 0.0.0.0 appodeal.com
 0.0.0.0 appodealx.com
+0.0.0.0 apppromoteapi.babybus.com
 0.0.0.0 appsdt.com
 0.0.0.0 appserver-ap.com
 0.0.0.0 appserver-cp.com
@@ -1535,6 +1538,7 @@
 0.0.0.0 clk.taptica.com
 0.0.0.0 clkfeed.com
 0.0.0.0 clog.mirrativ.com
+0.0.0.0 clog.weverse.io
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
 0.0.0.0 cloudads-a.akamaihd.net
@@ -1594,6 +1598,7 @@
 0.0.0.0 collect.media.jio.com
 0.0.0.0 collect.serious.li
 0.0.0.0 collect.ureca-lab.com
+0.0.0.0 collection.weverse.io
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.vhx.tv
@@ -3646,6 +3651,7 @@
 0.0.0.0 lenteratimes.com
 0.0.0.0 leoceran.pw
 0.0.0.0 lepodownload.mediatek.com
+0.0.0.0 lf-static.tiktokpangle-cdn-us.com
 0.0.0.0 lflsoftware.com
 0.0.0.0 lg-release-tracking-8080.gcld-line.com
 0.0.0.0 lgvlbd.icu
@@ -4075,6 +4081,7 @@
 0.0.0.0 metok.sys.miui.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 metrics-prod.suno.com
+0.0.0.0 metrics-us.cometchat.io
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.claspws.tv
 0.0.0.0 metrics.happycolor.app
@@ -5504,6 +5511,7 @@
 0.0.0.0 renunganhariankristen.com
 0.0.0.0 replase.gq
 0.0.0.0 replase.ml
+0.0.0.0 report-edge.agora.io
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 report.apkpure.net
@@ -6561,6 +6569,7 @@
 0.0.0.0 tidnqztumpnk.com
 0.0.0.0 tifamaluku.com
 0.0.0.0 tiket.com
+0.0.0.0 tiktokpangle.us
 0.0.0.0 tilik.id
 0.0.0.0 timenews.co.id
 0.0.0.0 timesindonesia.co.id
@@ -6588,6 +6597,8 @@
 0.0.0.0 titiktemu.co
 0.0.0.0 tivan.naver.com
 0.0.0.0 tizerclik.com
+0.0.0.0 tjinit-event.babybus.com
+0.0.0.0 tjinit-global-register.babybus.com
 0.0.0.0 tk0x1.com
 0.0.0.0 tkcatrun.aotter.net
 0.0.0.0 tkcatwalk.aotter.net
@@ -6959,6 +6970,7 @@
 0.0.0.0 uzone.id
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 v16-ad.byteoversea.com
+0.0.0.0 v8b9c0x1z2.sai7348.xyz
 0.0.0.0 vagansa.com
 0.0.0.0 vakansi.co
 0.0.0.0 valapedia.com

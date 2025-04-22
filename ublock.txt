@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 16 Apr 2025 14:23 UTC (updated regularly)
+! Last modified: 23 Apr 2025 03:41 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -3979,13 +3979,9 @@ f95zone.to##.block--category72.block--category.block > .block-container > .uix_b
 f95zone.to##.block--category72.block--category.block > .js-nodeMain.block-header
 f95zone.to##.block--category8.block--category.block > .block-container > .uix_block-body--outer > .block-body
 f95zone.to##.block--category8.block--category.block > .js-nodeMain.block-header
-f95zone.to##.block-bottomRadiusContent.block-topRadiusContent.message--quickReply.message > .message-inner > .message-cell--main.message-cell
-f95zone.to##.blockMessage--warning.blockMessage
 f95zone.to##.bratr-rating.br-widget--withSelected.br-widget
 f95zone.to##.is-disabled.button--wrap.button
 f95zone.to##.js-filterInput.input
-f95zone.to##.notice--primary.js-notice.notice
-f95zone.to##.notice-content
 f95zone.to##.p-breadcrumbs--bottom.p-breadcrumbs > li > [href="/forums/games.2/"]
 f95zone.to##.p-footer-inner
 f95zone.to##.p-footer-inner > .pageContent
@@ -4333,6 +4329,7 @@ forum.gamespowerita.com#@##ad_block
 forum.gizmolord.com###announcement-container > #announcement-content > .no
 forum.gravindo.id##IMG[src="images/misc/forum-logo.png"]
 forum.lytogame.com##IFRAME[src="/includea/headerforum.php"]
+forum.mobilism.org##.footable-loaded.breakpoint.phone.announcement.table-hover.table-primary.table-white.table.footable
 forum.mobilism.org##.social-top > .pull-right
 forum.mobilism.org##.statistics > .span12
 forum.mobilism.org##.welcome-bar

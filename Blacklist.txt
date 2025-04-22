@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 16 Apr 2025 14:26 UTC (updated regularly)
-! host_count: 7583
+! Last modified: 23 Apr 2025 03:46 UTC (updated regularly)
+! host_count: 7589
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -277,6 +277,7 @@
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-leaseweb.appsgeyser.com
 0.0.0.0 ads-link.net
+0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-router-noneu.truecaller.com
 0.0.0.0 ads-sdk.mattel163.com
@@ -932,6 +933,7 @@
 0.0.0.0 bareksa.com
 0.0.0.0 baritaitah.co.id
 0.0.0.0 baritorayapost.com
+0.0.0.0 baron777premium.com
 0.0.0.0 barungeblog.com
 0.0.0.0 batakpost.com
 0.0.0.0 bataminfo.co.id
@@ -2250,6 +2252,7 @@
 0.0.0.0 events.textme-app.com
 0.0.0.0 events.tvtime.com
 0.0.0.0 events.watchtower.imdbtv.amazon.dev
+0.0.0.0 eventsv2balanced.malpagames.com
 0.0.0.0 everestop.io
 0.0.0.0 everypoker.com
 0.0.0.0 evilsbedont.de
@@ -3924,6 +3927,7 @@
 0.0.0.0 manhwalist.xyz
 0.0.0.0 manifest.auditude.com
 0.0.0.0 manjeetsteelproductions.com
+0.0.0.0 mansion777y.store
 0.0.0.0 mansionpoker.com
 0.0.0.0 maribelajarcoding.com
 0.0.0.0 marinyo.com
@@ -5092,6 +5096,7 @@
 0.0.0.0 plink.site
 0.0.0.0 pllcj.contest.printondemandmerchandise.com
 0.0.0.0 ploy.batmobi.net
+0.0.0.0 pls.prd.mz.internal.unity3d.com
 0.0.0.0 plugin.mediavoice.com
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 pm.w55c.net
@@ -5953,6 +5958,7 @@
 0.0.0.0 shiiuojjccp.com
 0.0.0.0 shinryu2.blogspot.com
 0.0.0.0 shiokambing2.com
+0.0.0.0 shiotogel4dk.art
 0.0.0.0 shirodoujin.com
 0.0.0.0 shor.by
 0.0.0.0 showbiz.co.id

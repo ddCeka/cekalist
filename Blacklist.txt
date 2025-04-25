@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 23 Apr 2025 03:46 UTC (updated regularly)
-! host_count: 7589
+! Last modified: 25 Apr 2025 17:27 UTC (updated regularly)
+! host_count: 7595
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -175,6 +175,7 @@
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashx.ut.alibaba.com
 0.0.0.0 adashx4ae.ut.taobao.com
+0.0.0.0 adashx4id.ut.taobao.com
 0.0.0.0 adatah.com
 0.0.0.0 adawarta.com
 0.0.0.0 adballoon.afreecatv.com
@@ -387,6 +388,7 @@
 0.0.0.0 adtimaserver.vn
 0.0.0.0 adtimeselaras.com
 0.0.0.0 adtorque.in
+0.0.0.0 adtrack-intl.ucweb.com
 0.0.0.0 adtrack.appcpi.net
 0.0.0.0 adtrack.king.com
 0.0.0.0 adtrack.xiaojukeji.com
@@ -593,6 +595,7 @@
 0.0.0.0 analytics.starmakerstudios.com
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.tiktok.com
+0.0.0.0 analytics.us.tiktok.com
 0.0.0.0 analytics.wildlifestudios.com
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 andalas-time.com
@@ -1289,6 +1292,7 @@
 0.0.0.0 bruiserbodies.com
 0.0.0.0 brva.fans.smalladventureguide.com
 0.0.0.0 bs.nakanohito.jp
+0.0.0.0 bts-la.ucweb.com
 0.0.0.0 bttrack.com
 0.0.0.0 bu1.duba.com
 0.0.0.0 buana.news
@@ -3023,6 +3027,7 @@
 0.0.0.0 intinews.co
 0.0.0.0 intipnews.com
 0.0.0.0 intipos.com
+0.0.0.0 intlsucus.ucweb.com
 0.0.0.0 intowow.com
 0.0.0.0 invesnesia.com
 0.0.0.0 invest.smartlands.tech
@@ -4293,6 +4298,7 @@
 0.0.0.0 mtrcss.com
 0.0.0.0 muchospoker.com
 0.0.0.0 multiply-ethereum.info
+0.0.0.0 mum.alibabachengdun.com
 0.0.0.0 munadi.id
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 murianews.com

@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 25 Apr 2025 17:12 UTC (updated regularly)
+! Last modified: 28 Apr 2025 21:03 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -9587,6 +9587,7 @@ www.gtaind.com###p89f
 www.gtainside.com##.box_highlight_error
 www.iplay.com###blockers
 www.iplay.com##.search__field
+www.nexusmods.com##.justify-center.w-full.flex.mt-auto
 www.pcgamingwiki.com###site-notice
 www.tokopedia.com##.An4DXsEyL5oEEiTcq281.OutDcB456rSM42f_wwcl
 www.tokopedia.com##.Ihe49KbGjSssxGXypLMp.OutDcB456rSM42f_wwcl

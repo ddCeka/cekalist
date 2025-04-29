@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 25 Apr 2025 17:27 UTC (updated regularly)
-! host_count: 7595
+! Last modified: 29 Apr 2025 18:24 UTC (updated regularly)
+! host_count: 7598
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -715,6 +715,7 @@
 0.0.0.0 app.appsflyer.com
 0.0.0.0 app.ssp.yahoo.com
 0.0.0.0 appaware.org
+0.0.0.0 appbaqend.com
 0.0.0.0 appboy-images.com
 0.0.0.0 appclick.net
 0.0.0.0 appcoinsproject.com
@@ -3977,6 +3978,7 @@
 0.0.0.0 match.taboola.com
 0.0.0.0 match.zorosrv.com
 0.0.0.0 mathtag.com
+0.0.0.0 maticooads.com
 0.0.0.0 matob.web.id
 0.0.0.0 matrix.dailyinnovation.biz
 0.0.0.0 mattanews.co
@@ -6909,6 +6911,7 @@
 0.0.0.0 ulasan.tv
 0.0.0.0 ulink.adjust.com
 0.0.0.0 ulog-sdk.gifshow.com
+0.0.0.0 ulogjs.ksapisrv.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ultima7.fun

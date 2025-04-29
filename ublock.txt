@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 28 Apr 2025 21:03 UTC (updated regularly)
+! Last modified: 29 Apr 2025 18:19 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -4335,6 +4335,7 @@ forum.mobilism.org##.statistics > .span12
 forum.mobilism.org##.welcome-bar
 forum.mobilism.org##div.row-fluid:nth-of-type(2)
 forum.mobilism.org##footer
+forum.mobilism.org##tr.sticky > .footable-first-column.footable-last-column.expand
 forum.pac-rom.com#@#.banner_ads
 forum.ratemyserver.net##DIV[id="logo"]
 forum.thgtr.com##.block_uyari
@@ -9587,11 +9588,10 @@ www.gtaind.com###p89f
 www.gtainside.com##.box_highlight_error
 www.iplay.com###blockers
 www.iplay.com##.search__field
+www.nexusmods.com###rj-sitemap
 www.nexusmods.com##.justify-center.w-full.flex.mt-auto
 www.pcgamingwiki.com###site-notice
-www.tokopedia.com##.An4DXsEyL5oEEiTcq281.OutDcB456rSM42f_wwcl
-www.tokopedia.com##.Ihe49KbGjSssxGXypLMp.OutDcB456rSM42f_wwcl
-www.tokopedia.com##.css-1v3uscg
+www.tokopedia.com##.css-*
 www.xda-developers.com##.adsninja-rail-container.sidebar
 www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scopel-widget.textwidget
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope

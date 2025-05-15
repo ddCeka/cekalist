@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 29 Apr 2025 18:24 UTC (updated regularly)
-! host_count: 7598
+! Last modified: 15 May 2025 12:35 UTC (updated regularly)
+! host_count: 7630
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -653,6 +653,7 @@
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.adaether.com
 0.0.0.0 api.ads.newsdigest.jp
 0.0.0.0 api.ads.watchabc.go.com
 0.0.0.0 api.ampiri.com
@@ -786,6 +787,7 @@
 0.0.0.0 asupan.me
 0.0.0.0 asurastrike.de
 0.0.0.0 aswajanews.com
+0.0.0.0 at-af.outfit7.com
 0.0.0.0 atb-stats-api.imolive.tv
 0.0.0.0 athena.api.kwalee.com
 0.0.0.0 atlant.solutions
@@ -938,6 +940,7 @@
 0.0.0.0 baritaitah.co.id
 0.0.0.0 baritorayapost.com
 0.0.0.0 baron777premium.com
+0.0.0.0 baron777py.com
 0.0.0.0 barungeblog.com
 0.0.0.0 batakpost.com
 0.0.0.0 bataminfo.co.id
@@ -1100,6 +1103,7 @@
 0.0.0.0 bicaranews.com
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bidder.criteo.com
+0.0.0.0 bidder.dsp.outfit7.com
 0.0.0.0 bidder.mdspinc.com
 0.0.0.0 biddingmax.apse.trk.rixserv.com
 0.0.0.0 bidik.news
@@ -1629,6 +1633,7 @@
 0.0.0.0 config2.mparticle.com
 0.0.0.0 configmgrenroll.mehmanmarket.ir
 0.0.0.0 configuration.ttpsdk.info
+0.0.0.0 configure.rayjump.com
 0.0.0.0 coniomi.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 consent-manager-events.ogury.io
@@ -1698,6 +1703,7 @@
 0.0.0.0 csf.uzone.id
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csm2waycm-atl.netmng.com
+0.0.0.0 csplog.kwai-pro.com
 0.0.0.0 csync.loopme.me
 0.0.0.0 ctl.buyt.in
 0.0.0.0 cubmu.com
@@ -1713,8 +1719,10 @@
 0.0.0.0 curwe.fi
 0.0.0.0 cutt.ly
 0.0.0.0 cuvre.financial
+0.0.0.0 cvt-s2.agl005.tech
 0.0.0.0 cws-hulu.conviva.com
 0.0.0.0 cyberjudi.com
+0.0.0.0 czechcash.com
 0.0.0.0 d-cache.microad.jp
 0.0.0.0 d-load.org
 0.0.0.0 d.adroll.com
@@ -1959,6 +1967,7 @@
 0.0.0.0 dollphoin.site
 0.0.0.0 domainesia-assets.s3.amazonaws.com
 0.0.0.0 domainesia.com
+0.0.0.0 donasi.lk21.de
 0.0.0.0 donttbeevils.de
 0.0.0.0 doooood.co
 0.0.0.0 doroni.me
@@ -2228,8 +2237,10 @@
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-dot-learning-piano.appspot.com
 0.0.0.0 event-search.jorte.com
+0.0.0.0 event-us.ssp.taxssp.com
 0.0.0.0 event.clientgear.com
 0.0.0.0 event.karrotmarket.com
+0.0.0.0 event.meloshort.com
 0.0.0.0 event.togothermany.com
 0.0.0.0 eventchain.co
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
@@ -2397,6 +2408,7 @@
 0.0.0.0 gacorbgt.ws
 0.0.0.0 gadgetdiva.id
 0.0.0.0 gadgetized.net
+0.0.0.0 gadsme.com
 0.0.0.0 gaikindo.or.id
 0.0.0.0 galerisumba.com
 0.0.0.0 gamaibids.com
@@ -2627,6 +2639,8 @@
 0.0.0.0 harpersbazaar.co.id
 0.0.0.0 hashing.win
 0.0.0.0 hasiltogel.club
+0.0.0.0 hb-af-us-central1.outfit7.com
+0.0.0.0 hb-failover-stpceyl2ua-uw.a.run.app
 0.0.0.0 hb.rayjump.com
 0.0.0.0 hbevents.1rx.io
 0.0.0.0 hboindo.com
@@ -3749,6 +3763,7 @@
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-music-data.line-apps.com
+0.0.0.0 log-sdk.ksapisrv.com
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 log-upload-eur.mihoyo.com
@@ -3821,6 +3836,7 @@
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1407.xiti.com
+0.0.0.0 logsdk.kwai-pro.com
 0.0.0.0 logservice.dbankcloud.cn
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.dbankcloud.cn
@@ -4204,6 +4220,7 @@
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mob2.healthtrackergroup.com
+0.0.0.0 mob2.mymusic2025.com
 0.0.0.0 moba8.net
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mobads4app.com
@@ -4274,6 +4291,7 @@
 0.0.0.0 monwnews.com
 0.0.0.0 mopub-win-us-east.bksn.se
 0.0.0.0 morningfinance.com
+0.0.0.0 mosspf.net
 0.0.0.0 mossru.com
 0.0.0.0 motherandbeyond.id
 0.0.0.0 motorplus-online.com
@@ -5427,6 +5445,7 @@
 0.0.0.0 raiden-network.org
 0.0.0.0 raiden.online
 0.0.0.0 raidens.network
+0.0.0.0 rainmaker.production-public.tubi.io
 0.0.0.0 rajabacklink.com
 0.0.0.0 rajafilm21.com
 0.0.0.0 rajafilm21.xyz
@@ -5746,6 +5765,7 @@
 0.0.0.0 sdiratrust.com
 0.0.0.0 sdk-04.moengage.com
 0.0.0.0 sdk-api-v1.singular.net
+0.0.0.0 sdk-api.kidoz.net
 0.0.0.0 sdk-log-inter.youdao.com
 0.0.0.0 sdk-monitoring.ogury.co
 0.0.0.0 sdk-orion.appboy.com
@@ -5960,6 +5980,7 @@
 0.0.0.0 sharer.my.id
 0.0.0.0 sharethrough.com
 0.0.0.0 sharkpokertour.com
+0.0.0.0 sheilaqeb.com
 0.0.0.0 shell.dimitrimedia.com
 0.0.0.0 shiapeshift.in
 0.0.0.0 shiiticprating.com
@@ -6163,6 +6184,7 @@
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stas.outbrain.com
+0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 stat-in.dc.oppomobile.com
 0.0.0.0 stat.duokanbox.com
 0.0.0.0 stat.flashtalking.com
@@ -6404,6 +6426,7 @@
 0.0.0.0 syndopop.com
 0.0.0.0 synexenergygroup.net
 0.0.0.0 synthes.vo.llnwd.net
+0.0.0.0 t-odx.op-mobile.opera.com
 0.0.0.0 t-zero.org
 0.0.0.0 t.adx.opera.com
 0.0.0.0 t.appsflyer.com
@@ -6911,9 +6934,16 @@
 0.0.0.0 ulasan.tv
 0.0.0.0 ulink.adjust.com
 0.0.0.0 ulog-sdk.gifshow.com
+0.0.0.0 ulog.ksapisrv.com
+0.0.0.0 ulog.kwai-pro.com
+0.0.0.0 ulog.kwaipros.com
+0.0.0.0 ulog1-us.kwai-pro.com
+0.0.0.0 ulog2-us.kwaipros.com
 0.0.0.0 ulogjs.ksapisrv.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 ulogs.umengcloud.com
+0.0.0.0 ulogs1.ksapisrv.com
+0.0.0.0 ulogs2.ksapisrv.com
 0.0.0.0 ultima7.fun
 0.0.0.0 ultraadserver.com
 0.0.0.0 um.simpli.fi
@@ -6984,6 +7014,7 @@
 0.0.0.0 uwrite.id
 0.0.0.0 uzone.id
 0.0.0.0 v-collector.dp.aws.charter.com
+0.0.0.0 v.kidoz.net
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 v8b9c0x1z2.sai7348.xyz
 0.0.0.0 vagansa.com
@@ -7190,6 +7221,7 @@
 0.0.0.0 wisatarakyat.com
 0.0.0.0 wiwidstory.com
 0.0.0.0 wkuave.com
+0.0.0.0 wlog.ksapisrv.com
 0.0.0.0 woi.gg
 0.0.0.0 wompanalytics.azurewebsites.net
 0.0.0.0 wonosobozone.com

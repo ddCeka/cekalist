@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 15 May 2025 12:35 UTC (updated regularly)
-! host_count: 7630
+! Last modified: 23 May 2025 04:09 UTC (updated regularly)
+! host_count: 7639
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -300,6 +300,7 @@
 0.0.0.0 ads.edadeal.ru
 0.0.0.0 ads.feelingtouch.com
 0.0.0.0 ads.gadgetsquad.id
+0.0.0.0 ads.gmbr.pro
 0.0.0.0 ads.id
 0.0.0.0 ads.idntimes.com
 0.0.0.0 ads.imbc.com
@@ -710,6 +711,7 @@
 0.0.0.0 apm-log-upload-os.hoyoverse.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
+0.0.0.0 app-tracking.hlogo.de
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
@@ -726,6 +728,7 @@
 0.0.0.0 appintop.com
 0.0.0.0 applifier.com
 0.0.0.0 appload.icu
+0.0.0.0 applog.lc.quark.cn
 0.0.0.0 applog.uc.cn
 0.0.0.0 applogs-v2.pixelfederation.com
 0.0.0.0 applogs.pixelfederation.com
@@ -3799,6 +3802,7 @@
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.jackpotmasterslots.com
 0.0.0.0 log.kajicam.com
+0.0.0.0 log.m.sm.cn
 0.0.0.0 log.make50.com
 0.0.0.0 log.mgtv.com
 0.0.0.0 log.mmstat.com
@@ -5364,6 +5368,7 @@
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.powerlinks.com
 0.0.0.0 px.ucweb.com
+0.0.0.0 px.wpk.quark.cn
 0.0.0.0 pyfahealth.com
 0.0.0.0 pyro0.github.io
 0.0.0.0 pz99.me
@@ -6755,6 +6760,7 @@
 0.0.0.0 track-east.mobileadtrading.com
 0.0.0.0 track-resource.bidease.com
 0.0.0.0 track-us.bidease.com
+0.0.0.0 track.adflow-prod.minionplatform.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.aieic.com
 0.0.0.0 track.appsflyer.com
@@ -6765,6 +6771,7 @@
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.hk01.com
 0.0.0.0 track.ktplay.com
+0.0.0.0 track.lc.quark.cn
 0.0.0.0 track.midway.run
 0.0.0.0 track.mobshark.net
 0.0.0.0 track.pingstart.com
@@ -6919,6 +6926,8 @@
 0.0.0.0 ubiqcoin.org
 0.0.0.0 ubunlog.com
 0.0.0.0 uc.ucweb.com
+0.0.0.0 uc9.ucweb.com
+0.0.0.0 ucus.ucweb.com
 0.0.0.0 udmserve.net
 0.0.0.0 ue.flipboard.com
 0.0.0.0 ueuodgnrhb.com

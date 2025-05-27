@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 23 May 2025 04:09 UTC (updated regularly)
-! host_count: 7639
+! Last modified: 27 May 2025 11:30 UTC (updated regularly)
+! host_count: 7648
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -325,6 +325,7 @@
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.rmbl.ws
 0.0.0.0 ads.rubiconproject.com
+0.0.0.0 ads.save21.site
 0.0.0.0 ads.scorecardresearch.com
 0.0.0.0 ads.smrtbid.com
 0.0.0.0 ads.sorot.co
@@ -648,6 +649,7 @@
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-analytics.metaps.com
 0.0.0.0 api-analytics.prod.birdapp.com
+0.0.0.0 api-fp-retry-bj.fengkongcloud.com
 0.0.0.0 api-ms.cobainaja.id
 0.0.0.0 api.52kkg.com
 0.0.0.0 api.abcsinsights.com
@@ -2382,6 +2384,7 @@
 0.0.0.0 fortuneidn.com
 0.0.0.0 forumiklan.com
 0.0.0.0 forumsemut.com
+0.0.0.0 fp-it.fengkongcloud.com
 0.0.0.0 franchiseglobal.com
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 fraudmetrix.cn
@@ -3767,6 +3770,7 @@
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-sdk.ksapisrv.com
+0.0.0.0 log-sg.capcutapi.com
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 log-upload-eur.mihoyo.com
@@ -4270,6 +4274,7 @@
 0.0.0.0 mon-fra-1.inf.nimiq.network
 0.0.0.0 mon-fra-2.inf.nimiq.network
 0.0.0.0 mon-gbr-1.inf.nimiq.network
+0.0.0.0 mon-sg.capcutapi.com
 0.0.0.0 mon-va-us-looki.capcutapi.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.isnssdk.com
@@ -5650,6 +5655,7 @@
 0.0.0.0 rtblab.net
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtd-tm.everesttech.net
+0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 rtlog.isnssdk.com
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 rtopcadet.com
@@ -6657,6 +6663,9 @@
 0.0.0.0 tmars.net
 0.0.0.0 tmcblog.com
 0.0.0.0 tmz.vo.llnwd.net
+0.0.0.0 tnc-boot.capcutapi.com
+0.0.0.0 tnc-sg.capcutapi.com
+0.0.0.0 tnc-va-us-looki.capcutapi.com
 0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tnc16-useast1a.isnssdk.com
 0.0.0.0 tnkfactory.com

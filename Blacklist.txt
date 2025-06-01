@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 27 May 2025 11:30 UTC (updated regularly)
-! host_count: 7648
+! Last modified: 01 Jun 2025 08:18 UTC (updated regularly)
+! host_count: 7650
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -2746,6 +2746,7 @@
 0.0.0.0 hydewood.com
 0.0.0.0 hydrominer.biz
 0.0.0.0 hyperadx.com
+0.0.0.0 hz-telemetry.adobe.io
 0.0.0.0 i-mobile.co.jp
 0.0.0.0 i-vengo.com
 0.0.0.0 i.clean.gg
@@ -6100,6 +6101,7 @@
 0.0.0.0 slurr.my.id
 0.0.0.0 smaclick.com
 0.0.0.0 smartadserver.com
+0.0.0.0 smartcard.apps.coloros.com
 0.0.0.0 smartcitymakassar.com
 0.0.0.0 smartcontract.live
 0.0.0.0 smartcontractlink.com

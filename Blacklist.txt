@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 01 Jun 2025 08:18 UTC (updated regularly)
-! host_count: 7650
+! Last modified: 06 Jun 2025 18:47 UTC (updated regularly)
+! host_count: 7651
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -7001,6 +7001,7 @@
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 upsight.com
+0.0.0.0 urbanairship.com
 0.0.0.0 urbanasia.com
 0.0.0.0 urbandigital.id
 0.0.0.0 urbanjabar.com

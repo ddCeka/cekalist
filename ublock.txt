@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 07 Jun 2025 00:28 UTC (updated regularly)
+! Last modified: 10 Jun 2025 18:34 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -9573,6 +9573,10 @@ wwc.nmmfk.xyz/i/*.jpg
 wwg.com##.ad_blk
 wwg.com##.adhesion-block
 www.androidpolice.com##.active-content.no-badge.small.article-card.article.scroll-offset.display-card
+www.bmkg.go.id##.bg-\[\#F6F8FC\].overflow-hidden.max-w-\[1920px\].mx-auto.relative > .lg\:py-20.py-10.relative
+www.bmkg.go.id##.lg\:py-20.py-10.bg-\[linear-gradient\(180deg\,_\#F6F8FC_74\.67\%\,_rgba\(255\,_255\,_255\,_0\.06\)_100\%\)\]
+www.bmkg.go.id##.lg\:py-20.py-10.bg-\[linear-gradient\(180deg\,_rgba\(246\,_248\,_252\,_0\.00\)_0\%\,_\#F6F8FC_47\.82\%\)\]
+www.bmkg.go.id##section.lg\:py-20.py-10.bg-white
 www.cnnindonesia.com##.bg-cnn_red.stretch.px-4.pb-4
 www.cnnindonesia.com##.lihatjg
 www.cnnindonesia.com##.p-4.stretch.bg-cnn_black_light.relative
@@ -10379,6 +10383,7 @@ zuuk.org###fl10
 ||laterpay.net^$domain=geo.de
 ||lavozdealmeria.es/js/addblock.js
 ||layarsoft.*/*/uploads/*/layarsoft.png$image
+||lc-bmkg.omnix.co.id//$subdocument
 ||leadzutw.com^$third-party
 ||leparisien.fr/espace-securise/shield/read-article/*?fingerprint=
 ||lequipe.fr/v6/js/popinVideo.js$script

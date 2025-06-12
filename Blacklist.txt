@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 10 Jun 2025 21:28 UTC (updated regularly)
-! host_count: 7651
+! Last modified: 12 Jun 2025 14:02 UTC (updated regularly)
+! host_count: 7652
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -1779,6 +1779,7 @@
 0.0.0.0 darmediatama.com
 0.0.0.0 dash.adjust.com
 0.0.0.0 daspoker.com
+0.0.0.0 data-detect.nie.easebar.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 data-token.com
 0.0.0.0 data.ad-score.com

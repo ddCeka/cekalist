@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 12 Jun 2025 14:02 UTC (updated regularly)
-! host_count: 7652
+! Last modified: 19 Jun 2025 14:42 UTC (updated regularly)
+! host_count: 7667
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -275,6 +275,7 @@
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-image.production-public.tubi.io
+0.0.0.0 ads-img-al.xhscdn.com
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-leaseweb.appsgeyser.com
 0.0.0.0 ads-link.net
@@ -710,7 +711,10 @@
 0.0.0.0 apitu.org
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 aplikasi-indonesia.com
+0.0.0.0 apm-fe.xiaohongshu.com
 0.0.0.0 apm-log-upload-os.hoyoverse.com
+0.0.0.0 apm-native.xiaohongshu.com
+0.0.0.0 apm-track.xiaohongshu.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
 0.0.0.0 app-tracking.hlogo.de
@@ -1545,6 +1549,7 @@
 0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.okezone.com
+0.0.0.0 clientlog.perfectworldgames.com
 0.0.0.0 clientlog3.music.163.com
 0.0.0.0 clientlogdep.music.163.com
 0.0.0.0 clientlogsf.music.163.com
@@ -1944,6 +1949,7 @@
 0.0.0.0 dl.browsermine.com
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
+0.0.0.0 dlog.perfectworldgames.com
 0.0.0.0 dls2s.appsflyer.com
 0.0.0.0 dlsdk.appsflyer.com
 0.0.0.0 dlsdk.appsflyersdk.com
@@ -2067,6 +2073,7 @@
 0.0.0.0 ecology.my.id
 0.0.0.0 edge.adobedc.net
 0.0.0.0 edisi.co.id
+0.0.0.0 edith-seb.xiaohongshu.com
 0.0.0.0 editor.id
 0.0.0.0 edmanalytics.pandahall.com
 0.0.0.0 edomz.com
@@ -2552,6 +2559,7 @@
 0.0.0.0 gosulsel.com
 0.0.0.0 gotvnews.co.id
 0.0.0.0 goyetteconnelly.bid
+0.0.0.0 gpm-mon-va.byteoversea.com
 0.0.0.0 grahasuara.id
 0.0.0.0 gramico.info
 0.0.0.0 gramombird.com
@@ -3826,7 +3834,9 @@
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.happymod.com
+0.0.0.0 log1.perfectworldgames.com
 0.0.0.0 log16-normal-useast5.tiktokv.us
+0.0.0.0 log2.perfectworldgames.com
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 loganmedia.mobi
 0.0.0.0 logapi-and.zhipin.com
@@ -3838,6 +3848,7 @@
 0.0.0.0 login-kucoin.net
 0.0.0.0 loginshare.net
 0.0.0.0 logs-ingress.svc.vinted.com
+0.0.0.0 logs-sg.rebxgame.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.gaaana.com
 0.0.0.0 logs.gshopper.com
@@ -3989,6 +4000,7 @@
 0.0.0.0 matakita.co
 0.0.0.0 matakota.com
 0.0.0.0 matamata.com
+0.0.0.0 matamata.com.wrap-ads-r
 0.0.0.0 matanusantara.com
 0.0.0.0 mataradarindonesia.com
 0.0.0.0 matari-ad.com
@@ -5656,6 +5668,7 @@
 0.0.0.0 rtbc-uw1.doubleverify.com
 0.0.0.0 rtblab.net
 0.0.0.0 rtc-logger-va.tiktokv.com
+0.0.0.0 rtc-logger.bytevcloud.com
 0.0.0.0 rtd-tm.everesttech.net
 0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 rtlog.isnssdk.com
@@ -5780,6 +5793,7 @@
 0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk-api.kidoz.net
 0.0.0.0 sdk-log-inter.youdao.com
+0.0.0.0 sdk-log-upload-os.hoyoverse.com
 0.0.0.0 sdk-monitoring.ogury.co
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-services.appsflyer.com
@@ -6472,6 +6486,7 @@
 0.0.0.0 tajuk24.com
 0.0.0.0 tajukflores.com
 0.0.0.0 talikanews.com
+0.0.0.0 talog-eu.rebxgame.com
 0.0.0.0 tampang.com
 0.0.0.0 tanamonews.com
 0.0.0.0 tandakoma.com

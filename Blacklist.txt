@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 03 Jul 2025 12:41 UTC (updated regularly)
-! host_count: 7668
+! Last modified: 10 Jul 2025 18:58 UTC (updated regularly)
+! host_count: 7674
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -475,6 +475,7 @@
 0.0.0.0 airswap.in
 0.0.0.0 airswaptoken.com
 0.0.0.0 aj1052.online
+0.0.0.0 ajar-poet.com
 0.0.0.0 ajdivotdelbloab24.jio.com
 0.0.0.0 ajknews.co
 0.0.0.0 ajnn.net
@@ -2066,6 +2067,7 @@
 0.0.0.0 e2.spoutable.com
 0.0.0.0 e7393e33565ce805.com
 0.0.0.0 easyhash.de
+0.0.0.0 eats-ads-event-capture.coupang.com
 0.0.0.0 eb2.3lift.com
 0.0.0.0 ebcmedia.id
 0.0.0.0 ebrita.com
@@ -6781,6 +6783,7 @@
 0.0.0.0 tr.gunosy.com
 0.0.0.0 tr.line.me
 0.0.0.0 tr.snapchat.com
+0.0.0.0 tr6.snapchat.com
 0.0.0.0 trace.qq.com
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 tracing-collector.strava.com
@@ -7033,6 +7036,7 @@
 0.0.0.0 us.cfcdist.loan
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 usage.influxdata.com
+0.0.0.0 usdiagnosis.icocofun.com
 0.0.0.0 use-cr.svr-algorix.com
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 useads.com
@@ -7042,6 +7046,7 @@
 0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 usertrack.appcpi.net
 0.0.0.0 usp1.baidu.com
+0.0.0.0 usstat.icocofun.com
 0.0.0.0 usw-ca2.adsrvr.org
 0.0.0.0 usw-lax.adsrvr.org
 0.0.0.0 utamanews.com
@@ -7308,6 +7313,7 @@
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.coinimp.net
 0.0.0.0 www.coldairperu.com.pe
+0.0.0.0 www.flaticon.com
 0.0.0.0 www.freecontent.date
 0.0.0.0 www.freecontent.science
 0.0.0.0 www.freecontent.stream

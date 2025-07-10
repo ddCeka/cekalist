@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 26 Jun 2025 20:03 UTC (updated regularly)
+! Last modified: 10 Jul 2025 19:01 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -6860,8 +6860,11 @@ newtekno.*/*
 newyorker.com##iframe[src*="/wp-content/assets/"]
 newyorker.com#@#.ad-container
 next-episode.net###rundown
+next.myc.my##.lg\:col-span-9.col-span-12.jsx-514b2bb2628d65ae > .space-y-1.mb-8.items-end.flex-col.flex.jsx-514b2bb2628d65ae
+next.nexusmods.com###accordion-header-mods-per-page
 next.nexusmods.com##.border-t.border-b.border-stroke-subdued.bg-surface-low.py-2.gap-x-4.justify-center.items-center.flex.relative
 next.nexusmods.com##.justify-center.w-full.flex.mt-auto
+next.nexusmods.com##div.pt-2.pb-6.block:nth-of-type(2)
 nextlnk1.com/*
 nexusmods.*##.your-plan__cta-button
 nflxext.*/*/*login*.*$image
@@ -9601,8 +9604,12 @@ www.nexusmods.com###nonPremiumBanner
 www.nexusmods.com###rj-sitemap
 www.nexusmods.com##.border-t.border-b.border-stroke-subdued.bg-surface-low.py-2.gap-x-4.justify-center.items-center.flex.relative
 www.nexusmods.com##.justify-center.w-full.flex.mt-auto
+www.nexusmods.com##.md\:hidden.mt-4
 www.nexusmods.com##.overflow-y-auto.justify-between.flex-col.grow.flex.scrollbar > .p-4
 www.nexusmods.com##.rj-social-links
+www.nexusmods.com##.user-profile-menu-mobile-premium-banner
+www.nexusmods.com##div.pt-2.pb-6.block:nth-of-type(4)
+www.oppaigames.com###pgc-1366-1-1
 www.pcgamingwiki.com###site-notice
 www.tokopedia.com##.css-*
 www.xda-developers.com##.adsninja-rail-container.sidebar

@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 10 Jul 2025 18:58 UTC (updated regularly)
-! host_count: 7674
+! Last modified: 12 Jul 2025 22:05 UTC (updated regularly)
+! host_count: 7678
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -5315,7 +5315,10 @@
 0.0.0.0 promobagus.com
 0.0.0.0 promoted.sndcdn.com
 0.0.0.0 promoted.soundcloud.com
+0.0.0.0 promotion-en.xmeye.net
+0.0.0.0 promotion-quicker.jftechsoft.com
 0.0.0.0 promotion.polarisoffice.com
+0.0.0.0 promotion.xmeye.net
 0.0.0.0 promotionad.nvcam.net
 0.0.0.0 promotioncamp.com
 0.0.0.0 pronusantara.com
@@ -6779,6 +6782,7 @@
 0.0.0.0 tps11019.doubleverify.com
 0.0.0.0 tpt.dotomi.com
 0.0.0.0 tpt.mediaplex.com
+0.0.0.0 tr.acobt.tech
 0.0.0.0 tr.blismedia.com
 0.0.0.0 tr.gunosy.com
 0.0.0.0 tr.line.me

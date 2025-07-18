@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 12 Jul 2025 22:05 UTC (updated regularly)
-! host_count: 7678
+! Last modified: 18 Jul 2025 20:17 UTC (updated regularly)
+! host_count: 7682
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -2586,6 +2586,7 @@
 0.0.0.0 gudangmovies21.info
 0.0.0.0 gudangmovies21.pet
 0.0.0.0 guebanget.com
+0.0.0.0 guid.tpns.sgp.tencent.com
 0.0.0.0 guideku.com
 0.0.0.0 guitarlangson.com
 0.0.0.0 gum.criteo.com
@@ -6227,6 +6228,7 @@
 0.0.0.0 stat.media
 0.0.0.0 stat.meitudata.com
 0.0.0.0 stat.nsc-lab.io
+0.0.0.0 stat.tpns.sgp.tencent.com
 0.0.0.0 stat.weamvideo.com
 0.0.0.0 stat.y.qq.com
 0.0.0.0 statclick.nate.com
@@ -7066,6 +7068,7 @@
 0.0.0.0 v8b9c0x1z2.sai7348.xyz
 0.0.0.0 vagansa.com
 0.0.0.0 vakansi.co
+0.0.0.0 vakawi.xyz
 0.0.0.0 valapedia.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 valshara.com
@@ -7375,6 +7378,7 @@
 0.0.0.0 x.bidswitch.net
 0.0.0.0 x.dlx.addthis.com
 0.0.0.0 xdrig.com
+0.0.0.0 xgdata.xoyo.games
 0.0.0.0 xiangshunjy.com
 0.0.0.0 xihubo.click
 0.0.0.0 ximad.com

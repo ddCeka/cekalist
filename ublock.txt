@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 10 Jul 2025 19:01 UTC (updated regularly)
+! Last modified: 18 Jul 2025 20:24 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -151,7 +151,6 @@
 ##a[href="http://tapstream.tapatalk.com/oiaq-1"]
 ##kno-share-button
 #@#div[itemtype="http://schema.org/WPAdBlock"]
-$Image$
 $script,domain=zdnet.fr,third-party
 $websocket,domain=vidup.me
 *$popup,third-party,domain=anilinkz.tv
@@ -3176,17 +3175,6 @@ chordify.net##DIV[id="mm"]
 chordify.net##IFRAME[id="youtube"][class="video-frame"]
 chordu.*/guitar_home.*$image
 chrissmoove.com#@##adserver
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=dropbox.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=facebook.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=github.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=google.co.id,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=google.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=instagram.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=linkedin.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=m.facebook.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=mail.google.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=twitter.com,image
-chrome-extension://imilbobhamcfahccagbncamhpnbkaenm/images/darkness-icon-in-page.png$domain=web.facebook.com,image
 cinema-mkv.*###csbwfs-social-inner
 cinema-mkv.*##.csbwfs-social-widget
 cinema-mkv.*##.fb-page

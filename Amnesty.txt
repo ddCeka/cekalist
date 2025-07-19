@@ -1,5 +1,6 @@
 # Amnesty
-# Converted from - https://raw.githubusercontent.com/originalsouth/NSOMet/master/nsomet_hosts.txt
+# Source - https://raw.githubusercontent.com/originalsouth/NSOMet/master/nsomet_hosts.txt
+
 0.0.0.0 123tramites.com
 0.0.0.0 14-tracking.com
 0.0.0.0 176.223.111.131

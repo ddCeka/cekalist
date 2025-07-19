@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 18 Jul 2025 20:24 UTC (updated regularly)
+! Last modified: 20 Jul 2025 01:29 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -4360,6 +4360,7 @@ foxpush.com/images/ss2.*
 foxpush.com/images/ss3.*
 foxpush.com/images/ss4.*
 foxpush.com/images/ss5.*
+frdl.pw##ol
 free-torrent.org##DIV[class="spacer_6"]
 free-torrent.org##IFRAME
 free-torrent.org##NOINDEX
@@ -9585,6 +9586,7 @@ www.gtaind.com###p89f
 www.gtainside.com##.box_highlight_error
 www.iplay.com###blockers
 www.iplay.com##.search__field
+www.mediafire.com##.upsell-ab-promo
 www.nexusmods.com###accordion-header-mods-per-page
 www.nexusmods.com###app-banner
 www.nexusmods.com###loggedOutPremiumBanner
@@ -10354,6 +10356,10 @@ zuuk.org###fl10
 ||googletagmanager.com/gtm.js$script,domain=20minutes.ch|20min.ch
 ||gotporn.com/*/exo-loader/*$script
 ||gpjph.com^$third-party
+||gql.tokopedia.com/graphql/CreateAffiliateCookie$domain=tokopedia.com
+||gql.tokopedia.com/graphql/ProductRecommendationQuery$domain=tokopedia.com
+||gql.tokopedia.com/graphql/RelatedLinksQuery$domain=tokopedia.com
+||gql.tokopedia.com/graphql/notifier$domain=tokopedia.com
 ||gracealoneradio.*/*/?https://*.google*.*/*sitebuilder*/*/*$image
 ||grandfuckauto.xxx^$third-party
 ||gus.host/coins.js
@@ -10404,6 +10410,8 @@ zuuk.org###fl10
 ||jezebel.com/sp/
 ||jodohkristen.*/*/img/*/splash.*$image
 ||jodohkristen.*/*/img/header/*/*.*$image
+||joiplay.cyou/assets/ads.json
+||joiplay.cyou/assets/img/banners/forum.png
 ||jojilabola.com^$all
 ||js.adkrazy.com^$script,domain=javso.com
 ||js.sapo.pt/SAPOWebAnalytics/
@@ -10529,6 +10537,7 @@ zuuk.org###fl10
 ||oddreaders.com/wp-content/plugins/sociallocker-next-premium/
 ||offer.alibaba.com^$popup
 ||ogads-pa.clients6.google.com^
+||ogads-pa.clients6.google.com^$important
 ||okdiario.com/*/check-blocker.js
 ||omahfx.*/*/img/popup*.*$image
 ||omahfxindo.*/*/*background.*$image
@@ -10691,6 +10700,7 @@ zuuk.org###fl10
 ||sexpalace.gs/Webservices/jsParseLinks.aspx$script,third-party
 ||sexpalace.gs/visitScript/$script,third-party
 ||seyfert.space^$all
+||sf16-short-sg.bytedapm.com^$domain=tokopedia.com
 ||shaanig.se/*banner$image
 ||showsport-tv.com/js/detect.css$stylesheet
 ||showsport-tv.com/js/detect.js$script

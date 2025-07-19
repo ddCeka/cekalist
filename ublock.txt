@@ -10536,7 +10536,6 @@ zuuk.org###fl10
 ||ocs-pl.oktawave.com/v1/AUTH_*/Reklamy/$object-subrequest,domain=freedisc.pl|reseton.pl
 ||oddreaders.com/wp-content/plugins/sociallocker-next-premium/
 ||offer.alibaba.com^$popup
-||ogads-pa.clients6.google.com^
 ||ogads-pa.clients6.google.com^$important
 ||okdiario.com/*/check-blocker.js
 ||omahfx.*/*/img/popup*.*$image

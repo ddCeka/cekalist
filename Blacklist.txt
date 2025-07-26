@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 20 Jul 2025 01:28 UTC (updated regularly)
-! host_count: 7682
+! Last modified: 27 Jul 2025 00:13 UTC (updated regularly)
+! host_count: 7684
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -3781,6 +3781,7 @@
 0.0.0.0 localytics.com
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
+0.0.0.0 log-boot.tiktokv.com
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-sdk.ksapisrv.com
 0.0.0.0 log-sg.capcutapi.com
@@ -4957,6 +4958,7 @@
 0.0.0.0 pangle-b.io
 0.0.0.0 pangle.io
 0.0.0.0 pangolin-sdk-toutiao-b.com
+0.0.0.0 pangolin-sdk-toutiao.com
 0.0.0.0 pangolin16.isnssdk.com
 0.0.0.0 pangolin16.sgsnssdk.com
 0.0.0.0 panrita.news

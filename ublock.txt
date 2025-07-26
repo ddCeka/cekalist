@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 23 Jul 2025 01:55 UTC (updated regularly)
+! Last modified: 26 Jul 2025 21:27 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -3979,6 +3979,7 @@ f95zone.to##.node--link.node--depth2.node--id136.node
 f95zone.to##.p-breadcrumbs--bottom.p-breadcrumbs > li > [href="/forums/games.2/"]
 f95zone.to##.p-footer-inner
 f95zone.to##.p-footer-inner > .pageContent
+f95zone.to##.p-nav-inner > .p-nav-opposite > .p-navgroup-link.uix_sidebarTrigger__component.uix_sidebarCanvasTrigger
 f95zone.to##.tabs--standalone.tabs
 f95zone.to##.uix_extendedFooter
 f95zone.to##.uix_noticeIcon
@@ -4385,6 +4386,7 @@ freebitco.in,freedoge.co.in#@#.adsbygoogle
 freedom-ip.com#@#.pub_vertical div
 freedom-ip.com#@#.pub_vertical ins
 freehdsport.com##[id^="ltas_overlay_Player"]
+freeimage.host##div.margin-bottom-30.panel-share-networks.hidden.phablet-show.phone-show:nth-of-type(2)
 freeiphone.fr#@##adsense
 freelivesport.eu,cv55.eu,nowwatchtvlive.me,nowwatchtvlive.co,liguendirect.com,beinsports24.com,dabstrap.com,tous-sports.tv,hdcast.org,coolsport.se,hdfree.tv##[id^="bannerfloat"]
 freemulticoins.com#@#.adsbygoogle

@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 29 Jul 2025 20:30 UTC (updated regularly)
-! host_count: 7685
+! Last modified: 31 Jul 2025 20:21 UTC (updated regularly)
+! host_count: 7692
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -1883,6 +1883,7 @@
 0.0.0.0 dewitogel.com
 0.0.0.0 dewsburg.info
 0.0.0.0 dex50.deteql.net
+0.0.0.0 df.afafb.com
 0.0.0.0 dfinity.ml
 0.0.0.0 dfinity.org.in
 0.0.0.0 dfinitydrop.ml
@@ -2073,6 +2074,7 @@
 0.0.0.0 ebrita.com
 0.0.0.0 ec.adadapted.com
 0.0.0.0 ecology.my.id
+0.0.0.0 ecpm.afafb.com
 0.0.0.0 edge.adobedc.net
 0.0.0.0 edisi.co.id
 0.0.0.0 edith-seb.xiaohongshu.com
@@ -2431,6 +2433,7 @@
 0.0.0.0 gambar123.com
 0.0.0.0 gameanalysis.appcpi.net
 0.0.0.0 gamebrott.com
+0.0.0.0 gamedot.afafb.com
 0.0.0.0 gamefever.co.id
 0.0.0.0 gamefllp.com
 0.0.0.0 gamerplay67.space
@@ -4088,6 +4091,7 @@
 0.0.0.0 mediasulsel.com
 0.0.0.0 mediasulut.co
 0.0.0.0 mediasumutku.com
+0.0.0.0 mediation-receiver.afafb.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 mediation.mwmadnetworks.com
 0.0.0.0 mediation.unity3d.com
@@ -4180,6 +4184,7 @@
 0.0.0.0 microad.jp
 0.0.0.0 microad.net
 0.0.0.0 microsecurityupdate.com
+0.0.0.0 middle-defend.afafb.com
 0.0.0.0 midgerelativelyhoax.com
 0.0.0.0 mifsirnhvvrps.top
 0.0.0.0 mihentai.com
@@ -4326,6 +4331,7 @@
 0.0.0.0 mousheen.net
 0.0.0.0 movieon21.mov
 0.0.0.0 movies21.ing
+0.0.0.0 mp-api.afafb.com
 0.0.0.0 mpianalytics.com
 0.0.0.0 ms.cmcm.com
 0.0.0.0 msg-intl.qy.net
@@ -6483,6 +6489,7 @@
 0.0.0.0 taboola-supply-partners.tremorhub.com
 0.0.0.0 taboola.com
 0.0.0.0 tabun.my.id
+0.0.0.0 tadata.afafb.com
 0.0.0.0 tafsirq.com
 0.0.0.0 tafsirweb.com
 0.0.0.0 tag.1rx.io

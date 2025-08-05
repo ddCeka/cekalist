@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 31 Jul 2025 20:21 UTC (updated regularly)
-! host_count: 7692
+! Last modified: 05 Aug 2025 22:00 UTC (updated regularly)
+! host_count: 7699
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -143,6 +143,7 @@
 0.0.0.0 ad.duapps.com
 0.0.0.0 ad.flipboard.com
 0.0.0.0 ad.inston.ltd
+0.0.0.0 ad.intools.dev
 0.0.0.0 ad.iwhop.cn
 0.0.0.0 ad.jorte.com
 0.0.0.0 ad.leadboltapps.net
@@ -284,6 +285,7 @@
 0.0.0.0 ads-router-noneu.truecaller.com
 0.0.0.0 ads-sdk.mattel163.com
 0.0.0.0 ads-sdk.nianticlabs.com
+0.0.0.0 ads-segment-profile-noneu.truecaller.com
 0.0.0.0 ads-server.mxplay.com
 0.0.0.0 ads.ad2iction.com
 0.0.0.0 ads.adadapted.com
@@ -582,6 +584,7 @@
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.mobilegamestats.com
 0.0.0.0 analytics.nianticlabs.com
+0.0.0.0 analytics.nianticspatial.com
 0.0.0.0 analytics.picsart.com
 0.0.0.0 analytics.prod.mybuddy.ai
 0.0.0.0 analytics.projectcarmen.com
@@ -5069,6 +5072,7 @@
 0.0.0.0 pepo.id
 0.0.0.0 peraarae.nl
 0.0.0.0 perf-events.cloud.unity3d.com
+0.0.0.0 perfsight.wetest.net
 0.0.0.0 perjudianonline.com
 0.0.0.0 perstoday.com
 0.0.0.0 pertamax7.com
@@ -5411,6 +5415,7 @@
 0.0.0.0 qauntstamp.com
 0.0.0.0 qauntstanp.com
 0.0.0.0 qaxoe.sponsor.printondemandagency.com
+0.0.0.0 qcloud-sg-datareceiver.kurogame.xyz
 0.0.0.0 qist.me
 0.0.0.0 qlink-ico.com
 0.0.0.0 qprskl.com
@@ -6262,6 +6267,8 @@
 0.0.0.0 static8.mixi.media
 0.0.0.0 staticcc.com
 0.0.0.0 staticsfs.host
+0.0.0.0 statistic-overseas.yunxinfw.com
+0.0.0.0 statistical-report.djiservice.org
 0.0.0.0 stats-a.maxthon.com
 0.0.0.0 stats-proto.pandora.com
 0.0.0.0 stats-sg.ganymede.eu

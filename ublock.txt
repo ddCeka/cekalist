@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 05 Aug 2025 22:00 UTC (updated regularly)
+! Last modified: 06 Aug 2025 15:42 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -5404,6 +5404,7 @@ imgsmail.ru/*/mobile-rebranding.png
 imgsmail.ru/*/mobilebg.*$domain=e.mail.ru,image
 imgur.com##.BottomRecirc-label
 imgur.com##.Gallery-EngagementBarContainer
+imgur.com##.SmartAppBanner-wrapper
 imgur.com##.UploadSpinner-contentWrapper
 imgur.com##.footerlink-report-ads
 imgur.com##.isTop.active.HomeNavbar.Navbar
@@ -7286,6 +7287,7 @@ pepperstone.com##DIV[class="col-md-4"]
 pepperstone.com##DIV[class="col-md-8 col-sm-6 awards-col"]
 pepperstone.com##DIV[class="container hero-body"]
 pepperstone.com##DIV[id="home-hero"][class="cycle-slideshow"]
+pepy.tech##.min-h\[100px\].space-y-4
 perfectgirls.net##.advertisement
 perveden.com###topBoxContainer+div
 peugeot-metropolis.de###displaywise

@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 06 Aug 2025 19:05 UTC (updated regularly)
+! Last modified: 10 Aug 2025 15:01 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -2582,7 +2582,6 @@ apkpure.com##.facebook-like-a
 apkpure.com##.follow
 apkpure.com##.iframe_download
 apkpure.com##.index_r_hot
-apkpure.com##.left > div:nth-of-type(3)
 apkpure.com##.particles-js
 apkpure.com##.particles-js-canvas-el
 apkpure.com##.slide-wrap
@@ -2591,7 +2590,7 @@ apkpure.com##.tag_list
 apkpure.com##DIV[class="index_banner"]
 apkpure.com##DIV[class="tempWrap"]
 apkpure.com##[id="ad-aegon-side"]
-apkpure.com##a[href^="/search"]:nth-of-type(9)
+apkpure.com##a[href^="/search"]
 apkpure.com/*/apkpure-store.*
 apkpure.com/*/logo_new.png
 apkpure.com/*/market_u_center.png
@@ -3500,8 +3499,6 @@ daporn.com###mediaOverlay
 daporn.com##.bottom-promo
 daporn.com##.ntv-media
 darmowe-pornosy.pl,polskie-aktorki-porno.pl#@#.myTestAd
-datanodes.to##.p-8.rounded-lg.border.flex-col.items-center.justify-center.h-\[550px\].mt-auto.bg-white\/50.w-full.flex
-datanodes.to##div.p-8.rounded-lg.border.flex-col.items-center.justify-center.w-full.bg-white\/50.flex:nth-of-type(3)
 daum.*##.link_facebook
 daumcdn.net/*/20140213_*_*.*$image
 daumcdn.net/*/20140314*.*$image
@@ -3819,8 +3816,6 @@ duckduckgo.*##.social
 duckduckgo.*##.tag-home__link
 duckduckgo.*##[href="/press"]
 duckduckgo.*##[href="https://help.duckduckgo.com/"]
-duckduckgo.*##li.nav-menu__item:nth-of-type(2) > [href="https://twitter.com/duckduckgo"]
-duckduckgo.*##li.nav-menu__item:nth-of-type(3) > [href="https://reddit.com/r/duckduckgo"]
 duckduckgo.*/*/logo*.*$image
 duckduckgo.*/*/robot-icon-frameless.svg
 duckduckgo.*/assets/onboarding/*-*-*.svg$image
@@ -3986,10 +3981,6 @@ f95zone.to##.uix_fabBar--active.uix_fabBar
 f95zone.to##.uix_noticeIcon
 f95zone.to##.uix_sidebar--scroller
 f95zone.to##.uix_tabBar
-f95zone.to##a.button.button--link:nth-of-type(1)
-f95zone.to##a.tabs-tab:nth-of-type(2)
-f95zone.to##a.uix_tabItem:nth-of-type(1)
-f95zone.to##a.uix_tabItem:nth-of-type(2)
 f95zone.to##footer > p
 fabriefly.mobi/*
 facebook.*###js_14
@@ -4326,13 +4317,12 @@ forum.gamespowerita.com#@##ad_block
 forum.gizmolord.com###announcement-container > #announcement-content > .no
 forum.gravindo.id##IMG[src="images/misc/forum-logo.png"]
 forum.lytogame.com##IFRAME[src="/includea/headerforum.php"]
-forum.mobilism.org##.footable-loaded.breakpoint.phone.announcement.table-hover.table-primary.table-white.table.footable
-forum.mobilism.org##.social-top > .pull-right
-forum.mobilism.org##.statistics > .span12
+forum.mobilism.org##.phone.announcement
+forum.mobilism.org##.social-top
+forum.mobilism.org##.statistics
 forum.mobilism.org##.welcome-bar
-forum.mobilism.org##div.row-fluid:nth-of-type(2)
 forum.mobilism.org##footer
-forum.mobilism.org##tr.sticky > .footable-first-column.footable-last-column.expand
+forum.mobilism.org##tr.sticky
 forum.pac-rom.com#@#.banner_ads
 forum.ratemyserver.net##DIV[id="logo"]
 forum.thgtr.com##.block_uyari
@@ -4387,7 +4377,6 @@ freebitco.in,freedoge.co.in#@#.adsbygoogle
 freedom-ip.com#@#.pub_vertical div
 freedom-ip.com#@#.pub_vertical ins
 freehdsport.com##[id^="ltas_overlay_Player"]
-freeimage.host##div.margin-bottom-30.panel-share-networks.hidden.phablet-show.phone-show:nth-of-type(2)
 freeiphone.fr#@##adsense
 freelivesport.eu,cv55.eu,nowwatchtvlive.me,nowwatchtvlive.co,liguendirect.com,beinsports24.com,dabstrap.com,tous-sports.tv,hdcast.org,coolsport.se,hdfree.tv##[id^="bannerfloat"]
 freemulticoins.com#@#.adsbygoogle
@@ -4460,7 +4449,6 @@ gamefaqs.gamespot.com###faq_header_wrap
 gamefaqs.gamespot.com###js_content_nav_toggle
 gamefaqs.gamespot.com###rec_one
 gamefaqs.gamespot.com##.content_nav_imp_wrap > .cnav_item_active.cnav_imp
-gamefaqs.gamespot.com##.content_nav_imp_wrap > .cnav_item_active.cnav_imp > [href="/ps3/929914-way-of-the-samurai-3/faqs"]
 gamefaqs.gamespot.com##.fixed.rec_closed
 gamefaqs.gamespot.com##.fixed.top_link
 gamefaqs.gamespot.com##.footer_network
@@ -4473,11 +4461,6 @@ gamefaqs.gamespot.com##.paginate .fa-list-ul.fa
 gamefaqs.gamespot.com##.row.container.footer_site
 gamefaqs.gamespot.com##.row.container.masthead_main
 gamefaqs.gamespot.com##.title
-gamefaqs.gamespot.com##div.cnav_item.cnav_imp > [href="/boards/929914-way-of-the-samurai-3"]
-gamefaqs.gamespot.com##div.cnav_item.cnav_imp > [href="/ps3/929914-way-of-the-samurai-3/answers"]
-gamefaqs.gamespot.com##div.cnav_item.cnav_imp:nth-of-type(2)
-gamefaqs.gamespot.com##div.cnav_item.cnav_imp:nth-of-type(3)
-gamefaqs.gamespot.com##p:nth-of-type(2)
 gameforge.com##A[class="left carousel-control"]
 gameforge.com##A[class="right carousel-control"]
 gameforge.com##DIV[class="carousel"]
@@ -5608,9 +5591,6 @@ jasonsavard.com/*/promos/*.*$image
 javdude.com##a[href*=".php"]
 javfreestreaming.com##.notes
 jawaban.com###shyer
-jawaban.com##.col-lg-12:nth-of-type(2)
-jawaban.com##.panel-body-right.panel-body > div:nth-of-type(2)
-jawaban.com##.row:nth-of-type(5)
 jawaban.com/*/JCbaru-01.png.*
 jawaban.com/*/banner-new.*
 jawaban.com/*/banner01.*
@@ -5952,8 +5932,6 @@ kuyhaa-me.*##.sd-social
 kuyhaa-me.*##.sharing
 kuyhaa-me.*##.site-info
 kuyhaa-me.*##[href="https://2.bp.blogspot.com/-0v1bf0qi_NM/XFMw9TEf9GI/AAAAAAAAGvk/A0UNqMLlo_URklsXfp04mn-m0YYY3GDIQCLcBGAs/s1600/htdwnlod.gif"]
-kuyhaa-me.*##center:nth-of-type(1)
-kuyhaa-me.*##center:nth-of-type(2)
 kuyhaa.me##.btngreen
 kuyhaa.me##.user
 la-cosa.it#@#div[id^="div-gpt-ad"]
@@ -5965,7 +5943,7 @@ lamudi.co.id/images/real_estate/app-buttons/*
 lamudi.co.id/static/cms/relaunch%20content/*
 lamudi.co.id/static/cms/static_page/*
 lapor.go.id###PopContainer
-lapor.go.id##.GroupReport1923816.report:nth-of-type(6) > .report-detail > .report-social > .right
+lapor.go.id##.report-detail > .report-social > .right
 lapor.go.id##.activePage.panel
 lapor.go.id##.activeSlider
 lapor.go.id##.anythingSlider-metallic
@@ -6859,11 +6837,9 @@ newyorker.com#@#.ad-container
 next-episode.net###rundown
 next.myc.my##.lg\:col-span-9.col-span-12.jsx-514b2bb2628d65ae > .space-y-1.mb-8.items-end.flex-col.flex.jsx-514b2bb2628d65ae
 next.nexusmods.com###accordion-header-mods-per-page
-next.nexusmods.com##.border-t.border-b.border-stroke-subdued.bg-surface-low.py-2.gap-x-4.justify-center.items-center.flex.relative
-next.nexusmods.com##.justify-center.w-full.flex.mt-auto
-next.nexusmods.com##div.pt-2.pb-6.block:nth-of-type(2)
+next.nexusmods.com##.bg-premium-banner
+next.nexusmods.com##.your-plan__cta-button
 nextlnk1.com/*
-nexusmods.*##.your-plan__cta-button
 nflxext.*/*/*login*.*$image
 nflxext.*/*/login/*.*$image
 nicoblog.org##.social-share

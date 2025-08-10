@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 07 Aug 2025 19:11 UTC (updated regularly)
-! host_count: 7699
+! Last modified: 10 Aug 2025 15:02 UTC (updated regularly)
+! host_count: 7704
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -996,6 +996,7 @@
 0.0.0.0 beha.ksmobile.com
 0.0.0.0 behacdn.ksmobile.net
 0.0.0.0 behance.vo.llnwd.net
+0.0.0.0 beijingzhongnanhai.com
 0.0.0.0 bekasikinian.com
 0.0.0.0 bekasipedia.com
 0.0.0.0 bekasisatu.id
@@ -2010,6 +2011,7 @@
 0.0.0.0 dramakor.icu
 0.0.0.0 dramakore21.net
 0.0.0.0 dramaserial.id
+0.0.0.0 drbbzzs.xyz
 0.0.0.0 drbokep.xyz
 0.0.0.0 dream.co.id
 0.0.0.0 drivenime.com
@@ -3272,6 +3274,7 @@
 0.0.0.0 juruiklan.com
 0.0.0.0 justad.mobi
 0.0.0.0 jwplayer21.com
+0.0.0.0 jybsb9oyss.com
 0.0.0.0 k7poker.com
 0.0.0.0 k8s1-event-tracker-la.indexexchange.com
 0.0.0.0 kabar.news
@@ -6684,6 +6687,7 @@
 0.0.0.0 tipstaruhanbola.com
 0.0.0.0 tirto.id
 0.0.0.0 titiktemu.co
+0.0.0.0 tiu6ij9yqn.com
 0.0.0.0 tivan.naver.com
 0.0.0.0 tizerclik.com
 0.0.0.0 tjinit-event.babybus.com
@@ -7148,6 +7152,7 @@
 0.0.0.0 vmap.v.ad-generation.jp
 0.0.0.0 vmi503011.contaboserver.net
 0.0.0.0 vn.adnetworks.top
+0.0.0.0 vniddlg.xyz
 0.0.0.0 voa-islam.com
 0.0.0.0 vocasia.id
 0.0.0.0 vod-mplayer.sooplive.co.kr

@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 10 Aug 2025 15:01 UTC (updated regularly)
+! Last modified: 11 Aug 2025 09:58 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -3498,6 +3498,8 @@ daporn.com###close-aff
 daporn.com###mediaOverlay
 daporn.com##.bottom-promo
 daporn.com##.ntv-media
+darkreader.org##.c-h
+darkreader.org##darkreader-pay-tiers
 darmowe-pornosy.pl,polskie-aktorki-porno.pl#@#.myTestAd
 daum.*##.link_facebook
 daumcdn.net/*/20140213_*_*.*$image
@@ -3966,6 +3968,8 @@ f95zone.to##.block--category72.block--category.block > .js-nodeMain.block-header
 f95zone.to##.block--category8.block--category.block > .block-container > .uix_block-body--outer > .block-body
 f95zone.to##.block--category8.block--category.block > .js-nodeMain.block-header
 f95zone.to##.bratr-rating.br-widget--withSelected.br-widget
+f95zone.to##.button--ignoreText.tic--button
+f95zone.to##.buttonGroup > a.button.button--link:nth-of-type(1) > .button-text
 f95zone.to##.is-disabled.button--wrap.button
 f95zone.to##.js-filterInput.input
 f95zone.to##.js-notices.notices--block.notices
@@ -5943,7 +5947,6 @@ lamudi.co.id/images/real_estate/app-buttons/*
 lamudi.co.id/static/cms/relaunch%20content/*
 lamudi.co.id/static/cms/static_page/*
 lapor.go.id###PopContainer
-lapor.go.id##.report-detail > .report-social > .right
 lapor.go.id##.activePage.panel
 lapor.go.id##.activeSlider
 lapor.go.id##.anythingSlider-metallic
@@ -5953,6 +5956,7 @@ lapor.go.id##.block-social-media
 lapor.go.id##.images
 lapor.go.id##.list-buttons
 lapor.go.id##.panel
+lapor.go.id##.report-detail > .report-social > .right
 lapor.go.id##.slideshow.row
 lapor.go.id/*/*-mobile-app.*$image
 lapor.go.id/*/404-*.*$image
@@ -9578,10 +9582,12 @@ www.nexusmods.com###loggedOutPremiumBanner
 www.nexusmods.com###nonPremiumBanner
 www.nexusmods.com###rj-sitemap
 www.nexusmods.com##.border-t.border-b.border-stroke-subdued.bg-surface-low.py-2.gap-x-4.justify-center.items-center.flex.relative
+www.nexusmods.com##.inline-flex.btn.popup-btn-ajax
 www.nexusmods.com##.justify-center.w-full.flex.mt-auto
 www.nexusmods.com##.md\:hidden.mt-4
 www.nexusmods.com##.overflow-y-auto.justify-between.flex-col.grow.flex.scrollbar > .p-4
 www.nexusmods.com##.rj-social-links
+www.nexusmods.com##.tab-description.container > .clearfix.actions
 www.nexusmods.com##.user-profile-menu-mobile-premium-banner
 www.nexusmods.com##div.pt-2.pb-6.block:nth-of-type(4)
 www.oppaigames.com###pgc-1366-1-1

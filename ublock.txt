@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 11 Aug 2025 16:02 UTC (updated regularly)
+! Last modified: 12 Aug 2025 17:18 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -9583,7 +9583,6 @@ www.nexusmods.com###loggedOutPremiumBanner
 www.nexusmods.com###nonPremiumBanner
 www.nexusmods.com###rj-sitemap
 www.nexusmods.com##.border-t.border-b.border-stroke-subdued.bg-surface-low.py-2.gap-x-4.justify-center.items-center.flex.relative
-www.nexusmods.com##.inline-flex.btn.popup-btn-ajax
 www.nexusmods.com##.justify-center.w-full.flex.mt-auto
 www.nexusmods.com##.md\:hidden.mt-4
 www.nexusmods.com##.overflow-y-auto.justify-between.flex-col.grow.flex.scrollbar > .p-4

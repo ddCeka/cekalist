@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 12 Aug 2025 17:26 UTC (updated regularly)
-! host_count: 7704
+! Last modified: 14 Aug 2025 05:04 UTC (updated regularly)
+! host_count: 7709
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -172,6 +172,7 @@
 0.0.0.0 ad6media.fr
 0.0.0.0 adadvisor.net
 0.0.0.0 adanu.co.id
+0.0.0.0 adash-emas.cn-hangzhou.aliyuncs.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashx.ut.alibaba.com
@@ -1888,6 +1889,7 @@
 0.0.0.0 dewsburg.info
 0.0.0.0 dex50.deteql.net
 0.0.0.0 df.afafb.com
+0.0.0.0 dfe.mic.mob.com
 0.0.0.0 dfinity.ml
 0.0.0.0 dfinity.org.in
 0.0.0.0 dfinitydrop.ml
@@ -2050,6 +2052,7 @@
 0.0.0.0 dutaserviceac.com
 0.0.0.0 dutatoto.com
 0.0.0.0 dutatv.com
+0.0.0.0 dutils.com
 0.0.0.0 dwabt.pw
 0.0.0.0 dwagg.co
 0.0.0.0 dwcsh.com
@@ -3805,6 +3808,7 @@
 0.0.0.0 log-verify.mob.com
 0.0.0.0 log.51changdu.com
 0.0.0.0 log.adtimaserver.vn
+0.0.0.0 log.aliyuncs.com
 0.0.0.0 log.api.useinsider.com
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 log.apkomega.com
@@ -4886,6 +4890,7 @@
 0.0.0.0 open.oneplus.net
 0.0.0.0 openadserving.com
 0.0.0.0 openkerja.id
+0.0.0.0 openlog.tapapis.cn
 0.0.0.0 openrtb.cootlogix.com
 0.0.0.0 openstat.net
 0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io

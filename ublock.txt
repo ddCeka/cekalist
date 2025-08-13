@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 12 Aug 2025 17:18 UTC (updated regularly)
+! Last modified: 14 Aug 2025 04:57 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -10186,6 +10186,7 @@ zuuk.org###fl10
 ||coolsymbol.*/*/font*keyboard*.*$image
 ||cpatrendreklam.com^$third-party,script
 ||cpu-world.*/*/ab_w92.gif$image
+||crashlytics.com^$all
 ||crpoy.com^$domain=pronpic.org
 ||ctenetwork.com^$third-party
 ||ctnet2.in^$all
@@ -10354,6 +10355,7 @@ zuuk.org###fl10
 ||gracealoneradio.*/*/?https://*.google*.*/*sitebuilder*/*/*$image
 ||grandfuckauto.xxx^$third-party
 ||gus.host/coins.js
+||gvt1.com^$all
 ||hackintosh.*/donate/donate.php
 ||hammerhearing.com^$third-party
 ||hayan.tv/gibberish-aes.js^
@@ -10403,6 +10405,7 @@ zuuk.org###fl10
 ||jodohkristen.*/*/img/header/*/*.*$image
 ||joiplay.cyou/assets/ads.json
 ||joiplay.cyou/assets/img/banners/forum.png
+||joiplay.cyou^$image
 ||jojilabola.com^$all
 ||js.adkrazy.com^$script,domain=javso.com
 ||js.sapo.pt/SAPOWebAnalytics/
@@ -10520,14 +10523,14 @@ zuuk.org###fl10
 ||nexusmods.*/*/*bg*game*header.*$image
 ||nn0e.com^$domain=eurogamer.net|jg-tc.com
 ||nnm-club.ws/forum/docs/requests.js$script
-||norgerockingham.com^
+||norgerockingham.com^$all
 ||noticiasurgente.in/embed/p2/Controller/DesktopViewControladorMicki.js$script,domain=megatorrentshd.com
 ||novaragnarok.*/themes/*/bio*3.*$image
 ||ntlite.com/*/*.png
 ||ocs-pl.oktawave.com/v1/AUTH_*/Reklamy/$object-subrequest,domain=freedisc.pl|reseton.pl
 ||oddreaders.com/wp-content/plugins/sociallocker-next-premium/
 ||offer.alibaba.com^$popup
-||ogads-pa.clients6.google.com^$important
+||ogads-pa.clients6.google.com^$all
 ||okdiario.com/*/check-blocker.js
 ||omahfx.*/*/img/popup*.*$image
 ||omahfxindo.*/*/*background.*$image

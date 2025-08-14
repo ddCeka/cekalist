@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 14 Aug 2025 04:57 UTC (updated regularly)
+! Last modified: 14 Aug 2025 15:41 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -10063,6 +10063,8 @@ zuuk.org###fl10
 ||apkmody.*/wp-content/*/*background*scaled*.*$image
 ||apkraja.*/wp-content/*/logo.*$image
 ||apkstreamline.com^$all
+||app-resources.1plus.io^$all
+||appr.1plus.io^$all
 ||askarer.info^$script
 ||assets.bro.adca.st/adpops.html
 ||assets.bro.adca.st/broadcast/xclo.gif$image
@@ -10291,6 +10293,9 @@ zuuk.org###fl10
 ||files.codexpcgames.com/uploads/zTMLhNjIZ8Cj/gYWyo5XsoWmG.js$~third-party
 ||filesonthe.net/Webservices/jsParseLinks.aspx$script,third-party
 ||filesonthe.net/visitScript/$script,third-party
+||firebase-settings.crashlytics.com^$all
+||firebaselogging-pa.googleapis.com^$all
+||firebaselogging.googleapis.com^$all
 ||fitgirl-repack.$document,from=~fitgirl-repacks.site
 ||fitgirl-repacks.*/*/uploads/*/garold.*$image
 ||flakyfeast.com^$domain=gry.pl
@@ -10355,7 +10360,6 @@ zuuk.org###fl10
 ||gracealoneradio.*/*/?https://*.google*.*/*sitebuilder*/*/*$image
 ||grandfuckauto.xxx^$third-party
 ||gus.host/coins.js
-||gvt1.com^$all
 ||hackintosh.*/donate/donate.php
 ||hammerhearing.com^$third-party
 ||hayan.tv/gibberish-aes.js^
@@ -10715,6 +10719,7 @@ zuuk.org###fl10
 ||speednetwork14.com^$all
 ||spike.itv.com/itv/tserver/size=*/viewid=
 ||splinternews.com/sp/
+||spocs.getpocket.com^$all
 ||sportingbet-affiliate.host.bannerflow.com/core_bannerviewer.swf$domain=record.xl.pt
 ||sports747.com^$popup
 ||sporttvdireto.com/ads/popunder.php$popup
@@ -10868,6 +10873,8 @@ zuuk.org###fl10
 ||ww1.vidzi.tv^$all
 ||ww2.vidzi.tv^$all
 ||ww3.vidzi.tv^$all
+||www.googletagmanager.com^$all
+||www.googletagservices.com^$all
 ||x.shopsavvy.com^$third-party
 ||xaogi.com^$domain=pronpic.org
 ||xess.pro/js/popup.js

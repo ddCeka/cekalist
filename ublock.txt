@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 14 Aug 2025 15:41 UTC (updated regularly)
+! Last modified: 14 Aug 2025 18:42 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -2298,6 +2298,8 @@ amazonaws.com/thinkific-import/*/*.jpg
 amd.*###cookieCompliance
 americanmilitarynews.*##.swp_social_panel
 amjadfreesoft.com/*/upload4earn.png
+amp.reddit.com##.AppSelectorModal__body
+amp.reddit.com##.upsell_banner
 an.yandex.ru/*
 ana1.me##.videopos
 androeed.*###show_popular
@@ -4767,6 +4769,7 @@ google.*###tads.c
 google.*###tadsb.c
 google.*###tadsto.c
 google.*###topstuff > #tads
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
 google.*##.GB3L-QEDGY .GB3L-QEDF- > .GB3L-QEDE-
 google.*##.GFYY1SVD2 > .GFYY1SVC2 > .GFYY1SVF5
 google.*##.GFYY1SVE2 > .GFYY1SVD2 > .GFYY1SVG5
@@ -4798,6 +4801,7 @@ google.*##.started__cta--desktop
 google.*##.widget-pane-section-result[data-result-ad-type]
 google.*##[href="#"]
 google.*##[href="https://twitter.com/YouTube"]
+google.*##[id^="eob_"]
 google.*/*/app_store*.*$domain=calendar.google.com,image
 google.*/*/doodles/*.*$image
 google.*/*/googleplay_*.*$domain=calendar.google.com,image
@@ -7632,6 +7636,10 @@ reddit.*###get-app
 reddit.*##.premium-banner
 reddit.com###xpromo-bottom-sheet
 reddit.com##.DualPartInterstitial
+reddit.com##.XPromoInFeed
+reddit.com##.XPromoPopup
+reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
+reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 reddup.co/images/reddup-plus.gif
 redirect.id/themes/*.*$domain=redirect.id,image
 redtube.com##.add-blocker-msg
@@ -9057,6 +9065,8 @@ twitch.tv/*/about3.mp4
 twitch.tv/*/about4.mp4
 twitchapp.net/*/*.jpg$domain=app.twitch.tv,image
 twitchapp.net/*/*.png$domain=app.twitch.tv,image
+twitter.com,x.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
+twitter.com,x.com##html:style(overflow: auto !important;)
 twojeip.wp.pl#@##adverts
 twoo-a.akamaihd.net/static/*/img-phones.png$domain=twoo.com,image
 twoo.com##.jsHighlightMessageUpsell
@@ -9570,6 +9580,8 @@ www.forbes.com##.embed-1.link-embed.color-body-border.color-body.embed-base
 www.forbes.com##.embed-2.link-embed.color-body-border.color-body.embed-base
 www.forbes.com##.embed-3.link-embed.color-body-border.color-body.embed-base
 www.forbes.com##.toaster
+www.google.*##+js(acis, document.cookie, YES+)
+www.google.*##^script:has-text(consentCookiePayload)
 www.gtaall.com##.banners
 www.gtaall.com##.guest.stop-waiting
 www.gtaind.com###p89f
@@ -9592,6 +9604,17 @@ www.nexusmods.com##.user-profile-menu-mobile-premium-banner
 www.nexusmods.com##div.pt-2.pb-6.block:nth-of-type(4)
 www.oppaigames.com###pgc-1366-1-1
 www.pcgamingwiki.com###site-notice
+www.reddit.com##+js(aeld, touchmove)
+www.reddit.com##.XPromoPopupRpl
+www.reddit.com##.XPromoPopupRplNew
+www.reddit.com##.bottom-bar, .XPromoBottomBar
+www.reddit.com##.useApp,.TopNav__promoButton
+www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
+www.reddit.com##body:style(pointer-events:auto!important;)
+www.reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
+www.reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!important;)
+www.reddit.com##xpromo-app-selector
+www.reddit.com##xpromo-new-app-selector
 www.tokopedia.com##.css-*
 www.xda-developers.com##.adsninja-rail-container.sidebar
 www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scopel-widget.textwidget

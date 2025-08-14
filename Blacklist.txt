@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 14 Aug 2025 05:04 UTC (updated regularly)
-! host_count: 7709
+! Last modified: 14 Aug 2025 12:55 UTC (updated regularly)
+! host_count: 7711
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -1857,6 +1857,7 @@
 0.0.0.0 deras.co.id
 0.0.0.0 deras.id
 0.0.0.0 desamerdeka.id
+0.0.0.0 destinyshatter.one
 0.0.0.0 detak.co
 0.0.0.0 detak24.com
 0.0.0.0 detakbanten.com
@@ -2203,6 +2204,7 @@
 0.0.0.0 ethereum-pocket.com
 0.0.0.0 ethereum-pocket.de
 0.0.0.0 ethereum-pocket.eu
+0.0.0.0 ethereum-sepolia.publicnode.com
 0.0.0.0 ethereum-wallet.info
 0.0.0.0 ethereum-wallet.net
 0.0.0.0 ethereum-zero.com

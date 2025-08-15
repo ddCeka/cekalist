@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 14 Aug 2025 18:42 UTC (updated regularly)
+! Last modified: 15 Aug 2025 15:24 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -3958,6 +3958,7 @@ extraimage.net/*/*.gif$domain=tv21.biz
 extraimage.net/*/*.gif$domain=tv21.org
 f1fanklub.pl#@##topad
 f95zone.to###filter-footer
+f95zone.to##.badgeContainer.cxf-awnbat-uix--whatsnew
 f95zone.to##.badgeContainer.cxf-awnbat-uix--whatsnew.p-navgroup-link--iconic.p-navgroup-link > i
 f95zone.to##.badgeContainer.js-badge--alerts.uix_tabItem
 f95zone.to##.badgeContainer.js-badge--conversations.uix_tabItem

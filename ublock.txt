@@ -3959,7 +3959,6 @@ extraimage.net/*/*.gif$domain=tv21.org
 f1fanklub.pl#@##topad
 f95zone.to###filter-footer
 f95zone.to##.badgeContainer.cxf-awnbat-uix--whatsnew
-f95zone.to##.badgeContainer.cxf-awnbat-uix--whatsnew.p-navgroup-link--iconic.p-navgroup-link > i
 f95zone.to##.badgeContainer.js-badge--alerts.uix_tabItem
 f95zone.to##.badgeContainer.js-badge--conversations.uix_tabItem
 f95zone.to##.block--category12.block--category.block > .block-container > .uix_block-body--outer > .block-body

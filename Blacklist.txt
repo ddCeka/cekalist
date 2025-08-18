@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 15 Aug 2025 15:26 UTC (updated regularly)
-! host_count: 7718
+! Last modified: 18 Aug 2025 15:41 UTC (updated regularly)
+! host_count: 7724
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -30,6 +30,8 @@
 0.0.0.0 2.haory.cn
 0.0.0.0 20.detik.com
 0.0.0.0 21cineplex.com
+0.0.0.0 23.224.199.74
+0.0.0.0 23.224.199.96
 0.0.0.0 247realmedia.com
 0.0.0.0 24hpoker.com
 0.0.0.0 31.14.252.148
@@ -2430,6 +2432,7 @@
 0.0.0.0 fuyuh.com
 0.0.0.0 fvalid.appsflyer.com
 0.0.0.0 fw.adsafeprotected.com
+0.0.0.0 fxlcvd.icu
 0.0.0.0 fxstreet-id.com
 0.0.0.0 fyber.com
 0.0.0.0 g.analytics.versa-ai.com
@@ -2550,6 +2553,7 @@
 0.0.0.0 go.pf21.net
 0.0.0.0 go.vrvm.com
 0.0.0.0 gocrot.org
+0.0.0.0 goi08150kh.com
 0.0.0.0 goingsilltrusty.com
 0.0.0.0 goinsan.com
 0.0.0.0 goldentigerpoker.com
@@ -2740,6 +2744,7 @@
 0.0.0.0 homepokergames.com
 0.0.0.0 honestdocs.id
 0.0.0.0 hops.id
+0.0.0.0 horsed44.com
 0.0.0.0 hosillfir.site
 0.0.0.0 host-tracking.id
 0.0.0.0 hoster.co.id
@@ -4839,6 +4844,7 @@
 0.0.0.0 okeyletsgo.ml
 0.0.0.0 okezone.com
 0.0.0.0 okezone.visionplus.id
+0.0.0.0 okloib88.com
 0.0.0.0 okocenews.com
 0.0.0.0 okson.co.id
 0.0.0.0 okuselatan.today

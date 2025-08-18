@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 15 Aug 2025 15:24 UTC (updated regularly)
+! Last modified: 18 Aug 2025 15:42 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -10011,6 +10011,7 @@ zuuk.org###fl10
 ||1enm.com^$script,domain=champions.co|pantagraph.com|parkers.co.uk
 ||1fichier.*/logo*footer.*$image
 ||1fichier.*/qr.pl$image
+||1plus.io^
 ||1yqbp.com^$popup
 ||257298.a.siteapps.com/257298.js$script,domain=listamais.com.br
 ||2enm.com^$domain=androidpolice.com|beliefnet.com|trib.com
@@ -10086,7 +10087,9 @@ zuuk.org###fl10
 ||apkmody.*/wp-content/*/*background*scaled*.*$image
 ||apkraja.*/wp-content/*/logo.*$image
 ||apkstreamline.com^$all
+||app-resources.1plus.io^
 ||app-resources.1plus.io^$all
+||appr.1plus.io^
 ||appr.1plus.io^$all
 ||askarer.info^$script
 ||assets.bro.adca.st/adpops.html
@@ -10212,6 +10215,7 @@ zuuk.org###fl10
 ||cpatrendreklam.com^$third-party,script
 ||cpu-world.*/*/ab_w92.gif$image
 ||crashlytics.com^$all
+||crashlytics.com^$important
 ||crpoy.com^$domain=pronpic.org
 ||ctenetwork.com^$third-party
 ||ctnet2.in^$all
@@ -10316,8 +10320,11 @@ zuuk.org###fl10
 ||files.codexpcgames.com/uploads/zTMLhNjIZ8Cj/gYWyo5XsoWmG.js$~third-party
 ||filesonthe.net/Webservices/jsParseLinks.aspx$script,third-party
 ||filesonthe.net/visitScript/$script,third-party
+||firebase-settings.crashlytics.com^
 ||firebase-settings.crashlytics.com^$all
+||firebaselogging-pa.googleapis.com^
 ||firebaselogging-pa.googleapis.com^$all
+||firebaselogging.googleapis.com^
 ||firebaselogging.googleapis.com^$all
 ||fitgirl-repack.$document,from=~fitgirl-repacks.site
 ||fitgirl-repacks.*/*/uploads/*/garold.*$image
@@ -10432,6 +10439,7 @@ zuuk.org###fl10
 ||jodohkristen.*/*/img/header/*/*.*$image
 ||joiplay.cyou/assets/ads.json
 ||joiplay.cyou/assets/img/banners/forum.png
+||joiplay.cyou^$app=cyou.joiplay.translate
 ||joiplay.cyou^$image
 ||jojilabola.com^$all
 ||js.adkrazy.com^$script,domain=javso.com
@@ -10554,10 +10562,12 @@ zuuk.org###fl10
 ||noticiasurgente.in/embed/p2/Controller/DesktopViewControladorMicki.js$script,domain=megatorrentshd.com
 ||novaragnarok.*/themes/*/bio*3.*$image
 ||ntlite.com/*/*.png
+||o1069899.ingest.sentry.io^
 ||ocs-pl.oktawave.com/v1/AUTH_*/Reklamy/$object-subrequest,domain=freedisc.pl|reseton.pl
 ||oddreaders.com/wp-content/plugins/sociallocker-next-premium/
 ||offer.alibaba.com^$popup
 ||ogads-pa.clients6.google.com^$all
+||ogads-pa.clients6.google.com^$important
 ||okdiario.com/*/check-blocker.js
 ||omahfx.*/*/img/popup*.*$image
 ||omahfxindo.*/*/*background.*$image
@@ -10742,6 +10752,7 @@ zuuk.org###fl10
 ||speednetwork14.com^$all
 ||spike.itv.com/itv/tserver/size=*/viewid=
 ||splinternews.com/sp/
+||spocs.getpocket.com^
 ||spocs.getpocket.com^$all
 ||sportingbet-affiliate.host.bannerflow.com/core_bannerviewer.swf$domain=record.xl.pt
 ||sports747.com^$popup
@@ -10896,7 +10907,9 @@ zuuk.org###fl10
 ||ww1.vidzi.tv^$all
 ||ww2.vidzi.tv^$all
 ||ww3.vidzi.tv^$all
+||www.googletagmanager.com^
 ||www.googletagmanager.com^$all
+||www.googletagservices.com^
 ||www.googletagservices.com^$all
 ||x.shopsavvy.com^$third-party
 ||xaogi.com^$domain=pronpic.org

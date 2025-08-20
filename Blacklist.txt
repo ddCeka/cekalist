@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 20 Aug 2025 20:49 UTC (updated regularly)
-! host_count: 7725
+! Last modified: 21 Aug 2025 02:36 UTC (updated regularly)
+! host_count: 7730
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -2472,6 +2472,7 @@
 0.0.0.0 gasolina.ml
 0.0.0.0 gatcoin.in
 0.0.0.0 gatcoins.io
+0.0.0.0 gateway.tenderly.co
 0.0.0.0 gateway.ttpsdk.info
 0.0.0.0 gatra.com
 0.0.0.0 gatscoin.io
@@ -5340,6 +5341,7 @@
 0.0.0.0 proinbar.com
 0.0.0.0 projateng.com
 0.0.0.0 projecta-common-1258344701.file.myqcloud.com
+0.0.0.0 projectamelie.world
 0.0.0.0 prokal.co
 0.0.0.0 prokaltim.com
 0.0.0.0 prokepri.com
@@ -5693,6 +5695,7 @@
 0.0.0.0 rossoad.com
 0.0.0.0 rotaban.ru
 0.0.0.0 rp.gwallet.com
+0.0.0.0 rpc2.sepolia.org
 0.0.0.0 rqmob.com
 0.0.0.0 rt.applovin.com
 0.0.0.0 rt.applvn.com
@@ -5987,6 +5990,8 @@
 0.0.0.0 sentrapromosi.com
 0.0.0.0 sentry.eks.hoyoverse.com
 0.0.0.0 sepasinews.com
+0.0.0.0 sepolia.drpc.org
+0.0.0.0 sepolia.gateway.tenderly.co
 0.0.0.0 seputargk.id
 0.0.0.0 seputarmadura.com
 0.0.0.0 seputarmusikindo.com

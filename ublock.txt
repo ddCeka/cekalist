@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 18 Aug 2025 15:42 UTC (updated regularly)
+! Last modified: 20 Aug 2025 20:47 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -3978,7 +3978,6 @@ f95zone.to##.js-notices.notices--block.notices
 f95zone.to##.node--link.node--depth2.node--id129.node
 f95zone.to##.node--link.node--depth2.node--id136.node
 f95zone.to##.p-breadcrumbs--bottom.p-breadcrumbs > li > [href="/forums/games.2/"]
-f95zone.to##.p-footer-inner
 f95zone.to##.p-footer-inner > .pageContent
 f95zone.to##.p-nav-inner > .p-nav-opposite > .p-navgroup-link.uix_sidebarTrigger__component.uix_sidebarCanvasTrigger
 f95zone.to##.tabs--standalone.tabs
@@ -3988,7 +3987,6 @@ f95zone.to##.uix_noticeIcon
 f95zone.to##.uix_sidebar--scroller
 f95zone.to##.uix_tabBar
 f95zone.to##a.button.button--link:nth-of-type(1)
-f95zone.to##footer > p
 fabriefly.mobi/*
 facebook.*###js_14
 facebook.*###login_top_banner

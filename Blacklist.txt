@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 18 Aug 2025 15:41 UTC (updated regularly)
-! host_count: 7724
+! Last modified: 20 Aug 2025 20:49 UTC (updated regularly)
+! host_count: 7725
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -983,6 +983,7 @@
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacons-prod.fubo.tv
+0.0.0.0 beacons.ads.fubo.tv
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beasiswaindo.com
 0.0.0.0 beautynesia.id

@@ -1,12 +1,7 @@
 *.php
-*.py
 *.sh
-*.json
-*.js
 *.yml
-domain
-hosts
-hosts-temp
-test
-tracker
+
+ads
+temp
 update

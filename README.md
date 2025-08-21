@@ -16,7 +16,7 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
     <img src="https://img.shields.io/github/repo-size/ddCeka/CekaList?label=Repo%20Size&color=black" alt="repo size" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" > 
-    <img src="https://img.shields.io/badge/Updated%20Hosts-21/Aug/2025-green" >
+    <img src="https://img.shields.io/badge/Updated%20Hosts-22/Aug/2025-green" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" > 
     <img src="https://img.shields.io/github/last-commit/ddCeka/CekaList?label=Last%20Commit" alt="last commit" >
@@ -86,9 +86,18 @@ Custom DNS untuk Android 9.0+ [Non-Root] contoh dari cara di atas
  2. Pilih opsi nama host penyedia DNS Pribadi.
  3. Masukan dari contoh penyedia DNS dibawah dan tekan simpan.
 ---
-[Adguard DNS(Adblocking Supported):](https://adguard.com/en/adguard-dns/overview.html)
+[Adguard DNS(3 Flavours):](https://adguard-dns.io/en/public-dns.html)
+- Default server
 ```
-	dns.adguard.com
+	dns.adguard-dns.com
+```
+- Non-filtering server
+```
+	unfiltered.adguard-dns.com
+```
+- Family Protection server
+```
+	family.adguard-dns.com
 ```
 [NextDNS(Adblocking with Whitelist Supported)](https://help.nextdns.io/t/m1hmv0k/which-setup-type-to-use)
 ```

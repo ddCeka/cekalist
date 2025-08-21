@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 20 Aug 2025 20:47 UTC (updated regularly)
+! Last modified: 22 Aug 2025 00:17 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -4056,6 +4056,7 @@ famous.id##.scroll
 famous.id##.social-head
 famous.id##.vid-thumbnail
 fancyfourthvolcano.*/*
+fandom.com##.article-tabs+section:has(.quick-answers__answer-text)
 fanfiktion.de###ad-leaderboard-inner
 farmersmarket.co.id/*/*.mp3
 fasapay.*/*/img/bg_*.jpg
@@ -6679,6 +6680,7 @@ mubi.*##.social-share
 mubi.*##.social-share-vector
 mumbaimirror.indiatimes.com###blcontent
 mumbaimirror.indiatimes.com###blwrapper
+mvlempyr.com##.ChapterContentWrapper > :has(img[src*="disable"])
 my.forexmart.com/assets/images/fxlogonew.svg
 my.id/static/*/bg*.*
 my.newforex.com##DIV[class="col-sm-3 awards-footer"]
@@ -9874,6 +9876,7 @@ youtube.com##.watch-sidebar-head
 youtube.com##.ytd-search-pyv-renderer
 youtube.com##.ytp-ad-progress-list
 youtube.com##DIV[id="footer-logo"]
+youtube.com##[aria-label="Ask"]:upward(yt-button-view-model)
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scopel-widget.textwidget
 youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Explore more/i))

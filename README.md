@@ -86,7 +86,7 @@ Custom DNS untuk Android 9.0+ [Non-Root] contoh dari cara di atas
  2. Pilih opsi nama host penyedia DNS Pribadi.
  3. Masukan dari contoh penyedia DNS dibawah dan tekan simpan.
 ---
-[Adguard DNS(3 Flavours):](https://adguard-dns.io/en/public-dns.html)
+[Adguard DNS (3 Flavours):](https://adguard-dns.io/en/public-dns.html)
 - Default server
 ```
 	dns.adguard-dns.com
@@ -99,11 +99,11 @@ Custom DNS untuk Android 9.0+ [Non-Root] contoh dari cara di atas
 ```
 	family.adguard-dns.com
 ```
-[NextDNS(Adblocking with Whitelist Supported)](https://help.nextdns.io/t/m1hmv0k/which-setup-type-to-use)
+[NextDNS (Adblocking with Whitelist Supported)](https://help.nextdns.io/t/m1hmv0k/which-setup-type-to-use)
 ```
 	(IdAnda).dns.nextdns.io
 ```
-[Quad9 DNS(Adblocking Supported):](https://support.quad9.net/hc/en-us/articles/360046736911-Configure-Android-to-use-Private-DNS-feature-with-Quad9)
+[Quad9 DNS (Adblocking Supported):](https://docs.quad9.net/Setup_Guides/Android/Android_9%2B_%28Encrypted%29/)
 ```
 	dns.quad9.net
 ```

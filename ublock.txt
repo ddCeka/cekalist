@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 22 Aug 2025 00:17 UTC (updated regularly)
+! Last modified: 25 Aug 2025 13:27 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###WarningCodec
@@ -4348,6 +4348,7 @@ forumkristen.com##.nextlinks
 forumkristen.com##.nextlinks_bottom
 forumkristen.com##IMG[id="smflogo"]
 forumkristen.com##SPAN[class="smalltext"]
+forums.anandtech.com##.TapatalkBanner_Container
 forums.openpli.org###content > [style="text-align:center;"] > DIV[style="margin 0 auto;display:inline-block;width:728px; height:84px; border:1px solid #000000; text-align:center; font-family:century gothic, arial, helvetica, sans serif;padding:4px;font-weight:bold;"]
 forums.ppsspp.org/*/dspforums.*
 forums.warpportal.com##DIV[id="logo"]

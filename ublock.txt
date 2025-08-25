@@ -15024,7 +15024,6 @@ ichef.bbc.co.uk/images/*/*.png
 icmarkets.*##.login-risk-wrapper-eu
 icmarkets.*/*/*header_bg.*$image
 icmarkets.*/*/single_market_page/*Banr.*$image
-icmarkets.com##$domain=secure.icmarkets.com,$image
 icmarkets.com###social_media
 icmarkets.com##DIV[class="fld gt"]
 icmarkets.com##DIV[class="fld"]
@@ -17666,7 +17665,6 @@ netdna-ssl.com/*/bg5.jpg
 netdna-ssl.com/*/bg6.jpg
 netdna-ssl.com/*/bg7.jpg
 netdna-ssl.com/*/bg8.jpg
-neteller.com##$domain=member.neteller.com
 netflix.*/*/login/*.*$image
 netizenku.com##img[width="1600"][height="340"]
 netq.me##+js(no-fetch-if, clarity.ms)

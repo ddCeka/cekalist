@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/ddCeka/CekaList/master/Pornografi.txt
 &nbsp;
 - Filter [Ublock Origin](https://github.com/gorhill/uBlock)
 ```
-https://raw.githubusercontent.com/ddCeka/CekaList/master/ublock.txt
+https://raw.githubusercontent.com/ddCeka/CekaList/master/Ublock.txt
 ```
 &nbsp;
 ## <ins>Cara Penggunaan?</ins>

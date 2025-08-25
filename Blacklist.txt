@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 25 Aug 2025 13:28 UTC (updated regularly)
-! host_count: 7732
+! Last modified: 25 Aug 2025 22:19 UTC (updated regularly)
+! host_count: 7735
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -564,6 +564,7 @@
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-server.gimbal.com
 0.0.0.0 analytics-sprint.qoqa.com
+0.0.0.0 analytics-stg.samsungknox.com
 0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 analytics.300624.com
 0.0.0.0 analytics.ad.daum.net
@@ -2759,6 +2760,7 @@
 0.0.0.0 houseads.ttpsdk.info
 0.0.0.0 houseoftoto.com
 0.0.0.0 howdy.id
+0.0.0.0 hpfkvr.icu
 0.0.0.0 hq1.appsflyer.com
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
@@ -3883,6 +3885,7 @@
 0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs-sg.rebxgame.com
 0.0.0.0 logs.amap.com
+0.0.0.0 logs.dradis.netflix.com
 0.0.0.0 logs.gaaana.com
 0.0.0.0 logs.gshopper.com
 0.0.0.0 logs.ironsrc.mobi

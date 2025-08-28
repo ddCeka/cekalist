@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 28 Aug 2025 14:05 UTC (updated regularly)
+! Last modified: 28 Aug 2025 19:25 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -10004,7 +10004,7 @@ $websocket,domain=vidup.me
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$script,domain=quebeccoupongratuit.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$script,domain=sc2casts.com
 @@||pagead2.googlesyndication.com/pagead/js/*show_ads_impl.js$domain=buickforums.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arahtekno.com|baristakesehatan.com|dapat.link|gnaija.net|jurnalistekno.id|khaddavi.net|lokerwfh.net|tutorialsaya.com|tutwuri.id
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arahtekno.com|baristakesehatan.com|dapat.link|gnaija.net|jurnalistekno.id|app.khaddavi.net|lokerwfh.net|tutorialsaya.com|tutwuri.id
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bricozone.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dailydoge.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elfqrin.com
@@ -11556,9 +11556,9 @@ besargaji.*##.share
 besargaji.*##.social
 besargaji.*##.thepostlink
 besargaji.*##.widget-area
-besargaji.com,dapat.link,khaddavi.net,link2unlock.com,lokerwfh.net,meong.club,techbloogs.com,tutwuri.id##+js(nowoif)
-besargaji.com,khaddavi.net,lokerwfh.net,techbloogs.com,tutwuri.id##+js(adjust-setInterval)
-besargaji.com,khaddavi.net,lokerwfh.net,techbloogs.com,tutwuri.id##div[style="text-align: center;"]:has(> a[target="_blank"] > img[alt="download"])
+besargaji.com,dapat.link,app.khaddavi.net,link2unlock.com,lokerwfh.net,meong.club,techbloogs.com,tutwuri.id##+js(nowoif)
+besargaji.com,app.khaddavi.net,lokerwfh.net,techbloogs.com,tutwuri.id##+js(adjust-setInterval)
+besargaji.com,app.khaddavi.net,lokerwfh.net,techbloogs.com,tutwuri.id##div[style="text-align: center;"]:has(> a[target="_blank"] > img[alt="download"])
 bestieindonesianews.id##.sidebar-widget a[href="#"]:has(img)
 besttangsel.com##.home .cb-module-block:has(> .cb-module-title:has-text(/iklan/i))
 beta.imagefap.com##.ad_placeholder
@@ -16757,6 +16757,7 @@ livesports044.com,marza11.shop##+js(aopr, document.oncontextmenu)
 livesports044.com,marza11.shop##.banner
 livesports044.com,tigoals213.com##.banner.flex-center
 lk21.*,nontondrama.*###nativeAds
+lk21.am.in,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click###nativeAds
 lk21.am.in,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click###player > #player-lux
 lk21.am.in,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click###player > a[id][target="_blank"]
 lk21.am.in,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click###player-below-b
@@ -25398,6 +25399,7 @@ zuuk.org###fl10
 ||safelinkblog.com/js/v2.js$script
 ||safelinking.biz/adblock-detector.htm$subdocument
 ||safelinku.com/728x20.$3p,image
+||safelinku.com/ad_home.js$redirect=noop.js
 ||safelinku.com/fullpage/script.$3p,script
 ||safelinku.com/js/web-script.$3p,script
 ||sahabat-arena.$image,third-party

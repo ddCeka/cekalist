@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 28 Aug 2025 13:54 UTC (updated regularly)
+! Last modified: 28 Aug 2025 14:05 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -10500,7 +10500,6 @@ GrandBroker.com/static/*/bg*.*$image
 GrandCapital.com/*/orbs.jpg
 GrandCapital.net/static/*/bg*.*$image
 NewKaikoSlot.gif|$image
-[Adblock Plus 2.0]
 [href="https://akismet.com/privacy/"]
 _728-x-90.$image
 _728_x_90/
@@ -13416,6 +13415,7 @@ f95zone.to##.js-notices.notices--block.notices
 f95zone.to##.node--link.node--depth2.node--id129.node
 f95zone.to##.node--link.node--depth2.node--id136.node
 f95zone.to##.p-breadcrumbs--bottom.p-breadcrumbs > li > [href="/forums/games.2/"]
+f95zone.to##.p-footer-inner
 f95zone.to##.p-footer-inner > .pageContent
 f95zone.to##.p-nav-inner > .p-nav-opposite > .p-navgroup-link.uix_sidebarTrigger__component.uix_sidebarCanvasTrigger
 f95zone.to##.tabs--standalone.tabs
@@ -14261,6 +14261,7 @@ glasswire.com##IMG[class="img-android-download"]
 gleam.io##DIV[class="chair-bg"]
 gleam.io##DIV[class="cover-bg"]
 gleam.io##DIV[class="landing-banner"]
+glenwich.com##.flex-col.flex.w-full.left-0.top-0.fixed
 glints.com##body:style(margin-top: 0!important;)
 globalsumut.com##img[width="900"][height="350"]
 globes.co.il###chromeWindow

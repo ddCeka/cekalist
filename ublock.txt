@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 31 Aug 2025 00:54 UTC (updated regularly)
+! Last modified: 03 Sep 2025 18:54 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -11562,7 +11562,9 @@ beritacyber.com##a[href^="https://ads.id/"]
 beritacyber.com##a[href^="https://ads.id/"]:has(> img)
 beritacyber.com,dutaserviceac.com##.widget .a-wrap:has-text(/ads/i)
 beritadewata.com##img[width="1024"][height="256"]
+beritaharian.sg##.lg\:min-h-\[120px\]
 beritaharian.sg##.max-w-full.min-h-\[80px\].lg\:min-h-\[120px\]:has(> [data-testid="advertisement-element"])
+beritaharian.sg##.p-\[24px\]
 beritaharian.sg##[data-testid="advertisement-element"]
 beritaharian.sg##div[data-testid=advertisement-element]
 beritaharian.sg##div[style^="background-image: linear-gradient"]
@@ -17448,6 +17450,7 @@ metrotimur.com###head-main-top .mySlides
 metrotvnews.com##.ads
 metrotvnews.com##.ads-large-leaderboard
 metrotvnews.com##.banner-header-ads
+metrotvnews.com##.brand1-ads
 metrotvnews.com##.layout_showcase:has(> .showcase [id^="div-gpt-ad"])
 metrotvnews.com##.layout_topads
 metrotvnews.com##.placeholder-bottom
@@ -19168,6 +19171,7 @@ republika.*##.sosmed_share
 republika.*##.wrap_blok_tag
 republika.*##.wrap_sosmed_set
 republika.co.id###inscroll-banner
+republika.co.id###inscroll-banner-home
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
@@ -23444,6 +23448,7 @@ zuuk.org###fl10
 ||dmbet99.$image,third-party
 ||dniadops-a.akamaihd.net/video-assets/*.mp4$media,domain=dplay.dk
 ||doathair.com^$third-party
+||docs.github.com/assets/images/search/copilot-action.png$image
 ||dolldivine.com/images/fairy-preview.jpg
 ||domainjudionline.$image,third-party
 ||domino-168.$image,third-party
@@ -26163,6 +26168,7 @@ zuuk.org###fl10
 ||sunpoker.com^$third-party
 ||superdomino.$image,third-party
 ||superradio.id^*_banner-$image
+||support.github.com/iframe/docs_va$subdocument
 ||surabayapostnews.com^*/banner-
 ||surabayastory.com^*/ad-$image
 ||surgabola.$image,third-party

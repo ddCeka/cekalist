@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 03 Sep 2025 18:54 UTC (updated regularly)
+! Last modified: 07 Sep 2025 07:59 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -6019,6 +6019,7 @@
 ##img[alt^="ITUQQ" i]
 ##img[alt^="Ibosport" i]
 ##img[alt^="Idn Poker" i]
+##img[alt^="Indogame888" i]
 ##img[alt^="Indomaxbet" i]
 ##img[alt^="Informasi Bandar Terpercaya" i]
 ##img[alt^="Ini777" i]
@@ -11283,6 +11284,8 @@ asianhdplay.*##[href="/privacy-policy.html"]
 asianhdplay.*##[href="/tos.html"]
 asiaone.*##.ao-share-buttons
 asibuka.com##.antiadblock
+asiksendiri.shop###content
+asiksendiri.shop###site-container
 asiktv99.*,elangstream369.*,goalootv188.sbs,lapaktv368.*,lapaktv88.*,nobartv.cc,nobartv288.*,nowgoaltv288.online,tvbersama.cc,tvbersama288.*,tvdewa188.*###floatcenter
 asiktv99.*,elangstream369.*,goalootv188.sbs,lapaktv368.*,lapaktv88.*,nobartv.cc,nobartv288.*,nowgoaltv288.online,tvbersama.cc,tvbersama288.*,tvdewa188.*###floating_banner_top
 asiktv99.*,elangstream369.*,goalootv188.sbs,lapaktv368.*,lapaktv88.*,nobartv.cc,nobartv288.*,nowgoaltv288.online,tvbersama.cc,tvbersama288.*,tvdewa188.*###popupklan
@@ -11405,6 +11408,7 @@ balipost.com,humaniora.id,indeksnews.com,lintaslampung.com,liputanjatim.com,matr
 balipost.com,humaniora.id,indeksnews.com,lintaslampung.com,liputanjatim.com,matrasnews.com,redaksisatu.id###divFLRARight
 balitribune.co.id##.bt-ads-full
 balitribune.co.id##.bt-top-ads
+balitribune.co.id##.region-top-ads
 baliwakenews.com,info-menarik.net,lumpiastudio.com,otakdewasa.id##[style*="cursor:"][style*="user-select: none;"][style*="z-index:"]
 bandungberita.com##.gmr-floatbanner
 bandungberita.com,jendelakaba.com##.gmr-banner-logo
@@ -12174,6 +12178,7 @@ buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,
 buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com#@#.adVertical
 buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com#@#img[width="500"][height="70"]
 buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com#@#img[width="550"][height="70"]
+buahmangga.com,gocrot.me,gocrot.org,semprot.com##.popup-cr7
 buahmangga.com,gocrot.org,semprot.com##.popup-cr7
 buanapagi.com##img[height="1024"][width="594"]
 buanapagi.com,sumateranews.co.id##img[width="1024"][height="365"]
@@ -13058,8 +13063,10 @@ dewabioskop21.org###main-popup
 dewabioskop21.org##.banner-left
 dewabioskop21.org##.banner-middle
 dewabioskop21.org##.banner-right
+dewaporn.*##.happy-header
 dewaporn.*##.happy-header > [href] > .loading
 dewaporn.*##.happy-header > a:has(> img)
+dewaporn.*##.happy-sidebar
 dewaporn.*##.happy-sidebar > [href] > .loading
 dewaporn.*##.happy-sidebar > a:has(> img)
 dewatanews.com##.lalulintas
@@ -16728,6 +16735,7 @@ lautanindonesia.com/forum/Themes/*/images/*
 lautanindonesia.com/img/*.gif
 lautanindonesia.com/img/*.png
 law-justice.co,suaraindonesia.co.id##.sticky_bottom
+layardrama21.*###idmuvi-popup
 layardrama21.*#@#.idmuvi-topbanner-aftermenu
 layardrama21.beauty,yuramanga.my.id##+js(noeval-if, /fairAdblock|chp_?adblock|adsbygoogle\.js/)
 layarkaca21.*###fbanner
@@ -17968,6 +17976,8 @@ nflxext.*/*/*login*.*$image
 nflxext.*/*/login/*.*$image
 ngelag.com##+js(set, window.onpopstate, noopFunc)
 ngodingdata.com##.advertise
+ngomek.com###juicyads-floating-bottom
+ngomek.com###juicyads-floating-top
 ngopibareng.id##div:has(> p:has-text(/adv/i))
 ngulikode.com##+js(aopr, nocopas)
 nicoblog.org##.social-share
@@ -19343,6 +19353,8 @@ samehadaku.*##a[target="_blank"] ~ .pencenter:style(display: inline-block !impor
 samehadaku.*##img[style="width: 50%; height: 70px;"]
 samehadaku.net#@##adsense
 sanga.id##img[height="1600"][width="900"]
+sange.link##.Dvr-B
+sange.link##.DvrCn
 sangetods.net##.active.adde_modal-overlay
 sangetods.net##.adde_modal_detector-show.adde_modal_detector
 sapx.id##:matches-path(/blog) .header-before-ad
@@ -19707,6 +19719,7 @@ skins4virtual.com##.ui-front.ui-widget-overlay
 skins4virtual.com##.ui-resizable.ui-front.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 skiplink.co/*/images/*.*$domain=skiplink.co,image
 skl-874.com/*
+skren21.*###ouibounce-modal
 skrill.com##DIV[class="section is-parallax homepage-hero hero"]
 skrill.com/*/body_bg_noise-0215c86128745f6378a9cfe248f91e82.png
 skrill.com/*/footer_circle-36b2e908c01a96ef80ec64ef60d26348.png
@@ -20418,6 +20431,7 @@ terasnkri.com##img[width="1100"][height="159"]
 terassulbar.com##.advertisement-area
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
+terbit21official.*###float-banner
 terbitan.com##img[width="718"][height="355"]
 terkenal.co.id##.post-article img[srcset^="data:image/gif;base64,"]
 terkini.id##.adbox
@@ -20941,6 +20955,9 @@ tribunnewswiki.com###adsoutofpage-premiumTopframe
 tribunnewswiki.com##.ads_box_2
 tribunnewswiki.com##.box__reserved
 tribunnewswiki.com##.nativeads
+tribunrakyat.com##.container > .widget.widget_text
+tribunrakyat.com##.parallax.billboard
+tribunrakyat.com##.parallxads
 triv.co.id##DIV[class="d_onthego_phone"]
 triv.co.id##DIV[class="d_onthego_triv"]
 triv.co.id##DIV[class="header_logo"]

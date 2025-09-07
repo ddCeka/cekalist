@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 07 Sep 2025 07:59 UTC (updated regularly)
-! host_count: 7748
+! Last modified: 07 Sep 2025 08:45 UTC (updated regularly)
+! host_count: 7726
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -628,7 +628,6 @@
 0.0.0.0 anikor.pics
 0.0.0.0 animebatch.id
 0.0.0.0 animeindo.info
-0.0.0.0 animekompi.vip
 0.0.0.0 animexin.vip
 0.0.0.0 aniview.com
 0.0.0.0 anixverse.com
@@ -1108,10 +1107,6 @@
 0.0.0.0 betuah.com
 0.0.0.0 bewaslac.com
 0.0.0.0 bfmio.com
-0.0.0.0 bgibola.autos
-0.0.0.0 bgibola.boats
-0.0.0.0 bgibola.bond
-0.0.0.0 bgibola.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bharata.co.id
 0.0.0.0 bhayangkaraglobalnews.com
@@ -1891,7 +1886,6 @@
 0.0.0.0 devlog-upload-os.hoyoverse.com
 0.0.0.0 dewabiz.com
 0.0.0.0 dewajudibet.com
-0.0.0.0 dewajudionline.com
 0.0.0.0 dewantaranews.com
 0.0.0.0 dewatanetwork.com
 0.0.0.0 dewaweb.com
@@ -2388,7 +2382,6 @@
 0.0.0.0 flare-analytics.com
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 flashtalking.com
-0.0.0.0 flexterkita.com
 0.0.0.0 flighty.win
 0.0.0.0 flightzy.date
 0.0.0.0 flightzy.win
@@ -2938,7 +2931,6 @@
 0.0.0.0 indepthnews.id
 0.0.0.0 indiespot.id
 0.0.0.0 indimanado.com
-0.0.0.0 indoadsnet.com
 0.0.0.0 indobanner.com
 0.0.0.0 indoberita.id
 0.0.0.0 indobokepin.com
@@ -3500,7 +3492,6 @@
 0.0.0.0 klik.gg
 0.0.0.0 klik.top
 0.0.0.0 klik4.me
-0.0.0.0 klik66.co
 0.0.0.0 klikajadeh.com
 0.0.0.0 klikaktual.com
 0.0.0.0 klikanggaran.com
@@ -3523,7 +3514,6 @@
 0.0.0.0 kliktimes.com
 0.0.0.0 klikwarta.com
 0.0.0.0 klise.news
-0.0.0.0 klubpria.com
 0.0.0.0 kobaran.com
 0.0.0.0 kochava.com
 0.0.0.0 kodakone.cc
@@ -3626,7 +3616,6 @@
 0.0.0.0 kupasonline.com
 0.0.0.0 kupastuntas.co
 0.0.0.0 kuramanime.boo
-0.0.0.0 kurazone.net
 0.0.0.0 kuronime.vip
 0.0.0.0 kuroshireader.com
 0.0.0.0 kusonime.com
@@ -3694,7 +3683,6 @@
 0.0.0.0 layarindo.com
 0.0.0.0 layarkaca21.autos
 0.0.0.0 layarkacafilm21.com
-0.0.0.0 layarkeren.blog
 0.0.0.0 lazacasino.com
 0.0.0.0 lazone.id
 0.0.0.0 lb.eu-1-id5-sync.com
@@ -4367,7 +4355,6 @@
 0.0.0.0 motosal.net
 0.0.0.0 mousheen.net
 0.0.0.0 movieon21.mov
-0.0.0.0 movies21.ing
 0.0.0.0 mp-api.afafb.com
 0.0.0.0 mpianalytics.com
 0.0.0.0 ms.cmcm.com
@@ -4744,7 +4731,6 @@
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 nmq.zxnexus.com
 0.0.0.0 nnyetherwallelt.ru.com
-0.0.0.0 nobartv.cc
 0.0.0.0 node.aibeacon.jp
 0.0.0.0 node.nimiq.watch
 0.0.0.0 noithaticon.vn
@@ -4756,7 +4742,6 @@
 0.0.0.0 nongkrong.co
 0.0.0.0 nonton.tube
 0.0.0.0 nonton168.ink
-0.0.0.0 nontondrama.click
 0.0.0.0 nontonfilm.app
 0.0.0.0 nontonfilm.top
 0.0.0.0 nontonfilm88.co
@@ -5258,7 +5243,6 @@
 0.0.0.0 pontiflex.com
 0.0.0.0 pool.hws.ru
 0.0.0.0 popbela.com
-0.0.0.0 popclck.net
 0.0.0.0 popmama.com
 0.0.0.0 popularitas.com
 0.0.0.0 populis.id
@@ -5990,7 +5974,6 @@
 0.0.0.0 semarakpost.com
 0.0.0.0 semarangkota.com
 0.0.0.0 semarangtogel.com
-0.0.0.0 semikeren.online
 0.0.0.0 semprot.com
 0.0.0.0 semruwet.com
 0.0.0.0 semuabis.com
@@ -6160,7 +6143,6 @@
 0.0.0.0 situskuliner.com
 0.0.0.0 situsnobar.top
 0.0.0.0 situsproperti.com
-0.0.0.0 situstaruhan.com
 0.0.0.0 situstogelonline.com
 0.0.0.0 sjlyasociados.com.ar
 0.0.0.0 sk21.pro
@@ -6264,7 +6246,6 @@
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 ssum.casalemedia.com
 0.0.0.0 stabilitasbisnis.com
-0.0.0.0 star88win.net
 0.0.0.0 starbase.pro
 0.0.0.0 starbase.tech
 0.0.0.0 starcasino88.net
@@ -6834,11 +6815,9 @@
 0.0.0.0 toto13.com
 0.0.0.0 totobet24.com
 0.0.0.0 totobet4d.com
-0.0.0.0 totojitu1.com
 0.0.0.0 totojitu2.com
 0.0.0.0 totojt.com
 0.0.0.0 totomaster.com
-0.0.0.0 totos4d.com
 0.0.0.0 tp2p.kg.qq.com
 0.0.0.0 tpbid.com
 0.0.0.0 tpc.googlesyndication.com
@@ -7175,7 +7154,6 @@
 0.0.0.0 vidstatb.taboola.com
 0.0.0.0 viewjabar.com
 0.0.0.0 vik-analytics.moonactive.net
-0.0.0.0 vimaxasli.id
 0.0.0.0 vimaxpills.id
 0.0.0.0 viralkaltim.com
 0.0.0.0 viralsumsel.com

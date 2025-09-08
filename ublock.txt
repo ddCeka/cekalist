@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 07 Sep 2025 07:59 UTC (updated regularly)
+! Last modified: 08 Sep 2025 22:08 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -10934,6 +10934,7 @@ anibatch.net##.su-box.su-box-style-default
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
+anichin.cafe,anichin.social,anichin.watch,animekhor.org,animekompi.fun,cosmic1.co,ikiru.wtf,isekaisubs.web.id,kaitoani.org,kanzenin.info,kazefuri.cloud,kazefuri.info,komikdewasa.art,komiksin.net,komiktap.info,komikx.art,mangacanblog.com,mangaindo.*,mangakita.id,mangasusuku.com,manhwadesu.cloud,melongmovies.com,mihentai.com,movepizz.site,movieku.*,rawkuma.net,sektedoujin.cc,sokuja.uk,soulscans.my.id##.kln
 anichin.cafe,anichin.social,animekhor.org,animekompi.fun,animexin.dev,anoboy.be,isekaisubs.web.id,kazefuri.cloud,kazefuri.info###overplay
 anichin.dev##[href="https://cek.to/anc-dwc"]
 anichin.social##+js(aeld, /copy|keydown/)
@@ -16211,6 +16212,7 @@ kingbokep.*##.md\:flex-row.flex-col.gap-3.flex.mt-3
 kingbokep.*##[grid-area="ads1"]
 kingbokep.*##div.flex.w-full.justify-center.overflow-x-auto
 kingbokep.*##div[style="width:300px;height:250px;z-index:1"]
+kingbokep.*##img[src*=".gif"]:not(div[class*="video"][class*="card"] > img)
 kingbokep.*##img[src*=".webp"]:not(div[class*="video"][class*="card"] > img)
 kinitv.com##.bg-gray-100:has(.adunitContainer)
 kinitv.com##.bg-gray-100:has(> .adunitContainer)

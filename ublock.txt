@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 12 Sep 2025 10:01 UTC (updated regularly)
+! Last modified: 12 Sep 2025 10:07 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8868,8 +8868,6 @@ $websocket,domain=vidup.me
 012.tw#@#.ad728
 01net.com##.geste
 01nonton.com,46.166.167.16,bioskop168.co,bioskop168.online,bioskop168.pro,bioskop45.com,drakorindo.tv,gandhool.net,gudangmovies21.cc,idbioskop.com,indomv.net,layarkacaxxi.id,layarxxi.online,lk21.web.id,nekopoi.care,nekopoi.lol,nonton33.net,nonton789.com,nontondrama.me,nontonsub.com,sukamovie.mobi,zonabola.id##a[href^="http://bit.ly/"]
-01ntn.cc,123moviesmy.site,162.244.93.238,194.233.69.123,194.233.84.95,62.84.103.231,91.208.184.248,anibatch.moe,anichin.social,animekompi.fun,animexin.dev,anoboy.app,anoboy.be,axials.xyz,bioskop21.*,boscinematv1.space,cinemaemas6.com,cinemakeren6.id,dramaserial21.cam,freethemes.pw,gudangkomik.com,gudangmoovies21.com,gudangmovies21.chat,idlixku.com,indositusxxi.id,jahongirbandb.com,kawanfilm21.co,kazefuri.cloud,kazefuri.info,kebioskop21.one,komik-cast.com,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kuroshireader.com,kusonime.com,layardrama21.beauty,layarkeren.pro,mangasusuku.com,manhwadesu.cloud,melongmovies.com,movepizz.site,movieku.*,nimegami.id,nntonfilm.my.id,nomat.site,omanga.net,otakudesu.cloud,rebahin.lol,rebahinxxi1.xyz,skren21.xyz,so.batkren.xyz,sob.atkren.xyz,westmanga.me##a[target*="blank"]:has(> img)
-01ntn.cc,123moviesmy.site,162.244.93.238,194.233.69.123,194.233.84.95,62.84.103.231,91.208.184.248,anibatch.moe,anichin.social,animekompi.fun,animexin.dev,anoboy.app,anoboy.be,axials.xyz,bioskop21.*,boscinematv1.space,cinemaemas6.com,cinemakeren6.id,dramaserial21.cam,freethemes.pw,gudangkomik.com,gudangmoovies21.com,gudangmovies21.chat,idlixku.com,indositusxxi.id,jahongirbandb.com,kawanfilm21.co,kazefuri.cloud,kazefuri.info,kebioskop21.one,komik-cast.com,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kuroshireader.com,kusonime.com,layardrama21.beauty,layarkeren.pro,mangasusuku.com,manhwadesu.cloud,melongmovies.com,movepizz.site,movieku.*,nimegami.id,nntonfilm.my.id,nomat.site,omanga.net,otakudesu.cloud,rebahin.lol,rebahinxxi1.xyz,so.batkren.xyz,sob.atkren.xyz,sob4t.xyz,westmanga.me##a[target*="blank"]:has(> img)
 01ntn.cc,123moviesmy.site,162.244.93.238,194.233.69.123,194.233.84.95,62.84.103.231,91.208.184.248,anibatch.moe,anichin.social,animekompi.fun,animexin.dev,anoboy.app,anoboy.be,axials.xyz,bioskop21.*,boscinematv1.space,cinemaemas6.com,cinemakeren6.id,dramaserial21.cam,freethemes.pw,gudangkomik.com,gudangmoovies21.com,gudangmovies21.chat,idlixku.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,kazefuri.info,kebioskop21.one,komik-cast.com,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kuroshireader.com,kusonime.com,layardrama21.beauty,layarkeren.pro,mangasusuku.com,manhwadesu.cloud,melongmovies.com,movepizz.site,movieku.*,nimegami.id,nntonfilm.my.id,nomat.site,omanga.net,otakudesu.cloud,presdelafontaine.com,rebahin.lol,rebahinxxi1.xyz,skren21.xyz,so.batkren.xyz,sob.atkren.xyz,westmanga.me##a[target*="blank"]:has(> img)
 01ntn.cc,91.208.184.248###topban
 04stream.com##[id^="adv"]
@@ -15823,8 +15821,6 @@ jagokata.com###side-googlebox
 jagokata.com##+js(set-local-storage-item, ignoreadblock, true)
 jagokata.com##[href^="https://play.google.com/store/apps/details"]
 jagokata.com/*/banner-*.*$image
-jahongirbandb.com###popup-container
-jahongirbandb.com##.banner-container
 jakartaglobe.id,republika.co.id##.show.fade.modal
 jakartaglobe.id,republika.co.id##.show.fade.modal-backdrop
 jakartaraya.co.id,koma.id,sindomanado.com##.article-adv

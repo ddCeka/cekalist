@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 12 Sep 2025 10:07 UTC (updated regularly)
+! Last modified: 13 Sep 2025 21:23 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -12635,6 +12635,7 @@ cobisnis.com,tirto.id##.banner-section
 cockomputer.*##.gmr-socialicon
 cockomputer.*##.gmr-socialicon-share
 cockomputer.*##.tags-links
+codeberg.org##.page-footer
 codeflare.net###adBlockInfo
 codeflare.net##.adsparallax
 codeonclick.com/*
@@ -21782,6 +21783,8 @@ www.forbes.com##.embed-1.link-embed.color-body-border.color-body.embed-base
 www.forbes.com##.embed-2.link-embed.color-body-border.color-body.embed-base
 www.forbes.com##.embed-3.link-embed.color-body-border.color-body.embed-base
 www.forbes.com##.toaster
+www.france24.com##.o-bottom-bar
+www.france24.com##.o-sticky-wrapper
 www.google.*##+js(acis, document.cookie, YES+)
 www.google.*##^script:has-text(consentCookiePayload)
 www.gtaall.com##.banners
@@ -23002,7 +23005,7 @@ zuuk.org###fl10
 ||blindbetpoker.com^$third-party
 ||block.s3block.$popup
 ||blogger.googleusercontent.com/*.gif$image,domain=doujindesu.tv|javsubid.com
-||blogger.googleusercontent.com/img/$image,domain=igodesu.tv
+||blogger.googleusercontent.com/img/$image,domain=igodesu.tv|presdelafontaine.*
 ||blogger.googleusercontent.com/img/a/*$image
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvX*SYGS9NH/s1600/download.png$image
 ||bloggerhub.id/wp-content/uploads/$3p

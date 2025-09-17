@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 14 Sep 2025 03:25 UTC (updated regularly)
+! Last modified: 17 Sep 2025 11:08 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -3400,6 +3400,7 @@
 ##[title^="PRIAQQ" i]
 ##[title^="PRUPOKER" i]
 ##[title^="PURIBET" i]
+##[title^="Papa303" i]
 ##[title^="PasarOnline" i]
 ##[title^="Pentaslot" i]
 ##[title^="Pojokpoker" i]
@@ -8871,7 +8872,7 @@ $websocket,domain=vidup.me
 012.tw#@#.ad728
 01net.com##.geste
 01nonton.com,46.166.167.16,bioskop168.co,bioskop168.online,bioskop168.pro,bioskop45.com,drakorindo.tv,gandhool.net,gudangmovies21.cc,idbioskop.com,indomv.net,layarkacaxxi.id,layarxxi.online,lk21.web.id,nekopoi.care,nekopoi.lol,nonton33.net,nonton789.com,nontondrama.me,nontonsub.com,sukamovie.mobi,zonabola.id##a[href^="http://bit.ly/"]
-01ntn.cc,123moviesmy.site,162.244.93.238,194.233.69.123,194.233.84.95,62.84.103.231,91.208.184.248,anibatch.moe,anichin.social,animekompi.fun,animexin.dev,anoboy.app,anoboy.be,axials.xyz,bioskop21.*,boscinematv1.space,cinemaemas6.com,cinemakeren6.id,dramaserial21.cam,filem21.org,freethemes.pw,gudangkomik.com,gudangmoovies21.com,gudangmovies21.chat,idlixku.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,kazefuri.info,kebioskop21.one,komik-cast.com,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kuroshireader.com,kusonime.com,layardrama21.beauty,layarkeren.pro,mangasusuku.com,manhwadesu.cloud,melongmovies.com,movepizz.site,movieku.*,nimegami.id,nntonfilm.my.id,nomat.site,omanga.net,otakudesu.cloud,presdelafontaine.com,rebahin.lol,rebahinxxi1.xyz,skren21.xyz,so.batkren.xyz,sob.atkren.xyz,westmanga.me##a[target*="blank"]:has(> img)
+01ntn.cc,123moviesmy.site,162.244.93.238,194.233.69.123,194.233.84.95,62.84.103.231,91.208.184.248,anibatch.moe,anichin.social,animekompi.fun,animexin.dev,anoboy.app,anoboy.be,axials.xyz,bioskop21.*,boscinematv1.space,cinemaemas6.com,cinemakeren6.id,dramaserial21.cam,filem21.org,freethemes.pw,gudangkomik.com,gudangmoovies21.com,gudangmovies21.chat,idlixku.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,kazefuri.info,kebioskop21.one,komik-cast.com,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kuroshireader.com,kusonime.com,layardrama21.beauty,layarkeren.pro,mangasusuku.com,manhwadesu.cloud,melongmovies.com,movepizz.site,movieku.*,nimegami.id,nntonfilm.my.id,nomat.site,omanga.net,otakudesu.cloud,presdelafontaine.com,rebahin.lol,rebahinxxi1.xyz,skren21.xyz,so.batkren.xyz,sob.atkren.xyz,togetherweflourish.com,westmanga.me##a[target*="blank"]:has(> img)
 01ntn.cc,91.208.184.248###topban
 04stream.com##[id^="adv"]
 04stream.com##[id^="closediv"]
@@ -10060,7 +10061,7 @@ $websocket,domain=vidup.me
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$script,domain=quebeccoupongratuit.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$script,domain=sc2casts.com
 @@||pagead2.googlesyndication.com/pagead/js/*show_ads_impl.js$domain=buickforums.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arahtekno.com|baristakesehatan.com|dapat.link|gnaija.net|jurnalistekno.id|khaddavi.net|lokerwfh.net|tutorialsaya.com|tutwuri.id
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arahtekno.com|baristakesehatan.com|dapat.link|gnaija.net|jurnalistekno.id|khaddavi.net|lokerwfh.net|smasnug.biz.id|tutorialsaya.com|tutwuri.id
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bricozone.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dailydoge.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elfqrin.com
@@ -10733,6 +10734,7 @@ ah-me.com##.movie-pop
 aida64.*##.popup-content
 ainzscans.net,alhussainproperties.com,anichin.social,dojing.net,doujinku.org,filem21.org,ikiru.wtf,kaitoani.org,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiktap.info,komiku.asia,komikzoid.id,kumapoi.info,kuroshireader.com,mangaaku.com,mangakita.id,mangakuu.com,mangasusuku.com,mangatale.co,manhwadesu.cloud,mihentai.com,ngomik.mom,noromax01.my.id,rawkuma.net,sektedoujin.cc,softkomik.com,soulscans.my.id,tenshiku.asia,westmanga.me,yuramanga.my.id##+js(aeld, contextmenu)
 ainzscans.net,anichin.watch,kazefuri.cloud,kazefuri.info,komiksin.net,mangaindo.*,soulscans.my.id###floatcenter
+ainzscans.net,cosmic345.co,ikiru.one,ikiru.world,isekaisubs.web.id,kiryuu01.com,kmvs03.com,komikcast01.com,komikcast02.com,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,komiktap.info,mangakita.id,mangakita.net,novascans.id##.kln
 ainzscans.net,kumapoi.info##+js(noeval-if, /chp_?ad/)
 airy-youtube-downloader.com/*/products/*/*.jpg
 airy-youtube-downloader.com/*/products/*/*.png
@@ -10935,8 +10937,7 @@ androidtop.*##[href="/en/privacy-policy.html"]
 androidtop.*##[href^="/index.php"]
 androidtop.*/*/logo.*$domain=androidtop.net,image
 androidtop.*/templates/*/logo.*image
-anibatch.moe,animekompi.fun,gudangkomik.com,kawanfilm21.co,kazefuri.cloud,kazefuri.info,layarkeren.pro,mangakita.id,nimegami.id,otakudesu.cloud,rebahan21.com,rebahin.lol,sektedoujin.cc,skren21.xyz,so.batkren.xyz,sob.atkren.xyz,sokuja.uk,westmanga.me##+js(nowoif)
-anibatch.moe,animekompi.fun,gudangkomik.com,kawanfilm21.co,kazefuri.cloud,kazefuri.info,layarkeren.pro,mangakita.id,nimegami.id,otakudesu.cloud,rebahan21.com,rebahin.lol,sektedoujin.cc,so.batkren.xyz,sob.atkren.xyz,sob4t.xyz,sokuja.uk,westmanga.me##+js(nowoif)
+anibatch.moe,animekompi.fun,gudangkomik.com,kawanfilm21.co,kazefuri.cloud,kazefuri.info,layarkeren.pro,mangakita.id,nimegami.id,otakudesu.cloud,rebahan21.com,rebahin.lol,sektedoujin.cc,skren21.xyz,so.batkren.xyz,sob.atkren.xyz,sokuja.uk,togetherweflourish.com,westmanga.me##+js(nowoif)
 anibatch.net##.su-box.su-box-style-default
 anichin.*###floatcenter
 anichin.*###overplay
@@ -10945,8 +10946,6 @@ anichin.cafe,anichin.social,anichin.watch,animekhor.org,animekompi.fun,cosmic1.c
 anichin.cafe,anichin.social,animekhor.org,animekompi.fun,animexin.dev,anoboy.be,isekaisubs.web.id,kazefuri.cloud,kazefuri.info###overplay
 anichin.dev##[href="https://cek.to/anc-dwc"]
 anichin.social##+js(aeld, /copy|keydown/)
-anichin.social,anichin.watch,animekhor.org,animekompi.fun,cosmic1.co,ikiru.wtf,isekaisubs.web.id,kaitoani.org,kanzenin.info,kazefuri.cloud,kazefuri.info,komikdewasa.art,komiksin.net,komiktap.info,komikx.art,mangacanblog.com,mangaindo.*,mangakita.id,mangasusuku.com,manhwadesu.cloud,melongmovies.com,mihentai.com,movepizz.site,movieku.*,rawkuma.net,sektedoujin.cc,sokuja.uk,soulscans.my.id##.kln
-anichin.top,animekompi.vip,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id,kiryuu.org,kiryuu01.com,komikcast02.com,njavtv.com,subindojav.cc##+js(nowoif)
 anichin.watch,layarkaca21ok.site,mangakita.id,mangatale.co,movieku.*,tooncubus-read.my.id,tooncubus.top,wibudesu.co##a:has(> img[src$=".gif"])
 anigod.gryfindor.com#@#.ads-link
 animasu.cc##.lmd-iklan
@@ -11379,6 +11378,8 @@ bachtrack.com#@##adblock1
 bachtrack.com#@##adblock2
 bachtrack.com#@##adblock3
 bachtrack.com#@##adblock4
+bacol.*##+js(aeld, contextmenu)
+bacol.*##+js(prevent-window-open)
 bacol.*,herbplaster.world##.ads
 bacol.*,herbplaster.world##.code-block
 bacol.*,herbplaster.world##[style*="cursor:"][style*="user-select: none;"][style*="z-index:"]
@@ -18527,6 +18528,7 @@ parapuan.co##.commSkin__fluid--right.commSkin__fluid
 parapuan.co##.div-gpt-ad-top-wrapper
 parapuan.co##.mb3.gpt-ad-head-wrapper.widget
 parapuan.co##article + #defaultVideoContainer:remove()
+parcelsapp.com##div[style="text-align: center; min-height: 280px;"]
 pasarbokep.com##+js(aopr, adsBlocked)
 pasarbokep.com,sangetods.*##+js(no-fetch-if, pagead2.googlesyndication.com)
 pasardana.id##.fullwidth-banner
@@ -25260,7 +25262,6 @@ zuuk.org###fl10
 ||pacificpoker.com^$third-party
 ||padssup.com^$third-party
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js,domain=duniakode.com|harianmerdeka.id|herdamedia.com|indokontraktor.com|kersabaca.com|laptophia.com|masdhika.com|otakotaku.com|serieswans.com|shinryu2.blogspot.com|trivusi.web.id|yukinoshita.web.id
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js,domain=isekaipalace.com
 ||pagead2.googlesyndication.com^
 ||pagefair.com^$third-party
 ||pagefair.net^$third-party
@@ -26925,12 +26926,15 @@ zuuk.org###fl10
 ~gacorbgt.ws##[href^="https://gacorbgt.ws/"]
 ~gendeng.de##[href^="https://gendeng.de/"]
 ~glints.com##[href="https://loker.glints.com/openkerja"] > img
+~goid.space##[href="https://goid.space/login"]
+~goratu.site##[href="https://goratu.site/login"]
 ~gramedia.com##[href^="https://aff.gramedia.com/"]:has(img)
 ~hawkhost.com##[href^="https://my.hawkhost.com/aff.php"]:has(img)
 ~idwebhost.com##[href^="https://idwebhost.com/aff/"]:has(img)
 ~indodax.com##[href^="https://indodax.com/ref/"]:has(img)
 ~indowebsite.co.id##[href^="https://www.indowebsite.co.id/web-hosting/?id="]:has(img)
 ~inibray.link##[href^="https://inibray.link/"]
+~injd.site##[href="https://injd.site/login"]
 ~intellifluence.com##a[href^="https://links.intellifluence.com/"]:has(img)
 ~invol.co,~involve.asia##a[href^="https://invol.co/aff_"]
 ~jagoanhosting.com##[href^="https://member.jagoanhosting.com/aff.php"]:has(img)

@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 18 Sep 2025 06:53 UTC (updated regularly)
-! host_count: 7736
+! Last modified: 19 Sep 2025 22:52 UTC (updated regularly)
+! host_count: 7738
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -4280,6 +4280,7 @@
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mob2.healthtrackergroup.com
+0.0.0.0 mob2.musicgostudio.com
 0.0.0.0 mob2.mymusic2025.com
 0.0.0.0 moba8.net
 0.0.0.0 mobads.baidu.com
@@ -6582,6 +6583,7 @@
 0.0.0.0 tatiye.id
 0.0.0.0 tatrack.thinkyeah.com
 0.0.0.0 taurus.iad.appboy.com
+0.0.0.0 tc.mnbvcxzq.com
 0.0.0.0 tccbanner.com
 0.0.0.0 tdid.m.qq.com
 0.0.0.0 teachscape.vo.llnwd.net

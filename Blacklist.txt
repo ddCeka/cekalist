@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 19 Sep 2025 22:52 UTC (updated regularly)
-! host_count: 7738
+! Last modified: 20 Sep 2025 23:50 UTC (updated regularly)
+! host_count: 7740
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -3903,6 +3903,7 @@
 0.0.0.0 lokeriklan.com
 0.0.0.0 lokerjakarta.id
 0.0.0.0 lokerwfh.net
+0.0.0.0 lolhello.com
 0.0.0.0 lombokinsider.com
 0.0.0.0 lomboksatu.com
 0.0.0.0 lomboktoday.co.id
@@ -3935,6 +3936,7 @@
 0.0.0.0 m4markets.com
 0.0.0.0 ma-code.ru
 0.0.0.0 machieved.com
+0.0.0.0 macory.com
 0.0.0.0 mad.mobisky.pl
 0.0.0.0 madnet.ru
 0.0.0.0 mads.amazon.com

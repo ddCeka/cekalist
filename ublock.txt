@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 21 Sep 2025 00:06 UTC (updated regularly)
+! Last modified: 22 Sep 2025 01:20 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -608,6 +608,7 @@
 ##.ads5
 ##.ads6
 ##.ads728-slot
+##.ads728-slot-panjang
 ##.ads72890
 ##.ads72890.banner
 ##.ads728x90-thumb
@@ -11804,6 +11805,7 @@ bioskopindo.co/*/pace-1.gif
 bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
 bioskopkeren.*###top-banner
+bioskopkeren.beauty,bioskopkeren.bond,bioskopkeren.sbs###headads
 bioskopkerenin.com,ganool.watch,kebioskop21.com,lk21.web.id,movies21.co###top-banner
 birminghammail.co.uk##.captify-iframe
 birminghammail.co.uk##.count-shares

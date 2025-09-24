@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 24 Sep 2025 14:04 UTC (updated regularly)
+! Last modified: 24 Sep 2025 14:43 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -21380,6 +21380,7 @@ usecytonsmehers.*/*
 userbenchmark.*##.showonstuck
 userbenchmark.*##[href="/page/about"]
 userfiles.com/*
+users.nexusmods.com##.premium-membership__main-content
 userscloud.*##.cc-floating
 userscloud.com##.alert-success.alert
 userscloud.com##A[class="btn btn-white  text-danger"]
@@ -21842,8 +21843,15 @@ www.nexusmods.com###app-banner
 www.nexusmods.com###loggedOutPremiumBanner
 www.nexusmods.com###nonPremiumBanner
 www.nexusmods.com###rj-sitemap
+www.nexusmods.com##.collections-containing-mod
+www.nexusmods.com##.justify-center.w-full.flex.mt-auto
+www.nexusmods.com##.pt-4.pb-6.px-6.border-t-white\/20.border-t.rounded-md.overflow-hidden.size-full.block.\30 \.20\)_inset\)\].\36 4\,.\31 43\,.shadow-\[0_0_10px_0_rgba\(217\,.bg-premium-banner
 www.nexusmods.com##.rj-social-links
+www.nexusmods.com##.rj-supporter-wrapper
+www.nexusmods.com##.sm\:bg-surface-translucent-mid.p-4.rounded
+www.nexusmods.com##.sm\:p-8.p-6.bg-center.bg-size-\[424px_244px\].border-premium-moderate.border.rounded-lg.space-y-8.w-full
 www.nexusmods.com##.user-profile-menu-mobile-premium-banner
+www.nexusmods.com##div.pt-2.pb-6.block:nth-of-type(4)
 www.oppaigames.com###pgc-1366-1-1
 www.pcgamingwiki.com###site-notice
 www.reddit.com##+js(aeld, touchmove)

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 24 Sep 2025 01:30 UTC (updated regularly)
+! Last modified: 24 Sep 2025 14:04 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -21842,14 +21842,8 @@ www.nexusmods.com###app-banner
 www.nexusmods.com###loggedOutPremiumBanner
 www.nexusmods.com###nonPremiumBanner
 www.nexusmods.com###rj-sitemap
-www.nexusmods.com##.border-t.border-b.border-stroke-subdued.bg-surface-low.py-2.gap-x-4.justify-center.items-center.flex.relative
-www.nexusmods.com##.justify-center.w-full.flex.mt-auto
-www.nexusmods.com##.md\:hidden.mt-4
-www.nexusmods.com##.overflow-y-auto.justify-between.flex-col.grow.flex.scrollbar > .p-4
 www.nexusmods.com##.rj-social-links
-www.nexusmods.com##.tab-description.container > .clearfix.actions
 www.nexusmods.com##.user-profile-menu-mobile-premium-banner
-www.nexusmods.com##div.pt-2.pb-6.block:nth-of-type(4)
 www.oppaigames.com###pgc-1366-1-1
 www.pcgamingwiki.com###site-notice
 www.reddit.com##+js(aeld, touchmove)

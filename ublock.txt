@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 24 Sep 2025 14:43 UTC (updated regularly)
+! Last modified: 25 Sep 2025 10:14 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -10742,7 +10742,7 @@ ah-me.com##.movie-pop
 aida64.*##.popup-content
 ainzscans.net,alhussainproperties.com,anichin.social,dojing.net,doujinku.org,filem21.org,ikiru.wtf,kaitoani.org,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiktap.info,komiku.asia,komikzoid.id,kumapoi.info,kuroshireader.com,mangaaku.com,mangakita.id,mangakuu.com,mangasusuku.com,mangatale.co,manhwadesu.cloud,mihentai.com,ngomik.mom,noromax01.my.id,rawkuma.net,sektedoujin.cc,softkomik.com,soulscans.my.id,tenshiku.asia,westmanga.me,yuramanga.my.id##+js(aeld, contextmenu)
 ainzscans.net,anichin.watch,kazefuri.cloud,kazefuri.info,komiksin.net,mangaindo.*,soulscans.my.id###floatcenter
-ainzscans.net,cosmic345.co,ikiru.one,ikiru.world,isekaisubs.web.id,kiryuu01.com,kmvs03.com,komikcast01.com,komikcast02.com,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,komiktap.info,mangakita.id,mangakita.net,novascans.id##.kln
+ainzscans.net,cosmic345.co,ikiru.one,ikiru.world,isekaisubs.web.id,kiryuu01.com,kmvs03.com,komikcast01.com,komikcast02.com,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,komiktap.info,mangakita.id,mangakita.net,novascans.id,nimeindo.*,awsubs.*##.kln
 ainzscans.net,kumapoi.info##+js(noeval-if, /chp_?ad/)
 airy-youtube-downloader.com/*/products/*/*.jpg
 airy-youtube-downloader.com/*/products/*/*.png
@@ -18038,6 +18038,7 @@ nikktech.com##DIV[id="logoheader"]
 nikktech.com/*/banners/*
 nikktech.com/*/px.gif
 nimegami.id##+js(aopr, go_url)
+nimeindo.*,awsubs.*##div#popupAd
 ninemanga.com##.sitemaji_banner
 nitiba.*/*
 nitroflare.*##.noticeMessage

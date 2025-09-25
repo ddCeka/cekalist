@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 24 Sep 2025 01:29 UTC (updated regularly)
-! host_count: 8056
+! Last modified: 25 Sep 2025 10:11 UTC (updated regularly)
+! host_count: 8059
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -699,6 +699,7 @@
 0.0.0.0 api.ipify.org
 0.0.0.0 api.itpub.cloud
 0.0.0.0 api.kickoffo.site
+0.0.0.0 api.learnings.ai
 0.0.0.0 api.mediation.amberweather.com
 0.0.0.0 api.miner.beeppool.org
 0.0.0.0 api.miui.security.xiaomi.com
@@ -2098,6 +2099,7 @@
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 dt.beyla.site
 0.0.0.0 dt.videohub.tv
+0.0.0.0 dtcollect.newsbang.com
 0.0.0.0 dualstack-cgicol.amap.com
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 duduk123.com
@@ -2328,6 +2330,7 @@
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-dot-learning-piano.appspot.com
+0.0.0.0 event-portal.dailyinnovation.biz
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-us.ssp.taxssp.com
 0.0.0.0 event.clientgear.com

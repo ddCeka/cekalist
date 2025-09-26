@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 25 Sep 2025 10:14 UTC (updated regularly)
+! Last modified: 26 Sep 2025 08:16 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8866,7 +8866,6 @@ $websocket,domain=vidup.me
 /zonaprediksi.$image
 /zyngaqq.$image
 0.0.realodix##+js(prevent-fetch, pagead2.googlesyndication.com)
-0.0.realodix##+js(prevent-window-open)
 00201.net
 00250.net
 00261.net
@@ -11390,7 +11389,6 @@ bachtrack.com#@##adblock2
 bachtrack.com#@##adblock3
 bachtrack.com#@##adblock4
 bacol.*##+js(aeld, contextmenu)
-bacol.*##+js(prevent-window-open)
 bacol.*,herbplaster.world##.ads
 bacol.*,herbplaster.world##.code-block
 bacol.*,herbplaster.world##[style*="cursor:"][style*="user-select: none;"][style*="z-index:"]
@@ -11787,10 +11785,10 @@ biography.com##.m-header-ad
 biography.com##.m-in-content-ad-row
 biography.com##.m-sidebar-ad--slot
 bioskop.*###floating_banner_bottom
-bioskop.bond,bioskop21.*###floating_banner_bottom
 bioskop168.co,bioskop168.pro###bioskop-kiri
 bioskop168.co,bioskop168.pro##bioskop-kanan
 bioskop21.*###floating_banner_bottom
+bioskop21.*,bsk21.space###floating_banner_bottom
 bioskop78.com###floating_banner_bottoms
 bioskop78.com###wrap > center
 bioskop78.com,cnbcindonesia.com###billboard_banner
@@ -13223,7 +13221,7 @@ dmca.*/Badges/*.*$domain=apkwhale.com
 dmca.com/*/*$domain=hellosehat.com
 dmca.com/Badges/*.png$domain=5kapks.com,image
 docsconvert.club/*.*
-dodz.pro,ds2play.com##+js(prevent-window-open)
+dodz.pro,ds2play.com##+js(nowoif)
 dogecatch.website,dashcatch.xyz###fuck-adb-not-enabled
 doktersehat.com##.addtoany_share_save_container
 doktersehat.com##.ds_taglink
@@ -13596,6 +13594,7 @@ f95zone.to##.button--link.button.tic--button
 f95zone.to##.is-disabled.button--wrap.button
 f95zone.to##.js-filterInput.input
 f95zone.to##.js-notices.notices--block.notices
+f95zone.to##.node--link.node--depth2.node--id127.node > .node-body
 f95zone.to##.node--link.node--depth2.node--id129.node
 f95zone.to##.node--link.node--depth2.node--id136.node
 f95zone.to##.p-breadcrumbs--bottom.p-breadcrumbs > li > [href="/forums/games.2/"]
@@ -13721,10 +13720,10 @@ fbstreams.me,mlbstream.io,nbastream.io,nflstream.io,nhlstream.io,strikeout.co,vi
 fcc.*###footer
 fcc.*##.site-logo
 fcc.*##h2
-fctv33.*,fctv77.*,rbsports77.*,rbtv77.*,rbtvplus01.*,rbtvplus02.*,rbtvplus03.*,rbtvplus04.*,rbtvplus05.*##*:style(scrollbar-width: thin!important;)
-fctv33.*,fctv77.*,rbsports77.*,rbtv77.*,rbtvplus01.*,rbtvplus02.*,rbtvplus03.*,rbtvplus04.*,rbtvplus05.*##:matches-path(/id) div:matches-css(position: fixed):has(> img)
-fctv33.*,fctv77.*,rbsports77.*,rbtv77.*,rbtvplus01.*,rbtvplus02.*,rbtvplus03.*,rbtvplus04.*,rbtvplus05.*##:matches-path(/id) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
-fctv33.*,fctv77.*,rbsports77.*,rbtv77.*,rbtvplus01.*,rbtvplus02.*,rbtvplus03.*,rbtvplus04.*,rbtvplus05.*##:matches-path(/id) iframe + div:matches-css(position: absolute):has(> img)
+fctv33.*,fctv77.*,rbsports77.*,rbtv77.*,rbtvplus01.*,rbtvplus02.*,rbtvplus03.*,rbtvplus04.*,rbtvplus05.*,rbtvplus06.*##*:style(scrollbar-width: thin!important;)
+fctv33.*,fctv77.*,rbsports77.*,rbtv77.*,rbtvplus01.*,rbtvplus02.*,rbtvplus03.*,rbtvplus04.*,rbtvplus05.*,rbtvplus06.*##:matches-path(/id) div:matches-css(position: fixed):has(> img)
+fctv33.*,fctv77.*,rbsports77.*,rbtv77.*,rbtvplus01.*,rbtvplus02.*,rbtvplus03.*,rbtvplus04.*,rbtvplus05.*,rbtvplus06.*##:matches-path(/id) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
+fctv33.*,fctv77.*,rbsports77.*,rbtv77.*,rbtvplus01.*,rbtvplus02.*,rbtvplus03.*,rbtvplus04.*,rbtvplus05.*,rbtvplus06.*##:matches-path(/id) iframe + div:matches-css(position: absolute):has(> img)
 fearlessrevolution.com###page-footer > .navbar
 fearlessrevolution.com###page-header > .navbar
 fearlessrevolution.com##.actions-jump.action-bar
@@ -16497,6 +16496,8 @@ kompas.com/crop/*/230x153/*/*.*$domain=indeks.kompas.com,image
 kompas.com/data/*/inside/images/inside/*$image
 kompas.com/data/photo/*/*.*$image
 kompas.id##.flex.justify-center.lg\:px-8.my-6
+kompas.id##.non-paywall:style(display: block !important;)
+kompas.id##.paywall
 kompas.id##.relative.flex.justify-center.py-2.bg-white
 kompas.id##.relative:has(> [id^="div-gpt-ad-"])
 kompas.id##.w-full.hidden.lg\:flex.bg-grey-10.justify-center.py-3
@@ -20104,7 +20105,7 @@ streamlive.to###WarningCodecBanner
 streamlive.to###adblockplus
 streamsportlive.es###WarningCodecBanner
 streamtape.*##+js(acis, JSON.parse, Promise)
-streamtape.*##+js(prevent-window-open)
+streamtape.*##+js(nowoif)
 streamtape.*##[class*="bn-container"], div[style*="z-index: 300000;"]
 strefadb.pl###videoad
 strikeout.me,strikeout.co###overlayad
@@ -27013,6 +27014,7 @@ zuuk.org###fl10
 ||usahatoto.$image,third-party
 ||usahatoto.$popup
 ||useads.com^$third-party
+||users.nexusmods.com/account/billing/premium
 ||userupload.*/*/logo.*$image
 ||utamabet.$image,third-party
 ||utamaqq.$image,third-party

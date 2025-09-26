@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 26 Sep 2025 12:13 UTC (updated regularly)
+! Last modified: 27 Sep 2025 00:48 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -1836,6 +1836,7 @@
 ##[href="https://akses.games/sokuja"]
 ##[href="https://akses.gg/gsfjp"]
 ##[href="https://akses.gg/gsmovie"]
+##[href="https://akses.gg/iwLZhP"]
 ##[href="https://akses.gg/lk211"]
 ##[href="https://akses.vip/lisa2"]
 ##[href="https://akslot.io/gacor"]
@@ -2082,6 +2083,11 @@
 ##[href="https://cli.re/Royalads2"]
 ##[href="https://cli.re/iSport365fbgrup1"]
 ##[href="https://cli.re/isportfbgrup1"]
+##[href="https://clickurl.link/gala288x"]
+##[href="https://clickurl.link/menara188x"]
+##[href="https://clickurl.link/pegasus188x"]
+##[href="https://clickurl.link/saldo188x"]
+##[href="https://clickurl.link/serbubetx"]
 ##[href="https://cut.vin/KiryuuID"]
 ##[href="https://cutlynk.pro/Kiryuu-VIP"]
 ##[href="https://cutt.ly/FilmTeluk1"]
@@ -2580,6 +2586,7 @@
 ##[href="https://rebrand.ly/mssb21"]
 ##[href="https://rebrand.ly/mtpcekih21"]
 ##[href="https://rebrand.ly/nagaikan"]
+##[href="https://rebrand.ly/nontonpsgslot"]
 ##[href="https://rebrand.ly/oploverdpb88"]
 ##[href="https://rebrand.ly/ovoslot"]
 ##[href="https://rebrand.ly/paiza99"]
@@ -8866,6 +8873,7 @@ $websocket,domain=vidup.me
 /zonaprediksi.$image
 /zyngaqq.$image
 0.0.realodix##+js(prevent-fetch, pagead2.googlesyndication.com)
+0.0.realodix##+js(prevent-window-open)
 00201.net
 00250.net
 00261.net
@@ -11389,6 +11397,7 @@ bachtrack.com#@##adblock2
 bachtrack.com#@##adblock3
 bachtrack.com#@##adblock4
 bacol.*##+js(aeld, contextmenu)
+bacol.*##+js(prevent-window-open)
 bacol.*,herbplaster.world##.ads
 bacol.*,herbplaster.world##.code-block
 bacol.*,herbplaster.world##[style*="cursor:"][style*="user-select: none;"][style*="z-index:"]

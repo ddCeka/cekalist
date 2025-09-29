@@ -9097,7 +9097,6 @@ $websocket,domain=vidup.me
 5play.ru##[href="/en/download-help.html"]
 62.84.103.231###floatbanner-bottom
 62.84.103.231,layardrama21.*###floatbanner-bottom
-62.84.103.231,layardrama21.*###floatbanner-bottom<
 64px.com##IFRAME[id="banner"]
 65.108.132.145,cinemaindo.com,film-ganool.com,ganool.nl,ganool.ph,isekaisubs.web.id,luciferdonghua.in,realmscans.com###teaser2
 65.108.132.145,oploverz.bz,serialmovieislami.com##.sgpb-popup-overlay

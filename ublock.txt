@@ -15357,7 +15357,6 @@ idlixku.com##body[class*="-style-"] > *:style(filter: none !important;)
 idlixku.com##body[class*="-style-"] > div[class$=" active"][style]
 idlixku.com##body[class*="-style-"] > div[class$=" active"][style] + div[class*="-"]:has(> div[class$=" active"][style])
 idlixku.com##html:style(overflow: auto !important; )
-idlixku.com##html:style(overflow: auto !important;)
 idncash.gif|$image
 idnes.cz###space-g
 idnes.cz##body > div#main > table[id][class]

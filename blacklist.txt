@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 29 Sep 2025 12:09 UTC (updated regularly)
-! host_count: 8059
+! Last modified: 1 Oct 2025 07:43 UTC (updated regularly)
+! host_count: 8063
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -401,6 +401,7 @@
 0.0.0.0 adtima-static.zadn.vn
 0.0.0.0 adtimaserver.vn
 0.0.0.0 adtimeselaras.com
+0.0.0.0 adtmonetize.com
 0.0.0.0 adtorque.in
 0.0.0.0 adtrack-intl.ucweb.com
 0.0.0.0 adtrack.appcpi.net
@@ -734,6 +735,7 @@
 0.0.0.0 apm-log-upload-os.hoyoverse.com
 0.0.0.0 apm-native.xiaohongshu.com
 0.0.0.0 apm-track.xiaohongshu.com
+0.0.0.0 app-ads-services.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
 0.0.0.0 app-tracking.hlogo.de
@@ -5949,6 +5951,7 @@
 0.0.0.0 rubis.id
 0.0.0.0 rublikanesia.com
 0.0.0.0 rubrikpos.com
+0.0.0.0 rugfrfji.win
 0.0.0.0 rukim.id
 0.0.0.0 rules.quantcount.com
 0.0.0.0 rumah-judi.com
@@ -7084,6 +7087,7 @@
 0.0.0.0 tr.line.me
 0.0.0.0 tr.snapchat.com
 0.0.0.0 tr6.snapchat.com
+0.0.0.0 trace.free-reels.com
 0.0.0.0 trace.qq.com
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 tracing-collector.strava.com

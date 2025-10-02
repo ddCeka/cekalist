@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 1 Oct 2025 07:44 UTC (updated regularly)
+! Last modified: 2 Oct 2025 18:05 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -13,7 +13,7 @@
 ###Box-Banner-ads
 ###Gadget-AdSense
 ###Iklan-Melayang
-###Iklan\ Atas
+###Iklan\Atas
 ###LeftFloatAds
 ###RightFloatAds
 ###WarningCodec
@@ -21883,6 +21883,8 @@ www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; posi
 www.reddit.com##body:style(pointer-events:auto!important;)
 www.reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
 www.reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!important;)
+www.reddit.com##faceplate-tracker[noun="games_drawer"]
+www.reddit.com##faceplate-tracker[noun="games_drawer"] + hr
 www.reddit.com##xpromo-app-selector
 www.reddit.com##xpromo-new-app-selector
 www.xda-developers.com##.adsninja-rail-container.sidebar

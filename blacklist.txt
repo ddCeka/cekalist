@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 1 Oct 2025 07:43 UTC (updated regularly)
-! host_count: 8063
+! Last modified: 2 Oct 2025 18:04 UTC (updated regularly)
+! host_count: 8065
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -5388,6 +5388,7 @@
 0.0.0.0 play.vidzi.tv
 0.0.0.0 player.aniview.com
 0.0.0.0 playeriframe.shop
+0.0.0.0 playgap.b-cdn.net
 0.0.0.0 playhaven.com
 0.0.0.0 playpokeronline.com
 0.0.0.0 playtime.tubemogul.com
@@ -5905,6 +5906,7 @@
 0.0.0.0 rnyetherwailet.com
 0.0.0.0 rnyetherwallet.com
 0.0.0.0 roastedvolt.net
+0.0.0.0 robin-flow.com
 0.0.0.0 roboguru.ruangguru.com
 0.0.0.0 rock.reauthenticator.com
 0.0.0.0 rock2.authcaptcha.com

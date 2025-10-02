@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 2 Oct 2025 18:05 UTC (updated regularly)
+! Last modified: 2 Oct 2025 18:12 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -13,7 +13,6 @@
 ###Box-Banner-ads
 ###Gadget-AdSense
 ###Iklan-Melayang
-###Iklan\Atas
 ###LeftFloatAds
 ###RightFloatAds
 ###WarningCodec
@@ -18891,6 +18890,7 @@ porn.com##[class$=-zne]
 porn.com##[class$=-zone]
 pornclipsxxx.com###playerOverlay
 pornhd.com##.zone.phdZone
+pornhub.com##+js(set-cookie, accessAgeDisclaimerPH, 2)
 pornhub.com#@#[style] > div > iframe[width]:first-child
 pornhub.com#@#div > [style] iframe[width][height]
 pornlib.*###video-slider

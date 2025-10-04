@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 2 Oct 2025 18:04 UTC (updated regularly)
-! host_count: 8065
+! Last modified: 4 Oct 2025 07:37 UTC (updated regularly)
+! host_count: 8066
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -4240,6 +4240,7 @@
 0.0.0.0 mcoreads.com
 0.0.0.0 mcrogers.com
 0.0.0.0 mcs-va.tiktokv.com
+0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.tiktokw.us
 0.0.0.0 mcwnews.com
 0.0.0.0 mebablo.com

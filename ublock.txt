@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 2 Oct 2025 18:12 UTC (updated regularly)
+! Last modified: 4 Oct 2025 07:38 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -13,6 +13,7 @@
 ###Box-Banner-ads
 ###Gadget-AdSense
 ###Iklan-Melayang
+###Iklan\ Atas
 ###LeftFloatAds
 ###RightFloatAds
 ###WarningCodec
@@ -8936,6 +8937,7 @@ $websocket,domain=vidup.me
 185.63.252.176#@#div[id^="MarketGid"]
 188.166.39.172##.lazyloaded.ls-is-cached.bannerdua
 188.166.39.172##.lazyloaded.ls-is-cached.bannersatu
+18subindo.com##[href^="https://tinyurl.com/"]
 192.99.70.18,95.216.163.177,akurat.co,arahpandang.com,aspirasiku.id,ayobandung.com,ayobogor.com,ayojakarta.com,bandunginsider.com,dapurpacu.com,download-lagu-mp3.com,duniafilm21.com,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,industry.co.id,inidata.id,jatimnetwork.com,jawapos.com,k-vid.net,katadata.co.id,kilat.com,kompas.com,koran-jakarta.com,masagipedia.com,metrotvnews.com,miyanime.site,muslimterkini.id,okezone.com,otakuindo.net,pikiran-rakyat.com,rejogja.co.id,republika.co.id,smallencode.com,tempo.co,terasjakarta.id,timenews.co.id,unews.id,www.melintas.id,zonajakarta.com##.ads
 193.142.147.230,5.253.86.213,ainzscans.net,igobokep.cam,jenismac.com##+js(noeval-if, /chp_?ad/)
 193.178.172.113###repop
@@ -13589,6 +13591,7 @@ f95zone.to##.block--category72.block--category.block > .block-container > .uix_b
 f95zone.to##.block--category72.block--category.block > .js-nodeMain.block-header
 f95zone.to##.block--category8.block--category.block > .block-container > .uix_block-body--outer > .block-body
 f95zone.to##.block--category8.block--category.block > .js-nodeMain.block-header
+f95zone.to##.blockMessage--warning.blockMessage
 f95zone.to##.bratr-rating.br-widget--withSelected.br-widget
 f95zone.to##.button--ignoreText.tic--button
 f95zone.to##.button--link.button.tic--button

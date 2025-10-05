@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 4 Oct 2025 07:38 UTC (updated regularly)
+! Last modified: 5 Oct 2025 15:20 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -2913,6 +2913,7 @@
 ##[href^="https://pinoyslots.ph/"]
 ##[href^="https://playbook-88.site/"]
 ##[href^="https://playbook88hoki.com/"]
+##[href^="https://promosi."]
 ##[href^="https://ramaibola.com/"]
 ##[href^="https://rebrand.ly/Big855_"]
 ##[href^="https://rebrand.ly/Bijiqq"]
@@ -18446,10 +18447,12 @@ oploverz.*###teaser3
 oploverz.*##+js(abort-current-script, Promise, delete window)
 oploverz.*##+js(aopr, SGPB_POPUP_PARAMS)
 oploverz.*##+js(nowoif)
+oploverz.*##.bg-opacity-70.bg-black.rounded-lg
 oploverz.*##.kln
 oploverz.*##.widget:has(> div.textwidget > p > a[target="_blank"])
 oploverz.*##.widget:has(> div.textwidget:empty)
 oploverz.*##a[target*="blank"]:has(> img)
+oploverz.*##div[class^="fixed"]
 oploverz.*##div[id^="teaser"]
 oploverz.bz##.sg-popup-content
 optika.id###ads-top-header-parallax
@@ -19411,6 +19414,7 @@ samehadaku.*##a[rel*="nofollow"]:has(> img)
 samehadaku.*##a[target*="blank"]:has(> img)
 samehadaku.*##a[target="_blank"] ~ .naveps:style(display: inline !important;)
 samehadaku.*##a[target="_blank"] ~ .pencenter:style(display: inline-block !important;)
+samehadaku.*##div[class*="player-iklan"]
 samehadaku.*##img[style="width: 50%; height: 70px;"]
 samehadaku.net#@##adsense
 sanga.id##img[height="1600"][width="900"]
@@ -22738,6 +22742,7 @@ zuuk.org###fl10
 ||api.freewebfonts.org/lib/*$script,domain=keezmovies.com
 ||api.freewebfonts.org/lib/*$script,domain=mofosex.com
 ||api.playsobat.xyz/File/movie/$mp4
+||api.streamapi.info/uploads/ad*.xml$xmlhttprequest,domain=api.streamapi.info
 ||api.streamapi.info/uploads/adsbaru*$xmlhttprequest
 ||api.winnetnews.com/api/*/banner/
 ||apibet.$image,third-party

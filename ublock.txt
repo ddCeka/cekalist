@@ -22743,7 +22743,6 @@ zuuk.org###fl10
 ||api.freewebfonts.org/lib/*$script,domain=mofosex.com
 ||api.playsobat.xyz/File/movie/$mp4
 ||api.streamapi.info/uploads/ad*.xml$xmlhttprequest,domain=api.streamapi.info
-||api.streamapi.info/uploads/adsbaru*$xmlhttprequest
 ||api.winnetnews.com/api/*/banner/
 ||apibet.$image,third-party
 ||apitu.org^*/xbanner-$image

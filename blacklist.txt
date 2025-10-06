@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 5 Oct 2025 15:19 UTC (updated regularly)
-! host_count: 8066
+! Last modified: 6 Oct 2025 21:50 UTC (updated regularly)
+! host_count: 8070
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -600,6 +600,7 @@
 0.0.0.0 analytics.mobilegamestats.com
 0.0.0.0 analytics.nianticlabs.com
 0.0.0.0 analytics.nianticspatial.com
+0.0.0.0 analytics.oliveapp.net
 0.0.0.0 analytics.picsart.com
 0.0.0.0 analytics.prod.mybuddy.ai
 0.0.0.0 analytics.projectcarmen.com
@@ -1669,6 +1670,7 @@
 0.0.0.0 collect.serious.li
 0.0.0.0 collect.ureca-lab.com
 0.0.0.0 collection.weverse.io
+0.0.0.0 collector-sbanking.shb-pelib.com
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.vhx.tv
@@ -5219,6 +5221,7 @@
 0.0.0.0 parapuan.co
 0.0.0.0 parentelement.ml
 0.0.0.0 park.chuitian.cn
+0.0.0.0 parrot-flow.com
 0.0.0.0 partaiku.id
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partnerearning.com
@@ -5917,6 +5920,7 @@
 0.0.0.0 rotaban.ru
 0.0.0.0 rp.gwallet.com
 0.0.0.0 rpc2.sepolia.org
+0.0.0.0 rplogs.itpub.cc
 0.0.0.0 rqmob.com
 0.0.0.0 rsload.net
 0.0.0.0 rt.applovin.com

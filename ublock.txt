@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 6 Oct 2025 21:51 UTC (updated regularly)
+! Last modified: 8 Oct 2025 19:27 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -14459,6 +14459,7 @@ github.com/images/*/customers/*.png
 github.com/images/*/integrators/*.png
 githubstatus.*##[href="https://facebook.com/GitHub"]
 githubstatus.*##[href="https://twitter.com/github"]
+gitlab.*##.light-red.js-broadcast-notification-1
 gjirafa.com##[id^=an-holder]
 gjirafa.com##iframe
 glassdoor.com/home/hero.*$image
@@ -14494,6 +14495,7 @@ gocrot.me,gocrot.org##.popup-cr7
 godriveplayer.net,jeniusplay.com##.pppx
 godt.no##.adblock-info
 gofile.*###adsATF
+gofile.io###index_ads
 gogamego.thewhizproducts.com/*
 gogaytube.tv,shemaleporntube.tv##.videojs-hero
 gogi.in#@#.ad300-250
@@ -17655,6 +17657,12 @@ moneysmart.id##.share-article
 monitorindonesia.com##a[rel*="sponsored"]
 monova.org#@#script + [class] > [class]:first-child
 mosaikislam.com##.urutan_artikel
+mothership.sg###block-imu2
+mothership.sg###block-imu3
+mothership.sg###block-outstream3
+mothership.sg###block-outstream4
+mothership.sg###ms-footer
+mothership.sg###ms-header
 motorexpertz.com,semaraknews.co.id##.content div:has(> script)
 motorplus-online.com###ad-below-photo-container
 motorplus-online.com###ad-genie-container

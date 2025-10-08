@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 6 Oct 2025 21:50 UTC (updated regularly)
-! host_count: 8070
+! Last modified: 8 Oct 2025 19:26 UTC (updated regularly)
+! host_count: 8075
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -275,6 +275,7 @@
 0.0.0.0 ads-ap-venues.yinzcam.com
 0.0.0.0 ads-api.kidsnote.com
 0.0.0.0 ads-bidder-api.twitter.com
+0.0.0.0 ads-bridge.pixocial.com
 0.0.0.0 ads-cdn.hopper.com
 0.0.0.0 ads-chunks.prod.ihrhls.com
 0.0.0.0 ads-cloud.rovio.com
@@ -779,6 +780,7 @@
 0.0.0.0 appsflyer-report.honkaiimpact3.com
 0.0.0.0 appshelf.ttpsdk.info
 0.0.0.0 appsrv.display.io
+0.0.0.0 apptics.zoho.in
 0.0.0.0 apptornado.com
 0.0.0.0 appvalley-apk.com
 0.0.0.0 appwall.tv2phone.cn
@@ -1858,6 +1860,7 @@
 0.0.0.0 data2.doodlemobile.com
 0.0.0.0 datacollector-drru.dt.dbankcloud.ru
 0.0.0.0 datadikdasmen.com
+0.0.0.0 datafinder-beacon.starii-rover.com
 0.0.0.0 dataflow.biliapi.com
 0.0.0.0 dataindonesia.id
 0.0.0.0 datanews.id
@@ -2513,6 +2516,7 @@
 0.0.0.0 freedombetter54.shop
 0.0.0.0 freesoft.id
 0.0.0.0 freesoft.space
+0.0.0.0 freewheel-jitt.sanoma.fi
 0.0.0.0 frekuensinews.com
 0.0.0.0 friendlyduck.com
 0.0.0.0 frontier100-toutiao-lf.fqnovel.com
@@ -6542,6 +6546,7 @@
 0.0.0.0 stats.popcap.com
 0.0.0.0 stats.rustore.ru
 0.0.0.0 stats.samsungpass.com
+0.0.0.0 stats.sg-light-edge.com
 0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.sxp.smartclip.net
 0.0.0.0 statsf-tm.everesttech.net

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 8 Oct 2025 19:27 UTC (updated regularly)
+! Last modified: 12 Oct 2025 10:42 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -5657,6 +5657,7 @@
 ##img[alt="388baik"]
 ##img[alt="388hero"]
 ##img[alt="7METER" i]
+##img[alt="933Bola" i]
 ##img[alt="ARAB777" i]
 ##img[alt="ASIA77" i]
 ##img[alt="Albaslot" i]
@@ -5664,6 +5665,7 @@
 ##img[alt="BETHOKI77" i]
 ##img[alt="BETKK" i]
 ##img[alt="BRAVOBET" i]
+##img[alt="Bes88" i]
 ##img[alt="CINA777" i]
 ##img[alt="DEWACASH" i]
 ##img[alt="DEWACASINO" i]
@@ -6188,6 +6190,7 @@
 ##img[alt^="Meta88slot" i]
 ##img[alt^="ModalQQ" i]
 ##img[alt^="Modalbet" i]
+##img[alt^="Mtxtoto" i]
 ##img[alt^="Murnibet" i]
 ##img[alt^="NAGAPOKERQQ" i]
 ##img[alt^="NAGAQQ" i]

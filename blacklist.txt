@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 8 Oct 2025 19:26 UTC (updated regularly)
-! host_count: 8075
+! Last modified: 12 Oct 2025 10:41 UTC (updated regularly)
+! host_count: 8079
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -2600,6 +2600,7 @@
 0.0.0.0 geede.info
 0.0.0.0 geico.com.ssl.sc.omtrdc.net
 0.0.0.0 geliatekonomi.com
+0.0.0.0 gem-log.sloegem.com
 0.0.0.0 gemalampung.com
 0.0.0.0 gemanews.id
 0.0.0.0 gemasulawesi.com
@@ -4022,6 +4023,7 @@
 0.0.0.0 log.make50.com
 0.0.0.0 log.mgtv.com
 0.0.0.0 log.mmstat.com
+0.0.0.0 log.oceanzz.xyz
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.pdfviewerscannerstore.live
 0.0.0.0 log.pngindir.com
@@ -5530,6 +5532,7 @@
 0.0.0.0 prebid-a.rubiconproject.com
 0.0.0.0 prebid-cache.ifunny.co
 0.0.0.0 prebid-match.dotomi.com
+0.0.0.0 prebid-server-canary.ifunny.co
 0.0.0.0 prebid.a-mo.net
 0.0.0.0 prediksitogeljitu.in
 0.0.0.0 prediksitoptogel.com
@@ -7122,6 +7125,7 @@
 0.0.0.0 track.mobshark.net
 0.0.0.0 track.pingstart.com
 0.0.0.0 track.starmakerstudios.com
+0.0.0.0 track.taimi.com
 0.0.0.0 track.tenjin.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.uc.cn

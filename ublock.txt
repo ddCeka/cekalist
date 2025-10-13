@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 12 Oct 2025 10:42 UTC (updated regularly)
+! Last modified: 13 Oct 2025 15:04 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -18807,9 +18807,7 @@ pix.sr/*/banner2.*
 pixabay.*##.ua-banner-ad-premiumbeat-offer
 pixabay.*##[href="https://policies.google.com/privacy"]
 pixabay.*##[href="https://policies.google.com/terms"]
-pixeldrain.com##.center.block
 pixeldrain.com##.highlight_yellow
-pixeldrain.com##div.block:nth-of-type(1)
 pixiv.net##.popular-introduction-overlay
 pixlr.*##.policies
 pixlr.*##[href="https://blog.pixlr.com/"]

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 14 Oct 2025 15:17 UTC (updated regularly)
+! Last modified: 15 Oct 2025 00:32 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -2128,6 +2128,7 @@
 ##[href="https://cutt.ly/ugsamehadaku"]
 ##[href="https://cutt.ly/zsfilm108"]
 ##[href="https://dub.link/SLOTFBKING"]
+##[href="https://dub.sh/besstream"]
 ##[href="https://dub.sh/mtxlive"]
 ##[href="https://dub.sh/nagaplay99"]
 ##[href="https://duniacash365.com/"]
@@ -11661,20 +11662,6 @@ beritatotabuan.com,harianbhirawa.co.id,kabarmancing.com,lensanews.net,rakyatjamb
 beritatotabuan.com,terasjatim.com##.headbanner
 beritaup2date.com##.w3-modal
 bertuahpos.com,bumilampung.com,lampost.co,portallnews.id,satubanten.com##.wpb_wrapper > a:has(> img)
-besargaji.*###breadcrumbs
-besargaji.*##.comment-body
-besargaji.*##.comments-title
-besargaji.*##.listrecent
-besargaji.*##.listrelated
-besargaji.*##.logoarea
-besargaji.*##.mainheading
-besargaji.*##.nav-link
-besargaji.*##.post-categories
-besargaji.*##.search-form
-besargaji.*##.share
-besargaji.*##.social
-besargaji.*##.thepostlink
-besargaji.*##.widget-area
 besargaji.com,dapat.link,khaddavi.net,link2unlock.com,lokerwfh.net,meong.club,techbloogs.com,tutwuri.id##+js(nowoif)
 besargaji.com,khaddavi.net,lokerwfh.net,techbloogs.com,tutwuri.id##+js(adjust-setInterval)
 besargaji.com,khaddavi.net,lokerwfh.net,techbloogs.com,tutwuri.id##div[style="text-align: center;"]:has(> a[target="_blank"] > img[alt="download"])
@@ -11684,21 +11671,15 @@ beta.imagefap.com##.ad_placeholder
 beta.imagefap.com#@#div > div > div > div[style]:first-child
 betang.tv##.allinone_bannerRotator
 bethesda.*##.RiotWrapper-cookie-policy-RiotWrapper-cookie-policy2
-bethesda.net/*/background-pa.jpg
-bethesda.net/*/background-pa.png
-bethesda.net/*/background.jpg
-bethesda.net/*/background.png
 bettercrack.com##center a[onclick^="window.open("]
 bevomedia.com/*
 bf3stats.com/*
 bfmtv.com##.geste
-bfxrebate.com/wp-content/uploads/2017/04/*.jpg
-bfxrebate.com/wp-content/uploads/2017/04/*.png
-bgibola.*,bgibola168.*,bgibola365.*,bgibola99.*###floatcenter
-bgibola.*,bgibola168.*,bgibola365.*,bgibola99.*###floating_banner_top
-bgibola.*,bgibola168.*,bgibola365.*,bgibola99.*##.inline-banner
-bgibola.*,bgibola168.*,bgibola365.*,bgibola99.*##.sidebar-content
-bgibola.*,bgibola168.*,bgibola365.*,bgibola99.*##.top-player-banner
+bgibola.*,bgibola777.*,bgibola99.*###floatcenter
+bgibola.*,bgibola777.*,bgibola99.*###floating_banner_top
+bgibola.*,bgibola777.*,bgibola99.*##.inline-banner
+bgibola.*,bgibola777.*,bgibola99.*##.sidebar-content
+bgibola.*,bgibola777.*,bgibola99.*##.top-player-banner
 bgibola.com##.pc-only.inline-banner
 bgrndi.com/*
 bgrndi.com/promo/img/*.*
@@ -12534,6 +12515,7 @@ clubedohardware.com.br#@#.ipsAd
 clubedohardware.com.br#@#.nexusad
 cluetoday.com,kabarnusantaranews.com,koranpelita.co,rakyatbicara.id##aside figure > img
 cmmonitor.com#@#.adsbygoogle
+cna.id##.programtic-ads
 cnbc.*###social-buttons-transporter
 cnbc.*##.Footer-privacy
 cnbc.*##[href="https://cnbc.com/nbcuniversal-terms-of-service/"]
@@ -18281,19 +18263,6 @@ offerlinks.in###cookie-pop
 offerlinks.in###mainNav
 offerlinks.in##.countdown
 offerlinks.in##footer
-office.*/owamail/*/img/*mobile*app*.*$image
-office365.*/owamail/*/*apps.*$domain=outlook.live.com,image
-office365.*/owamail/*/img/*mobile*.*$domain=outlook.live.com,image
-office365.com/owalanding/*.bmp
-office365.com/owalanding/*.flv
-office365.com/owalanding/*.gif
-office365.com/owalanding/*.jpeg
-office365.com/owalanding/*.jpg
-office365.com/owalanding/*.mp3
-office365.com/owalanding/*.mp4
-office365.com/owalanding/*.png
-office365.com/owalanding/*.ts
-office365.com/owalanding/*/images/*.*$image
 ofgogoatan.*/*
 ohmymedia.cc###mvp-site-main:style(margin-top: 0!important;)
 ojogo.pt###AdBloquer
@@ -18305,24 +18274,15 @@ okestream.*##.streamad
 okestream.*##[href="https://angk.at/"]
 okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
-okestream.lol,okestream365.xyz###popbox
-okestream.lol,okestream365.xyz##+js(rc, flowbox, body)
-okestream.lol,okestream365.xyz##.bottom-player-banner
-okestream.lol,okestream365.xyz##.header-banner
-okestream.lol,okestream365.xyz##.player-button-ad
-okestream.lol,okestream365.xyz##.stickyfooter
-okestream.lol,okestream365.xyz##.top-player-banner
+okestream.lol,okestream365.*###popbox
+okestream.lol,okestream365.*##+js(rc, flowbox, body)
+okestream.lol,okestream365.*##.bottom-player-banner
+okestream.lol,okestream365.*##.header-banner
+okestream.lol,okestream365.*##.player-button-ad
+okestream.lol,okestream365.*##.stickyfooter
+okestream.lol,okestream365.*##.top-player-banner
 okestreamtv.com###divFLRAbottom
-okezone.*###bacajuga
-okezone.*###rctiplus
-okezone.*##.container-ads-topslider
-okezone.*##.flying_ads
-okezone.*##.ga_BreakingMore
-okezone.*##.metube_div__inner
-okezone.*##.shareokez
-okezone.*##.shareokez-top
 okezone.com###contentx .vicon:remove()
-okezone.com###myCarousel > div:nth-of-type(1)
 okezone.com###rekomendasi_video:remove()
 okezone.com##+js(rc, content-wrap)
 okezone.com##.Post__Container .voucherWrap
@@ -18331,56 +18291,23 @@ okezone.com##.ads-mega-box
 okezone.com##.ads-mega-box + #app:style(margin-top: 0!important)
 okezone.com##.bannertopcenter
 okezone.com##.box-ads-konten
-okezone.com##.carousel-inner
 okezone.com##.center-ban
 okezone.com##.center-paralax
 okezone.com##.container-skin-ads
 okezone.com##.content-wrap .video-wrap:remove()
-okezone.com##.copyright
 okezone.com##.detads
-okezone.com##.detail-tag
 okezone.com##.details .voucherWrap
-okezone.com##.firstshare
 okezone.com##.flying_ads
-okezone.com##.follow-us
-okezone.com##.footer-main__copyright
-okezone.com##.footer-main__menu
-okezone.com##.footer-menu
-okezone.com##.footer-middle
-okezone.com##.footer-middle__social
-okezone.com##.gabreaking
 okezone.com##.iframe-banner:remove()
-okezone.com##.jw-reset
-okezone.com##.jw-video
-okezone.com##.news-more
 okezone.com##.rc-ad-300x250
-okezone.com##.recomendationnews
-okezone.com##.secondshare
 okezone.com##.skyscrapper
-okezone.com##.social-media
-okezone.com##.social-media--windows
-okezone.com##.sosvertikal
 okezone.com##.sponsored-belt468x60
-okezone.com##.stream
 okezone.com##.title-ads
 okezone.com##.title-ads-mega
-okezone.com##.vertikal.sosmedshare
 okezone.com##.video-wrap:has(#rekomendasi_video):remove()
 okezone.com##.vplayer:has(iframe[src^="https://video.okezone.com/embedoutstream"]):remove()
-okezone.com##.widget-next
-okezone.com##.wp-thumb-news
-okezone.com##IFRAME[id="jwp-global-frame"]
-okezone.com##[class="flying_carpet_div"]
-okezone.com##[class="img-top-logo"]
-okezone.com##[class="okz-livenow"]
-okezone.com##[id="AdAsia"]
-okezone.com##[id="logohide"]
-okezone.com##[id="myElement"]
 okezone.com##[id^="div-gpt-ad-"]:upward(.center-paralax)
 okezone.com##[id^="ivs-"]:remove()
-okezone.com/*/bg.*
-okezone.com/*/sso-bg.*
-okezone.com/assets/voila.jpg
 okkazeo.com###ads
 oktavita.com##.banner-zone
 olark.com/jsclient/*.js$domain=conformingtojesus.com

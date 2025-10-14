@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 13 Oct 2025 19:49 UTC (updated regularly)
-! host_count: 8081
+! Last modified: 14 Oct 2025 15:16 UTC (updated regularly)
+! host_count: 8089
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -202,6 +202,7 @@
 0.0.0.0 addata.mediacategory.com
 0.0.0.0 addesigner.com
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 adeeply.ru
 0.0.0.0 adentifi.com
 0.0.0.0 adeumssp.com
 0.0.0.0 adeventtracker.spotify.com
@@ -1156,6 +1157,7 @@
 0.0.0.0 bidiktangsel.com
 0.0.0.0 bidjora.com
 0.0.0.0 bids.proper.io
+0.0.0.0 bidsms.com
 0.0.0.0 bidsopt.com
 0.0.0.0 bidswitch.net
 0.0.0.0 bigmobileads.com
@@ -3033,6 +3035,7 @@
 0.0.0.0 img.3lift.com
 0.0.0.0 imgx.jampp.com
 0.0.0.0 imp.startappservice.com
+0.0.0.0 impbid.com
 0.0.0.0 imprdom.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 impression.link
@@ -4237,6 +4240,7 @@
 0.0.0.0 mattanews.co
 0.0.0.0 maungbandung.co.id
 0.0.0.0 maxbetqq.net
+0.0.0.0 maxesads.ru
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mb.moatads.com
 0.0.0.0 mbaheza.com
@@ -5362,6 +5366,7 @@
 0.0.0.0 pirateproxy-bay.com
 0.0.0.0 pirateproxy.live
 0.0.0.0 pirateproxylive.org
+0.0.0.0 pithyiwgz.top
 0.0.0.0 pitutur.id
 0.0.0.0 pix.adrta.com
 0.0.0.0 pix.spot.im
@@ -6824,6 +6829,7 @@
 0.0.0.0 tatiye.id
 0.0.0.0 tatrack.thinkyeah.com
 0.0.0.0 taurus.iad.appboy.com
+0.0.0.0 tbiwtech.com
 0.0.0.0 tc.mnbvcxzq.com
 0.0.0.0 tccbanner.com
 0.0.0.0 tdid.m.qq.com
@@ -8072,6 +8078,7 @@
 0.0.0.0 zmail.broadmediacloud.com
 0.0.0.0 zml-apm-prd.dbv4.noncd.db.de
 0.0.0.0 zmqdez.ru
+0.0.0.0 zoly.tech
 0.0.0.0 zonabandung.com
 0.0.0.0 zonajakarta.com
 0.0.0.0 zonalinenews.com
@@ -8083,5 +8090,6 @@
 0.0.0.0 zukxd6fkxqn.com
 0.0.0.0 zuperdrive.my.id
 0.0.0.0 zuyejecgb.com
+0.0.0.0 zxphiz.tech
 0.0.0.0 zymerget.win
 0.0.0.0 zzhengre.com

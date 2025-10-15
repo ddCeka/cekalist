@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 15 Oct 2025 00:31 UTC (updated regularly)
-! host_count: 8088
+! Last modified: 15 Oct 2025 22:36 UTC (updated regularly)
+! host_count: 8094
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -12,6 +12,7 @@
 0.0.0.0 0xtoken.io
 0.0.0.0 1.bdl99down.kukulaa.cn
 0.0.0.0 100kpj.com
+0.0.0.0 1377x.to
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 166.62.7.206
 0.0.0.0 16horsepower.net
@@ -666,6 +667,7 @@
 0.0.0.0 apakabaronline.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api-a.op-mobile.opera.com
+0.0.0.0 api-access.pangolin-sdk-toutiao1.com
 0.0.0.0 api-ad-adapter.wps.com
 0.0.0.0 api-ad-callback.falconnet.app
 0.0.0.0 api-ad-callback.mobiuspace.net
@@ -2137,6 +2139,7 @@
 0.0.0.0 dwpkr.vip
 0.0.0.0 dwtgl.com
 0.0.0.0 dwvgs.vip
+0.0.0.0 dxp.baidu.com
 0.0.0.0 dynamic-cdn.spot.im
 0.0.0.0 dynamic-report-api.appsflyersdk.com
 0.0.0.0 dz4link.com
@@ -4966,6 +4969,7 @@
 0.0.0.0 nr-events.taboola.com
 0.0.0.0 nr.bidderstack.com
 0.0.0.0 nrc.tapas.net
+0.0.0.0 nsclickvideo.xiaodutv.com
 0.0.0.0 nstool.netease.com
 0.0.0.0 ntbpos.com
 0.0.0.0 ntracker-collector.naver.com
@@ -5876,6 +5880,7 @@
 0.0.0.0 revcontent.com
 0.0.0.0 revivaltv.id
 0.0.0.0 revolusinews.com
+0.0.0.0 reward-api.csjplatform.com
 0.0.0.0 rfddsdaajbs.fihsifuiiusuiuduf.com
 0.0.0.0 rgames31.com
 0.0.0.0 rgobet.com
@@ -7748,6 +7753,7 @@
 0.0.0.0 x.appbaqend.com
 0.0.0.0 x.bidswitch.net
 0.0.0.0 x.dlx.addthis.com
+0.0.0.0 xda.xiaodutv.com
 0.0.0.0 xdrig.com
 0.0.0.0 xgdata.xoyo.games
 0.0.0.0 xiangshunjy.com

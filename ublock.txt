@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 15 Oct 2025 22:36 UTC (updated regularly)
+! Last modified: 17 Oct 2025 02:28 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -14692,6 +14692,7 @@ ko-fi.com##.swal2-confirm
 komentare.sme.sk###js-top-info-bar-wrapper
 komikcast.*###teaser3
 komikcast.*###teaser4
+komikcast.*,komikcast.*###bannerhomefooter
 komikcast.*,komikcast01.*,komikcast02.*,komikcast03.*,komikindo.ch###bannerhomefooter
 komikcast.*,komikcast01.*,komikcast02.*,komikcast03.*,komikindo.ch##+js(nowoif)
 komikcast.*,komikcast01.*,komikcast02.*,komikcast03.*,komikindo.ch##.gulai_asam_manis
@@ -14699,8 +14700,8 @@ komikcast.*,komikcast01.*,komikcast02.*,komikcast03.*,komikindo.ch##.kln
 komikcast.*,komikcast01.*,komikcast02.*,komikcast03.*,komikindo.ch##div[id^="teaser"]
 komikcast.*,komikcast01.*,komikcast02.*,komikindo.*,komikindo1.*,komikindo3.*,komikindo4.*##.gulai_asam_manis
 komikcast.*,komikcast01.*,komikcast02.*,komikindo.*,komikindo1.*,komikindo3.*,komikindo4.*##.kln
-komikcast.net,komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
-komikcast.site,komikcast.vip###bannerhomefooter
+komikcast03.*##.kln
+komikcast03.com###bannerhomefooter
 komikdewasa.*###teaser3
 komikdewasa.*##.kln
 komikdewasa.*##.teaser4
@@ -14713,6 +14714,7 @@ komikdewasa.mom,komikindo1.*,komikindo2.*,komikindo3.*,komikindo4.*,mangatoon.cc
 komikindo.*##.ads
 komikindo.co##a[href^="https://shope.ee/"]
 komikindo.com,komikindo.info##.ads
+komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
 komikindo.pro##.setdah
 komikindo.tv##.gulai_asam_manis
 komikmanhwa.me##[href="https://klik.fun/ZyslX"]
@@ -15991,6 +15993,7 @@ modifikasi.com##.bannerfloat
 modifikasi.com##.bannerpos
 modifikasi.com##.cell_banner_inside
 modijiurl.com##[src^="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigBydUm4NizfQSeOxPN_AjO3K0IhFD3DtfZ30MjQdiNmT-b5ncEopAJAKqVfuItxIHY4ekrVj2-eF8YahAdmQDai0OZBNq18t-6phsTBDdaGUzu9vo3a9SclpGFkTMtaMabbnddioKOxonoZqki3u7ghr65q78mGZ-O7eOl11lVd5NMourtu28d_fUnMo/s16000/"]
+moenime.com##.rw_footer_sticky
 mofosex.com##.underplayer
 mofosex.com##.vjs-inplayer-container
 mojevideo.sk#@##video_ad

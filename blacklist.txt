@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 15 Oct 2025 22:55 UTC (updated regularly)
-! host_count: 8094
+! Last modified: 17 Oct 2025 02:27 UTC (updated regularly)
+! host_count: 8093
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 023hysj.com
@@ -27,8 +27,11 @@
 0.0.0.0 2.haory.cn
 0.0.0.0 20.detik.com
 0.0.0.0 21cineplex.com
+0.0.0.0 23.224.199.74
+0.0.0.0 23.224.199.96
 0.0.0.0 247realmedia.com
 0.0.0.0 24hpoker.com
+0.0.0.0 31.14.252.148
 0.0.0.0 32redpoker.com
 0.0.0.0 33across.com
 0.0.0.0 34667c8ece5.com
@@ -39,6 +42,7 @@
 0.0.0.0 4841a27a-aeca-4563-9acf-b84bd2e4a572.random.fihsifuiiusuiuduf.com
 0.0.0.0 4seeresults.com
 0.0.0.0 508327fbe9.95bd06d118.com
+0.0.0.0 54.222.186.106
 0.0.0.0 58yongzhe.com
 0.0.0.0 5news.co.id
 0.0.0.0 64p3am9x95ct.com
@@ -1424,6 +1428,7 @@
 0.0.0.0 candilkuya.com
 0.0.0.0 cantika.com
 0.0.0.0 capi.connatix.com
+0.0.0.0 capture.pixverse.ai
 0.0.0.0 carabelanja.id
 0.0.0.0 carajudionline.com
 0.0.0.0 carakami.com
@@ -2386,6 +2391,7 @@
 0.0.0.0 exey.io
 0.0.0.0 exilum.com
 0.0.0.0 exonic-hacks.com
+0.0.0.0 experiment.pixverse.ai
 0.0.0.0 explorenews.net
 0.0.0.0 exponential.com
 0.0.0.0 expontt.com
@@ -5847,6 +5853,7 @@
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.iheartmedia.gbqofs.io
+0.0.0.0 report.pixverse.ai
 0.0.0.0 reportasepapua.co.id
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reportwest-midas.codmwest.com

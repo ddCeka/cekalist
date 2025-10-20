@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 20 Oct 2025 11:31 UTC (updated regularly)
+! Last modified: 20 Oct 2025 22:39 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -7318,11 +7318,7 @@ $websocket,domain=vidup.me
 .couple.me/static/*/images/*.jpg
 .couple.me/static/*/images/*.mp4
 .couple.me/static/*/images/*.png
-.gif$domain=mangashiro.net
-.gif$image,domain=149.56.24.226|15.235.11.45|anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|oploverz.love|shinigami09.com
-.gif$image,domain=avgle.com
-.gif$image,domain=imgpeak.com
-.gif$image,domain=neumanga.tv
+.gif$image,domain=149.56.24.226|15.235.11.45|198.105.112.57|anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|oploverz.love|shinigami09.com
 .gif^$image,domain=maroonbellsmorris.org
 .gif|$image,domain=45.11.57.223|45.11.57.243|45.11.57.71|oppa.biz|oppadrama.biz
 .gif|$image,domain=oploverz.*
@@ -7426,6 +7422,7 @@ $websocket,domain=vidup.me
 /JuaraCapsa.gif|$image
 /KAYA303_desktop.$image
 /KERABATSLOT.gif|$image
+/KLIKFIFA-$image
 /KaikoSlot.gif|$image
 /Kaikoslot.webp|$image
 /KecoaTerbank/safelink/*$3p,script
@@ -7454,6 +7451,7 @@ $websocket,domain=vidup.me
 /NewKaikoSlot.gif$image
 /NewPentaSlot.gif|$image
 /Newpokerdewa.$image
+/PAKARWIN-$image
 /PERAKTOTO.gif|
 /PESBOLA-$image
 /PINK4D.webp|$image
@@ -7475,6 +7473,7 @@ $websocket,domain=vidup.me
 /REsafelink.$3p,script
 /Ramaibet.gif$image
 /RockLinksofficial/files@main/full-page.js$3p,script
+/SALDOBET-$image
 /SBOBETMAIN-$image
 /SBOslot138.webp$image
 /SEPAKBOLACC.$image,third-party
@@ -8891,8 +8890,6 @@ $websocket,domain=vidup.me
 /zeupoker-$image
 /zonaprediksi.$image
 /zyngaqq.$image
-0.0.realodix##+js(prevent-fetch, pagead2.googlesyndication.com)
-0.0.realodix##+js(prevent-window-open)
 00201.net
 00250.net
 00261.net
@@ -8955,7 +8952,9 @@ $websocket,domain=vidup.me
 193.178.172.113###repop
 194.163.183.129##a[href^="https://cek.to/"]
 194.163.183.129,45.12.2.2##.box_item_berlangganan_popup
-194.233.86.65,46.250.225.131,indositusxxi.id,kopajasubs.info###fb-fanbox
+194.233.86.65,198.105.112.57,46.250.225.131,indositusxxi.id,kopajasubs.info###fb-fanbox
+198.105.112.57###fb-boxclose
+198.105.112.57###fb-fanbox
 1cak.com##div:matches-css(border-bottom-style: solid):has(> div:matches-css(height: 270px):has(> .adsbygoogle))
 1cak.com##div[style="color:#aaa;"]:has-text(/adv/i)
 1cak.com,informasilomba.com,pojokreview.com##a[href^="https://shope.ee/"]:has(> img)

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 19 Oct 2025 02:15 UTC (updated regularly)
+! Last modified: 20 Oct 2025 11:31 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -2716,6 +2716,7 @@
 ##[href="https://t.ly/iklanPS"]
 ##[href="https://t.ly/iklanWS2"]
 ##[href="https://t.ly/iklanZILONG"]
+##[href="https://t.ly/indogame888-banner"]
 ##[href="https://t.ly/indositusxxi"]
 ##[href="https://t.ly/inibokep"]
 ##[href="https://t.ly/kiryuuya"]
@@ -8904,7 +8905,7 @@ $websocket,domain=vidup.me
 00915.net
 01nonton.com,46.166.167.16,bioskop168.co,bioskop168.pro,bioskop45.com,drakorindo.tv,gandhool.net,gudangmovies21.cc,idbioskop.com,indomv.net,lk21.web.id,nekopoi.care,nekopoi.lol,nonton33.net,nonton789.com,nontonsub.com,sukamovie.mobi,zonabola.id##a[href^="http://bit.ly/"]
 01ntn.cc,91.208.184.248###topban
-01ntn.cc,91.208.184.248,anibatch.moe,anichin.social,animekompi.fun,animexin.dev,anoboy.be,bioskop21.*,boscinematv1.space,cinemaemas6.com,cinemakeren6.id,dramaserial21.cam,filem21.org,gudangkomik.com,gudangmoovies21.com,gudangmovies21.chat,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,kazefuri.info,kebioskop21.one,komik-cast.com,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kuroshireader.com,kusonime.com,layardrama21.*,mangasusuku.com,manhwadesu.cloud,melongmovies.com,movepizz.site,movieku.*,nimegami.id,nntonfilm.my.id,nomat.site,omanga.net,otakudesu.cloud,ravenectar.com,rebahin.lol,rebahinxxi1.xyz,skren21.xyz,so.batkren.xyz,sob.atkren.xyz,vivaxlendir.com,westmanga.me,wowmuseum.org##a[target*="blank"]:has(> img)
+01ntn.cc,91.208.184.248,anibatch.moe,anichin.social,animekompi.fun,animexin.dev,anoboy.be,bioskop21.*,boscinematv1.space,cinemaemas6.com,cinemakeren6.id,dramaserial21.cam,filem21.org,gudangkomik.com,gudangmoovies21.com,gudangmovies21.chat,idxmovie21.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,kazefuri.info,kebioskop21.one,komik-cast.com,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kuroshireader.com,kusonime.com,layardrama21.*,mangasusuku.com,manhwadesu.cloud,melongmovies.com,movepizz.site,movieku.*,nimegami.id,nntonfilm.my.id,nomat.site,omanga.net,otakudesu.cloud,ravenectar.com,rebahin.lol,rebahinxxi1.xyz,skren21.xyz,so.batkren.xyz,sob.atkren.xyz,vivaxlendir.com,westmanga.me,wowmuseum.org##a[target*="blank"]:has(> img)
 062.live,23jam.com,24jamnews.com,agaranews.com,aktuil.com,apakabarindonesia.com,apakabarjabar.com,apakabarnews.com,apakabartv.com,arahbisnis.com,arahnews.com,bandasapuluah.com,bangsaku.co,baranewsaceh.co,belanjaoke.com,berandalappung.com,beritasulsel.com,bintangnews.com,bisnisidn.com,bisnisnews.com,bogorterkini.com,businesstoday.id,cekfaktanya.com,delapannews.com,detikindonesia.co.id,detikzone.id,diksiber.id,diplomatiknews.com,duniaenergi.com,ekbisindonesia.com,ekonominews.com,emitentv.com,faktadata.id,femme.id,fenomena.id,fokussiber.com,garutberkabar.com,goodnews.co.id,haibisnis.com,haiidn.com,haiindonesia.com,haipurwakarta.com,haiupdate.com,haliyora.id,hallobandung.com,halloidn.com,hallojabar.com,hallokaltim.com,hallonesia.com,hallopapua.com,hallopresiden.com,hallosurabaya.com,halloup.com,halloupdate.com,haloagro.com,halobogor.com,halocantik.com,haloekonomi.com,halogorontalo.com,halokini.com,halokripto.com,haloselebriti.com,harianbanten.com,hariancirebon.com,harianekonomi.com,harianindonesia.com,harianinvestor.com,harianjayakarta.com,heijakarta.com,heisport.com,hello.id,hellobanten.com,hellocianjur.com,helloidn.com,helloseleb.com,hilirisasinews.com,hutannews.com,indofemale.com,indoinsider.com,indonesiaraya.co.id,indonomics.com,infoekbis.com,infoekonomi.com,infoekspres.com,infoemiten.com,infoenergi.com,infoesdm.com,infokumkm.com,infomalukunews.com,infomaritim.com,infopeluang.com,infoseru.com,infoups.com,infrastrukturnews.com,inikepri.com,investasinews.com,jabarraya.com,jatimraya.com,jazirahnews.com,kabarika.id,kabarkalbar.com,kalimantanraya.com,kanalindonesia.com,kengpo.com,kilasnews.com,klikindonesia.co,kongsinews.com,kontenberita.com,kontennews.com,koperasipost.com,lingkarin.com,malukuraya.com,matafakta.com,mediaagri.com,mediaemiten.com,mercinews.com,metroaceh.com,metrokalsel.co.id,mevin.id,minergi.com,netizenku.com,newsroom.id,on24jam.com,optika.id,pangannews.com,pelitajabar.com,persda.com,poinnews.com,propertipost.com,prospektif.com,pusatsiaranpers.com,radar-x.net,rakyatbekasi.com,rakyatjabarnews.com,rakyatpos.id,redaksibaru.id,redaksiku.com,saatini.com,sapulangit.com,satunews.id,sawitpost.com,sekalteng.com,sekitarkita.id,seleb.news,serambiislam.com,suarasikka.com,suarautama.id,suarautara.com,sukabumiheadline.com,sulawesiraya.com,sultengsatu.com,sumateraekspres.com,tambangpost.com,tangerangraya.co.id,tangerangsatu.com,tanjungpura.id,teksnews.com,terkinipost.com,timelinesinews.com,topikindonesia.com,topikpost.com,topiktop.com,tribrata.tv,wartaaspirasi.com,womanesia.com,zonafaktualnews.com##.ad-middle
 062.live,ambontoday.com,autoride.co.id,bangsaku.co,bardimin.com,batamclick.com,belanjaoke.com,beritabalap.com,beritainvestigasinews.id,beritalima.com,beritausaha.com,bisnisidn.com,bisnispost.com,blockchainmedia.id,bumisriwijaya.co,businesstoday.id,cakrawalamedia.com,carisinyal.com,cekfaktanya.com,cerah.id,delapannews.com,divisi.id,duniadosen.com,dutabalinews.com,edunews.id,ekbisindonesia.com,ekonominews.com,emitentv.com,extranews.id,fanicat.com,femmeindonesia.com,gobengkulu.com,gokepri.com,gurindam.id,haiidn.com,hallosurabaya.com,haloagro.com,hamilplus.com,harianekonomi.com,harianmemokepri.com,heisport.com,hellojatim.com,hilirisasinews.com,hipwee.com,homecare24.id,hutannews.com,indoinsider.com,infobekasi.co.id,infoekbis.com,infoekonomi.com,infoemiten.com,infoesdm.com,infokumkm.com,infopeluang.com,infopriangan.com,infotelko.com,infotoraja.com,infrastrukturnews.com,inspirasiline.com,inwepo.co,iradiofm.com,jafarbuaisme.com,jazirahnews.com,jubi.id,kabarbenggawi.com,kamini.id,kantamedia.com,keluyuran.com,kengpo.com,kepripedia.com,kilasnews.com,kliksumatera.com,kongsinews.com,koperasipost.com,koranindopos.com,koranntb.com,koranntt.com,koranpagionline.com,koranpelita.co,kotaku.co.id,kroniktotabuan.com,lajur.co,lapakgaming.com,lingkarnews.com,majesty.co.id,matafakta.com,mediaagri.com,mediaemiten.com,minanews.net,minergi.com,mmoculture.com,monitorkalteng.co.id,nanggroenews.com,obormotindok.co.id,otoinfo.id,paceko.com,pangannews.com,panjikendari.com,pelopornews.co.id,penerbitdeepublish.com,pertaniannews.com,popculture.id,prabowonews.com,presmedia.id,prokabar.com,propertipost.com,prospektif.com,radarkarawang.id,radarsatu.com,readnews.id,ridertua.com,sawitpost.com,selidikinews.com,sepeda.me,sepintas.com,serambiislam.com,showpoiler.com,spotbalinews.com,suaraaura.com,suarapapua.com,sukaon.com,sultengekspres.com,sumateraekspres.com,sumateranews.co.id,surabayapostnews.com,tambangpost.com,tapanulipost.com,terasmaluku.com,theiconomics.com,tonjoostudio.com,topikindonesia.com,tutorly.id,tuturpedia.com,ungkap.co.id,urbannews.id,vcgamers.com,voxnusantara.com,wartagarut.com,zonautara.com##.code-block
 1.bp.blogspot.com/*/JE9N0y3VgWA/*/*.jpg
@@ -9327,7 +9328,7 @@ agarserv.com#@##adsense
 agen_bola_online.gif|$image
 agenbokep.*##.popbox
 agenbokep.*,bandarbokep.*,bokepindo.*,doooood.co,duniabokep.*,hencop.com,indobokepin.*,javindo.*,javsubindo.*,malayporntube.net,minioppai.org,myhdjav.me,ngentub.cc,nontonbokep.*,sibokepjepang.*##+js(nowoif)
-agenbokep.*,bandarbokep.*,ceritanakal.com,duniabokep.*,indobokepin.*,javsubindo.*,nontonbokep.*,pascol.*##a:has(> img[src$=".gif"])
+agenbokep.*,bandarbokep.*,ceritanakal.com,duniabokep.*,indobokepin.*,javsubindo.*,nontonbokep.*,pascol.*,terviral.cam##a:has(> img[src$=".gif"])
 agenbokep.co##.pop-overlay
 agenbola.gif|$image
 agenqq.gif|$image
@@ -10279,7 +10280,7 @@ bioskop.*###floating_banner_bottom
 bioskop168.co,bioskop168.pro###bioskop-kiri
 bioskop168.co,bioskop168.pro##bioskop-kanan
 bioskop21.*###floating_banner_bottom
-bioskop21.*,bsk21.site###floating_banner_bottom
+bioskop21.*,bsk21.store###floating_banner_bottom
 bioskop78.com###floating_banner_bottoms
 bioskop78.com###wrap > center
 bioskop78.com,cnbcindonesia.com###billboard_banner
@@ -10584,6 +10585,7 @@ borobudurnews.com##aside .widget:has(> .adsbygoogle)
 borobudurnews.com,nekopencil.com##div[itemtype="https://schema.org/WPAdBlock"]:has(> script)
 boscinematv1.space##img[alt*="iklan"]
 boscinematv1.space,dramaserial21.cam###fadeinbox
+bosku21.cam,filmnikmattv1.cam,nntnbkptv2.space###fadeinbox
 bostonglobe.com##.gip__modal
 bostonglobe.com##.mfp-ready
 bowlingle.com/*
@@ -12366,7 +12368,6 @@ filmjepangku.com###popupOverlay
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
 filmnikmat.*##img[alt*="iklan"]
-filmnikmattv1.cam,nntnbkptv2.space###fadeinbox
 filmxy.*/*/download.*$image
 filmxy.*/*/watch.*$image
 filmxy.one##.custom-link-z
@@ -15494,6 +15495,8 @@ m.facebook.com##[href^="https://m.facebook.com/click.php"]
 m.kapanlagi.com##.ad2
 m.merdeka.com##DIV[id="vjs-text-track-display"]
 m.timesofindia.com,m.photos.timesofindia.com##.ad1
+m.vidio.com###fluid-watch-livestreaming .fixed:has(div > button[aria-label*="close" i])
+m.vidio.com##body:style(overflow: auto!important; position: unset!important;)
 m.youtube.com##.ytm-autonav-bar
 m2pub.com###adk2_img
 macos-app.com#@##adsense
@@ -19802,48 +19805,9 @@ videowood.tv#@#.text_ad
 videowood.tv#@#.text_ads
 videozoo.me#@#div[style^="width:"]
 vidfile.net##.rek
-vidio.*###section-1
-vidio.*###section-10
-vidio.*###section-11
-vidio.*###section-2
-vidio.*###section-4
-vidio.*###section-5
-vidio.*###section-6
-vidio.*###section-7
-vidio.*###section-8
-vidio.*###section-9
-vidio.*##.app-campaign__link
-vidio.*##.app-campaign__link.js-app-link
-vidio.*##.b-section__content--scrollable
-vidio.*##.basic-banner
-vidio.*##.basic-banner__clickable
-vidio.*##.button-follow
-vidio.*##.copyright > [href="/"]
-vidio.*##.ga-mobile__button-follow
-vidio.*##.header-login__subscribe
-vidio.*##.install-button
-vidio.*##.js-app-link
-vidio.*##.livestreaming-capsule__item
-vidio.*##.premier-menu
-vidio.*##.sidebar-banner
-vidio.*##.sidebar__menu-icon--premier
-vidio.*##.site-footer__socials
-vidio.*##.video-watch__follow-button
-vidio.*##.vidio-logo
-vidio.*##.vidio-logo__link
-vidio.*##.vjs-player-error__feedback
-vidio.*##.vjs-player-error__feedback-link
-vidio.*##.vjs-share-button
-vidio.*##[href="https://m.vidio.com/"]
-vidio.*##[href="https://m.vidio.com/premier"]
-vidio.*##[href="https://vidio.com/"]
-vidio.*##[href="https://vidio.com/premier"]
-vidio.*##[href^="https://m.vidio.com/pages/terms-and-conditions"]
-vidio.*/embed/*
-vidio.com##.social-share-toggle
-vidio.com##.user-header__button-share
 vidio.com##[class^="shopping-banner-module_"]
 vidio.com##[class^="smart-banner-module_"]
+vidio.com##[data-testid="shopping-banner" i]
 vidme.cc##.iframe
 vidme.cc/*
 vidnow.to###adplayer

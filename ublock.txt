@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 20 Oct 2025 22:39 UTC (updated regularly)
+! Last modified: 22 Oct 2025 19:36 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8890,6 +8890,8 @@ $websocket,domain=vidup.me
 /zeupoker-$image
 /zonaprediksi.$image
 /zyngaqq.$image
+0.0.realodix##+js(prevent-fetch, pagead2.googlesyndication.com)
+0.0.realodix##+js(prevent-window-open)
 00201.net
 00250.net
 00261.net
@@ -11603,11 +11605,6 @@ dianisa.com##.main-advertisement
 dianisa.com##.sidebar-adv
 diariodenavarra.es###abMsgWrap
 diasporafoundation.org/assets/pages/index/*.png
-diatas-ini-jangan-ke-github.co.id/*
-diatas-ini-jangan-ke-github.co/*
-diatas-ini-jangan-ke-github.com/*
-diatas-ini-jangan-ke-github.id/*
-diatas-ini-jangan-ke-github.in/*
 dicrotin.*##+js(abort-on-property-read, SGPB_POPUP_PARAMS)
 dicrotin.*,nokephub.*##+js(aopr, SGPB_POPUP_PARAMS)
 dicrotin.fun##.bulletinwp-bulletin-item
@@ -12935,13 +12932,7 @@ github.*##[href="https://github.com/site/privacy"]
 github.*##[href="https://github.com/site/terms"]
 github.*##[href="https://help.github.com"]
 github.blog##.social-links
-github.com###drk_settings_icon
-github.com##.Button.Button--small.Button--secondary
-github.com##.d-block.d-md-none.mt-3.pt-3.color-border-muted.border-top
-github.com##.flex-items-center.flex-justify-between.d-flex.my-3
 github.com##.js-webauthn-login-emu-control
-github.com##.mt-md-0.mt-2.flex-md-order-none.flex-order-1
-github.com##.rounded-1.border.blankslate-spacious.blankslate
 github.com/*/heroes/*.svg
 github.com/*/modules/*/logos/*.png
 github.com/*/modules/site/*.svg
@@ -13703,7 +13694,6 @@ hrv.okestream365.xyz,juragan.film##.popbox
 hrv.okestream365.xyz,riau86.com##.header-banner
 https://*.windows.*/*/*gpt*.mp4
 https://beaconidtem.b-cdn.net/*/slide/*/*.*$image
-https://github.com/uBlockOrigin/uAssets/issues/1620
 huawei.*##.cookieBootom
 huawei.*##[href="static/Cookie_sg_en.html"]
 huawei.*##[href^="https://consumer.huawei.com/minisite/cloudservice/hiapp/privacy-statement.htm"]

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 22 Oct 2025 19:36 UTC (updated regularly)
+! Last modified: 23 Oct 2025 15:26 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -15485,6 +15485,9 @@ m.kapanlagi.com##.ad2
 m.merdeka.com##DIV[id="vjs-text-track-display"]
 m.timesofindia.com,m.photos.timesofindia.com##.ad1
 m.vidio.com###fluid-watch-livestreaming .fixed:has(div > button[aria-label*="close" i])
+m.vidio.com##+js(rc, overflow-hidden|lg:overflow-hidden!, body, stay)
+m.vidio.com##.no-scrollbar:style(scrollbar-width: auto!important;)
+m.vidio.com##.overflow-hidden:style(overflow: auto!important;)
 m.vidio.com##body:style(overflow: auto!important; position: unset!important;)
 m.youtube.com##.ytm-autonav-bar
 m2pub.com###adk2_img

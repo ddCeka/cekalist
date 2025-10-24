@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 23 Oct 2025 17:17 UTC (updated regularly)
+! Last modified: 24 Oct 2025 21:53 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -23840,6 +23840,7 @@ zuuk.org###fl10
 ||pagead2.googlesyndication.com^
 ||pagefair.com^$third-party
 ||pagefair.net^$third-party
+||pages.dev^$script,domain=atlantaelectronics.co.id
 ||pahe.*/*/themes/*/pahe.*$image
 ||paidforfree.com^$third-party
 ||palapapos.co.id/images/advertise
@@ -25524,6 +25525,7 @@ zuuk.org###fl10
 ||www.googletagservices.com^
 ||www.googletagservices.com^$all
 ||www.gshade.org^
+||www.inilah.com/_next/^$image
 ||www.kape.com^
 ||www.mcafee.com^
 ||www.mcafeemobilesecurity.com^

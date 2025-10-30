@@ -1,0 +1,9 @@
+*.php
+*.sh
+*.yml
+
+ads
+log
+temp
+update
+update2

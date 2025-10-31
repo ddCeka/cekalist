@@ -6,17 +6,12 @@
 Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, but feel free to use if you want to.
 </div>
 &nbsp;
-<div align="justify">
-   <h3>Pengguna bertanggung jawab atas keamanan perangkat pengguna sendiri, karma sendiri, dosa sendiri, atas tindakannya sendiri dan segala hal yang dapat melanggar hukum. Jika pengguna mengacaukan sesuatu atau melanggar hukum apa pun saat menggunakan proyek ini, itu adalah kesalahan pengguna.</h3>
-</div>
-&nbsp;
-&nbsp;
 <div align="center"> 
   <a href="https://github.com/ddCeka/CekaList" > 
     <img src="https://img.shields.io/github/repo-size/ddCeka/CekaList?label=Repo%20Size&color=black" alt="repo size" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" > 
-    <img src="https://img.shields.io/badge/Updated%20Hosts-31/Oct/2025-yellow" >
+    <img src="https://img.shields.io/badge/Updated%20Hosts-01/Nov/2025-lightblue" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" > 
     <img src="https://img.shields.io/github/last-commit/ddCeka/CekaList?label=Last%20Commit" alt="last commit" >
@@ -25,7 +20,7 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
     <img src="https://img.shields.io/badge/Maintained-yes-blue" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/blob/master/LICENSE" > 
-    <img src="https://img.shields.io/github/license/ddCeka/CekaList?label=License&color=lightblue" alt="license" >
+    <img src="https://img.shields.io/github/license/ddCeka/CekaList?label=License&color=green" alt="license" >
   <a/>
 </div>
 &nbsp;
@@ -38,6 +33,7 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
 - [Cara Penggunaan?](#cara-penggunaan)
 - [Alternatif Lain Untuk Android](#alternatif-lain-untuk-android)
 - [Setting DNS](#setting-dns)
+- [Disclaimer](#disclaimer)
 - [Lisensi](#lisensi)
 &nbsp;
 
@@ -113,6 +109,13 @@ Custom DNS untuk Android 9.0+ [Non-Root] contoh dari cara di atas
 	1dot1dot1dot1.cloudflare-dns.com
 ```
 ---
+
+&nbsp;
+## <ins>Disclaimer</ins>
+
+<div align="left">
+   <h5>Pengguna bertanggung jawab atas keamanan perangkat pengguna sendiri, karma sendiri, dosa sendiri, atas tindakannya sendiri dan segala hal yang dapat melanggar hukum. Jika pengguna mengacaukan sesuatu atau melanggar hukum apa pun saat menggunakan proyek ini, itu adalah kesalahan pengguna.</h3>
+</div>
 &nbsp;
 
 ## <ins>Lisensi</ins>

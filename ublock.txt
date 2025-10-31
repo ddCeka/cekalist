@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 30 Oct 2025 23:57 UTC (updated regularly)
+! Last modified: 31 Oct 2025 23:10 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -12927,7 +12927,9 @@ github.*##[href="https://github.com/site/privacy"]
 github.*##[href="https://github.com/site/terms"]
 github.*##[href="https://help.github.com"]
 github.blog##.social-links
+github.com##.flex-items-center.flex-justify-between.d-flex.my-3
 github.com##.js-webauthn-login-emu-control
+github.com##.rounded-1.border.blankslate-spacious.blankslate
 github.com/*/heroes/*.svg
 github.com/*/modules/*/logos/*.png
 github.com/*/modules/site/*.svg
@@ -22235,6 +22237,7 @@ zuuk.org###fl10
 ||github.com/*/*KMS*auto*$all
 ||github.com/*/*KMS*pico*$all
 ||github.com/bluemods$all
+||github.com/warpdotdev/brand-assets$all
 ||gizmodo.com/sp/
 ||gladevillecoatesville.com^
 ||global-news.co.id^*/iklan-$image
@@ -24343,7 +24346,7 @@ zuuk.org###fl10
 ||raw.githubusercontent.com/*/*KMS*auto*$all
 ||raw.githubusercontent.com/*/*KMS*pico*$all
 ||raw.githubusercontent.com/bluemods$all
-||raw.githubusercontent.com/warpdotdev/brand-assets/refs/heads/main/Github/Sponsor/Warp-Github-LG-03.png$image
+||raw.githubusercontent.com/warpdotdev$all
 ||rayapoker.$image,third-party
 ||rayapoker.$popup
 ||rctiplus.*/*/image/*/register.*$image

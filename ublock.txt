@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 1 Nov 2025 22:16 UTC (updated regularly)
+! Last modified: 2 Nov 2025 04:59 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -17,6 +17,8 @@
 ###LeftFloatAds
 ###RightFloatAds
 ###WarningCodec
+###aads_header_1
+###aads_header_2
 ###ad-link.visible
 ###adSticky
 ###ad_bawah
@@ -62,6 +64,8 @@
 ###ads_banner_left1
 ###ads_besar
 ###ads_hd_bt
+###ads_header_1
+###ads_header_2
 ###ads_kecil
 ###ads_player_bottom
 ###ads_showhide
@@ -350,6 +354,8 @@
 ###iklhead
 ###ikln160left
 ###ikln160right
+###imgads_header_1
+###imgads_header_2
 ###imgiklanatas1
 ###imgiklanatas2
 ###imgiklanatasd1
@@ -1347,6 +1353,7 @@
 ##.part_iklan_content_2
 ##.part_iklan_footer
 ##.part_iklan_header
+##.pda-ads
 ##.penci-banner-box
 ##.penci-html-ads
 ##.pengiklan
@@ -1820,6 +1827,7 @@
 ##[href="https://adstub.net/totobet"]
 ##[href="https://adstub.net/totobet/"]
 ##[href="https://adstub.net/yoi4d/"]
+##[href="https://akainu.ink/Kiriyu1"]
 ##[href="https://akses.games/Anikor"]
 ##[href="https://akses.games/anichin"]
 ##[href="https://akses.games/animasuofc"]
@@ -2561,6 +2569,7 @@
 ##[href="https://rebrand.ly/koinvegas"]
 ##[href="https://rebrand.ly/komikcastdpb88"]
 ##[href="https://rebrand.ly/kongsi4dlk21"]
+##[href="https://rebrand.ly/kuronime"]
 ##[href="https://rebrand.ly/layarkacaxholy789"]
 ##[href="https://rebrand.ly/layartancap"]
 ##[href="https://rebrand.ly/magoo"]
@@ -2631,6 +2640,7 @@
 ##[href="https://rebrand.ly/winslots8"]
 ##[href="https://rebrand.ly/yangenakenaksaja"]
 ##[href="https://rebrand.ly/z8m-benz"]
+##[href="https://royal22.vip/kiryuu"]
 ##[href="https://s.id/IDLIX88"]
 ##[href="https://sbobet.host/arenaspin"]
 ##[href="https://sbobet.host/china77"]
@@ -7320,6 +7330,7 @@ $websocket,domain=vidup.me
 .couple.me/static/*/images/*.jpg
 .couple.me/static/*/images/*.mp4
 .couple.me/static/*/images/*.png
+.gif$image,domain=/kiryuu0\d+\.com/
 .gif$image,domain=149.56.24.226|15.235.11.45|198.105.112.57|anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|oploverz.love|shinigami09.com
 .gif^$image,domain=maroonbellsmorris.org
 .gif|$image,domain=45.11.57.223|45.11.57.243|45.11.57.71|oppa.biz|oppadrama.biz
@@ -8612,6 +8623,10 @@ $websocket,domain=vidup.me
 /ratulotto.$image,third-party
 /ratuqq.$image,third-party
 /ratuqq.gif$image
+/rbtvplus\d+\.com/##*:style(scrollbar-width: thin!important;)
+/rbtvplus\d+\.com/##:matches-path(/id) div:matches-css(position: fixed):has(> img)
+/rbtvplus\d+\.com/##:matches-path(/id) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
+/rbtvplus\d+\.com/##:matches-path(/id) iframe + div:matches-css(position: absolute):has(> img)
 /rctiqq.$image,third-party
 /rdomino.$image,third-party
 /rejekibet.$image,third-party
@@ -12209,10 +12224,10 @@ fbstreams.me,mlbstream.io,nbastream.io,nflstream.io,nhlstream.io,strikeout.co,vi
 fcc.*###footer
 fcc.*##.site-logo
 fcc.*##h2
-fctv33.*,fctv77.*,rbsports77.*,rbtv77.*,rbtvplus01.*,rbtvplus02.*,rbtvplus03.*,rbtvplus04.*,rbtvplus05.*,rbtvplus06.*,rbtvplus08.*,rbtvplus09.*##*:style(scrollbar-width: thin!important;)
-fctv33.*,fctv77.*,rbsports77.*,rbtv77.*,rbtvplus01.*,rbtvplus02.*,rbtvplus03.*,rbtvplus04.*,rbtvplus05.*,rbtvplus06.*,rbtvplus08.*,rbtvplus09.*##:matches-path(/id) div:matches-css(position: fixed):has(> img)
-fctv33.*,fctv77.*,rbsports77.*,rbtv77.*,rbtvplus01.*,rbtvplus02.*,rbtvplus03.*,rbtvplus04.*,rbtvplus05.*,rbtvplus06.*,rbtvplus08.*,rbtvplus09.*##:matches-path(/id) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
-fctv33.*,fctv77.*,rbsports77.*,rbtv77.*,rbtvplus01.*,rbtvplus02.*,rbtvplus03.*,rbtvplus04.*,rbtvplus05.*,rbtvplus06.*,rbtvplus08.*,rbtvplus09.*##:matches-path(/id) iframe + div:matches-css(position: absolute):has(> img)
+fctv33.*,fctv77.*,rbsports77.*,rbtv77.*##*:style(scrollbar-width: thin!important;)
+fctv33.*,fctv77.*,rbsports77.*,rbtv77.*##:matches-path(/id) div:matches-css(position: fixed):has(> img)
+fctv33.*,fctv77.*,rbsports77.*,rbtv77.*##:matches-path(/id) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
+fctv33.*,fctv77.*,rbsports77.*,rbtv77.*##:matches-path(/id) iframe + div:matches-css(position: absolute):has(> img)
 fearlessrevolution.com###page-footer > .navbar
 fearlessrevolution.com###page-header > .navbar
 fearlessrevolution.com##.actions-jump.action-bar
@@ -14587,6 +14602,7 @@ kingbokep.*##div.flex.w-full.justify-center.overflow-x-auto
 kingbokep.*##div[style="width:300px;height:250px;z-index:1"]
 kingbokep.*##img[src*=".gif"]:not(div[class*="video"][class*="card"] > img)
 kingbokep.*##img[src*=".webp"]:not(div[class*="video"][class*="card"] > img)
+kingbokep.*##video[src*=".webm"][rel="sponsored" i]
 kinitv.com##.bg-gray-100:has(.adunitContainer)
 kinitv.com##.bg-gray-100:has(> .adunitContainer)
 kinoman.tv##IMG[src="http://static.kinoman.tv/assets/img/vip-info.png?v"]
@@ -15001,21 +15017,9 @@ kuronime.*###overplay
 kuronime.*##.box_item_berlangganan_popup
 kuronime.*##.kln
 kuronime.*##.pd-ads
-kuronime.fun###overplay
-kuronime.fun##.kln
-kuronime.fun##div[id^="teaser"]
-kusonime.*###wiburekomended
-kusonime.*##.blogdesc
-kusonime.*##.iklanads
-kusonime.*##.jdlz
-kusonime.*##.socialshare
-kusonime.*##.tagser
-kusonime.*##[href="https://kusonime.com/cara-download/"]
-kusonime.*##[href="https://kusonime.com/contact-person/"]
-kusonime.*##[href="https://kusonime.com/faq/"]
-kusonime.*##[href="https://kusonime.com/privacy-policy/"]
-kusonime.*/wp-content/*/*Banner*.*$image
-kusonime.*/wp-content/*/*Logo*Kusonime.*$image
+kuronime.moe###overplay
+kuronime.moe##.kln
+kuronime.moe##div[id^="teaser"]
 kusonime.com##+js(aeld, keydown)
 kusonime.com,melongmovies.com##+js(aopr, app_url)
 kutipan.co##.ad-wrap

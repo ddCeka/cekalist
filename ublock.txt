@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 2 Nov 2025 04:59 UTC (updated regularly)
+! Last modified: 2 Nov 2025 06:00 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -6721,9 +6721,7 @@ $script,domain=zdnet.fr,third-party
 $websocket,domain=vidup.me
 *#*/ad/$image,redirect-rule=1x1.gif
 *$font,third-party
-*$popup,domain=bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|kiryuu.org|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
-*$popup,third-party,domain=anilinkz.tv
-*$popup,third-party,domain=nowvideo.ag|nowvideo.co|nowvideo.ec|nowvideo.li|nowvideo.sx|nowvideo.to
+*$popup,domain=animekompi.*|bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|kiryuu.org|kiryuu03.*|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 *$script,domain=italiashare.life|italiashare.net,third-party
 *$script,third-party,domain=linclik.com
 *$script,third-party,domain=ouo.press|ouo.io
@@ -7327,11 +7325,8 @@ $websocket,domain=vidup.me
 .bid^$popup,third-party
 .biz/iklan/
 .com/iklan/*$image,domain=~persis.or.id
-.couple.me/static/*/images/*.jpg
-.couple.me/static/*/images/*.mp4
-.couple.me/static/*/images/*.png
 .gif$image,domain=/kiryuu0\d+\.com/
-.gif$image,domain=149.56.24.226|15.235.11.45|198.105.112.57|anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|oploverz.love|shinigami09.com
+.gif$image,domain=149.56.24.226|15.235.11.45|198.105.112.57|anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu03.*|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|oploverz.love|shinigami09.com
 .gif^$image,domain=maroonbellsmorris.org
 .gif|$image,domain=45.11.57.223|45.11.57.243|45.11.57.71|oppa.biz|oppadrama.biz
 .gif|$image,domain=oploverz.*

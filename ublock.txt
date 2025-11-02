@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 2 Nov 2025 13:22 UTC (updated regularly)
+! Last modified: 2 Nov 2025 21:58 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -12517,6 +12517,7 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-74lpfn
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-q4xr4i
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-urr7k6
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-y6gr35
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.wrapper-ads
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[class^="css-"]:matches-css(border-top-color: rgb(229, 233, 236)):has(> [id^="IDN_"]):upward(1)
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="for-you-ads-"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
@@ -14849,6 +14850,7 @@ kompas.com/data/photo/*/*.*$image
 kompas.id##.flex.justify-center.lg\:px-8.my-6
 kompas.id##.non-paywall:style(display: block !important;)
 kompas.id##.paywall
+kompas.id##.paywall:style(display: none !important;)
 kompas.id##.relative.flex.justify-center.py-2.bg-white
 kompas.id##.relative:has(> [id^="div-gpt-ad-"])
 kompas.id##.w-full.hidden.lg\:flex.bg-grey-10.justify-center.py-3
@@ -20099,6 +20101,9 @@ www.gtaind.com###p89f
 www.gtainside.com##.box_highlight_error
 www.iplay.com###blockers
 www.iplay.com##.search__field
+www.kompas.id##.bg-grey-30.w-full
+www.kompas.id##.gtm-home-app-header-berlangganan.font-sans
+www.kompas.id##kompasid-footer
 www.mediafire.com##.upsell-ab-promo
 www.nexusmods.com###accordion-header-mods-per-page
 www.nexusmods.com###app-banner
@@ -20946,6 +20951,7 @@ zuuk.org###fl10
 ||anime4fun.com/js/newanime.js$script
 ||animeindo.*/wp-content/uploads/*.gif$image
 ||animekompi.link/wp-content/uploads/$media,redirect=noopmp4-1s
+||animeku.*/public/vid/huskypres.mp4$media
 ||animexin.*/wp-content/uploads/*.gif$image,~third-party
 ||anoboy.media/img/*.gif
 ||anoboy.watch/img/*.gif$image,domain=anoboy.watch
@@ -21489,6 +21495,7 @@ zuuk.org###fl10
 ||cakrawalanews.co.id^*/banner/
 ||cakrawalanews.co^*/banner-$image
 ||cakrawalanews.co^*/iklan-$image
+||campaign.kompas.id/*/$subdocument
 ||cantikqq.$image,third-party
 ||capqq.$image,third-party
 ||capqq.$popup

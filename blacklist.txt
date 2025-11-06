@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 2 Nov 2025 21:57 UTC (updated regularly)
-! host_count: 14855
+! Last modified: 6 Nov 2025 20:48 UTC (updated regularly)
+! host_count: 14864
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -2081,6 +2081,7 @@
 0.0.0.0 atsod.launch.liveramp.com
 0.0.0.0 atti.com
 0.0.0.0 attr.appsflyer.com
+0.0.0.0 attr.appsflyersdk.com
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 audiomob.com
 0.0.0.0 audrte.com
@@ -4636,6 +4637,7 @@
 0.0.0.0 dl.browsermine.com
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dld.jxwan.com
+0.0.0.0 dlog-config.uu.cc
 0.0.0.0 dlog.perfectworldgames.com
 0.0.0.0 dls-ddc.dqa.samsung.com
 0.0.0.0 dls2s.appsflyer.com
@@ -5665,6 +5667,7 @@
 0.0.0.0 ghaahq.com
 0.0.0.0 giantvegas.com
 0.0.0.0 gibelplazaelektronik.com
+0.0.0.0 gid.tapapis.cn
 0.0.0.0 gift-token-events.mywebcommunity.org
 0.0.0.0 gifto.tech
 0.0.0.0 gigapurbalingga.cc
@@ -7019,6 +7022,7 @@
 0.0.0.0 jd599.com
 0.0.0.0 jd990.com
 0.0.0.0 jdb5555.com
+0.0.0.0 jdlog.uu.cc
 0.0.0.0 jdpoker.com
 0.0.0.0 jeffdahlke.com
 0.0.0.0 jejakfaktanews.com
@@ -8168,6 +8172,7 @@
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.happymod.com
 0.0.0.0 log1.perfectworldgames.com
+0.0.0.0 log16-normal-us-ttp.capcutapi.us
 0.0.0.0 log16-normal-useast5.tiktokv.us
 0.0.0.0 log2.perfectworldgames.com
 0.0.0.0 log5.interactive-circle.jp
@@ -8985,9 +8990,11 @@
 0.0.0.0 mon-sg.capcutapi.com
 0.0.0.0 mon-va-us-looki.capcutapi.com
 0.0.0.0 mon.byteoversea.com
+0.0.0.0 mon.capcutapi.us
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon.us.tiktokv.com
+0.0.0.0 mon16-normal-us-ttp.capcutapi.us
 0.0.0.0 monacasino.com
 0.0.0.0 monacoaces.com
 0.0.0.0 monerominer.rocks
@@ -9039,6 +9046,7 @@
 0.0.0.0 mrgreen.com
 0.0.0.0 mrkmspico.com
 0.0.0.0 mrperfect.in
+0.0.0.0 ms-report.uu.cc
 0.0.0.0 ms.cmcm.com
 0.0.0.0 ms881.com
 0.0.0.0 ms88ca.com
@@ -9053,6 +9061,7 @@
 0.0.0.0 msga.cupid.iqiyi.com
 0.0.0.0 mssdk-boot.cpacutapi.com
 0.0.0.0 mssdk-va.byteoversea.com
+0.0.0.0 mssdk.capcutapi.us
 0.0.0.0 mtag.mman.kr
 0.0.0.0 mtburn.com
 0.0.0.0 mtburn.jp

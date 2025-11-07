@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 6 Nov 2025 20:48 UTC (updated regularly)
+! Last modified: 7 Nov 2025 19:58 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8732,6 +8732,7 @@ $websocket,domain=vidup.me
 /sonybets.$image,third-party
 /sotoqq90.$image,third-party
 /sponsor-iklan.
+/sponsor-slot-$media
 /sportsmansclub.$image,third-party
 /spot-bet.webp|$image
 /star88bet.$image,third-party
@@ -11163,6 +11164,9 @@ codepen.io##NAV[id="link-footer-community-links"][class="link-footer-links link-
 codepen.io/assets/logos/*
 codeseek.*##.social
 codeseek.*##.twitter-share-button
+codingcertification.org##.ads-overlay-player
+codingcertification.org##.ads-video-iklan
+codingcertification.org##.code-block:has( > .banner-row)
 comando-filmes.org##.check
 comando-filmes.org##a[href^="https://goo.gl/"]
 communitech.ca#@#a[href*="/?aff="]
@@ -15391,6 +15395,7 @@ lk21.am.in,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click##a[target*
 lk21.am.in,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click##center:has-text(/promoted/i)
 lk21.am.in,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click,playeriframe.shop##div[id^="admad-"]
 lk21.web.id###ilang1
+lk21official.*###banner-content
 lk21official.co##a[href][target="_blank"][rel="nofollow"] > img[src$=".gif"]
 lk21official.mom##[id^="btop-"]
 lk21official.wiki##[href^="https://yukclick.me/dunia21"]

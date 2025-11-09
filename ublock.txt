@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 7 Nov 2025 19:58 UTC (updated regularly)
+! Last modified: 10 Nov 2025 02:30 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -16,10 +16,16 @@
 ###Iklan\ Atas
 ###LeftFloatAds
 ###RightFloatAds
+###ShareEntryPoint
 ###WarningCodec
 ###aads_header_1
 ###aads_header_2
 ###ad-link.visible
+###adHome1
+###adHome2
+###adHome3
+###adHome4
+###adHome5
 ###adSticky
 ###ad_bawah
 ###ad_bgbottomleft
@@ -32,6 +38,7 @@
 ###adblockBanner
 ###adbuddy-no-adb-container
 ###adbuddy-overlay
+###add_like_bar
 ###adnow-mobile-baca-juga
 ###ads-1a
 ###ads-1b
@@ -129,6 +136,7 @@
 ###aiklantengah1
 ###area-iklan-kanan-atas
 ###area-iklan-kiri-atas
+###article-share-twitter
 ###automaticallyReportInFuture
 ###banner-tengah
 ###banner\ iklan
@@ -140,6 +148,7 @@
 ###banner_kiri
 ###banner_lokal_click1
 ###banner_top_detail
+###batchsdk-ui-alert
 ###bawahpads
 ###bireklam
 ###block-iklandibawahartikel
@@ -156,12 +165,15 @@
 ###close-floatadsbawah
 ###close-floatadsq
 ###close-iklanbawah
+###contents > yt-share-target-renderer:nth-of-type(1n+2)
+###ctoolbar
 ###d_ads
 ###desaiklan
 ###desktop-ads-id-1
 ###desktop-ads-id-2
 ###detailSkinAdLeft
 ###detailSkinAdRight
+###diaspora-button-container
 ###div-ad-dbt
 ###div-ad-mediumrectangle_1
 ###div-ad-mediumrectangle_2
@@ -182,6 +194,7 @@
 ###div-ad-video_detail
 ###div-ad-wp_terkini_1
 ###div-banner-video_detail
+###divShare
 ###et_ads-2
 ###fbcount
 ###fixfloatingads
@@ -363,6 +376,7 @@
 ###imgiklanheader1
 ###imgiklanheader2
 ###imgiklantengah1
+###inline-share-links
 ###inpage-float-ad
 ###islemag_content_ad-widget-2
 ###it-ad-header
@@ -384,9 +398,11 @@
 ###le_header_ads
 ###left_ads_float_phonedevelop
 ###like-us-adblock-modal
+###likebuttons
 ###lmd-ads
 ###lmd-iklan
 ###lmd-parallax-ads
+###mashfbar-header
 ###me-div-gpt-ad-stickyad
 ###me-div-gpt-ad-topcenter
 ###megabillboard
@@ -397,7 +413,9 @@
 ###myadsmodal
 ###netkevin-overlay
 ###netkevin-popup
+###new-social-share
 ###obi_random_banners_posts
+###p-sharing
 ###playerIklan1
 ###playerIklan2
 ###popup_bawah
@@ -409,9 +427,11 @@
 ###pos-ad
 ###pos-sticky-ad
 ###post-footer-ads
+###ppsPopupBgOverlay
 ###props-ad-slot-billboard
 ###props-ad-slot-sticky
 ###r_iklan
+###rail-share-bar
 ###rebahin-banner
 ###right_ads_float_phonedevelop
 ###section_iklan_home_1
@@ -421,6 +441,15 @@
 ###section_iklan_home_3
 ###section_iklan_home_5
 ###section_iklan_home_8
+###share-buttons
+###share-tool
+###share-twitter
+###share-twitter-bottom
+###share-unit
+###share_bar
+###share_container:not([class*=body i])
+###sharebar
+###sharingfooter
 ###side-ads-1
 ###side-ads-2
 ###sidebar-ads2
@@ -435,16 +464,22 @@
 ###signaturebanner-ad
 ###skycrapper-left-ads
 ###social-plugins
+###social-share:not([class*=body i])
+###social_buttons:not([class*=body i])
 ###srcadsurlblock
+###ss-floating-bar
 ###sticky-ad-atas
 ###sticky-ad-bawah
 ###sticky-iklan
+###story-socials
 ###switch-ad
 ###tamvan1
 ###tamvan2
+###tell-a-friend
 ###tisisads
 ###togel
 ###top_ad_full
+###top_share
 ###topads-left
 ###topads-right
 ###tupiklan
@@ -459,15 +494,21 @@
 ###wpberita_topbanner_aftermenu
 ##.AdsParent
 ##.AdtruePopupVideo
+##.ArevicoModal-bg:not(html,body,:empty)
+##.ArevicoModal:not(html,body,:empty)
 ##.Gadget-AdSense
+##.Gallery-Share:not(html,body,:empty)
 ##.Iklan
 ##.SectionAds
+##.Share_Icons:not(html,body,:empty)
+##.SocialArticleIcons:not(html,body,:empty)
 ##._3mQIn
 ##._AZr
 ##.__banner_ads
 ##._hWr._V1j
 ##._xt_ad_close
 ##._xt_ad_close_internal
+##.a2a_kit:not(html,body,:empty)
 ##.ab_button
 ##.ad-300-container
 ##.ad-320-container
@@ -502,6 +543,13 @@
 ##.adblock2
 ##.adblock3
 ##.adct
+##.addthis_button_facebook:not(html,body,:empty)
+##.addthis_button_messenger:not(html,body,:empty)
+##.addthis_button_more:not(html,body,:empty)
+##.addthis_counter:not(html,body,:empty)
+##.addtoany_content:not(html,body,:empty)
+##.addtoany_list:not(html,body,:empty)
+##.addtoany_share:not(html,body,:empty)
 ##.adflex-b-reset
 ##.adfoxly-wrapper
 ##.adinserter_ad
@@ -765,6 +813,7 @@
 ##.ak-ad
 ##.ak-ad-article
 ##.ak-block-ads
+##.album-dialog__image-share:not(html,body,:empty)
 ##.amk-adsense-style
 ##.amk-iklan-fixed
 ##.amk-sapaan-top
@@ -785,8 +834,10 @@
 ##.areaiklan
 ##.article-adv
 ##.article-bottom-ad
+##.article__share:not(html,body,:empty)
 ##.aspect-\[728\/90\]
 ##.awael-ads-carousel
+##.b-share-bar__twitter
 ##.baca-juga-ad
 ##.baneratasbawah
 ##.banner-625x235-content
@@ -821,6 +872,7 @@
 ##.bannermini
 ##.bannerpusat
 ##.bannersatu
+##.basicsSocialActions-socialIcons:not(html,body,:empty)
 ##.bdaia-ad-container
 ##.berit-banner-iklan-post
 ##.berlangganan-720
@@ -830,6 +882,7 @@
 ##.bireklam
 ##.block-iklan-5
 ##.block-views-blockbanner-khusus-iklan-sidber-2-block-1
+##.blog-post-single-share:not(html,body,:empty)
 ##.bnr-ads
 ##.bnr-before-content
 ##.bnr-bottom-video-item
@@ -861,9 +914,19 @@
 ##.box_item_ads_popup
 ##.box_item_berlangganan_popup
 ##.bt-frame-ads
+##.btn--facebook:not(html,body,:empty)
+##.btn-google-plus:not(html,body,:empty)
+##.btn-messenger:not(html,body,:empty)
+##.btn-share:not(html,body,:empty)
+##.btn-tweet:not(html,body,:empty)
+##.btn-twitter:not(html,body,:empty)
+##.button--share:not(html,body,:empty)
+##.button__twitter:not(html,body,:empty)
+##.c-article__byline-social:not(html,body,:empty)
 ##.c-float-ad-left
 ##.c-float-ad-right
 ##.c-float-ads
+##.c-share-tools:not(html,body,:empty)
 ##.campaign-atas
 ##.cb_splash_ads
 ##.center-ads
@@ -920,6 +983,7 @@
 ##.dlpro-floatbanner
 ##.dlpro-topbanner-aftermenu
 ##.dominowalet
+##.dre-share-band:not(html,body,:empty)
 ##.drk_dialog_inner
 ##.drk_sale
 ##.drk_section_darkness
@@ -937,12 +1001,16 @@
 ##.editor__tool_enhancement editor__tools_items
 ##.editor__tool_helper editor__tool_helper_plus
 ##.editor__tool_item.disabled
+##.et_social_icons_container:not(html,body,:empty)
 ##.ezoic-ads-adaptive
+##.face-share:not(html,body,:empty)
 ##.fap-ads
 ##.fap-bottom-ads
 ##.fap-left-ads
 ##.fap-right-ads
 ##.fb_iframe_widget
+##.fbbsb-button:not(html,body,:empty)
+##.figure-share:not(html,body,:empty)
 ##.fixfloatingads
 ##.float-ads-footer
 ##.float-ads-left
@@ -955,6 +1023,7 @@
 ##.floating-ads-left
 ##.floating-ads-right
 ##.floating-banner-atas
+##.floating-share-bar:not(html,body,:empty)
 ##.floating_ads
 ##.floating_ads_bottom_textcss
 ##.floating_ads_bottom_textcss2
@@ -971,8 +1040,10 @@
 ##.floating_left_ads
 ##.floating_right_ads
 ##.floatingads
+##.follow_like_module:not(html,body,:empty)
 ##.footer-ad-mobile
 ##.footer-ads__container
+##.footerSocial:not(html,body,:empty)
 ##.forads
 ##.fotads_fxmain
 ##.fotads_showalign
@@ -986,6 +1057,7 @@
 ##.genericDialog
 ##.gg-ads_wrapper
 ##.gingericon-premium
+##.globalSharing:not(html,body,:empty)
 ##.gmr-banner-aftercontent
 ##.gmr-banner-aftermodulehome
 ##.gmr-banner-afterrelpost
@@ -1001,6 +1073,7 @@
 ##.gmr-masonry-banner
 ##.gmr-topbanner
 ##.gmr-verytopbanner
+##.googleplusshare:not(html,body,:empty)
 ##.gridlove-ad-below-header
 ##.gws-local-map__map-expando
 ##.happy-footer
@@ -1011,6 +1084,7 @@
 ##.header-adds
 ##.header-menu-bottom-ads
 ##.header_kabar_ads
+##.heateor_sss_sharing_container:not(html,body,:empty)
 ##.height_sonoraads_600
 ##.heightads600
 ##.heightads90
@@ -1021,7 +1095,9 @@
 ##.home-ads-bar
 ##.home-banner-big-ads
 ##.homepagead
+##.i-more-share:not(html,body,:empty)
 ##.iceberg
+##.icon--twitter:not(html,body,:empty)
 ##.idblog-center-ads
 ##.idblog-center-banner
 ##.idblog-center-sponsor
@@ -1258,7 +1334,14 @@
 ##.ixlan
 ##.ixlan-widget-kanan
 ##.js-ads-stick
+##.js-share-btn:not(html,body,:empty)
+##.js-share-dr:not(html,body,:empty)
+##.js-share-fb:not(html,body,:empty)
+##.js-share-tw:not(html,body,:empty)
+##.js-share-twitter:not(html,body,:empty)
+##.js-share-wa:not(html,body,:empty)
 ##.judi
+##.jw-sharing-icon:not(html,body,:empty)
 ##.jx-ads
 ##.jx-props-ad-slot-footer-sticky
 ##.kb-ads-dynamic
@@ -1302,6 +1385,7 @@
 ##.load_iklan_leaderboard_2
 ##.load_iklan_leaderboard_3
 ##.load_iklan_leaderboard_4
+##.loader-container.shares:not(html,body,:empty)
 ##.loading.ads-50
 ##.lokalpanel-banner-insidecontent
 ##.lokalpanel-floatbanner
@@ -1317,11 +1401,14 @@
 ##.majalahpro-core-topbanner
 ##.majalahpro-core-topbanner-aftermenu
 ##.marginads
+##.mashsb-box:not(html,body,:empty)
 ##.mask-ads
 ##.material
 ##.maxmag_ad300_widget
 ##.menu-rs-iklan
+##.meta-share-wrapper:not(html,body,:empty)
 ##.mh-ad-spot
+##.mh-share-buttons:not(body,html,:empty)
 ##.mks_adswidget_ul
 ##.mobileAd_bottom_floating
 ##.mobileads
@@ -1335,7 +1422,9 @@
 ##.newkarma-core-floatbanner-right
 ##.newkarma-core-topbanner
 ##.newkarma-core-topbanner-aftermenu
+##.news-share-link:not(html,body,:empty)
 ##.news__ads
+##.news_share:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
 ##.nobar-ads
 ##.o-AdhesionNotifier
 ##.obi_random_banners_posts
@@ -1380,10 +1469,14 @@
 ##.post-ad3
 ##.post-ad4
 ##.post-adv
+##.post-social-goog:not(html,body,:empty)
+##.post_social:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##.ppsPopupFbLikeShell:not(html,body,:empty)
 ##.pro_ad_adzone_2_ad_0
 ##.pro_ad_adzone_3_ad_0
 ##.pro_ad_system_ad_container
 ##.pro_ad_zone
+##.product-sharing:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
 ##.props-ad-slot
 ##.props-ad-slot-footer-sticky
 ##.props-ad-slot-footer-sticky__ad-content
@@ -1396,6 +1489,8 @@
 ##.ray-ads-container
 ##.ray-ads-in-content
 ##.ray-floating-ads
+##.react-share__ShareButton:not(body,html,:empty)
+##.recentsocial:not(html,body,:empty)
 ##.redalert
 ##.responsive_ad_container
 ##.rkads
@@ -1415,14 +1510,71 @@
 ##.safelink-bnr-top
 ##.safelink-bnr_top
 ##.safelink-bnrtop
+##.sbtn_main:not(html,body,:empty)
+##.sc-1bdg1q0-0:not(html,body,:empty)
+##.sd-sharing:not(html,body,:empty)
 ##.section__ads
 ##.section_sticky_ads_bottom
 ##.sectionpagesads
 ##.set-ads-468
 ##.sf-ad-header-below
 ##.sf-shadow-iklan
+##.share-actions:not(html,body,:empty)
+##.share-after:not(html,body,:empty)
+##.share-bar:not(html,body,:empty)
+##.share-before:not(html,body,:empty)
+##.share-bottom:not(html,body,:empty)
+##.share-btns:not(html,body,:empty)
+##.share-buttons-bottom:not(html,body,:empty)
+##.share-icon:not(html,body,:empty)
+##.share-icons:not(html,body,:empty)
+##.share-it:not(html,body,:empty)
+##.share-item-plus:not(html,body,:empty)
+##.share-link.js-require-widget:not(html,body,:empty)
+##.share-metas:not(html,body,:empty)
+##.share-networks:not(html,body,:empty)
+##.share-nw:not(html,body,:empty)
+##.share-other:not(html,body,:empty)
+##.share-reddit:not(html,body,:empty)
+##.share-social:not(html,body,:empty)
+##.share-telegram:not(html,body,:empty)
+##.share-this:not(html,body,:empty)
+##.share-toggle:not(html,body,:empty)
+##.share-tools:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##.share-top:not(html,body,:empty)
+##.share-trigger:not(html,body,:empty)
+##.share-tw:not(html,body,article)
+##.share-twitter:not(html,body,:empty)
+##.share-twttr:not(html,body,:empty)
+##.share-whatsapp:not(html,body,:empty)
+##.shareBar:not(html,body,:empty)
+##.shareBottom:not(html,body,:empty)
+##.shareToggle:not(html,body,:empty)
+##.share__list:not(html,body,:empty)
+##.share_area:not(html,body,:empty)
+##.share_btn:not(html,body,:empty)
+##.share_icon_area:not(html,body,:empty)
+##.share_toggle:not(html,body,:empty)
+##.sharea:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##.sharebtns:not(html,body,:empty)
+##.shareit:not(html,body,:empty)
+##.shareon:not(html,body,:empty)
+##.shares-badge:not(html,body,:empty)
+##.sharethis-inline-share-buttons:not(html,body,:empty)
+##.sharethis-wrapper:not(html,body,:empty)
+##.sharetools:not(html,body,:empty)
+##.shariff-button:not(html,body,:empty)
+##.sharing-btn:not(html,body,:empty)
+##.sharing-container:not(html,body,:empty)
+##.sharing-item:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##.sharing-links:not(html,body,:empty)
+##.sharing-tools:not(html,body,:empty)
+##.sharing:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
 ##.sharingtb
 ##.show-first-ads
+##.shr-badge__button:not(html,body,:empty)
+##.shr-opn:not(html,body,:empty)
+##.shr.btn:not(html,body,:empty)
 ##.sidebar-ads1
 ##.sidebar-ads2
 ##.sidebar-ads3
@@ -1433,6 +1585,7 @@
 ##.sidebar-banner-mobile-bawah-wrap
 ##.sidebar-iklan
 ##.simple_advert
+##.single-share:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
 ##.single_ad_728x90
 ##.sk_splash_ads
 ##.skidAds
@@ -1446,11 +1599,33 @@
 ##.slotiklan-320x50
 ##.slotiklan-728x90
 ##.slotiklan-topdesktop
+##.sns:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##.soc-list:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##.social-action[test-id*=facebook]:not(html,body,:empty)
+##.social-footer:not(html,body,:empty)
+##.social-icon:not(html, body, img)
+##.social-likes:not(html,body,:empty)
+##.social-share-sidebar-component:not(html,body,:empty)
 ##.social-sharing
+##.social-sharing-buttons:not(html,body,:empty)
+##.social-sharing:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##.social-widget:not(html,body,:empty)
+##.social-wrap:not(html,body,:empty)
+##.social.shares:not(html,body,:empty)
+##.social_buttons:not(html,body,:empty)
+##.social_media:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##.social_widget__reactions_icons
+##.socialbuttons:not(html,body,:empty)
+##.socialmedia-btns:not(html,body,:empty)
+##.socialmedia:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
 ##.sora-ads-here
+##.sp_article_share_x:not(body,html,:empty)
 ##.spnsr-top-1910
 ##.spnsr-wrapper-1910
 ##.sponsor_ads
+##.spotheader__sharing:not(html,body,:empty)
+##.ssba:not(html,body,:empty)
+##.ssk-group:not(html,body,:empty)
 ##.stay-ads-left
 ##.stay-ads-right
 ##.stay-banner-left
@@ -1469,8 +1644,11 @@
 ##.sticky-ads-bottom
 ##.sticky-ads-left
 ##.sticky-ads-right
+##.story-share-bottom:not(html,body,:empty)
 ##.subiklan
 ##.supermag-ad-widget
+##.swp-hover-pin-button:not(html,body,:empty)
+##.swp_social_panel:not(html,body,:empty)
 ##.tayang_ads
 ##.td-a-rec
 ##.td-ad-partner__col
@@ -1496,11 +1674,17 @@
 ##.ts-ad-content
 ##.ts-ad-link-wrapper
 ##.tutupAds
+##.twit_share_button:not(html,body,:empty)
+##.twitter-share:not(html,body,:empty)
+##.twitter[href*="/share?"]:not(html,body,:empty)
+##.twitter_share:not(html,body,:empty)
+##.twitterbtn:not(html,body)
 ##.twoColAds
 ##.type-iklan_beranda_1
 ##.type-iklan_beranda_2
 ##.type-iklan_beranda_3
 ##.type-iklan_laman_berita
+##.uSocial-Share:not(body,html,:empty)
 ##.ukr120-600
 ##.ukr300-200
 ##.ukr300-600
@@ -1525,6 +1709,7 @@
 ##.widget_iklan_atas
 ##.widget_iklan_atas_content
 ##.wp-thumb-news
+##.wpusb:not(html,body,:empty)
 ##.wrap-ads-r
 ##.wrap-fixed-ads
 ##.wrapper-ads
@@ -1547,6 +1732,7 @@
 ##IMG[class="responsive-hero"]
 ##SPAN[class="cf-no-screenshot"]
 ##[alt="iklan-horizontal-home-1"]
+##[app=addtoany]:not(html,body,:empty)
 ##[aria-label*="iklan_header" i]
 ##[class*="ads-artikel"]
 ##[class*="ads_atas"]
@@ -1587,6 +1773,9 @@
 ##[class*="sponsor-kecil"]
 ##[class*="sponsor_besar"]
 ##[class*="sponsor_kecil"]
+##[class*=share-toolbar]:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i],[class*=has-share-toolbar])
+##[class*=social_share]:not(article,html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##[class*=socialshare i]:not(html,body,article,[class*=body i],[id*=body i])
 ##[class="background background--full-screen"]
 ##[class="bggrey"]
 ##[class="block-link__overlay-link"]
@@ -1599,6 +1788,7 @@
 ##[class="tlogo"]
 ##[class^="AdsTop_ads"]
 ##[class^="utp_ads_"]
+##[data-flip-widget=shareflip]:not(html,body,:empty)
 ##[href$=".win/simantan" i]
 ##[href$="/388hero" i]
 ##[href$="/77megabet" i]
@@ -3016,6 +3206,7 @@
 ##[id^="div-adx-ad-"]
 ##[id^="utp_ads_"]
 ##[name="google_ads_iframe_6362370/DT_SxS_ATF_TOP_300x250_0"]
+##[socialshare]:not(html,body,:empty)
 ##[src="/i/banners/top.php"]
 ##[title="7METER" i]
 ##[title="ALTogel" i]
@@ -3772,7 +3963,47 @@
 ##a[alt="jayapoker" i]:has(img)
 ##a[alt="pokerboya" i]:has(img)
 ##a[alt="totojitu" i]:has(img)
+##a[appshareclick]
+##a[class$=-sharing-button__link]
+##a[class$=share-twitter]
+##a[class$=sharebtn]
+##a[class*=-sharing-popup]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##a[class*=-socials__item]
+##a[class*=BtnShare]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##a[class*=addthis_button]
+##a[class*=google_plus_share]
+##a[class*=share__button]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##a[class*=social-share]:not([preload],[class*=body i],[id*=body i],[class*=content i],[id*=content i],[class*=has-social-share i],[class*=slide i])
+##a[class=twitter i][title=Tweet]
+##a[class^=pagetools][class*=icon--twitter]
+##a[class^=share_btn]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##a[class^=sharing-popup-]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##a[class^=socialbutton i][onclick*="window.open"]
+##a[data-ga-event-action^="share:"]
+##a[data-js=twitter-share]
+##a[data-plugin^=sharingButtons]
+##a[data-sharer=twitter]
+##a[data-ss-ss-type]
+##a[data-tooltip^="Share on "]
+##a[data-type=sharing-button]
+##a[href*=".cmd=addShare"]
+##a[href*="/share-newsletter/"]
+##a[href*="/social_plugins/share"]
+##a[href*="://plus.google.com/share?url="]
+##a[href*="addtoany.com/add_to/"]
+##a[href*="api.addthis.com"]:not([href*="/email/"])
+##a[href*="plusone.google.com"]
+##a[href*="telegram.me/share/url?"]
+##a[href*="twitter.com/home?source="]
+##a[href*="twitter.com/home?status="]
+##a[href*="twitter.com/intent/tweet?"]
+##a[href*="twitter.com/share?text="]
+##a[href*="twitter.com/share?url="]
+##a[href*=share-tools]
+##a[href="#javascript"][class*=social-link]
+##a[href="/#messenger"]
 ##a[href="http://tapstream.tapatalk.com/oiaq-1"]
+##a[href^="/sharer/sharer.php?"] > button[type=submit]
 ##a[href^="http://1001win.fun"]
 ##a[href^="http://1001win.site"]
 ##a[href^="http://116poker."]
@@ -5626,6 +5857,19 @@
 ##a[href^="https://www.vimaxasli."]
 ##a[href^="https://zetapoker99.com"]
 ##a[href^="https://zeuspkv.com"]
+##a[href^="javascript:sendSns('"]
+##a[href^="javascript:tw_share('"]
+##a[href^="t.me/share/url"]
+##a[href^=javascript][onclick*="javascript:window.open('https://www.facebook.com/sharer/"]
+##a[id*=share-][id*=-button]
+##a[id^=share_btn]
+##a[onclick*="plus.google.com/share?"]
+##a[onclick*="twitter.com/share?"]
+##a[onclick^="share_toggle("]
+##a[onclick^="var share"]
+##a[onclick^="window.open('http"][onclick*="facebook.com/sharer"]
+##a[onclick^=ShowShareDialog]
+##a[onmouseover^="return addthis_open"]
 ##a[title*="slot online terpercaya" i]
 ##a[title*="tasiktoto" i] > img
 ##a[title="8TOGEL"][target="_blank"] > img
@@ -5635,7 +5879,13 @@
 ##a[title="MANSION77"][target="_blank"] > img
 ##a[title="RGOCASINO"][target="_blank"] > img
 ##a[title="SUPERITCSLOT"][target="_blank"] > img
+##a[title="Share on Baidu" i]
+##a[title="Share on Reddit" i]
+##a[title="Share on Telegram" i]
+##a[title="Share on Twitter" i]
+##a[title="Share on WhatsApp" i]
 ##a[title="TOTO88"][target="_blank"] > img
+##a[title="Tweet this post"]
 ##a[title="bandar36" i]:has(img)
 ##a[title="bataratoto"] > img
 ##a[title="dewacasino" i]:has(img)
@@ -5655,6 +5905,7 @@
 ##a[title="pokerboya" i]:has(img)
 ##a[title="togelin" i]
 ##a[title="totojitu" i]:has(img)
+##a[title^="Share to "]
 ##a[title^="agen poker online" i]
 ##a[title^="agen slot online" i] > img
 ##a[title^="bandar slot" i] > img
@@ -5663,14 +5914,73 @@
 ##a[title^="situs slot" i] > img
 ##a[title^="slot demo gratis"]
 ##a[title^="slot gacor" i] > img
+##amedia-share
+##amp-social-share
 ##banner-besar--top
 ##body > #cont-megabillboard.t600
 ##body > [id="megabillboard"][style="position: relative;width: 100% !important;"]
 ##body > div#fixedban
 ##body > div.demo-wrapper[style="display:none;"] + div[id][class]
+##button.btn-twitter-liveblog
+##button[aria-controls=ShareContainer]
+##button[aria-label^="Share article on "]
+##button[class*=ShareOverlayButton i]
+##button[class*=SharesButton i]
+##button[class^=share-module__share]
+##button[data-a-target^=share]
+##button[data-arctrac*=socialShare i]
+##button[data-fatal-attraction*=":share"]
+##button[data-google-events*="\"socialAction\":\"share\""]
+##button[data-href*="twitter.com/share?text="]
+##button[ng-click^=shareOn]
+##button[onclick^=socialsharing_]
+##button[title^="Del på "]
+##button[title^="Share this "]
 ##div[aria-label="Iklan"]
+##div[button=share]
+##div[class$=-share-single]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i],[class$=has-share-single])
+##div[class$=-sticky-share]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i],[class*=post-with-stick])
+##div[class*=FooterShare i]
+##div[class*=_share_button]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##div[class*=addthis]
+##div[class*=article-share]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i],[class*=has-article-share])
+##div[class*=box--share]
+##div[class*=footer__share]
+##div[class*=iconShare]
+##div[class*=lp_sharing]
+##div[class*=post-sharing]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i],[class*=has-post-sharing])
+##div[class*=share-article]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i],[class*=has-share-article])
+##div[class*=shareToolbar]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##div[class*=sharer-tool]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i],[class*=has-sharer-tool])
+##div[class*=sharethisbutton i]
+##div[class*=social-panel]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i],[class*=has-social-panel])
+##div[class*=social-share]:not([preload],[class*=body i],[id*=body i],[class*=content i],[id*=content i],[class*=has-social-share i],[class*=slide i])
+##div[class*=social][class*=sharing]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##div[class*=social_sidebar]
+##div[class*=social_slide]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##div[class*=socials-share]
+##div[class=twitterShare i]
+##div[class^=container_NotificationsBanner_]
+##div[class^=icon-share-]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##div[class^=share-options]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##div[class^=shareLinks]
+##div[class^=social-like]
+##div[class^=social-media-container]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##div[class^=twittshare]
+##div[class^=wp_social_bookmarking]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##div[data-aop^=sharingtoolbar]
+##div[data-hook=social-sharing]
+##div[href*="plus.google.com/share?url="]
+##div[id$=_sharethis]
 ##div[id^="dfp-gpt-ad"]
+##div[id^=btnShare i]
+##div[id^=dpsp-]
+##div[id^=sthoverbuttons]
+##div[pw\:twitter-via]
+##div[tmp^="Share on "]
 ##gmn-companion-ad-renderer
+##h2[class*=share-links]
+##h4[class*=social-share-label]
 ##iframe[width="728"][height="90"]
 ##img[alt*="QQangpao" i]
 ##img[alt*="QQjelas" i]
@@ -6719,10 +7029,26 @@
 ##img[width="468"][height="60"]
 ##img[width="728"][height="90"]
 ##kno-share-button
+##ksf-sharing
+##label[for*=ShareModal]
+##li[class$=-share-toggle]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##li[data-share=twitter]
+##p[class^=del-artikel]
+##share-grid
+##span[class*=-social-share-]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##span[class*=share-icon]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##span[class^=share_btn]
+##span[data-lnkd-debug]
+##ul[aria-label=Del]
+##ul[class*=-share-buttons]
+##ul[class^=share-action]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
+##ul[class^=sociale-ikoner-del]
+##ytm-share-target-renderer
 #@#[id^="google_ads_iframe"]
 #@#div[itemtype="http://schema.org/WPAdBlock"]
 $script,domain=zdnet.fr,third-party
 $websocket,domain=vidup.me
+*##iframe[src*="//syndication.twitter.com/"]:has(div[data-testid=empty_state_header_text])
 *#*/ad/$image,redirect-rule=1x1.gif
 *$font,third-party
 *$popup,domain=animekompi.*|bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|kiryuu.org|kiryuu03.*|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
@@ -7519,6 +7845,10 @@ $websocket,domain=vidup.me
 /\.(gif|webp)/$image,domain=rumahparaperjaka.*|rumahperjaka.*
 /\/[0-9]{19,20}\.(png|webp)/$image,domain=sugawa.id
 /\/[0-9a-f]{32}\/invoke\.js/$third-party,script,redirect-rule=noopjs
+/^.*(\.|//)shar(e|ing)\.[a-z0-9-]{2,60}\..*$/$image,match-case,domain=~discord.com|~reddit.com|~reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
+/^.*/pinitbtn\..*/$image,match-case
+/^.*/share-icons_.*$/$image,match-case
+/^.*/share/.*-icon\.png.*$/$image,match-case
 /^[a-z0-9]{5,}\.(?=.*[a-z])(?=.*[0-9])[a-z0-9]{17,}\.(cfd|sbs|shop)$/##*:has-text(/(rbtv|superabbit)77/i):style(scrollbar-width: thin!important;)
 /^[a-z0-9]{5,}\.(?=.*[a-z])(?=.*[0-9])[a-z0-9]{17,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) div:matches-css(position: fixed):has(> img)
 /^[a-z0-9]{5,}\.(?=.*[a-z])(?=.*[0-9])[a-z0-9]{17,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
@@ -7570,6 +7900,7 @@ $websocket,domain=vidup.me
 /adblockdetect.
 /adblockdetection.
 /adbuddy.$domain=~adbuddy.be|~adbuddy.beeldstudio.be
+/addthis_widget.js^
 /adobet.gif$image
 /adpop.$domain=~adpop.me
 /ads-ai-3.$image
@@ -7804,6 +8135,9 @@ $websocket,domain=vidup.me
 /brotogel.$image,third-party
 /bsakong1.$image,third-party
 /bsakong2.$image,third-party
+/btn_share_fb.
+/btn_share_ln.
+/btn_share_tw.
 /buanabet.$image,third-party
 /buntut77toto-$image
 /burgerslot.gif$image
@@ -8140,6 +8474,8 @@ $websocket,domain=vidup.me
 /images/idxbet/*$image
 /images/iklan/*
 /images/iklan_
+/images/share_icons/*
+/images/social-share/*
 /imcpkr.$image,third-party
 /imcpkrn.gif$image
 /imcpkrn.gif|$image
@@ -8421,12 +8757,14 @@ $websocket,domain=vidup.me
 /misiqq-$image
 /mitrahoki-$image
 /mitraqq.$image,third-party
+/mixx_share.gif$image
 /mkvgames.$image,third-party
 /mkvpoker.$image,third-party
 /mncpkr.$image,third-party
 /mobapoker-$image
 /modalqq.gif$image
 /modalqq.webp$image
+/modules/responsive_share_buttons^
 /momopoker88.$image,third-party
 /motorqq.$image,third-party
 /musimqq.$image,third-party
@@ -8708,6 +9046,11 @@ $websocket,domain=vidup.me
 /sevenbola.$image,third-party
 /seventogel.$image,third-party
 /sexysloto.gif$image
+/share-newsletter/*
+/sharing/facebook.$image
+/sharing/reddit.$image
+/sharing/stumbleupon.$image
+/sharing/twitter.$image
 /shinigami0\d+\.com/##+js(aopr, lepopup_vars)
 /shinigami0\d+\.com/##a[target*="blank"]:has(> img)
 /shiokuda.$image,third-party
@@ -8890,6 +9233,7 @@ $websocket,domain=vidup.me
 /wp-content/plugins/t42-content-protector/*
 /wp-content/plugins/tianglistrik/*$script
 /wp-content/plugins/ungrabber/js/ungrabber.min.js
+/wp-content/plugins/wp-social-bookmarking
 /wp-content/themes/rehub/js/adblock_notify.js$script
 /wp-content/uploads/*$media,redirect=noopmp4-1s,to=nokephub.*
 /wp-content/uploads/an-temp/*$script,stylesheet
@@ -8953,6 +9297,7 @@ $websocket,domain=vidup.me
 173.249.49.204###tutupen
 173.249.49.204##[href="https://bit.ly/idx-xx"]
 173.249.59.185,185.217.95.49,94.250.202.221,giladrakor.com,layarkeren.pro,mangakita.id,mangakita.net,toriianime.net,wibudesu.co###ouibounce-modal
+180.*,chugoku-np.co.jp##.social
 185.217.95.43,filmjepangku.com,hencop.lol,heppinn.id,javsubid.com,javsubindo.my,javsubindo.site,komik18.art,komikcast02.com,komikdewasa.com,komikdewasa.me,komikremaja.com,lendirpedia.com,lendirpedia.fun,lendirpedia.icu,mangasusuku.com,manhwaindo.cfd,manhwaindo.com,manhwaland.mom,manhwaland.top,manhwalist.com,onlyvid.icu,pascol.com,sintube.icu,skandalpedia.rest,starjepang.com,starjepang.live##.kln
 185.231.223.76###iklap
 185.231.223.76###iklhead
@@ -11180,6 +11525,7 @@ complaintsboard.com/img/*.png
 comprovendolibri.it#@#.myTestAd
 comptoir-info.com#@#.textad
 computerbild.de##a[data-downloader-url$="_CB-DL-Manager.exe"]
+condoblues.com###milotree_box_wrap
 conformingtojesus.com##.socialshare
 conformingtojesus.com/*/biblical_teachings-christian_church_for_all_nations.jpg
 conformingtojesus.com/banner-*.*$image
@@ -11953,6 +12299,7 @@ dzt1km7tv28ex.cloudfront.net/static/app/landing/*.jpg
 e.mail.ru##.TerfRcr
 e.mail.ru##.TerfRqb
 e.mail.ru##.konWgF1
+e24.no##.article-share
 ea-dev.com/*/slide1.*$image
 ea-dev.com/*/slide2.*$image
 ea-dev.com/*/slide3.*$image
@@ -11976,6 +12323,7 @@ egypttoday.*##.ShareArticle
 ekonomi.inilah.com,teknologi.inilah.com###bannerkiri
 ekpos.com,prabunews.com##img[width="1600"][height="250"]
 eksposisi.com###single-content:style(margin-top: 150px!important;)
+ekstrabladet.dk##label[for*=ShareModal]
 elahmad.com#@##adblock
 elevenia.co.id###gnbApp
 elevenia.co.id##.btn_wrap
@@ -12063,6 +12411,7 @@ esteem.*##[href="https://twitter.com/esteem_app"]
 esteem.*##[href="https://youtube.com/eSteemApp"]
 ethtrade.*/*/section-img-*.*$image
 etindonesia.com##[class*="td-g-rec-id-custom_ad_"]
+eurogamer.net##.social
 evga.com/*/homebanner/*.*$image
 evidon.com/*/uploads/*/*.png
 ewarta.co###views-bootstrap-promotion-block-1
@@ -12444,6 +12793,7 @@ fontsquirrel.com/*/logo.png
 foot.tous-sports.tv##IMG[src="http://foot.tous-sports.tv/images/blanccloses.png"]
 footdirect24.com###hid
 forbes.com###brightcove_perform_0_html5_api
+forbes.com##.article-sharing
 forbes.com##.vestpocket
 forbes.com##.vjs-ima3-autoplay
 forbes.com/*/*.mp4
@@ -13481,6 +13831,8 @@ harakahdaily.net###jsemrp_373_873
 harakahdaily.net###jsemrp_374_469
 harakahdaily.net###jsemrp_380_290
 harapanrakyat.com###div-ad-pushdown
+hardreset.info###modal-facebook
+hardreset.info##.modal-backdrop
 hardwareoverclock.com/*/Back-1.*
 hardwareoverclock.com/*/Back-2.*
 hardwareoverclock.com/ban/*
@@ -13920,6 +14272,7 @@ igo-bokep.*,igobokep.*###floatbanner-bottom
 igobokep.*###floatbanner-bottom
 igobokep.boats,igobokep.com,tv1.igo-bokep.icu,tv3.igo-bokep.icu###floatbanner-bottom
 igram.im##.more-igram
+ikea.com##.social-media-bar__content
 ilgeniodellostreaming.org###playerads
 ilive.to###ad_overlay
 ilive.to###ad_overlay_content
@@ -14253,6 +14606,7 @@ intip24news.com##body.sticky-header:style(padding: unset!important;)
 intip24news.com,jendelakaba.com##.gmr-banner-afterrelpost
 intothelightid.*##.elementor-widget-share-buttons
 intuisi.co##.elementor-widget-container > a[rel*="noopener"]:has(> img)
+invenglobal.com##.sns-list
 investing.com###Side_Block_Facebook
 investing.com##.innerSocial
 investing.com##.mobileCells
@@ -14582,10 +14936,13 @@ kesiangan.com,lk21semi.*,minioppai.org##+js(acis, chp_ads_blocker_detector)
 ketik.co.id###modalPopup
 ketik.co.id##html:style(scrollbar-width: unset!important;)
 keuangannews.id##.id_ad_content-horiz-center
+kglakademi.dk##.social-button
 kgnow.com##.kcm
 kgnow.com##.topBanner
 kgnow.com,kompas.com##.kcm
 khazanahgrobogan.com##img[data-original-width="790"][data-original-height="90"]
+kickstarter.com##.bttn-facebook
+kickstarter.com##.fill-facebook-blue
 kilasnusantara.id,seputarforex.com##img[width="729"][height="90"]
 kilastimor.com###leader-wrap > a > img
 kilat.com,zonajakarta.com##.ads--stick-parent-400px
@@ -14681,6 +15038,8 @@ klubpria.com##.enright
 klubpria.com##.stickyunit
 klubpria.com##article center:has(> [id^="div-gpt-ad"])
 klubpria.com##article div:has(> [id^="div-gpt-ad"])
+knowyourmeme.com##.cbox-smedia
+knowyourmeme.com##a[class^=pinterest-save]
 ko-fi.com##.small-share-panel
 ko-fi.com##.supportkofi-link-gold
 ko-fi.com##.swal2-confirm
@@ -14971,6 +15330,7 @@ kotaku.co.id##.home-widget .code-block > img
 kpksigap.com##img[width="1024"][height="205"]
 kpopdeepfakes.*#@##banner_ad
 krassotaa.com###haider
+kreativtforum.no##.content-sidebar--social
 krita.org/*/slideshow/*
 kroniktotabuan.com###sidebar-banner-bawah-tombol-share-post:has(video):remove()
 kroniktotabuan.com###sidebar-category img[style="max-width: 100%; height: auto;"]
@@ -15200,6 +15560,7 @@ lfg.co,leasticoulddo.com#@#.textAd
 lfg.co,leasticoulddo.com#@#.text_ad
 lfg.co,leasticoulddo.com#@#.text_ads
 lia.hukumonline.com##.embed-responsive
+liberaldictionary.com##.share-post
 liburnasional.com##IFRAME[id="pegi-iframe-widget"]
 licdn.com/*/64xk850n3a8uzse6fi11l3vmz*$domain=linkedin.com,image
 licdn.com/*/images/email/*.png
@@ -15307,6 +15668,7 @@ linkshrink.net#@##overlay_ad
 linkshrink.net#@#.overlay_ad
 linksocean.net##.banner-inner
 linktown.co.id##:matches-path(/blog) .brus-banners
+linktr.ee##a[data-testid^=ShareModal-ShareLink]
 linktr.ee/Mewahgame
 lintastungkal.com,radarnesia.com,zabak.id##.single-article-text .scroll-to-resume
 liputan4.com##.ads_beforerelated
@@ -15387,13 +15749,8 @@ livesports044.com,marza11.shop##+js(aopr, document.oncontextmenu)
 livesports044.com,marza11.shop##.banner
 livesports044.com,tigoals213.com##.banner.flex-center
 lk21.*,nontondrama.*###nativeAds
-lk21.am.in,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click###nativeAds
-lk21.am.in,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click###player > #player-lux
-lk21.am.in,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click###player > a[id][target="_blank"]
-lk21.am.in,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click###player-below-b
-lk21.am.in,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click##a[target*="blank"]:has(> img)
-lk21.am.in,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click##center:has-text(/promoted/i)
-lk21.am.in,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click,playeriframe.shop##div[id^="admad-"]
+lk21.am.in,lk21.de,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click,nontondrama.my###nativeAds
+lk21.am.in,lk21.de,lk21.film,lk21official.cc,lk21online.mom,nontondrama.click,nontondrama.my##a[target*="blank"]:has(> img)
 lk21.web.id###ilang1
 lk21official.*###banner-content
 lk21official.co##a[href][target="_blank"][rel="nofollow"] > img[src$=".gif"]
@@ -15891,6 +16248,7 @@ midgard-community.*##.fa-share-alt
 midgard-community.*##.footer_end
 midgard-community.*##.social-circle
 midgard-community.*/*/downloadterm*.*.$image
+midtnorskdebatt.no##.twitter
 migrasi.gravindo.id##IMG[class="imgbg"]
 mili.id##.minibox:has(> script)
 milleonid.com/*
@@ -16142,6 +16500,8 @@ mudah.my##[data-testid^="featured-ads"]
 mumbaimirror.indiatimes.com###blcontent
 mumbaimirror.indiatimes.com###blwrapper
 murianews.com,uzone.id##.parallax-container
+music.apple.com#?#.context-menu__option .context-menu__option:has-text(Facebook)
+music.apple.com#?#.context-menu__option .context-menu__option:has-text(Twitter)
 muslimterkini.id###AdAAnchor
 mustikaland.co.id###bannermobile
 mvlempyr.com##.ChapterContentWrapper > :has(img[src*="disable"])
@@ -16879,6 +17239,7 @@ pascol.com,sintube.com,sintube.icu##.ays-pb-modals
 pasjabar.com##.wp-popup
 passatworld.ru#@##ad_global_below_navbar
 paste2.org###disqus_thread
+pastebin.com##.h_800.tweet
 pastpapers.papacambridge.com##[id^=aswift]
 patiskcontentdelivery.info/*
 patreon.*###BannerContent-0
@@ -17086,6 +17447,7 @@ pixabay.*##[href="https://policies.google.com/privacy"]
 pixabay.*##[href="https://policies.google.com/terms"]
 pixeldrain.com##.highlight_yellow
 pixiv.net##.popular-introduction-overlay
+pixivision.net##._floated-bottom-bar
 pixlr.*##.policies
 pixlr.*##[href="https://blog.pixlr.com/"]
 pixlr.*##[href="https://facebook.com/pixlr/"]
@@ -17116,6 +17478,7 @@ playerapp1.pw###divPanel
 playerapp1.pw##[id^="total"]
 playerhd1.pw,playerhd2.pw###divPanel
 playerhd1.pw,playerhd2.pw##[id^="total"]
+playeriframe.sbs###ad-link
 playonlinux.com###menu_droite > .login > div
 playragnarok.com/images/bg/*
 playragnarok.com/images/master/*.png
@@ -17387,6 +17750,7 @@ racaty.*/*bg*.**$image
 racaty.*/*ground*.**$image
 racaty.com##.racaty-pro
 racaty.com/*/go-pro_o.png
+racefans.net##.sd-social
 rackcdn.com/*/background1.*$domain=act.greenpeace.org,image
 rackcdn.com/*/background1.*$domain=greenpeace.org,image
 rackcdn.com/*/background2.*$domain=act.greenpeace.org,image
@@ -17452,6 +17816,9 @@ rathena.*##.ipsShareButton
 rathena.org##IMG[src="https://rathena.org/board/uploads/monthly_2016_11/imageproxy.png.7dc907c354062a9439024732eb64dbbd.png"]
 ratubola.gif|$image
 rawapk.*##.addtoany_content
+rawstory.com##.share-fb
+rawstory.com##.share-flipboard
+rawstory.com##.share-tw
 rbtv77.im###divFLRAbottom
 rbtv77.im##[href^="https://a.jalalivetv.info/"]
 rctiplus.*##.live-chat-on
@@ -18528,6 +18895,7 @@ sweetlantern.*##.site-info
 sweetlantern.*##.widget_related_posts
 sweetlantern.*/wp-content/*/*.jpg
 swindonadvertiser.co.uk##.ad-blocker-warning
+swissinfo.ch##.si-page__utility-container
 syl-pc.com##DIV[class="background-cover"]
 syl-pc.com##DIV[class="logo"]
 syl-pc.com##IMG[id="Header1_headerimg"]
@@ -18578,6 +18946,7 @@ tapochek.net##style[id="epom-a4fab500-styles"]
 tapochek.net/images/logo/*
 tapochek.net/images/logo/*.png
 tapochek.net/images/logo/logo7.png
+tass.com##.social__button
 techinasia.com##.gam-ads-banner
 techkhulasha.com###main-widget
 techkhulasha.com##+js(set, maincount, 0)
@@ -18697,6 +19066,7 @@ teledeporteonline.pw###divPanel
 teledeporteonline.pw##[id^="total"]
 telegraph.co.uk##.adblocker-message
 telepolis.pl##DIV[style="width:750px; height:200px; background-color:black; color:white; text-align: center; font: bold 30px Helvetica, Arial, sans-serif;"]
+telesign.com##.share-area
 telisik.id##.footer_banner
 telisik.id##[data-src*="/ads/"]
 telkomsel.*##.ads
@@ -19059,6 +19429,7 @@ tomsguide.com##figure[class="tile sec"]
 tomsguide.com##section[class="page-top-promo nolinks"]
 tomshardware.*##.socialite
 tomshardware.*##.socialite-widget-item
+tomshardware.co.uk##.share-bar
 tomshardware.co.uk##A[id="btnShare"][class="st_sharethis_custom stMore icon icon-bg-squared-after icon-share btMed btGrey btShareIcon"]
 tomshardware.co.uk##DIV[class="ftFollowBox roundC5 innerL10 innerR10 innerT5 innerB10"]
 tomshardware.co.uk##DIV[class="line bgWorld"]
@@ -19727,6 +20098,7 @@ verdirectotv.com###divPanel
 verdirectotv.com##[id^="total"]
 verdirectotv.com##div[id^="capa"]
 verdirectotv.com##div[id^="closeX"]
+vg.no##button[aria-label*=Facebook]
 vgy.me/*/aboutus_logo.png
 vhacks.org#@#.sponsor-logo
 vide-greniers.org##A[class^="replacement_"]
@@ -19887,6 +20259,7 @@ vooxe.com###blockedAddons
 vostfr-vf.com##.fixe
 vostfr-vf.com##A[href="/100Mbs.html"]
 vostfr-vf.com##A[href^="http://api.adlure.net/partner/click/"]
+vox.com##.c-social-buttons
 voyeur-house.tv##[href^="/payment"]
 vpnjantit.com###globalsun:has(> #globalsun-div-player):remove()
 vsplay.com/*/bg_*.*$image
@@ -20019,6 +20392,7 @@ winampheritage.*##.shareitem_bottom
 winbu.*##div[id^="playerIklan"]
 windowsreport.com##.code-block-3.code-block
 windscribe.com/*/*.mp4
+winstall.app##button[class*=singleApp_shareApp_]
 wired.com###around-the-web
 wired.com##.advertisement__leaderboard
 wired.com##.sponsored-stories-component
@@ -20517,6 +20891,7 @@ zupimages.net/up/*/*.png
 zupload.me##a[href="https://9xyoutube.com"]
 zuppyshare.*/*
 zuuk.org###fl10
+|whatsapp://send$domain=~whatsapp.com
 ||$third-party,script,domain=litv.tv
 ||$third-party,script,domain=pornvibe.org
 ||*.amazonaws.com/js/adblock.min.js$script,domain=motorsport-total.com
@@ -20711,6 +21086,7 @@ zuuk.org###fl10
 ||adc.stream.moe^$script
 ||adconity.com^$third-party
 ||addesigner.com^$third-party
+||addthis.com/static/btn/sm-share*.gif^
 ||adeumssp.com^
 ||adf.ly/puscript$script,domain=imgnova.xyz
 ||adgup.com^$image,domain=vipmarathi.com
@@ -20974,6 +21350,8 @@ zuuk.org###fl10
 ||api.streamapi.info/uploads/*.xml$xmlhttprequest,domain=api.streamapi.info
 ||api.winnetnews.com/api/*/banner/
 ||apibet.$image,third-party
+||apis.google.com/*/+1/*button$subdocument
+||apis.google.com/js/plusone.js^
 ||apitu.org^*/xbanner-$image
 ||apkmody.*/wp-content/*/*background*scaled*.*$image
 ||apkraja.*/wp-content/*/logo.*$image
@@ -21052,6 +21430,7 @@ zuuk.org###fl10
 ||assets.bro.adca.st/watch.png
 ||assets.gelbooru.com/r18/
 ||assets.gelbooru.com/r19/
+||assets.pinterest.com/js/pinit
 ||assurance-conseil.net/popup.js
 ||astonbet.$image,third-party
 ||astonbola.$image,third-party
@@ -22026,6 +22405,9 @@ zuuk.org###fl10
 ||eze99.me^$popup
 ||ezebet.$image,third-party
 ||ezebet.$popup
+||facebook.com/*lugins/like.php$subdocument
+||facebook.com/*lugins/page.php$subdocument
+||facebook.com/*lugins/share_button$subdocument
 ||fairbet88.$image,third-party
 ||fairbet88.$popup
 ||fajar.co.id^*-ads.$image
@@ -22442,6 +22824,7 @@ zuuk.org###fl10
 ||icebola88.$image,third-party
 ||icebola88.$popup
 ||iconcardinal.com^
+||iconosquare.com/widget.php$subdocument
 ||iconwin.$popup
 ||id-13.$image,third-party
 ||id-13.$popup
@@ -23205,6 +23588,7 @@ zuuk.org###fl10
 ||linkbabes.com/visitScript/$script,third-party
 ||linkbucks.com/Webservices/jsParseLinks.aspx$script,third-party
 ||linkbucks.com/visitScript/$script,third-party
+||linkedin.com/shareArticle$third-party
 ||linkgenerator.xyz$script,third-party
 ||linkguard.biz/adblock-detector.htm$subdocument
 ||linkmaker.itunes.apple.com/*/appstore*.*$image
@@ -23223,6 +23607,7 @@ zuuk.org###fl10
 ||liputanmu.id^*/ads-$image
 ||liputanoke.com/assets/banner/
 ||listrikindonesia.com/assets/banner/
+||lists.malwarepatrol.net/images/searchbg.gif$image
 ||litetekno.*/wp-content/uploads/*/*.*$image
 ||litv.tv/promo/
 ||live-casino.$image,third-party
@@ -23507,6 +23892,7 @@ zuuk.org###fl10
 ||mikirpoker.$image,third-party
 ||mikirpoker.$popup
 ||milenianews.com^*-iklan-$image
+||milotree.com^$third-party
 ||mimbarrakyat.com^*/brosur-
 ||mimpi4d.$image,third-party
 ||mimpi4d.$popup
@@ -23971,6 +24357,8 @@ zuuk.org###fl10
 ||pkrvqq.$image,third-party
 ||planetjudi.com^$third-party
 ||planettoto.com^$third-party
+||platform.twitter.com/widgets/follow_button$subdocument
+||platform.twitter.com/widgets/tweet_button$subdocument
 ||play.google.com/*/*badge*.*$image
 ||play.xxiku.com/wp-content/uploads/$media,redirect=noopmp4-1s
 ||playblackdesert.*/*/*.flv
@@ -24687,9 +25075,11 @@ zuuk.org###fl10
 ||sobatpoker88.$image,third-party
 ||sobatpoker88.$popup
 ||soccerbet.$image,third-party
+||social-plugins.line.me/widget/share?url=$subdocument
 ||soft4pc.net^
 ||softmany.com^
 ||softonic.com^
+||softwareok.com/img/i_like_this.png?$image
 ||sogopoker.$image,third-party
 ||sogopoker.$popup
 ||sokuja.id/*.gif
@@ -24739,6 +25129,8 @@ zuuk.org###fl10
 ||starsbet.$image,third-party
 ||starwin.$image,third-party
 ||static-exp1.licdn.com/sc/h/64xk850n3a8uzse6fi11l3vmz
+||static.addtoany.com/buttons^$image
+||static.addtoany.com/menu^$script
 ||static.bro.adca.st/ad*.html$subdocument
 ||static.dragcave.net/cache/js/a/$script
 ||static.flashx.tv/img/player.png$image
@@ -24747,6 +25139,7 @@ zuuk.org###fl10
 ||static.mfbcdn.net/*/badges/appstore.*$image
 ||static.mfbcdn.net/*/badges/google*.*$image
 ||static.mfbcdn.net/images/*Sponsored*logo.*$image
+||static.mixi.jp/share_button.html^$subdocument,domain=~mixi.jp
 ||static.tradingview.com/static/bundles/*dark-*.*$image
 ||static.tradingview.com/static/bundles/*linking*.*$image
 ||static.vocento.com/adbd/
@@ -24841,6 +25234,7 @@ zuuk.org###fl10
 ||swatantranews.com^*/iklan-$image
 ||switchpoker.com^$third-party
 ||sylnk.net/adblock-detector.htm$subdocument
+||syndication.twitter.com/srv/timeline-profile^$third-party
 ||t.ly/*/marketing/*.*$image
 ||taboola.com^$domain=spaste.com
 ||tafyeta.ru^$domain=pronpic.org
@@ -25217,6 +25611,7 @@ zuuk.org###fl10
 ||tugupoker.$popup
 ||tujuhbet.$image,third-party
 ||tujuhbet.$popup
+||tumblr.com/share/$third-party
 ||tuntasonline.id^*/promotion/
 ||tuntasonline.id^*/promotion_
 ||tusmangas.net/ama/oso.js$script
@@ -25226,6 +25621,7 @@ zuuk.org###fl10
 ||tvfree2.me/pub/
 ||tvkabel.net/prom/*.gif$image
 ||twinbet.$image,third-party
+||twitter.com/share$third-party
 ||twnmm.com/js/*/adobe_audience_manager$script
 ||twnmm.com/js/*/dfpad$script
 ||u-ad.info^
@@ -25432,6 +25828,7 @@ zuuk.org###fl10
 ||wideazone.com^*/baner-$image
 ||widget-am.misteraladin.com^$frame,domain=idxchannel.com|inews.id|okezone.com|sindonews.com
 ||widgethost.barnebys.com^$third-party
+||widgets.getpocket.com/v1/button?label=pocket$subdocument
 ||wifi4games.com^
 ||wifi4games.net^
 ||wigo-bet.$image,third-party
@@ -25481,6 +25878,7 @@ zuuk.org###fl10
 ||wpbet365.$image,third-party
 ||wpfc.ml/b.gif$image,redirect=1x1.gif,domain=pinterpolitik.com
 ||ws-gateway.com^$all
+||ws.sharethis.com^$third-party
 ||wsmwidget.mediaprimalabs.com^$domain=bharian.com.my|hmetro.com.my
 ||ww1.vidzi.tv^$all
 ||ww2.vidzi.tv^$all
@@ -25539,6 +25937,7 @@ zuuk.org###fl10
 ||xm*.*/*/pages/*/platform*.*$image
 ||xtube.com^$domain=bits.yt
 ||yasdl.com^
+||yastatic.net/share/*-icon.
 ||yesads.com^$third-party
 ||yllix.com^$popup,third-party
 ||youfap.me/Webservices/jsParseLinks.aspx$script,third-party
@@ -25630,16 +26029,21 @@ zuuk.org###fl10
 ~ajaib.co.id##[href^="https://referral.ajaib.co.id/"]:has(img)
 ~akseskaiko.cam##[href="https://akseskaiko.cam/login"]
 ~alfagift.id##[href*="https://campaign.alfagift.id/"]:has(img)
+~allrecipes.com,~myrecipes.com##div[class*=sharebar]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i],[class*=has-sharebar],[class*=hassharebar])
 ~atid.me##[href^="https://atid.me/adv.php"]:has(img)
 ~atid.me##[href^="https://atid.me/go/"]:has(img)
 ~backlink.co.id,~blogpartner.id##[href^="https://blogpartner.id"]:has(img)
+~baidu.com##.share-list:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
 ~bankbjb.co.id##[href^="https://www.bankbjb.co.id/promo/"] > img
+~beloud.com##.share-beloud:not(html,body,article)
 ~bergurukecina.fun##[href="https://bergurukecina.fun/cn7"]
 ~bkpv.online##[href^="https://bkpv.online/"]
 ~blibli.com##[href^="https://www.blibli.com/promosi/"]:has(img)
 ~blibli.com##img[alt="iklan" i]
 ~bloggercrony.com##[href*="//bloggercrony.com"]:has(img)
 ~bloggerperempuan.com##[href*="//bloggerperempuan.com"]:has(img)
+~bsky.social##.share-bluesky:not(html,body,article)
+~chess.com##button[data-share-url]
 ~clickadu.com##[href^="https://www.clickadu.com/?rfd="]:has(img)
 ~collaborator.pro##[href^="https://collaborator.pro?ref="]:has(img)
 ~cuanbgt.id##[href^="https://cuanbgt.id/"]
@@ -25647,10 +26051,65 @@ zuuk.org###fl10
 ~dewacashbet.*,~dwcsh.com##[href*="dwcsh.com"]
 ~dewatksking.*,~linkbagus.cc##[href*="://linkbagus.cc/"]
 ~dewaweb.com##[href^="https://www.dewaweb.com/aff.php?aff="]:has(img)
+~digg.com##a[href*="://digg.com/submit?url="]
 ~domainesia.com##[href^="https://my.domainesia.com/ref.php"]:has(img)
 ~domainesia.com##[href^="https://www.domainesia.com/?aff="]:has(img)
+~ef.com##.social-btns:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
 ~emak2blogger.com##[href*="//emak2blogger.com"]:has(img)
 ~emak2blogger.com##[href*="//s.id/EmakBlogger"]:has(img)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion###article-share-facebook
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion###btn-send-fb
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion###fb-share
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion###fb_share
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion###share-facebook
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion###share-facebook-bottom
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.b-share-bar__facebook:not(body,html,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.btn-facebook-like:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.btn[href*="facebook.com/sharer/"]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.button__facebook:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.facebook-like-box:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.facebook-messenger-share:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.facebook-page-plugin:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.facebook-share:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.facebook[href*="/sharer/"]:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.facebook_share:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.facebook_top:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.fb-like-box:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.fb-page-plugin:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.icon--facebook:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.like_facebook:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.share-fb:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.share-fb:not(html,body,article)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.share-via-fb:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.shareFacebook:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##[class*=facebookShare i]:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##[class*=fb-share]:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##[class*=share-facebook]:not(html,body,:empty)
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[class=facebook i][title="Share this"]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[data-js=facebook-share]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[data-popup-url*="facebook.com/dialog/share?"]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[data-share$=Facebook i]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[data-sharer=facebook]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[href*="facebook.com/dialog/feed"]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[href*="facebook.com/dialog/send?"]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[href*="facebook.com/dialog/share?"]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[href*="facebook.com/share.php?u=http"]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[href*="facebook.com/sharer.php"]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[href*="facebook.com/sharer/sharer.php"]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[href="/#facebook"]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[href^="javascript:fbShare"]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[href^="javascript:fb_share('"]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[onclick*="facebook.com/sharer.php?"]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[title="Share on Facebook" i]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[title="Share this post on Facebook"]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##button.btn-facebook-liveblog
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##button[class*=_fbshare]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##div[class^=fbshare i]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##li[aria-label=facebook]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##li[class*=link_facebook]
+~facebook.com,~facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##li[data-share=facebook]
+~flipboard.com##.share-flipboard:not(html,body,article)
+~flipboard.com##a[href*="://share.flipboard.com/bookmarklet/popout?"]
 ~gacorbgt.com##[href^="https://gacorbgt.com/"]
 ~gacorbgt.ws##[href^="https://gacorbgt.ws/"]
 ~gendeng.de##[href^="https://gendeng.de/"]
@@ -25658,31 +26117,84 @@ zuuk.org###fl10
 ~goid.space##[href="https://goid.space/login"]
 ~goratu.site##[href="https://goratu.site/login"]
 ~gramedia.com##[href^="https://aff.gramedia.com/"]:has(img)
+~hatena.ne.jp##.hatena-bookmark-button:not(html,body,:empty)
 ~hawkhost.com##[href^="https://my.hawkhost.com/aff.php"]:has(img)
 ~idwebhost.com##[href^="https://idwebhost.com/aff/"]:has(img)
 ~indodax.com##[href^="https://indodax.com/ref/"]:has(img)
 ~indowebsite.co.id##[href^="https://www.indowebsite.co.id/web-hosting/?id="]:has(img)
 ~inibray.link##[href^="https://inibray.link/"]
 ~injd.site##[href="https://injd.site/login"]
+~instagram.com##.button__instagram:not(html,body,:empty)
+~instagram.com##div[class=instagram-Share i]
+~instagram.com##div[class=instagramShare i]
+~instagram.com##div[class=instagram_Share i]
 ~intellifluence.com##a[href^="https://links.intellifluence.com/"]:has(img)
 ~invol.co,~involve.asia##a[href^="https://invol.co/aff_"]
 ~jagoanhosting.com##[href^="https://member.jagoanhosting.com/aff.php"]:has(img)
 ~jayaabadi.pro##[href^="https://jayaabadi.pro/"]
 ~jogjaweb.co.id##[href^="https://hub.jogjaweb.co.id/aff.php?"]:has(img)
 ~kegz.site##[href="https://kegz.site/login"]
+~kjokkenskriveren.no##[class*=ShareButton i]:not(button,body,html,article,[class*=body i],[id*=body i])
 ~koko88.my##[href*="koko88.my"]
 ~komunitasbos.com##[href^="https://id.komunitasbos.com/aff/"]:has(img)
+~line.me##a[href*="/lineit/share?"]
+~line.me,~linecorp.com##a.js-share-line
+~line.me,~linecorp.com##a[href^="line://msg/text/"]:is([class*=share i],[aria-label*=share i])
+~linkedin.com###article-share-linkedIn
+~linkedin.com##.addthis_button_linkedin:not(html,body,:empty)
+~linkedin.com##.b-share-bar__linkedin:not(body,html,:empty)
+~linkedin.com##.button__linkedin:not(html,body,:empty)
+~linkedin.com##.linkedinShare:not(html,body,:empty)
+~linkedin.com##.linkedin_share:not(html,body,:empty)
+~linkedin.com##.share-linkedin:not(html,body,:empty)
+~linkedin.com##.sp_article_share_linkedin:not(body,html,:empty)
+~linkedin.com##a[href*="linkedin.com/cws/share?"]
+~linkedin.com##a[href*="linkedin.com/shareArticle?"]
+~linkedin.com##a[href*="linkedin.com/sharing/share-offsite/"]
+~linkedin.com##a[title="Share on LinkedIn" i]
+~linkedin.com##li[data-share=linkedin]
+~linkedin.com,~terabox.com##div[class*=share-box]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i],[class*=has-share-box])
 ~linkfast.vip##[href^="https://linkfast.vip/"]
+~mail.ru##a[href^="https://connect.mail.ru/share?url="]
 ~mandiriteknik.co.id##[href*="mandiriteknik.co.id"]
 ~menujupenta.site##[href="https://menujupenta.site/login"]
+~mewe.com##div[class*=share-link]
+~mixi.jp##a[href*="mixi.jp/simplepost/voice?status="]
 ~monetag.com##[href^="https://monetag.com/?ref_id="]:has(img)
 ~nanovest.io##[href^="https://nanovest.go.link/"]:has(img)
+~ne.jp##a[href*="b.hatena.ne.jp/add?url="]
+~ne.jp##iframe[class^=hatena-bookmark]
 ~niagahoster.co.id##[href*="//niagahoster.co.id" i][href*="?REFERRALCODE" i]:has(img)
 ~niagahoster.co.id##[href^="https://panel.niagahoster.co.id/ref/"]:has(img)
+~ok.ru##a[href*="/connect.ok.ru/dk?"]
+~ok.ru##a[href^="https://connect.ok.ru/offer?url="]
 ~oketheme.com##[href^="https://www.oketheme.com/members/aff/go/"]:has(img)
 ~orangarab.fun##[href="https://orangarab.fun/777"]
+~pinterest.*###pinterest
+~pinterest.*##.b-share-bar__pinterest:not(body,html,:empty)
+~pinterest.*##.inline-share-pinterest:not(html,body,:empty)
+~pinterest.*##.js-share-pinterest:not(html,body,:empty)
+~pinterest.*##.pinterest-share:not(html,body,:empty)
+~pinterest.*##.pinterest[href*="/pin/create/"]
+~pinterest.*##.share-pinterest:not(html,body,:empty)
+~pinterest.*##a[class$=pinterest-share]
+~pinterest.*##a[class$=share-pinterest]
+~pinterest.*##a[class^=pinterest-save]
+~pinterest.*##a[data-pin-do=buttonPin]
+~pinterest.*##a[href*="pinterest.com/pin/find/?"]
+~pinterest.*##a[href*=pinterest][href*="/pin/create/b"]
+~pinterest.*##a[href="#pinit"]
+~pinterest.*##a[href="/#pinterest"]
+~pinterest.*##a[onclick*="pinterest.com/pin/create/"]
+~pinterest.*##a[onclick^=execPinmarklet]
+~pinterest.*##a[title="Share on Pinterest" i]
+~pinterest.*##button[data-href*="pinterest.com/pin/create/button/"]
 ~qwords.com##[href^="https://promosi.qwords.com/"]:has(img)
 ~rajabacklink.com##[href^="https://rajabacklink.com/refferal.php?q="]:has(img)
+~reddit.com,~reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion###share-reddit
+~reddit.com,~reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##a[href*="reddit.com/r/"][href*="/submit?url="]
+~reddit.com,~reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##a[href*="reddit.com/submit?"]
+~reddit.com,~reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##button[data-href*="reddit.com/submit?"]
 ~redirect388herosafest.com##[href*="redirect388herosafest.com/register/"]:has(> img)
 ~redirectbaik777safest.com##[href*="redirectbaik777safest.com/register/"]:has(> img)
 ~redirectbandarxlsafest.com##[href*="redirectbandarxlsafest.com/register/"]:has(> img)
@@ -25693,14 +26205,34 @@ zuuk.org###fl10
 ~saiikou.com##[href*="saiikou.com"]
 ~seedbacklink.com##[href="https://id.seedbacklink.com/"]:has(img)
 ~seedbacklink.com##[href^="https://panel.seedbacklink.com/aff/"] > img
+~skype.com##a[href*="web.skype.com/share?url="]
 ~smartfren.com##[href^="https://www.smartfren.com/connect-with-us/whats-new/promotion/"] > img
+~stumbleupon.com##a[href*="stumbleupon.com/badge?"]
+~stumbleupon.com##a[href*="stumbleupon.com/submit?url="]
 ~suara.com##.wrap-ads-leaderboard
 ~sugeng.id##[href^="https://sugeng.id/?ref="]:has(img)
+~telegram.org##a[href^="tg://msg_url?"]
 ~terbangrusia.site##[href="https://terbangrusia.site/login"]
 ~thebrandmasterclass.id##[href^="https://member.thebrandmasterclass.id/aff/"]:has(img)
 ~toffee.id##[href^="https://toffee.id/growth?"]:has(img)
 ~tokocrypto.com##[href^="https://www.tokocrypto.com/account/signup?ref="]:has(img)
 ~triv.co.id##[href^="https://triv.co.id/aff/"]:has(img)
+~tumblr.com##.js-share-stumble:not(html,body,:empty)
+~tumblr.com##.share-tumblr:not(html,body,:empty)
+~tumblr.com##a[href*="tumblr.com/share/"]
+~tumblr.com##a[href*="tumblr.com/share?"]
+~tumblr.com##a[href*="tumblr.com/widgets/share/"]
+~tumblr.com##a[title="Share on Tumblr" i]
+~viber.com##a[href^="viber://forward?text"]
+~vk.com##.share-vk:not(html,body,:empty)
+~vk.com##a[href*="/vk.com/share.php"]
+~vk.com##a[title="Share on VKontakte" i]
+~vk.com##iframe[src^="https://vk.com/widget_like.php?"]
+~vk.com,~vkontakte.ru##a[href*="vkontakte.ru/share.php?"]
 ~vpn89.site##[href="https://vpn89.site/jd89"] > img
 ~vpn89.site##[href="https://vpn89.site/ratu"] > img
+~whatsapp.com##[href^="whatsapp://send"]
+~whatsapp.com##a[href*="whatsapp.com/send?"]
+~whatsapp.com,~wa.me##a[href*="://wa.me/?text="]
+~xing.com###xing-share
 ~yok.lol##[href^="https://yok.lol/"]

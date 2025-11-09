@@ -12429,14 +12429,6 @@ f95zone.to###filter-footer
 f95zone.to##.badgeContainer.cxf-awnbat-uix--whatsnew
 f95zone.to##.badgeContainer.js-badge--alerts.uix_tabItem
 f95zone.to##.badgeContainer.js-badge--conversations.uix_tabItem
-f95zone.to##.block--category12.block--category.block > .block-container > .uix_block-body--outer > .block-body
-f95zone.to##.block--category12.block--category.block > .js-nodeMain.block-header
-f95zone.to##.block--category34.block--category.block > .block-container > .uix_block-body--outer > .block-body
-f95zone.to##.block--category34.block--category.block > .js-nodeMain.block-header
-f95zone.to##.block--category72.block--category.block > .block-container > .uix_block-body--outer > .block-body
-f95zone.to##.block--category72.block--category.block > .js-nodeMain.block-header
-f95zone.to##.block--category8.block--category.block > .block-container > .uix_block-body--outer > .block-body
-f95zone.to##.block--category8.block--category.block > .js-nodeMain.block-header
 f95zone.to##.blockMessage--warning.blockMessage
 f95zone.to##.bratr-rating.br-widget--withSelected.br-widget
 f95zone.to##.button--ignoreText.tic--button

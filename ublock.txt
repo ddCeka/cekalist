@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 10 Nov 2025 02:30 UTC (updated regularly)
+! Last modified: 10 Nov 2025 20:39 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -12429,6 +12429,7 @@ f95zone.to###filter-footer
 f95zone.to##.badgeContainer.cxf-awnbat-uix--whatsnew
 f95zone.to##.badgeContainer.js-badge--alerts.uix_tabItem
 f95zone.to##.badgeContainer.js-badge--conversations.uix_tabItem
+f95zone.to##.block--category34.block--category.block
 f95zone.to##.blockMessage--warning.blockMessage
 f95zone.to##.bratr-rating.br-widget--withSelected.br-widget
 f95zone.to##.button--ignoreText.tic--button
@@ -12450,6 +12451,7 @@ f95zone.to##.uix_noticeIcon
 f95zone.to##.uix_sidebar--scroller
 f95zone.to##.uix_tabBar
 f95zone.to##a.button.button--link:nth-of-type(1)
+f95zone.to##li:nth-of-type(2) > .u-ripple.p-navEl
 fabriefly.mobi/*
 facebook.*###js_14
 facebook.*###login_top_banner
@@ -15201,6 +15203,7 @@ kompas.com/crop/*/230x153/*/*.*$domain=indeks.kompas.com,image
 kompas.com/data/*/inside/images/inside/*$image
 kompas.com/data/photo/*/*.*$image
 kompas.id##.flex.justify-center.lg\:px-8.my-6
+kompas.id##.mb-8.pb-8.border-blue-10.border-b-2
 kompas.id##.non-paywall:style(display: block !important;)
 kompas.id##.paywall
 kompas.id##.paywall:style(display: none !important;)

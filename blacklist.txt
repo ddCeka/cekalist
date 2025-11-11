@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 10 Nov 2025 02:29 UTC (updated regularly)
-! host_count: 14865
+! Last modified: 11 Nov 2025 08:38 UTC (updated regularly)
+! host_count: 14867
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -1884,6 +1884,7 @@
 0.0.0.0 appclick.net
 0.0.0.0 appcoinsproject.com
 0.0.0.0 appcoinstoken.org
+0.0.0.0 appcpi.net
 0.0.0.0 appdoze.com
 0.0.0.0 appgift.sinaapp.com
 0.0.0.0 appgiftwall.oss-us-west-1.aliyuncs.com
@@ -3338,6 +3339,7 @@
 0.0.0.0 bruiserbodies.com
 0.0.0.0 brva.fans.smalladventureguide.com
 0.0.0.0 bs.nakanohito.jp
+0.0.0.0 bstgms4y.com
 0.0.0.0 bte78.com
 0.0.0.0 bts-la.ucweb.com
 0.0.0.0 bttrack.com

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 11 Nov 2025 23:41 UTC (updated regularly)
+! Last modified: 13 Nov 2025 13:44 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -10635,7 +10635,7 @@ bioskop.*###floating_banner_bottom
 bioskop168.co,bioskop168.pro###bioskop-kiri
 bioskop168.co,bioskop168.pro##bioskop-kanan
 bioskop21.*###floating_banner_bottom
-bioskop21.*,bsk21.xyz###floating_banner_bottom
+bioskop21.*,bsk21.ink###floating_banner_bottom
 bioskop78.com###floating_banner_bottoms
 bioskop78.com###wrap > center
 bioskop78.com,cnbcindonesia.com###billboard_banner

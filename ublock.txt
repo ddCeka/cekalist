@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 13 Nov 2025 13:44 UTC (updated regularly)
+! Last modified: 15 Nov 2025 00:15 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -10471,6 +10471,7 @@ beritainvestigasi.com,lintas10.com,papuatimes.co.id##article .newkarma-core-befo
 beritaja.com,gammafisblog.com##.popbox
 beritajatim.com#@#.advertorial
 beritajejakfakta.id##aside .bs-widget:has(img[style="max-width: 100%; height: auto;"])
+beritajogja.com##.ads__box
 beritajogja.id,kbr.id,kepri.co.id##aside a[target="_blank"]:has(> img)
 beritakaltim.co##img[width="1024"][height="257"]
 beritakaltim.co##img[width="1100"][height="210"]
@@ -24205,7 +24206,7 @@ zuuk.org###fl10
 ||pabrikpoker.$image,third-party
 ||pacificpoker.com^$third-party
 ||padssup.com^$third-party
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js,domain=duniakode.com|harianmerdeka.id|herdamedia.com|indokontraktor.com|kersabaca.com|laptophia.com|masdhika.com|otakotaku.com|serieswans.com|shinryu2.blogspot.com|trivusi.web.id|yukinoshita.web.id
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js,domain=duniakode.com|harianmerdeka.id|herdamedia.com|indokontraktor.com|kersabaca.com|kuyhaa.me|laptophia.com|masdhika.com|otakotaku.com|serieswans.com|shinryu2.blogspot.com|trivusi.web.id|yukinoshita.web.id
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js,domain=isekaipalace.com
 ||pagead2.googlesyndication.com^
 ||pagefair.com^$third-party

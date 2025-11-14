@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 13 Nov 2025 13:42 UTC (updated regularly)
-! host_count: 14876
+! Last modified: 15 Nov 2025 00:14 UTC (updated regularly)
+! host_count: 14886
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -3989,6 +3989,7 @@
 0.0.0.0 clickforfreeandready2updating.bid
 0.0.0.0 clickmedia.co.id
 0.0.0.0 clickredirection.com
+0.0.0.0 client-events-ingress.bookbub.com
 0.0.0.0 client-log.box.com
 0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 client.midosoo.com
@@ -4092,6 +4093,7 @@
 0.0.0.0 collect.media.jio.com
 0.0.0.0 collect.serious.li
 0.0.0.0 collect.ureca-lab.com
+0.0.0.0 collect.wehearfm.com
 0.0.0.0 collection.weverse.io
 0.0.0.0 collector-sbanking.shb-pelib.com
 0.0.0.0 collector.brandify.com
@@ -5264,12 +5266,14 @@
 0.0.0.0 fatkhan.web.id
 0.0.0.0 fbi-bet.com
 0.0.0.0 fcjiqwghf.bid
+0.0.0.0 fcm-collect-api.alyac.com
 0.0.0.0 fd8a7ef9-faae-4c3c-814a-376eb024783e.random.fihsifuiiusuiuduf.com
 0.0.0.0 featherfallscasino.com
 0.0.0.0 featured.perfectionholic.com
 0.0.0.0 featuredpokerrooms.com
 0.0.0.0 febrie-cellular.com
 0.0.0.0 fed888.com
+0.0.0.0 federatedcompute-pa.googleapis.com
 0.0.0.0 feedage.com
 0.0.0.0 feltpoker.com
 0.0.0.0 ferraricasino.com
@@ -6882,6 +6886,7 @@
 0.0.0.0 itcbet.com
 0.0.0.0 itdsmr.com
 0.0.0.0 itnesia.com
+0.0.0.0 itracking.ikameglobal.com
 0.0.0.0 itsdownacuj.shop
 0.0.0.0 itubandar.com
 0.0.0.0 itworks.id
@@ -9041,6 +9046,7 @@
 0.0.0.0 morningfinance.com
 0.0.0.0 mosspf.net
 0.0.0.0 mossru.com
+0.0.0.0 mossturbo.com
 0.0.0.0 mostonlinecasino.com
 0.0.0.0 motherandbeyond.id
 0.0.0.0 motorplus-online.com
@@ -11635,6 +11641,7 @@
 0.0.0.0 sdk-services.appsflyer.com
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 sdk.appsflyer.com
+0.0.0.0 sdk.out.usbla.net
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdk.stats-locations.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
@@ -11642,6 +11649,7 @@
 0.0.0.0 sdks.stats-locations.com
 0.0.0.0 sdkv2.imaginationunwired.com
 0.0.0.0 sdsbonline.com
+0.0.0.0 se.rfvtgbyhn.com
 0.0.0.0 sea2.authcaptcha.com
 0.0.0.0 seabrookgreyhoundpark.com
 0.0.0.0 seaofads.com
@@ -11837,6 +11845,7 @@
 0.0.0.0 servedby.o2.co.uk
 0.0.0.0 serveraddr.service.kugou.com
 0.0.0.0 service-ad-image-ga.prd.pluto.tv
+0.0.0.0 service-api.flarelane.com
 0.0.0.0 service4refresh.info
 0.0.0.0 servisaludocupacional.pe
 0.0.0.0 servr-jkt.com
@@ -12965,6 +12974,7 @@
 0.0.0.0 tb0088.com
 0.0.0.0 tbiwtech.com
 0.0.0.0 tc.mnbvcxzq.com
+0.0.0.0 tc.qzwxrtyk.com
 0.0.0.0 tccbanner.com
 0.0.0.0 tdedfootball.com
 0.0.0.0 tdid.m.qq.com

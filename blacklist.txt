@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 15 Nov 2025 16:24 UTC (updated regularly)
-! host_count: 14887
+! Last modified: 16 Nov 2025 04:29 UTC (updated regularly)
+! host_count: 14889
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -2843,6 +2843,7 @@
 0.0.0.0 bharata.co.id
 0.0.0.0 bhayangkaraglobalnews.com
 0.0.0.0 bhintangponsel.com
+0.0.0.0 bi-tracker-global.rivergame.net
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bi.yeshen.com
 0.0.0.0 biancolevrin.com
@@ -8302,6 +8303,7 @@
 0.0.0.0 luxbet.com
 0.0.0.0 luxury138zz.com
 0.0.0.0 luxurycasino.com
+0.0.0.0 lw-c-log.lastwarapp.com
 0.0.0.0 lxqcgj.com
 0.0.0.0 lynbet.com
 0.0.0.0 lynbet.net

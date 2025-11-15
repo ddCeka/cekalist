@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 15 Nov 2025 16:25 UTC (updated regularly)
+! Last modified: 16 Nov 2025 04:30 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -10245,7 +10245,7 @@ ay.gy/*/logo.*
 ayllnllwajjbm.top/*
 ayobacanews.com,beritajurnalis.net,beritapopuler.co.id,bisnismarket.com,bogorzonenews.com,coinvestasi.com,fakta.com,harianindonesia.net,infoterkini.id,infotren.id,jabaronline.com,jurnalcakrawala.com,kabarindoraya.com,kabarkala.com,kalesang.id,kaltimkita.com,lahatsatu.com,lensametro.com,line1.news,liputan12.id,liriknews.com,mahatva.id,mediawarta.com,mistar.id,nuntium.id,pilarparlemen.id,portal7.co.id,portalbanten.net,portalberita.co.id,pusaranmedia.com,revivaltv.id,sakanews.com,serayunews.com,suarabantennews.com,sulselpasti.com##img[alt*="ads" i]
 ayobacanews.com,cosmopolitan.co.id,creativedisc.com,disway.id,downloadtanku.org,genyo.id,hariankandidat.co.id,indonesiatoday.co.id,indopop.id,indozone.id,industry.co.id,jurnalkawasan.com,jurnalnusa.com,katadata.co.id,koran-jakarta.com,lambeturah.co.id,minangsatu.com,modalrakyat.id,morigro.id,ntvnews.id,nusantaraterkini.co,pikiran-rakyat.com,realestat.id,riau24.com,rmol.id,sumbarsatu.com##.ads
-ayobandung.com,ayojakarta.com,hops.id,jawapos.com,pikiran-rakyat.com###cont-megabillboard
+ayobandung.com,ayojakarta.com,hops.id,jawapos.com,pikiran-rakyat.com,resepkoki.id###cont-megabillboard
 ayobelajarasuransi.id##.entry-content > .aligncenter:has-text(/iklan/i)
 ayononton.app,bioskopkeren.gg,cinemaindo.dev,d21.im,ditonton.dev,dunia21.ceo,filmapik.my,ganool.app,gudangmovies21.host,movieon21.mov,movies21.ing,nonton.app,nontonfilm.app,t21.press,teman21.app,terbit21.ws,terbit21official.site##+js(nowoif)
 ayononton.app,bioskopkeren.gg,cinemaindo.dev,d21.im,ditonton.dev,dunia21.ceo,filmapik.my,ganool.app,gudangmovies21.host,movieon21.mov,movies21.ing,nonton.app,nontonfilm.app,t21.press,teman21.app,terbit21.ws,terbit21official.site##a[target*="blank"]:has(> img)
@@ -20482,6 +20482,7 @@ www.nexusmods.com###nonPremiumBanner
 www.nexusmods.com###rj-sitemap
 www.nexusmods.com##.collections-containing-mod
 www.nexusmods.com##.justify-center.w-full.flex.mt-auto
+www.nexusmods.com##.overflow-y-auto.justify-between.flex-col.grow.flex.scrollbar > .p-4
 www.nexusmods.com##.pt-4.pb-6.px-6.border-t-white\/20.border-t.rounded-md.overflow-hidden.size-full.block.\30 \.20\)_inset\)\].\36 4\,.\31 43\,.shadow-\[0_0_10px_0_rgba\(217\,.bg-premium-banner
 www.nexusmods.com##.rj-social-links
 www.nexusmods.com##.rj-supporter-wrapper
@@ -22793,6 +22794,9 @@ zuuk.org###fl10
 ||hoyatoto88.$popup
 ||hprofits.com^$domain=gogaytube.tv|shemaleporntube.tv
 ||hsoyrqqsludd.$popup
+||https://cdn.mxpnl.com/^$all
+||https://sb.scorecardresearch.com/^$script
+||https://users.nexusmods.com/account/billing/premium
 ||hukumonline.*/*/images/*/copas.*$image
 ||hukumonline.*/*/images/*/fb.*$image
 ||hukumonline.*/*/images/*/linkedin.*$image
@@ -25604,6 +25608,7 @@ zuuk.org###fl10
 ||trymask.com/api/$third-party
 ||tstotosaja.$image,third-party
 ||ttgambar.xyz$popup
+||ttps://www.nexusmods.com/Contents/^$script
 ||tuanbola.$image,third-party
 ||tuanbola.$popup
 ||tubasmedia.com^*/iklan-$image

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 16 Nov 2025 04:30 UTC (updated regularly)
+! Last modified: 16 Nov 2025 04:34 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -21930,6 +21930,7 @@ zuuk.org###fl10
 ||cdn.j.gs/js/link-converter.js$script,third-party
 ||cdn.jsdelivr.net/npm/disable-devtool@$3p,script
 ||cdn.kaskus.com/img/skin/*.gif$image
+||cdn.mxpnl.com/^$all
 ||cdn.ouo.io/js/full-page-script.js$script,third-party
 ||cdn.pcworld.*/idg_gpt_pipeline_$script
 ||cdn.q.gs/js/display.js$script,third-party
@@ -22794,9 +22795,6 @@ zuuk.org###fl10
 ||hoyatoto88.$popup
 ||hprofits.com^$domain=gogaytube.tv|shemaleporntube.tv
 ||hsoyrqqsludd.$popup
-||https://cdn.mxpnl.com/^$all
-||https://sb.scorecardresearch.com/^$script
-||https://users.nexusmods.com/account/billing/premium
 ||hukumonline.*/*/images/*/copas.*$image
 ||hukumonline.*/*/images/*/fb.*$image
 ||hukumonline.*/*/images/*/linkedin.*$image
@@ -24861,6 +24859,7 @@ zuuk.org###fl10
 ||saungnews.co^*/banner-$image
 ||sawitindonesia.com^*/iklan-$image
 ||sawitplus.co/assets/banner/
+||sb.scorecardresearch.com/^$script
 ||sbbanner.$image,third-party
 ||sbbanner.$popup
 ||sbcagent.$image,third-party
@@ -25608,7 +25607,6 @@ zuuk.org###fl10
 ||trymask.com/api/$third-party
 ||tstotosaja.$image,third-party
 ||ttgambar.xyz$popup
-||ttps://www.nexusmods.com/Contents/^$script
 ||tuanbola.$image,third-party
 ||tuanbola.$popup
 ||tubasmedia.com^*/iklan-$image
@@ -25918,6 +25916,7 @@ zuuk.org###fl10
 ||www.kape.com^
 ||www.mcafee.com^
 ||www.mcafeemobilesecurity.com^
+||www.nexusmods.com/Contents/^$script
 ||www.nortonlifelock.com^
 ||www.nyaa.eu^
 ||www.opera.com^

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 19 Nov 2025 23:59 UTC (updated regularly)
+! Last modified: 20 Nov 2025 01:27 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -9724,6 +9724,7 @@ aktualonline.co.id,alkhairaat.id,asiabusinessinfo.com,autonetmagz.com,bantentop.
 akurat.*/assets/*.gif
 akurat.co##[href^="http://152.44.32.81"]
 al.ly,ally.sh##[id^=aswift]
+alex71.com,bagas31.pro,kuyhaa-me.id,kuyhaa.team##article center:has(> a[href^="javascript:void("])
 alexametrics.com/*.js$domain=blibli.com
 alfatih-media.com,koranindependen.co,politikaonline.co##.widget_banbox_banners
 alhussainproperties.com##*:style(user-select:text!important;)
@@ -10295,7 +10296,6 @@ badakpos.com,balipolitika.com,barometerbali.com,beritanasional.id,bisnisbanten.c
 badmintonews.id,bandung24jam.id,bisnistime.com,diagnosa.id,fifarm.id,filmusiku.com,impresiupdate.id,kampusiana.id,kangjepret.id,kidnews.id,kingdomsriwijaya.id,kreta.id,motoresto.id,pemantiknews.id,rublikasi.com,ruzkaindonesia.id,sajada.id,sekitarbandung.id,sekitarsurabaya.com,seputarmiliter.id,sukabumikini.com,sumatralink.id,topnews62.com,volleynews.id##.wrap-news .container > .content:has(.parallaxx)
 bagas3-1.com,bagas31.org,bagas31.pw##button[onclick^="handleDownload" i]
 bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
-bagas31.pro,kuyhaa-me.id,kuyhaa.team##article .code-block > center:has(> a[href^="javascript:void("])
 bagusnews.co,bimnews.id,landaknews.id,merata.net##.header-banner-wrap
 bahankain.com##+js(ra, onmousedown|onselectstart|unselectable, .post-info)
 bahasakita.com,balipost.com,chordindonesia.com,chordtela.com,dailysocial.id,datadikdasmen.com,dialeksis.com,gap.web.id,gendis.id,historia.id,hukum-hukum.com,idblanter.com,igniel.com,infosawit.com,kostatv.id,kucingmania.net,kucingpersia.co.id,lirikterjemahan.id,malukuterkini.com,maribelajarcoding.com,metrokendari.com,mistertekno.com,ngulikode.com,noveltoon.mobi,openkerja.id,penakatolik.com,ridertua.com,safahad.my.id,satupiston.com,tomtekno.com,wendycode.com##*:style(user-select:text!important;)
@@ -20669,6 +20669,8 @@ yahoo.com##iframe[id="dmRosAdWrapper-MainNorth-iframe"]
 yahoo.com##li[class="dmRosAdUnit dmRosMBAdSeperation"]
 yahoo.com##ul[class="dmRosAdBody"]
 yasir-252.net##.custom_ads_class
+yasir-252.net##.entry-content .code-block
+yasir252.com##.download > .link-btn:has([title*="iklan" i])
 yifysubtitles.*##[href="/contact/"]
 yifysubtitles.*##[href="/legal-information/"]
 yifysubtitles.*##[href="/privacy/"]

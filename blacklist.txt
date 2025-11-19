@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 18 Nov 2025 18:39 UTC (updated regularly)
-! host_count: 14890
+! Last modified: 19 Nov 2025 23:58 UTC (updated regularly)
+! host_count: 14909
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -1873,6 +1873,8 @@
 0.0.0.0 app-ads-services.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
+0.0.0.0 app-log-oversea.immomo.com
+0.0.0.0 app-monitor.spacecape.com
 0.0.0.0 app-tracking.hlogo.de
 0.0.0.0 app-valley.vip
 0.0.0.0 app.adjust.com
@@ -4481,6 +4483,7 @@
 0.0.0.0 deras.id
 0.0.0.0 desamerdeka.id
 0.0.0.0 destinyshatter.one
+0.0.0.0 detaillog-global-dual.coolhcloud.com
 0.0.0.0 detak.co
 0.0.0.0 detak24.com
 0.0.0.0 detakbanten.com
@@ -6168,6 +6171,7 @@
 0.0.0.0 hl0088.com
 0.0.0.0 hl7788.com
 0.0.0.0 hlg345.com
+0.0.0.0 hlog.hiido.com
 0.0.0.0 hm0011.com
 0.0.0.0 hm0018.com
 0.0.0.0 hnbwin.com
@@ -6683,6 +6687,7 @@
 0.0.0.0 inetbet.com
 0.0.0.0 inews.id
 0.0.0.0 infakta.com
+0.0.0.0 infinario.com
 0.0.0.0 info1.id
 0.0.0.0 infoaceh.net
 0.0.0.0 infoagen338a.org
@@ -8125,6 +8130,7 @@
 0.0.0.0 loeghaiofiehfihf.to
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-boot.tiktokv.com
+0.0.0.0 log-mediation.easemobi.net
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-pub-hk.aoshitang.com
 0.0.0.0 log-sdk.ksapisrv.com
@@ -8166,6 +8172,7 @@
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.jackpotmasterslots.com
 0.0.0.0 log.kajicam.com
+0.0.0.0 log.lnk.events
 0.0.0.0 log.m.sm.cn
 0.0.0.0 log.make50.com
 0.0.0.0 log.mgtv.com
@@ -8173,26 +8180,32 @@
 0.0.0.0 log.oceanzz.xyz
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.pdfviewerscannerstore.live
+0.0.0.0 log.phonefreshfix.live
 0.0.0.0 log.pngindir.com
 0.0.0.0 log.pullcenter.live
 0.0.0.0 log.pvpgang.com
 0.0.0.0 log.snow.me
+0.0.0.0 log.stickflow.xyz
+0.0.0.0 log.suddenclean.com
 0.0.0.0 log.talkie-ai.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log.tpns.tencent.com
 0.0.0.0 log.ultimatecleaner.pro
 0.0.0.0 log.umsns.com
+0.0.0.0 log.wigoliv.work
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.happymod.com
 0.0.0.0 log1.perfectworldgames.com
 0.0.0.0 log16-normal-us-ttp.capcutapi.us
 0.0.0.0 log16-normal-useast5.tiktokv.us
+0.0.0.0 log2.ihubgo.info
 0.0.0.0 log2.perfectworldgames.com
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 loganmedia.mobi
 0.0.0.0 logapi-and.zhipin.com
 0.0.0.0 logbak.hicloud.com
+0.0.0.0 logcollection.ronghub.com
 0.0.0.0 logend.cookpad.com
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.growstarry.com
@@ -8202,6 +8215,7 @@
 0.0.0.0 logindp.com
 0.0.0.0 logink4d.com
 0.0.0.0 loginshare.net
+0.0.0.0 logreport-global-dual.coolhcloud.com
 0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs-sg.rebxgame.com
 0.0.0.0 logs.amap.com
@@ -8220,6 +8234,7 @@
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logsink.zedge.net
 0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 logz.tekiusa.com
 0.0.0.0 lokadewata.com
 0.0.0.0 lokeriklan.com
 0.0.0.0 lokerjakarta.id
@@ -12346,6 +12361,7 @@
 0.0.0.0 stas.outbrain.com
 0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 stat-in.dc.oppomobile.com
+0.0.0.0 stat.dp.vocalbeats.com
 0.0.0.0 stat.duokanbox.com
 0.0.0.0 stat.flashtalking.com
 0.0.0.0 stat.gspaceteam.com
@@ -12398,6 +12414,7 @@
 0.0.0.0 stats.sg-light-edge.com
 0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.sxp.smartclip.net
+0.0.0.0 stats.us-light-edge.com
 0.0.0.0 statsf-tm.everesttech.net
 0.0.0.0 status-token.com
 0.0.0.0 statustoken.im
@@ -13547,6 +13564,7 @@
 0.0.0.0 tracking-service.glority.com
 0.0.0.0 tracking-widget.fillr.com
 0.0.0.0 tracking.aatkit.com
+0.0.0.0 tracking.affattr.com
 0.0.0.0 tracking.aldi-international.com
 0.0.0.0 tracking.applift.com
 0.0.0.0 tracking.carbonatixaudio.com
@@ -13727,6 +13745,7 @@
 0.0.0.0 tyc7888.com
 0.0.0.0 tyc877.com
 0.0.0.0 tyc9588.com
+0.0.0.0 tycollectproxy.tiyalive.com
 0.0.0.0 typersi.com
 0.0.0.0 tzero-ico.com
 0.0.0.0 tzero.pw

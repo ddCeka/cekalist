@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 21 Nov 2025 01:44 UTC (updated regularly)
-! host_count: 14913
+! Last modified: 23 Nov 2025 22:41 UTC (updated regularly)
+! host_count: 14922
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -4485,6 +4485,7 @@
 0.0.0.0 deras.id
 0.0.0.0 desamerdeka.id
 0.0.0.0 destinyshatter.one
+0.0.0.0 detaillog-global-dual.coolbcloud.com
 0.0.0.0 detaillog-global-dual.coolhcloud.com
 0.0.0.0 detak.co
 0.0.0.0 detak24.com
@@ -4784,6 +4785,7 @@
 0.0.0.0 dt.videohub.tv
 0.0.0.0 dtcollect.newsbang.com
 0.0.0.0 dualstack-cgicol.amap.com
+0.0.0.0 dualstack-collection.rong-edge.com
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 duanol.com
 0.0.0.0 duapoker.com
@@ -8208,6 +8210,7 @@
 0.0.0.0 logapi-and.zhipin.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logcollection.ronghub.com
+0.0.0.0 logdata.hatspotlight.asia
 0.0.0.0 logend.cookpad.com
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.growstarry.com
@@ -8217,6 +8220,7 @@
 0.0.0.0 logindp.com
 0.0.0.0 logink4d.com
 0.0.0.0 loginshare.net
+0.0.0.0 logreport-global-dual.coolbcloud.com
 0.0.0.0 logreport-global-dual.coolhcloud.com
 0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs-sg.rebxgame.com
@@ -11154,6 +11158,7 @@
 0.0.0.0 report-edge.agora.io
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-stats.ad.jiguang.cn
+0.0.0.0 report.1-1.io
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.iheartmedia.gbqofs.io
 0.0.0.0 report.pixverse.ai
@@ -11822,6 +11827,7 @@
 0.0.0.0 senentangnews.com
 0.0.0.0 seni888.com
 0.0.0.0 senibola.com
+0.0.0.0 sensor.emolm.com
 0.0.0.0 sensors.larkplayerapp.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
@@ -12399,6 +12405,7 @@
 0.0.0.0 staticcc.com
 0.0.0.0 staticsfs.host
 0.0.0.0 statistic-overseas.yunxinfw.com
+0.0.0.0 statistic.live.126.net
 0.0.0.0 statistical-report.djiservice.org
 0.0.0.0 stats-a.maxthon.com
 0.0.0.0 stats-proto.pandora.com
@@ -12406,6 +12413,7 @@
 0.0.0.0 stats.abbi.io
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.calldorado.com
+0.0.0.0 stats.cn.ronghub.com
 0.0.0.0 stats.fifthstarlabs.io
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.grafana.org
@@ -14354,6 +14362,7 @@
 0.0.0.0 wptcasino.com
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 wscbet.com
+0.0.0.0 wslog-global-dual.coolccloud.com
 0.0.0.0 wsmetrics.batch.com
 0.0.0.0 wsmwidget.mediaprimalabs.com
 0.0.0.0 wsn.com

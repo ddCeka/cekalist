@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 24 Nov 2025 06:49 UTC (updated regularly)
+! Last modified: 24 Nov 2025 20:10 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -21843,6 +21843,7 @@ zuuk.org###fl10
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
 ||budiarto.id/bausastra/assets/img/banner-$image
+||bugsnag.com^
 ||bukukord.com/backend/affads
 ||bumilampung.com^*/ads-
 ||bumisultra.com^*/baner_
@@ -23997,6 +23998,7 @@ zuuk.org###fl10
 ||muzotur.info^$third-party
 ||my.avira.com^
 ||my.telkomsel.com/images/phone.*$image
+||my.telkomsel.com/src/static/app-ads.txt$domain=my.telkomsel.com
 ||myanimelist.*/images/*/expo.*$image
 ||myanimelist.*/images/*/fripside.*$image
 ||myanimelist.*/images/mxj/20211*g$image
@@ -24982,6 +24984,7 @@ zuuk.org###fl10
 ||seriousdeals.net/visitScript/$script,third-party
 ||serunonton.*/wp-content/uploads/*.gif$image
 ||services.7searchppc.com/api/adscript$domain=tintainformasi.com
+||sessions.bugsnag.com^
 ||seuramoeaceh.com/files/sewaan/
 ||sevenbola.$image,third-party
 ||sevenbola.$popup

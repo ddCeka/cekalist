@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 26 Nov 2025 07:04 UTC (updated regularly)
+! Last modified: 27 Nov 2025 00:17 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -16336,12 +16336,10 @@ modifikasi.com##.bannerpos
 modifikasi.com##.cell_banner_inside
 modijiurl.com##[src^="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigBydUm4NizfQSeOxPN_AjO3K0IhFD3DtfZ30MjQdiNmT-b5ncEopAJAKqVfuItxIHY4ekrVj2-eF8YahAdmQDai0OZBNq18t-6phsTBDdaGUzu9vo3a9SclpGFkTMtaMabbnddioKOxonoZqki3u7ghr65q78mGZ-O7eOl11lVd5NMourtu28d_fUnMo/s16000/"]
 moenime.com###\31 xbet
-moenime.com###mn-notice-wrapper
 moenime.com###moemodals
 moenime.com##+js(no-fetch-if, trafficbass.com)
-moenime.com##.overlay
-moenime.com##.rw_footer_sticky
-moenime.com##div:matches-css(position: fixed)
+moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
+moenime.com,sokuja.uk##body > div:matches-css(position: fixed)
 mofosex.com##.underplayer
 mofosex.com##.vjs-inplayer-container
 mojevideo.sk#@##video_ad
@@ -18537,7 +18535,6 @@ sokuja.uk##.iDd0s-4dgu4rd
 sokuja.uk##.video-content > div:has(> div[align="center"] > a[onclick*="none"])
 sokuja.uk##a[rel*="nofollow"]:has(> img)
 sokuja.uk##a[rel*="sponsored"]:has(> img)
-sokuja.uk##body > div:matches-css(position: fixed)
 sokuja.uk##div:matches-css(position: fixed):has(> div > #countdown)
 solidfiles.com##ARTICLE[class="box premium-promo"]
 solidfiles.com##A[class="logo"]
@@ -26162,6 +26159,7 @@ zuuk.org###fl10
 ~ok.ru##a[href*="/connect.ok.ru/dk?"]
 ~ok.ru##a[href^="https://connect.ok.ru/offer?url="]
 ~oketheme.com##[href^="https://www.oketheme.com/members/aff/go/"]:has(img)
+~onelink.me##[href^="https://terabox.onelink.me/"]:has(img)
 ~orangarab.fun##[href="https://orangarab.fun/777"]
 ~pinterest.*###pinterest
 ~pinterest.*##.b-share-bar__pinterest:not(body,html,:empty)

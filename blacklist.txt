@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 27 Nov 2025 00:16 UTC (updated regularly)
-! host_count: 14922
+! Last modified: 27 Nov 2025 04:03 UTC (updated regularly)
+! host_count: 14923
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -9980,6 +9980,7 @@
 0.0.0.0 opera.com
 0.0.0.0 opikini.com
 0.0.0.0 oppa.biz
+0.0.0.0 oppabet.com
 0.0.0.0 oppadrama.art
 0.0.0.0 oppadrama.biz
 0.0.0.0 oppadrama.cc

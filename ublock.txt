@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 28 Nov 2025 02:50 UTC (updated regularly)
+! Last modified: 28 Nov 2025 06:59 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -12008,20 +12008,12 @@ discordapp.com##[class="discord-preview"]
 discordapp.com##[class="video"]
 discordapp.com##[class="video-container"]
 discordapp.com##[class="video-frame"]
-discordapp.com/*/02c8e36d4ab8d5daf2e5ed6a108f1ce3.png
-discordapp.com/*/60e1f1cfa842d54fe6ab801670cea7b8.png
-discordapp.com/*/7a8f095edaae359508629bd44abe1b70.png
-discordapp.com/*/80bebd88344f603ad8e402de7c52ef6b.png
-discordapp.com/*/9c38ca7c8efaed0c58149217515ea19f.*
-discordapp.com/*/c7c2d0cb723a59aaf395ce5ccea53f00.png
 discordapp.com/assets/*.3gp
 discordapp.com/assets/*.flv
 discordapp.com/assets/*.gif
 discordapp.com/assets/*.jpg
 discordapp.com/assets/*.mp4
 discordapp.com/assets/8eba*.png
-discordapp.com/assets/9b14f397b08a17cec388d9d851b007ff.svg
-discordapp.com/assets/ee7c382d9257652a88c8f7b7f22a994d.png
 discudemy.com##.closeAdBlock
 diskursusnetwork.com##a[href^="https://maps.app.goo.gl/"]:has(> img)
 diskusiwebhosting.com##img[width="450"][height="87"]
@@ -12091,10 +12083,6 @@ dood.*##+js(aopw, DoodPop)
 dood.*##+js(aopw, _pop)
 doooood.co###overlay
 doooood.co##.ad-container
-doridro.com##DIV[id="logo"]
-doridro.com/*/bg-wrapper.jpg
-doridro.com/forum/styles/FLATBOOTS/theme/images/logo.png
-doridro.com/images/logo.png
 doroni.me##+js(acs, getComputedStyle, , cpm)
 doroni.me##.Content__banner-image
 doroni.me##ins.adsbygoogle
@@ -12145,9 +12133,6 @@ downloadyoutubesubtitles.*##[href="/"]
 downloadyoutubesubtitles.*##[href="/contact"]
 downloadyoutubesubtitles.*##[href="/privacy"]
 doyanjudi.gif|$image
-dp.image-gmkt.com/ID/design/2012/10/ojie/Cara%20Pembayaran/new/*
-dp.image-gmkt.com/ID/design/2013/Operation_Site/NavigationBar/*
-dp.image-gmkt.com/dp2016/ID/GMKT.IMG/etc/2016/10/06/2c723d6f-9036-4f99-9f3b-565743eed2c5.png
 dragcave.net##._w_4
 drakorasia.*##.ads728-slot-panjang
 drakorwovel.my.id,nekopoi.*##a[target*="blank"]:has(> img)
@@ -12229,7 +12214,6 @@ dryicons.*##[href="/contact-us"]
 dstar.pzk.pl#@#.adsbox
 dstar.pzk.pl#@#.adsbygoogle
 dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com##.gmr-floatbanner
-dteksinews.co.id,harianesia.com##.gmr-topbanner
 duckduckgo.*###logo_homepage_link
 duckduckgo.*##.badge-link
 duckduckgo.*##.feedback-btn
@@ -12306,9 +12290,6 @@ dzcdn.net/*/visuals/*desktop*.*$domain=deezer.com,image
 dzcdn.net/cache/slash/images/*/visual-desktop*.*$domain=deezer.com,image
 dziennikwschodni.pl#@#.adholder
 dzt1km7tv28ex.cloudfront.net/static/app/landing/*.jpg
-e.mail.ru##.TerfRcr
-e.mail.ru##.TerfRqb
-e.mail.ru##.konWgF1
 e24.no##.article-share
 ea-dev.com/*/slide1.*$image
 ea-dev.com/*/slide2.*$image
@@ -12388,8 +12369,6 @@ emulanium.com/img/bg-wrapper-general.png
 emule-island.ru##.lastnews + A[href^="http://downloadmr.com/dmr/download/"]
 emule-island.ru##.newsgroup
 emutalk.net##IMG[src="blueimages/emutalklogo.gif"]
-en-gb.facebook.com###drk_settings_icon
-en-us.facebook.com###drk_settings_icon
 energy.de#@##ad_home
 engineeringtoolbox.com##.adblo
 engineeringtoolbox.com##.contentDocumentAd
@@ -12737,7 +12716,6 @@ fin.co.id##div:matches-css(height: 250px):matches-css(justify-content: center):h
 finalservers.net###babasbmsgx
 financialjuice.com###parentVideoIframe
 financialjuice.com##[class="img-responsive img-center hidden-xs hidden-sm"]
-financialjuice.com##[class="img-responsive img-center"]
 financialjuice.com##[class="responsive hidden-xs hidden-sm img-center big"]
 financialjuice.com##[id="ctl00_divAdvert"][class="bubble"]
 financialjuice.com/*/images/*.gif
@@ -12799,50 +12777,6 @@ forbes.com/*/*.mp4
 forbes.com/*/*.ts
 forbes.com/*/promote/get.json
 foreignpolicy.com###TB_window
-forex-station.*##.post-signature
-forex-station.com/ext/gramziu/ravaio/assets/*.jpg
-forex-station.com/ext/gramziu/ravaio/assets/*.png
-forex-tsd.com##DIV[class="cr"]
-forex-tsd.com##DIV[class="ct"]
-forex-tsd.com##IMG[src="https://content.mql5.com/im/8a6d7b713feb5f9b1fdcce81eb301755.gif"]
-forex-tsd.com##IMG[src="https://content.mql5.com/im/c5d221c119789c54d9776424aa4765ac.gif"]
-forex-tsd.com##IMG[src="https://content.mql5.com/im/fdd0a645a9d051b00d6e7b9da95f9f66.gif"]
-forexbase.camp/*/broker-fxbc.gif
-forexfactory.*##.calendarspecs__header--right
-forexfactory.com##.footer__branding
-forexfactory.com##DIV[class="footer__branding footer_branding"]
-forexfactory.com##DIV[class="footer__links footer__connect links connect"]
-forexfactory.com##DIV[class="footer__links footer__links--company links"]
-forexfactory.com##DIV[class="footer__links footer__links--website links website"]
-forexfactory.com##DIV[class="half"]
-forexfactory.com##DIV[class="panel adbit sidebar__panel sidebar__panel--adbit"]
-forexfactory.com##DIV[class="panel minicalendar sidebar__panel sidebar__panel--minicalendar"]
-forexfactory.com##DIV[id="footer-top-bar"][class="footer__topbar"]
-forexfactory.com##IMG[id="whitelist-div-gpt-ad-1330711464564-0"][class="whitelist"]
-forexfactory.com##SPAN[class="headerlogo__image"]
-forexfactory.com/*/gutter.gif
-forexfactory.com/ajax.php$image
-forexfactory.net/*/gutter.gif
-forexlive.com###sb-tech
-forexlive.com###tv-miniwidget-279c8
-forexlive.com##.socnav
-forexmart.com##DIV[class="img-responsive"]
-forexmart.com##IMG[class="img-reponsive logo logo-img logo-con-saf"]
-forexpeoples.web.id/*/logo.*
-forexpeoples.web.id/forum/images/forexpeoples/*
-forexpeoples.web.id/forum/images/new_avatars/*
-forexracer.*##.phba
-forexsystemsru.com##.sponsor
-forexwinners.net##DIV[class="adm-attribution"]
-forexwinners.net##DIV[class="background-cover"]
-forexwinners.net##DIV[class="logo"]
-forexwinners.net##IFRAME
-forexwinners.net##IMG[class="loggo-imgg"]
-forexwinners.net/*/ad-block.jpg
-forexwinners.net/wp-content/themes/sahifa/images/patterns/*
-forexwinners.ru##.background-cover
-forexwinners.ru##.cc-window
-forexwinners.ru##DIV[class="ei-slider-loading"]
 formasnews.com##.momizat-ads
 formasnews.com,radar-kalteng.com##.mom-e3lan
 fortrader.org/cachethumb/*/*.*$image
@@ -14701,7 +14635,6 @@ jagatpapua.com##.stream-item-after-post-title
 jagatpapua.com##img[height="2560"][width="1810"]
 jagatpapua.com,tangerangraya.net##img[height="2560"][width="1920"]
 jagodangdut.com,tvonenews.com,viva.co.id##.giant-banner
-jagodangdut.com,viva.co.id##.giant-banner
 jagokata.com##+js(set-local-storage-item, ignoreadblock, true)
 jakartaglobe.id,republika.co.id##.show.fade.modal
 jakartaglobe.id,republika.co.id##.show.fade.modal-backdrop
@@ -14771,7 +14704,6 @@ jpnn.com##.download_apps
 jpnn.com##.text-center.mtb-10
 jpnn.com##section.leaderboard
 jpost.*##.share-buttons
-js.out.sh/assets/Chair-Bokeh-348ab2d3b552eb1370ead23b436d46d1ea9d19db0e845b7324a88b8e23d8ee9b.jpg
 jsfiddle.net###keep-us-running
 juara.net##.ads
 juara.net##.cls-composite

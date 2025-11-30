@@ -18794,7 +18794,6 @@ subscene.com##.cc_banner
 suhubola.gif|$image
 suhugamer.com##.brus-banners
 sukabumiheadline.com##.jet-popup
-sukasex.*##+js(rmnt, script, popupUrl)
 sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 suki48.web.id##.iklanSUKI
 sukoharjonews.com##article p:has(> script)
@@ -25844,9 +25843,7 @@ zuuk.org###fl10
 ||www.gendigital.com^
 ||www.getintomac.net^
 ||www.googletagmanager.com^
-||www.googletagmanager.com^$all
 ||www.googletagservices.com^
-||www.googletagservices.com^$all
 ||www.gshade.org^
 ||www.inilah.com/_next/^$image
 ||www.kape.com^

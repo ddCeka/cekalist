@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 30 Nov 2025 17:04 UTC (updated regularly)
+! Last modified: 1 Dec 2025 17:38 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -16285,8 +16285,7 @@ moenime.com###moemodals
 moenime.com###w-node-b77
 moenime.com##+js(no-fetch-if, trafficbass.com)
 moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
-moenime.com##[id]:matches-css(position: fixed):matches-css(justify-content: center)
-moenime.com,sokuja.uk##body > div:matches-css(position: fixed)
+moenime.com##body > div:matches-css(position: fixed):has(span[onclick])
 mofosex.com##.underplayer
 mofosex.com##.vjs-inplayer-container
 mojevideo.sk#@##video_ad
@@ -18486,6 +18485,7 @@ sokuja.uk##.iDd0s-4dgu4rd
 sokuja.uk##.video-content > div:has(> div[align="center"] > a[onclick*="none"])
 sokuja.uk##a[rel*="nofollow"]:has(> img)
 sokuja.uk##a[rel*="sponsored"]:has(> img)
+sokuja.uk##body > div:matches-css(position: fixed)
 sokuja.uk##div:matches-css(position: fixed):has(> div > #countdown)
 solidfiles.com##ARTICLE[class="box premium-promo"]
 solidfiles.com##A[class="logo"]
@@ -18794,6 +18794,7 @@ subscene.com##.cc_banner
 suhubola.gif|$image
 suhugamer.com##.brus-banners
 sukabumiheadline.com##.jet-popup
+sukasex.*##+js(rmnt, script, popupUrl)
 sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 suki48.web.id##.iklanSUKI
 sukoharjonews.com##article p:has(> script)
@@ -26179,3 +26180,4 @@ zuuk.org###fl10
 ~whatsapp.com,~wa.me##a[href*="://wa.me/?text="]
 ~xing.com###xing-share
 ~yok.lol##[href^="https://yok.lol/"]
+﻿[Adblock Plus 3.13]

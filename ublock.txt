@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 1 Dec 2025 17:40 UTC (updated regularly)
+! Last modified: 2 Dec 2025 17:52 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -9720,7 +9720,7 @@ agiodeli.id,beritainhil.com,buserpolri.com,cybersatu.com,dharapos.com,investigas
 agresifnews.co##img[width="1140"][height="218"]
 agresifnews.co,komparasinews.id##img[width="1280"][height="156"]
 aida64.*##.popup-content
-ainzscans.net,anichin.blog,anichin.social,anichin.watch,hidoristream.online,kazefuri.cloud,kazefuri.info,komiksin.net,mangaindo.*,soulscans.my.id###floatcenter
+ainzscans.net,anichin.blog,anichin.social,anichin.watch,hidoristream.online,kazefuri.cloud,kazefuri.info,komiksin.net,mangaindo.*,nekokun.my.id,soulscans.my.id###floatcenter
 ainzscans.net,anichin.social,dojing.net,doujinku.org,filem21.org,ikiru.wtf,kaitoani.org,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiktap.info,komiku.asia,komikzoid.id,kumapoi.info,kuroshireader.com,mangaaku.com,mangakita.id,mangakuu.com,mangasusuku.com,mangatale.co,mihentai.com,ngomik.mom,noromax01.my.id,rawkuma.net,sektedoujin.cc,softkomik.com,soulscans.my.id,tenshiku.asia,westmanga.me##+js(aeld, contextmenu)
 ainzscans.net,cosmic345.co,ikiru.one,ikiru.world,isekaisubs.web.id,kiryuu01.com,kmvs03.com,komikcast01.com,komikcast02.com,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,komiktap.info,mangakita.id,mangakita.net,novascans.id,nimeindo.*,awsubs.*##.kln
 ainzscans.net,kumapoi.info##+js(noeval-if, /chp_?ad/)
@@ -16283,9 +16283,10 @@ modijiurl.com##[src^="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXs
 moenime.com###\31 xbet
 moenime.com###moemodals
 moenime.com###w-node-b77
+moenime.com##+js(href-sanitizer, [href*="?s="], ?s)
 moenime.com##+js(no-fetch-if, trafficbass.com)
 moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
-moenime.com##body > div:matches-css(position: fixed):has(span[onclick])
+moenime.com##div:matches-css(position: fixed):has([onclick] > img)
 mofosex.com##.underplayer
 mofosex.com##.vjs-inplayer-container
 mojevideo.sk#@##video_ad
@@ -20448,6 +20449,7 @@ www.reddit.com##faceplate-tracker[noun="games_drawer"]
 www.reddit.com##faceplate-tracker[noun="games_drawer"] + hr
 www.reddit.com##xpromo-app-selector
 www.reddit.com##xpromo-new-app-selector
+www.wikihow.com###footer_newsletter
 www.xda-developers.com##.adsninja-rail-container.sidebar
 www.youtube.com##yt-thumbnail-hover-overlay-toggle-actions-view-model
 www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scopel-widget.textwidget

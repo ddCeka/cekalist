@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 3 Dec 2025 21:23 UTC (updated regularly)
-! host_count: 14926
+! Last modified: 4 Dec 2025 15:10 UTC (updated regularly)
+! host_count: 14928
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -3804,6 +3804,7 @@
 0.0.0.0 cdn-cf.postitial.com
 0.0.0.0 cdn-image.com
 0.0.0.0 cdn-ketchapp.akamaized.net
+0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 cdn-ssl.vidible.tv
 0.0.0.0 cdn.adless.io
@@ -12397,6 +12398,7 @@
 0.0.0.0 static.mixi.media
 0.0.0.0 static.promediateknologi.id
 0.0.0.0 static.sparechange.io
+0.0.0.0 static.terratraf.com
 0.0.0.0 static.timetreeads.com
 0.0.0.0 static1.mixi.media
 0.0.0.0 static2.mixi.media

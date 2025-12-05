@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 5 Dec 2025 17:05 UTC (updated regularly)
+! Last modified: 5 Dec 2025 20:55 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -9285,7 +9285,7 @@ $websocket,domain=vidup.me
 00915.net
 01nonton.com,46.166.167.16,bioskop45.com,drakorindo.tv,idbioskop.com,indomv.net,lk21.web.id,nekopoi.care,nonton33.net,nonton789.com,nontonsub.com,sukamovie.mobi,zonabola.id##a[href^="http://bit.ly/"]
 01ntn.cc##[href^="https://goratu.site"]
-01ntn.cc,198.105.112.102,37.221.67.88,anibatch.moe,anichin.social,animekompi.fun,animexin.dev,anoboy.be,bioskop21.*,boscinematv1.space,cinemaemas6.com,cinemakeren6.id,docksidechandlery.com,dramaserial21.cam,filem21.org,gudangkomik.com,gudangmoovies21.com,gudangmovies21.chat,idxmovie21.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,kazefuri.info,kebioskop21.one,komik-cast.com,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kuroshireader.com,kusonime.com,layardrama.*,layardrama21.*,mangasusuku.com,melongmovies.com,movieku.*,nimegami.id,nntonfilm.my.id,nomat.site,omanga.net,otakudesu.best,otakudesu.id,rebahin.lol,rebahinxxi1.xyz,sbministries.org,sobatku21.xyz,westmanga.me,winbu.tv##a[target*="blank"]:has(> img)
+01ntn.cc,198.105.112.102,37.221.67.88,anibatch.moe,anichin.social,animekompi.fun,animexin.dev,anoboy.be,bioskop21.*,boscinematv1.space,cinemaemas6.com,cinemakeren6.id,docksidechandlery.com,dramaserial21.cam,filem21.org,gudangkomik.com,gudangmovies21.chat,idxmovie21.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,kazefuri.info,kebioskop21.one,komik-cast.com,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kuroshireader.com,kusonime.com,layardrama.*,layardrama21.*,mangasusuku.com,melongmovies.com,movieku.*,nimegami.id,nntonfilm.my.id,nomat.site,omanga.net,otakudesu.best,otakudesu.id,rebahin.lol,rebahinxxi1.xyz,sbministries.org,sobatku21.xyz,westmanga.me,winbu.tv##a[target*="blank"]:has(> img)
 01ntn.cc,37.221.67.88###topban
 062.live,23jam.com,24jamnews.com,agaranews.com,aktuil.com,apakabarindonesia.com,apakabarjabar.com,apakabarnews.com,apakabartv.com,arahbisnis.com,arahnews.com,bandasapuluah.com,bangsaku.co,baranewsaceh.co,belanjaoke.com,berandalappung.com,beritasulsel.com,bintangnews.com,bisnisidn.com,bisnisnews.com,bogorterkini.com,businesstoday.id,cekfaktanya.com,delapannews.com,detikindonesia.co.id,detikzone.id,diksiber.id,diplomatiknews.com,duniaenergi.com,ekbisindonesia.com,ekonominews.com,emitentv.com,faktadata.id,femme.id,fenomena.id,fokussiber.com,garutberkabar.com,goodnews.co.id,haibisnis.com,haiidn.com,haiindonesia.com,haipurwakarta.com,haiupdate.com,haliyora.id,hallobandung.com,halloidn.com,hallojabar.com,hallokaltim.com,hallonesia.com,hallopapua.com,hallopresiden.com,hallosurabaya.com,halloup.com,halloupdate.com,haloagro.com,halobogor.com,halocantik.com,haloekonomi.com,halogorontalo.com,halokini.com,halokripto.com,haloselebriti.com,harianbanten.com,hariancirebon.com,harianekonomi.com,harianindonesia.com,harianinvestor.com,harianjayakarta.com,heijakarta.com,heisport.com,hello.id,hellobanten.com,hellocianjur.com,helloidn.com,helloseleb.com,hilirisasinews.com,hutannews.com,indofemale.com,indoinsider.com,indonesiaraya.co.id,indonomics.com,infoekbis.com,infoekonomi.com,infoekspres.com,infoemiten.com,infoenergi.com,infoesdm.com,infokumkm.com,infomalukunews.com,infomaritim.com,infopeluang.com,infoseru.com,infoups.com,infrastrukturnews.com,inikepri.com,investasinews.com,jabarraya.com,jatimraya.com,jazirahnews.com,kabarika.id,kabarkalbar.com,kalimantanraya.com,kanalindonesia.com,kengpo.com,kilasnews.com,klikindonesia.co,kongsinews.com,kontenberita.com,kontennews.com,koperasipost.com,lingkarin.com,malukuraya.com,matafakta.com,mediaagri.com,mediaemiten.com,mercinews.com,metroaceh.com,metrokalsel.co.id,mevin.id,minergi.com,netizenku.com,newsroom.id,on24jam.com,optika.id,pangannews.com,pelitajabar.com,persda.com,poinnews.com,propertipost.com,prospektif.com,pusatsiaranpers.com,radar-x.net,rakyatbekasi.com,rakyatjabarnews.com,rakyatpos.id,redaksibaru.id,redaksiku.com,saatini.com,sapulangit.com,satunews.id,sawitpost.com,sekalteng.com,sekitarkita.id,serambiislam.com,suarasikka.com,suarautama.id,suarautara.com,sukabumiheadline.com,sulawesiraya.com,sultengsatu.com,sumateraekspres.com,tambangpost.com,tangerangraya.co.id,tanjungpura.id,teksnews.com,terkinipost.com,timelinesinews.com,topikindonesia.com,topikpost.com,topiktop.com,tribrata.tv,wartaaspirasi.com,womanesia.com,zonafaktualnews.com##.ad-middle
 062.live,ambontoday.com,autoride.co.id,bangsaku.co,bardimin.com,batamclick.com,belanjaoke.com,beritabalap.com,beritainvestigasinews.id,beritalima.com,beritausaha.com,bisnisidn.com,bisnispost.com,blockchainmedia.id,bumisriwijaya.co,businesstoday.id,cakrawalamedia.com,carisinyal.com,cekfaktanya.com,cerah.id,delapannews.com,divisi.id,duniadosen.com,dutabalinews.com,edunews.id,ekbisindonesia.com,ekonominews.com,emitentv.com,extranews.id,fanicat.com,femmeindonesia.com,gobengkulu.com,gokepri.com,gurindam.id,haiidn.com,hallosurabaya.com,haloagro.com,hamilplus.com,harianekonomi.com,harianmemokepri.com,heisport.com,hellojatim.com,hilirisasinews.com,hipwee.com,homecare24.id,hutannews.com,indoinsider.com,infobekasi.co.id,infoekbis.com,infoekonomi.com,infoemiten.com,infoesdm.com,infokumkm.com,infopeluang.com,infopriangan.com,infotelko.com,infotoraja.com,infrastrukturnews.com,inspirasiline.com,iradiofm.com,jafarbuaisme.com,jazirahnews.com,jubi.id,kabarbenggawi.com,kamini.id,kantamedia.com,keluyuran.com,kengpo.com,kepripedia.com,kilasnews.com,kliksumatera.com,kongsinews.com,koperasipost.com,koranindopos.com,koranntb.com,koranntt.com,koranpagionline.com,koranpelita.co,kotaku.co.id,kroniktotabuan.com,lajur.co,lapakgaming.com,lingkarnews.com,majesty.co.id,matafakta.com,mediaagri.com,mediaemiten.com,minanews.net,minergi.com,mmoculture.com,monitorkalteng.co.id,nanggroenews.com,obormotindok.co.id,otoinfo.id,paceko.com,pangannews.com,panjikendari.com,pelopornews.co.id,penerbitdeepublish.com,pertaniannews.com,popculture.id,prabowonews.com,presmedia.id,prokabar.com,propertipost.com,prospektif.com,radarkarawang.id,radarsatu.com,readnews.id,ridertua.com,sawitpost.com,selidikinews.com,sepeda.me,sepintas.com,serambiislam.com,showpoiler.com,spotbalinews.com,suaraaura.com,suarapapua.com,sukaon.com,sultengekspres.com,sumateraekspres.com,sumateranews.co.id,surabayapostnews.com,tambangpost.com,tapanulipost.com,terasmaluku.com,theiconomics.com,tonjoostudio.com,topikindonesia.com,tutorly.id,tuturpedia.com,ungkap.co.id,urbannews.id,vcgamers.com,voxnusantara.com,wartagarut.com,zonautara.com##.code-block
@@ -13636,8 +13636,6 @@ gtainside.com/*/box_bg.*
 gtainside.com/*/share_fb.*
 gtainside.com/*/share_g.*
 gtainside.com/*/share_twitter.*
-gtaxscripting.blogspot.com#@##AdSense2
-gudangmoovies21.com###bannerTop
 gudangmovies21.*###ouibounce-modal
 gudangmovies21.*###sgpb-popup-dialog-main-div-wrapper
 gudangmovies21.*##.sgpb-popup-overlay
@@ -13660,8 +13658,6 @@ gujmitra.in,newshuta.in,hindimeguru.com,mazijob.in,updatewallah.in,phonesparrow.
 gujmitra.in,newshuta.in,hindimeguru.com,mazijob.in,updatewallah.in,phonesparrow.com,asaura.com,alljntuworld.in##.floating-ads-container
 gujmitra.in,newshuta.in,hindimeguru.com,mazijob.in,updatewallah.in,phonesparrow.com,asaura.com,alljntuworld.in##.site-content
 gujmitra.in,newshuta.in,hindimeguru.com,mazijob.in,updatewallah.in,phonesparrow.com,asaura.com,alljntuworld.in##.site-footer
-guru3d.com##[class="adblock_top_middle"]
-guru3d.com##[class="logo"]
 gurusiana.id##+js(set, detectAdBlock, noopFunc)
 gwshare.com#@##adCol
 haberler.com##.playButton
@@ -15631,8 +15627,8 @@ livesports044.com,marza11.shop##+js(aopr, document.oncontextmenu)
 livesports044.com,marza11.shop##.banner
 livesports044.com,tigoals213.com##.banner.flex-center
 lk21.*,nontondrama.*###nativeAds
-lk21.am.in,lk21.de,lk21.film,lk21official.cc,lk21official.love,lk21online.mom,nontondrama.click,nontondrama.my###nativeAds
-lk21.am.in,lk21.de,lk21.film,lk21official.cc,lk21official.love,lk21online.mom,nontondrama.click,nontondrama.my##a[target*="blank"]:has(> img)
+lk21.de,lk21.film,lk21official.cc,lk21official.love,lk21online.mom,nontondrama.my###nativeAds
+lk21.de,lk21.film,lk21official.cc,lk21official.love,lk21online.mom,nontondrama.my##a[target*="blank"]:has(> img)
 lk21.party###hihi
 lk21.web.id###float-banner
 lk21.web.id###ilang1
@@ -16233,8 +16229,6 @@ moenime.com##+js(href-sanitizer, [href*="?s="], ?s)
 moenime.com##+js(no-fetch-if, trafficbass.com)
 moenime.com##+js(nowoif)
 moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
-moenime.com##.alert
-moenime.com##.copyright
 moenime.com##.show
 moenime.com##a[target*="blank"]:has(> img)
 mofosex.com##.underplayer

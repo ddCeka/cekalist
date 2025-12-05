@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 5 Dec 2025 05:07 UTC (updated regularly)
+! Last modified: 5 Dec 2025 17:05 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -2266,6 +2266,8 @@
 ##[href="https://cek.to/lk21xxi180h"]
 ##[href="https://cek.to/manhwa-dwc"]
 ##[href="https://cek.to/manhwahoki"]
+##[href="https://cek.to/manhwaindo2"]
+##[href="https://cek.to/manhwaindo36"]
 ##[href="https://cek.to/reffbd36idlix"]
 ##[href="https://cek.to/samehada36"]
 ##[href="https://ceklink.vip/bioskop21"]
@@ -2367,6 +2369,7 @@
 ##[href="https://gacor.zone/ikirukko"]
 ##[href="https://gacor.zone/mangaindo"]
 ##[href="https://gacor.zone/manhwaland"]
+##[href="https://gacor.zone/scomanhwa"]
 ##[href="https://gacor.zone/tapgacor"]
 ##[href="https://gacor22.me/opads"]
 ##[href="https://gacor66.me/same"]
@@ -2977,6 +2980,7 @@
 ##[href="https://t.me/zonaenak21"]
 ##[href="https://t2m.io/dutafillm21"]
 ##[href="https://t2m.io/infototo"]
+##[href="https://tapme.ink/VIPmanhwaindo"]
 ##[href="https://tapme.ink/VIPmanhwalan"]
 ##[href="https://tapme.ink/arenaspin_akunvip214"]
 ##[href="https://tapme.ink/arenaspin_vip03"]
@@ -9499,7 +9503,7 @@ $websocket,domain=vidup.me
 @@||eirudo.com^$generichide
 @@||exoclick.com/ads.js$script,domain=y2tube.pro
 @@||gadget2reviews.com^$generichide
-@@||gambar123.com^$image,domain=buahmangga.com|dibalik.com|digoreng.com|dimakan.com|forumsemut.com|masuk123.com|semprot.com
+@@||gambar123.com^$image,domain=buahmangga.com|digoreng.com|semprot.com
 @@||gosocial.co.id/assets/img/service/$1p,image
 @@||gratis-iklan.com^$ghide
 @@||hetanews.com/js/googleafs.js
@@ -11006,21 +11010,20 @@ brotutor.net##+js(aopr, mql)
 btcoingenerator.ml/*
 bts.to##.dl_blue[href^="/goto_.php?url="]
 btvsports.com###ai_tapar
-buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com###fixedbox
-buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com##+js(acis, String.fromCharCode, ahli)
-buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com##.js-post:has-text(Banned)
-buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com##.p-body .f_floating_div
-buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com##.popup-cr7
-buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com##.semprot_wizard:has-text(adblocker)
-buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com##[class^="semprotnenenmontok_"]
-buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com##[class^="semprotpokemon_"]
-buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com##[id^="semprotnenenmontok_"]
-buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com##a[href^="/ads.php"]
-buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com#@#.adVertical
-buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com#@#img[width="500"][height="70"]
-buahmangga.com,dibalik.com,digoreng.com,dimakan.com,forumsemut.com,masuk123.com,semprot.com#@#img[width="550"][height="70"]
+buahmangga.com,digoreng.com,semprot.com###fixedbox
+buahmangga.com,digoreng.com,semprot.com##+js(acis, String.fromCharCode, ahli)
+buahmangga.com,digoreng.com,semprot.com##.js-post:has-text(Banned)
+buahmangga.com,digoreng.com,semprot.com##.p-body .f_floating_div
+buahmangga.com,digoreng.com,semprot.com##.semprot_wizard:has-text(adblocker)
+buahmangga.com,digoreng.com,semprot.com##[class^="popup-"]
+buahmangga.com,digoreng.com,semprot.com##[class^="semprotnenenmontok_"]
+buahmangga.com,digoreng.com,semprot.com##[class^="semprotpokemon_"]
+buahmangga.com,digoreng.com,semprot.com##[id^="semprotnenenmontok_"]
+buahmangga.com,digoreng.com,semprot.com##a[href^="/ads.php"]
+buahmangga.com,digoreng.com,semprot.com#@#.adVertical
+buahmangga.com,digoreng.com,semprot.com#@#img[width="500"][height="70"]
+buahmangga.com,digoreng.com,semprot.com#@#img[width="550"][height="70"]
 buahmangga.com,gocrot.me,gocrot.org,semprot.com##.popup-cr7
-buahmangga.com,gocrot.org,semprot.com##.popup-cr7
 buanapagi.com##img[height="1024"][width="594"]
 buanapagi.com,sumateranews.co.id##img[width="1024"][height="365"]
 budiarto.id##.bausastra-ads
@@ -13416,6 +13419,7 @@ googlevideo.com/*.*$domain=payeer.com
 gooto.com###zone_3
 gooto.com##.banner-fix-bottom
 gooto.com##.bannerfulltop.bannerfull
+gooto.com##.fix-bottom
 gooto.com##.lanjutkan.bggrey
 gooto.com##.parallax-box
 gooto.com##.top-banner
@@ -15375,6 +15379,7 @@ layarkaca21.tv,lk21.tv##.fancybox-skin
 layarkaca21ok.site###banner-popup
 layarkaca21ok.site##.bannerpopup
 layarsoft.*##.logo
+layarwibu.com###popup
 layarxxi.*###top-banner-content
 lazada.co.*/js/tracking.js
 lazone.id##.post-header-banner
@@ -15825,6 +15830,12 @@ manganime.in##.separator
 manganime.live###ftads
 manganime.live##.berlangganan-500
 mangashiro.net###openpopunder
+manhwadesu.io,manhwaindo.my,manhwaland.baby,manhwaland.land##+js(aeld, contextmenu)
+manhwadesu.io,manhwaindo.my,manhwaland.baby,manhwaland.land##+js(nowoif)
+manhwadesu.io,manhwaindo.my,manhwaland.baby,manhwaland.land##.kln
+manhwadesu.io,manhwaindo.my,manhwaland.baby,manhwaland.land##a[target*="blank"]
+manhwadesu.io,manhwaindo.my,manhwaland.baby,manhwaland.land##div[id^="teaser"]
+manhwadesu.io,manhwaindo.my,manhwaland.baby,manhwaland.land##div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
 manhwadesu.org##[href="https://klik.gg/manhwadesu"]
 manhwaindo.*###teaser3
 manhwaindo.*##.kln

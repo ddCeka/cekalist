@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 9 Dec 2025 06:27 UTC (updated regularly)
+! Last modified: 9 Dec 2025 13:02 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8358,7 +8358,7 @@
 188.166.39.172##.lazyloaded.ls-is-cached.bannersatu
 18subindo.com##.request-warning-bubble
 18subindo.com##[href^="https://tinyurl.com/"]
-18subindo.com,agenbokep.*,bandarbokep.*,bokepindo.*,bokepindo21.*,bokepjilbab.*,bokepvir.*,bosku21.cam,cctvbokep.*,duniabokep.*,filmnikmat.*,filmnikmattv1.cam,gocrot.me,gocrot.org,hencop.com,igo-bokep.*,igobokep.*,javindo.*,javsubindo.*,kesiangan.com,lendirpedia.*,malayporntube.net,minioppai.org,myhdjav.me,ngentub.cc,ngocoks.com,nntnbkptv2.space,nokephub.*,nontonbokep.*,nontonhentai.net,nontonhentai.org,omahbokep.*,pascol.*,rumahperjaka.*,seponghub.*,sibokepjepang.*,terviral.cam##a[target*="blank"]:has(> img)
+18subindo.com,agenbokep.*,artisbokep.*,bandarbokep.*,bokepindo.*,bokepindo21.*,bokepjilbab.*,bokepvir.*,bosku21.cam,cctvbokep.*,duniabokep.*,filmnikmat.*,filmnikmattv1.cam,gocrot.me,gocrot.org,hencop.com,igo-bokep.*,igobokep.*,javindo.*,javsubindo.*,kesiangan.com,lendirpedia.*,malayporntube.net,minioppai.org,myhdjav.me,ngentub.cc,ngocoks.com,nntnbkptv2.space,nokephub.*,nontonbokep.*,nontonhentai.net,nontonhentai.org,omahbokep.*,pascol.*,rumahperjaka.*,seponghub.*,sibokepjepang.*,terviral.cam##a[target*="blank"]:has(> img)
 192.99.70.18,95.216.163.177,akurat.co,arahpandang.com,aspirasiku.id,ayobandung.com,ayobogor.com,ayojakarta.com,bandunginsider.com,dapurpacu.com,download-lagu-mp3.com,duniafilm21.com,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,industry.co.id,inidata.id,jatimnetwork.com,jawapos.com,k-vid.net,katadata.co.id,kilat.com,kompas.com,koran-jakarta.com,masagipedia.com,metrotvnews.com,miyanime.site,muslimterkini.id,okezone.com,otakuindo.net,pikiran-rakyat.com,rejogja.co.id,republika.co.id,smallencode.com,tempo.co,terasjakarta.id,timenews.co.id,unews.id,www.melintas.id,zonajakarta.com##.ads
 193.142.147.230,5.253.86.213,ainzscans.net,igobokep.cam,jenismac.com##+js(noeval-if, /chp_?ad/)
 193.178.172.113###repop
@@ -8634,7 +8634,7 @@ agenbokep.*,bandarbokep.*,bokepindo.*,doooood.co,duniabokep.*,hencop.com,indobok
 agenbokep.*,bandarbokep.*,ceritanakal.com,duniabokep.*,indobokepin.*,javsubindo.*,nontonbokep.*,pascol.*,terviral.cam##a:has(> img[src$=".gif"])
 agenbola.gif|$image
 agenqq.gif|$image
-agiodeli.id,beritainhil.com,buserpolri.com,cybersatu.com,dharapos.com,exspresnews.com,investigasinews.co,juangnews.com,koreksinews.com,mandalikapost.com,parasriau.com,radarberitanasional.com##.widget-content > img
+agiodeli.id,beritainhil.com,buserpolri.com,cybersatu.com,dharapos.com,exspresnews.com,investigasinews.co,jejakkasus.id,juangnews.com,koreksinews.com,mandalikapost.com,mediasergap.com,parasriau.com,radarberitanasional.com##.widget-content > img
 agresifnews.co##img[width="1140"][height="218"]
 agresifnews.co,komparasinews.id##img[width="1280"][height="156"]
 ainzscans.net,anichin.blog,anichin.social,anichin.watch,hidoristream.online,kazefuri.cloud,kazefuri.info,komiksin.net,mangaindo.*,nekokun.my.id,soulscans.my.id###floatcenter
@@ -8760,6 +8760,7 @@ armadanews.id,jurnalx.co.id,mitrapolri.com,newscorner.id,simadanews.com##.footer
 arosukapost.com,flobamora-spot.com,kabarberitasatu.com,kalpress.id,sergap.co.id##.textwidget > figure > img
 arrahmah.id##img[width="350"][height="49"]
 artikel.rumah123.com,belajarmandiriyuk.com,liputanindonesia.co.id##a[href^="https://shopee.co.id/"]:has(> img)
+artisbokep.*##.top-banner
 asalunik.com,bokepgemoy.com##+js(nobab)
 asarpua.com##.td-banner-wrap-full
 asatuonline.id,balam.id,bantensatu.co,bbsnews.id,beritaazam.com,beritababel.co,beritaindonesianews.id,beritajateng.tv,beritamusi.co.id,beritanusantara.co,beritaup2date.com,betiklampung.com,bicaranews.id,cermat.co.id,dailypost.id,enewsindonesia.com,expossumbar.com,fajar.co.id,faktual.net,global-satu.com,globaldrafnews.com,habanusantara.net,harianindonesia.id,hariansoloraya.com,hibata.id,infoaktualnews.com,iniborneo.com,inipalu.com,intensnews.id,jatimkukini.com,jurnalminang.id,jurnalnews.co,kabaraktual.id,kabarbangka.com,kabarindo.id,kabarluwuk.com,kabarmakassar.com,kabarterdepan.com,kaltimetam.id,kepri.co.id,khatulistiwanews.net,khazminang.id,kongkrit.com,koranharian55.com,koranntt.com,koranpagionline.com,koranpublika.co.id,kutora.id,lampungsai.com,lensamata.id,liputanberita7.com,liratv.id,lombokvibes.com,mamujupos.com,matajurnalisnews.com,mediabengkulu.co,mentayanet.com,meteorsumatera.com,metro-onenews.com,mitrakepolisian.com,monopolisumselnews.com,newspatroli.com,nusaborneo.com,nusantaranews.id,papuaterkini.com,paraparatv.id,pedulirakyat.co.id,pelitanusantara.com,peluangnews.id,pilaraktual.com,radarcikarang.com,realita.news,reportasepapua.co.id,satubmr.com,sekilasindonews.com,sekindo.id,siarpost.com,strateginews.id,suara-publik.com,suaracelebes.com,suarafaktual.com,suaraindo.id,suarakahayannews.com,suarakepri.com,suaraklaten.id,sudutpandang.id,suluhmerdeka.com,suryapos.id,swaramalut.com,tambelopapua.com,teraskabar.id,teraspapua.com,topsumbar.co.id,torangbisa.com,ulasan.co##.inline-banner
@@ -8837,14 +8838,14 @@ balanganews.com##img[alt^="ikl" i]
 balanganews.com,gadgetdiva.id##.infeed-ad
 balebandung.com,deepend.id,gamebrott.com,minanews.net,pilarhukum.com,sintesanews.id##img[height="600"][width="160"]
 balebandung.com,kemajuanrakyat.id##img[title*="iklan" i]
-baliberkabar.id,bentengsumbar.com,bijaknews.com,borneonusantaranews.com,centangbirumedia.com,channelntb.com,deltapariranews.com,dentamedia.id,dhean.news,dikonews7.com,dutanusantaramerdeka.com,fajarsumbar.com,faktanews.id,gebraknasional.com,gustani.id,harianmerdeka.id,indomen.co.id,jurnalispost.online,kabarviral79.com,kapuaspost.web.id,kebumenekspres.com,kepriaktual.com,kodim1307.id,komentar.co,kontakbanten.co.id,koranaceh.net,kwarta5.com,lamosai.com,lelemuku.com,lintashukum-indonesia.com,literasi.net,mandalikapost.com,marmatanews.id,mediarakyatnusantara.online,mediawawasan.com,onlinepantura.com,parasriau.com,peoplenews.id,pilarempat.com,postkotantb.com,redaksimanado.com,reviewsteknologiku.tech,runnerscase.com,sahabatnews.net,samudranews.com,sasambonews.com,selaparangnews.com,senipertanian.com,seputarkebumen.com,suarakonsumenindonesia.com,tanamonews.com,targetwarta.com,trust3media.com,ujaran.co.id,vnn.co.id##.widget:has(> .widget-content > a > img)
+baliberkabar.id,bentengsumbar.com,bijaknews.com,borneonusantaranews.com,centangbirumedia.com,channelntb.com,deltapariranews.com,dentamedia.id,dhean.news,dikonews7.com,dutanusantaramerdeka.com,fajarsumbar.com,faktanews.id,gebraknasional.com,gustani.id,harianmerdeka.id,indomen.co.id,jejakkasus.id,jurnalispost.online,kabarviral79.com,kapuaspost.web.id,kebumenekspres.com,kepriaktual.com,kodim1307.id,komentar.co,kontakbanten.co.id,koranaceh.net,kwarta5.com,lamosai.com,lelemuku.com,lintashukum-indonesia.com,literasi.net,mandalikapost.com,marmatanews.id,mediarakyatnusantara.online,mediasergap.com,mediawawasan.com,onlinepantura.com,parasriau.com,peoplenews.id,pilarempat.com,postkotantb.com,redaksimanado.com,reviewsteknologiku.tech,runnerscase.com,sahabatnews.net,samudranews.com,sasambonews.com,selaparangnews.com,senipertanian.com,seputarkebumen.com,suarakonsumenindonesia.com,tanamonews.com,targetwarta.com,trust3media.com,ujaran.co.id,vnn.co.id##.widget:has(> .widget-content > a > img)
 baliberkabar.id,ilampung.com,infokyai.com,jadiprofesional.com,jelajahsatu.com,lenteranasional.com,mitramabesnews.id,postkotantb.com,suarakayong.id,suarakonsumenindonesia.com##.slotbanner
 baliglobalnews.com,beritapagi.co.id,garudadaily.com,kilassultra.com##.adcontainer
 baliilu.com##img[width="866"][height="1300"]
 balikonten.com##.banner-box
 balikonten.com##img[width="728"][height="150"]
 balikpapanupdate.com##img[width="1280"][height="256"]
-balipolitika.com,berandanusantara.com,beritakota.id,buana.news,detiknews.id,indiespot.id,indonewsdaily.com,indopolitika.com,infomase.id,inilahsultra.com,kabarpapua.co.id,kalimantan-news.com,kontrasaceh.net,mediakalbarnews.com,metrobuananews.com,newsfaktahukumdanham.co.id,nusantara-news.co,papuadalamberita.com,saudagar.news,sekilasmedia.com,seputarpapua.com,sulutexpress.com,sumseltoday.com,topbusiness.id,topsumbar.co.id,utamanews.id,wartaviral.id##.widget > img
+balipolitika.com,berandanusantara.com,beritakota.id,buana.news,detiknews.id,indiespot.id,indonewsdaily.com,indopolitika.com,infomase.id,inilahsultra.com,isknews.com,kabarpapua.co.id,kalimantan-news.com,kontrasaceh.net,mediakalbarnews.com,metrobuananews.com,newsfaktahukumdanham.co.id,nusantara-news.co,papuadalamberita.com,saudagar.news,sekilasmedia.com,seputarpapua.com,sulutexpress.com,sumseltoday.com,topbusiness.id,topsumbar.co.id,utamanews.id,wartatoday.com,wartaviral.id##.widget > img
 balipost.com##div:matches-css(width: 970px):matches-css(height: 90px)
 balipost.com,humaniora.id,indeksnews.com,lintaslampung.com,liputanjatim.com,matrasnews.com,redaksisatu.id###divFLRALeft
 balipost.com,humaniora.id,indeksnews.com,lintaslampung.com,liputanjatim.com,matrasnews.com,redaksisatu.id###divFLRARight
@@ -9632,6 +9633,7 @@ dianisa.com##.banner-link
 dianisa.com##.main-advertisement
 dianisa.com##.sidebar-adv
 dicrotin.*##+js(abort-on-property-read, SGPB_POPUP_PARAMS)
+dicrotin.*##.bx_wrap
 dicrotin.*,nokephub.*##+js(aopr, SGPB_POPUP_PARAMS)
 dicrotin.fun##.bulletinwp-bulletin-item
 dicrotin.fun##.happy-section
@@ -10566,7 +10568,7 @@ kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
 kabar24.com##.skycapper
 kabarcianjur.com,khazanahgrobogan.com##img[width="790"][height="90"]
-kabardenpasar.com,kabarnusa.com,keuanganonline.id,nangunsatkerthilokabali.com,sinarpos.com,tambang.co.id##.widget:has(figure > a > img)
+kabardenpasar.com,kabarnusa.com,keuanganonline.id,nangunsatkerthilokabali.com,sinarpos.com,tambang.co.id,wartatoday.com##.widget:has(figure > a > img)
 kabargames.id###main-banner-middle
 kabargames.id##.legend_banner-container
 kabargames.id##.stickybanner

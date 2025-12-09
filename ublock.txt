@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 9 Dec 2025 13:02 UTC (updated regularly)
+! Last modified: 10 Dec 2025 05:20 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8605,12 +8605,12 @@ accuweather.*##.banner-body
 accuweather.*##.privacy-policy-banner
 accuweather.com##.sidebar-telmet-promo
 accuweather.com/adc2010/*/*.*$image
-acehbisnis.com,acehonline.co,acehtrend.com,ajnn.net,beritakini.co,bithe.co,dailyklik.id,habateras.com,halmaherapost.com,kabartamiang.com,kba.one,malukuterkini.com,senentangnews.com,suloh.id,tandaseru.com##.funds:has(> a[rel="nofollow"])
 acehekspres.com,acehportal.com,acehsatu.com,axialnews.id,baliglobalnews.com,baliilu.com,batamnow.com,batamtoday.com,beritakeadilan.com,bloktuban.com,bukamata.id,canalberita.com,ciremaitoday.com,detaktangsel.com,diaribali.com,doktersehat.com,faktualnews.co,jatimkini.com,kabarhandayani.com,kabarjombang.com,kaltimtoday.co,lintasterkini.com,mediarealitas.com,mediaselektif.com,mediawawasan.com,metropublik.com,nasionalnews.id,ortax.org,panrita.news,pilar.id,porosbumi.com,prolegalnews.id,satubanten.com,seru.co.id,teras7.com,trust3media.com,utamanews.com,zonapasar.com##img[alt*="iklan" i]
 acehekspres.com,acehportal.com,acehstandar.com,acehtrend.com,kabartamiang.com,kabartimurnews.com,malukuterkini.com,metropolis.id,modusaceh.co##article #slpremium
 acehherald.com##img[height="1024"][width="387"]
 acehherald.com##img[height="1024"][width="512"]
 acehherald.com,centralbatam.co.id,pijarnews.com,sempenanews.com##img[height="1024"][width="819"]
+acehonline.co,acehtrend.com,ajnn.net,beritamerdeka.net,bithe.co,dailyklik.id,kabartamiang.com,kba.one,modusaceh.co,senentangnews.com,suloh.id##.funds
 acehpost.id,berandatimur.com,bidikindonesianews.co.id,eksposisi.com,inspirasijambi.com,jarilampung.com,kabarjournalist.com,kilasgarutnews.id,lampungcorner.com,landaknews.id,lintascelebes.com,mediasinergi.co,newsceoaceh.com,pontianak-times.co.id,suararepubliknews.com,tribratatv.com###header-banner
 acikepri.com,kabarterkini.co.id,mimbarrakyat.co.id,radarsorong.id,rubis.id,teropongnews.com,tuntaslampung.com,wajahborneo.com,zonakalteng.co.id##.widget figure > img
 adclick.g.doubleclick.net/*
@@ -8845,7 +8845,7 @@ baliilu.com##img[width="866"][height="1300"]
 balikonten.com##.banner-box
 balikonten.com##img[width="728"][height="150"]
 balikpapanupdate.com##img[width="1280"][height="256"]
-balipolitika.com,berandanusantara.com,beritakota.id,buana.news,detiknews.id,indiespot.id,indonewsdaily.com,indopolitika.com,infomase.id,inilahsultra.com,isknews.com,kabarpapua.co.id,kalimantan-news.com,kontrasaceh.net,mediakalbarnews.com,metrobuananews.com,newsfaktahukumdanham.co.id,nusantara-news.co,papuadalamberita.com,saudagar.news,sekilasmedia.com,seputarpapua.com,sulutexpress.com,sumseltoday.com,topbusiness.id,topsumbar.co.id,utamanews.id,wartatoday.com,wartaviral.id##.widget > img
+balipolitika.com,berandanusantara.com,beritakota.id,buana.news,detiknews.id,indiespot.id,indonewsdaily.com,indopolitika.com,infomase.id,inilahsultra.com,isknews.com,kabarpapua.co.id,kalimantan-news.com,kontrasaceh.net,mediakalbarnews.com,metrobuananews.com,newsfaktahukumdanham.co.id,nusantara-news.co,papuadalamberita.com,saudagar.news,sekilasmedia.com,seputarpapua.com,sulutexpress.com,sumseltoday.com,tandaseru.com,topbusiness.id,topsumbar.co.id,utamanews.id,wartatoday.com,wartaviral.id##.widget > img
 balipost.com##div:matches-css(width: 970px):matches-css(height: 90px)
 balipost.com,humaniora.id,indeksnews.com,lintaslampung.com,liputanjatim.com,matrasnews.com,redaksisatu.id###divFLRALeft
 balipost.com,humaniora.id,indeksnews.com,lintaslampung.com,liputanjatim.com,matrasnews.com,redaksisatu.id###divFLRARight
@@ -8973,7 +8973,6 @@ beritakeadilan.com##.dekstop-core-banner-beforecontent
 beritakeadilan.com##.dekstop-core-floatbanner
 beritakeadilan.com##.dekstop-core-topbanner
 beritakotaambon.id,zonamaluku.com##.display_ads
-beritamerdeka.net##.funds
 beritametro.id##.sg-ad
 beritaminang.com,detikinspirasi.com,ex-pose.net,faktual.net,fatkhan.web.id,gardaanimalia.com,globalsulteng.com,hibata.id,industry.co.id,japos.co,jurnalmedia.id,jurnalpatrolinews.co.id,kalbarsatu.id,khazminang.id,koma.id,koranbanjar.net,koranpublika.co.id,madurapost.net,mediasulsel.com,munadi.id,penaku.id,radarcikarang.com,redaksi24.co.id,sekindo.id,sijorikepri.com,suarapena.com,tangerangraya.net,tintainformasi.com,topsumbar.co.id,torangbisa.com,uzone.id,waspada.id,wawainews.id,zonajogja.com##.idt-textinsidepost
 beritapagi.co.id,detikglobalnews.com,faktabanten.co.id,kalesang.id,kepritoday.com,lintaswarta.net,majalahintrust.com,nawalamedia.id,penamerdeka.com,pilarcakrawala.news,saskindomedia.com,suryapagi.com,terabasnews.com##div[itemtype="https://schema.org/WPAdBlock"] > img
@@ -9373,6 +9372,8 @@ cnbcindonesia.com##.detail-text > div:matches-css(margin: 24px -18px):has(> div:
 cnbcindonesia.com##.detikads
 cnbcindonesia.com##.min-w-0.detail-text > .detail-text > div > div
 cnbcindonesia.com##.parallax-ads
+cnbcindonesia.com##.sticky-banner
+cnbcindonesia.com##.sticky-banner-desktop
 cnbcindonesia.com##.stickystatic
 cnbcindonesia.com##[style*="margin-top:24px;margin-bottom: 24px; margin-left:-18px;margin-right: -18px; padding-bottom: 12px;"]
 cnbcindonesia.com##div.undefined
@@ -11319,7 +11320,6 @@ moenime.com###w-node-b77
 moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: absolute))
 moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: relative))
 moenime.com##+js(aeld, click, /\.php\?/)
-moenime.com##+js(href-sanitizer, [href*="?s="], ?s)
 moenime.com##+js(no-fetch-if, trafficbass.com)
 moenime.com##+js(nowoif)
 moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)

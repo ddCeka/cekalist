@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 10 Dec 2025 13:21 UTC (updated regularly)
-! host_count: 14928
+! Last modified: 13 Dec 2025 23:05 UTC (updated regularly)
+! host_count: 14943
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -682,6 +682,7 @@
 0.0.0.0 ads.imbc.com
 0.0.0.0 ads.imovideo.ru
 0.0.0.0 ads.indosatooredoo.com
+0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.iosappsworld.com
 0.0.0.0 ads.jianchiapp.com
 0.0.0.0 ads.kaskus.co.id
@@ -4131,6 +4132,7 @@
 0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 config.appjolt.com
 0.0.0.0 config.aps.amazon-adsystem.com
+0.0.0.0 config.inmobi.com
 0.0.0.0 config.jpush.cn
 0.0.0.0 config.safedk.com
 0.0.0.0 config.toto.zipoapps.com
@@ -5154,6 +5156,7 @@
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-us.ssp.taxssp.com
 0.0.0.0 event.aimailhome.io
+0.0.0.0 event.bigkeyboardeasyphone.com
 0.0.0.0 event.clientgear.com
 0.0.0.0 event.flareflow.tv
 0.0.0.0 event.karrotmarket.com
@@ -5162,6 +5165,7 @@
 0.0.0.0 eventchain.co
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 0.0.0.0 eventgw.twilio.com
+0.0.0.0 events-api.lyrebirdstudio.net
 0.0.0.0 events-api.soundcloud.com
 0.0.0.0 events-api.towneers.prod.data.krmt.io
 0.0.0.0 events-collector-api.viacom.tech
@@ -5708,6 +5712,7 @@
 0.0.0.0 gladiatorslots.com
 0.0.0.0 gladius.im
 0.0.0.0 gladius.ws
+0.0.0.0 glance.inmobi.com
 0.0.0.0 glints.com
 0.0.0.0 global-elektronik.com
 0.0.0.0 global-news.co.id
@@ -6460,6 +6465,7 @@
 0.0.0.0 igobokep.cam
 0.0.0.0 igodesu.tv
 0.0.0.0 igrid.org
+0.0.0.0 iguazu.doordash.com
 0.0.0.0 ihqfiimrbcf.com
 0.0.0.0 ihram.co.id
 0.0.0.0 ihwal.id
@@ -8105,6 +8111,7 @@
 0.0.0.0 live.gila
 0.0.0.0 live.hyprmx.com
 0.0.0.0 live.primis.tech
+0.0.0.0 live.ravelin.click
 0.0.0.0 live4d2u.com
 0.0.0.0 livebet.com
 0.0.0.0 livecasino.com
@@ -8162,6 +8169,7 @@
 0.0.0.0 log.bloodsugars.live
 0.0.0.0 log.cleandesigner.live
 0.0.0.0 log.cleanertoolboxonline.live
+0.0.0.0 log.cleansweepplu.com
 0.0.0.0 log.documentmanagerpdfdocxlssale.live
 0.0.0.0 log.down61.com
 0.0.0.0 log.dramaboxdb.com
@@ -8185,6 +8193,7 @@
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.oceanzz.xyz
 0.0.0.0 log.outbrain.com
+0.0.0.0 log.pdfbookeditor.live
 0.0.0.0 log.pdfviewerscannerstore.live
 0.0.0.0 log.phonefreshfix.live
 0.0.0.0 log.pngindir.com
@@ -8973,6 +8982,7 @@
 0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 moai-dev-samsung.com
 0.0.0.0 moatads.com.edgekey.net
+0.0.0.0 mob2.cactus-bp.com
 0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mob2.healthtrackergroup.com
 0.0.0.0 mob2.musicgostudio.com
@@ -9522,6 +9532,7 @@
 0.0.0.0 newyorklotteryresults.org
 0.0.0.0 nexac.com
 0.0.0.0 next.adjust.com
+0.0.0.0 nextacdn.top
 0.0.0.0 nf799.com
 0.0.0.0 nfl-sports-betting.net
 0.0.0.0 nflsportsbetting.org
@@ -10013,6 +10024,7 @@
 0.0.0.0 otakotaku.com
 0.0.0.0 otakudesu.cloud
 0.0.0.0 otcdn2.auditude.com
+0.0.0.0 otel-mobile.doordash.com
 0.0.0.0 other.appcpi.net
 0.0.0.0 otodriver.com
 0.0.0.0 otoinfo.id
@@ -10323,6 +10335,7 @@
 0.0.0.0 permainanbolatangkasgratis.net
 0.0.0.0 permainanibcbet.com
 0.0.0.0 permatabbcell.com
+0.0.0.0 perseus-productanalytics.deliveryhero.net
 0.0.0.0 perstoday.com
 0.0.0.0 pertamax7.com
 0.0.0.0 pertholin.com
@@ -12230,6 +12243,7 @@
 0.0.0.0 solusiharian.com
 0.0.0.0 solusinews.id
 0.0.0.0 somehowrockyng.shop
+0.0.0.0 sonicsads.com
 0.0.0.0 sonobi.com
 0.0.0.0 sonora.id
 0.0.0.0 sonyqq.com
@@ -12373,6 +12387,7 @@
 0.0.0.0 stas.outbrain.com
 0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 stat-in.dc.oppomobile.com
+0.0.0.0 stat.apfgexfusion.com
 0.0.0.0 stat.dp.vocalbeats.com
 0.0.0.0 stat.duokanbox.com
 0.0.0.0 stat.flashtalking.com

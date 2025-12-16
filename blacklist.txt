@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 13 Dec 2025 23:05 UTC (updated regularly)
-! host_count: 14943
+! Last modified: 16 Dec 2025 18:39 UTC (updated regularly)
+! host_count: 14946
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -1820,6 +1820,7 @@
 0.0.0.0 api.appnxt.net
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api.apptentive.com
+0.0.0.0 api.arity.com
 0.0.0.0 api.branch.io
 0.0.0.0 api.bridgeoos.com
 0.0.0.0 api.browsermine.com
@@ -4181,6 +4182,7 @@
 0.0.0.0 cpaclickoffers.com
 0.0.0.0 cpactions.com
 0.0.0.0 cpanel-adminhost.com
+0.0.0.0 cpatrk.net
 0.0.0.0 cpmstar.com
 0.0.0.0 cpx.to
 0.0.0.0 cr-p10.ladsp.jp
@@ -8982,6 +8984,7 @@
 0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 moai-dev-samsung.com
 0.0.0.0 moatads.com.edgekey.net
+0.0.0.0 mob2.bpt.apprevork.com
 0.0.0.0 mob2.cactus-bp.com
 0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mob2.healthtrackergroup.com

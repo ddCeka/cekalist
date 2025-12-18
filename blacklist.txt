@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 17 Dec 2025 18:55 UTC (updated regularly)
-! host_count: 14946
+! Last modified: 18 Dec 2025 23:47 UTC (updated regularly)
+! host_count: 14947
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -11689,6 +11689,7 @@
 0.0.0.0 sdk.out.usbla.net
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdk.stats-locations.com
+0.0.0.0 sdkc.vervegroupinc.net
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdks.stats-locations.com

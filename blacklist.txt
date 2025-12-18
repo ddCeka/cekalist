@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 18 Dec 2025 23:47 UTC (updated regularly)
-! host_count: 14947
+! Last modified: 19 Dec 2025 03:14 UTC (updated regularly)
+! host_count: 14949
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -5175,6 +5175,7 @@
 0.0.0.0 events-stream-svc.usw2.cordial.com
 0.0.0.0 events.api.red.wemesh.ca
 0.0.0.0 events.appsflyer.com
+0.0.0.0 events.backtrace.io
 0.0.0.0 events.betterhelp.com
 0.0.0.0 events.bsky.app
 0.0.0.0 events.character.ai
@@ -8239,6 +8240,7 @@
 0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs-sg.rebxgame.com
 0.0.0.0 logs.amap.com
+0.0.0.0 logs.classdojo.com
 0.0.0.0 logs.dradis.netflix.com
 0.0.0.0 logs.gaaana.com
 0.0.0.0 logs.gshopper.com

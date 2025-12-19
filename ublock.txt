@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 19 Dec 2025 12:34 UTC (updated regularly)
+! Last modified: 20 Dec 2025 00:43 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8565,13 +8565,14 @@
 @@||mivo.com^$generichide
 @@||novelgo.id^$generichide
 @@||p.jwpcdn.com/player/plugins/vast/$domain=juragan.*|juraganfilm.info
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bukutafsirmimpi.xyz|kbm.id
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bukutafsirmimpi.xyz|ditulis.id|kbm.id
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=jurnalistekno.id|khaddavi.net|lokerwfh.net|smasnug.biz.id|tutwuri.id
 @@||pramborsfm.com^$ghide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||pusatpemasanganiklan.com^$ghide
 @@||sanjayaops.com^$generichide
 @@||static.doubleclick.net/instream/ad_status.js$domain=kisahdunia.com
+@@||static.doubleclick.net/instream/ad_status.js$xhr,domain=ditulis.id
 @@||surgatekno.com^$ghide
 @@||tokopedia.net/img/topads/$1p,image
 @@||tokusatsuindo.com^$generichide
@@ -9679,6 +9680,8 @@ dinaspajak.com###adsmabur
 diskursusnetwork.com##a[href^="https://maps.app.goo.gl/"]:has(> img)
 disway.id,idgameware.com,nusantaratv.com##.ads-slot
 disway.id,motorexpertz.com,postingnews.id,semaraknews.co.id##.nkt__stick
+ditulis.id,mastrigus.com##.cookie-notification
+ditulis.id,reviewsteknologiku.tech,suarakuningan.com##a[href^="https://s.shopee.co.id/"]
 divyamodapk.com##.custpostads
 djafa.org,mbaheza.com##p:has(> .adsbygoogle)
 dodz.pro,ds2play.com##+js(nowoif)
@@ -10296,6 +10299,7 @@ indogamers.com###bottombanner
 indogamers.com##.display__banner
 indogamers.com,poskota.co.id,sukabumiupdate.com##.display__banner
 indojavstream.*##.box_item_ads_popup
+indoleads.com##.cookie-law
 indomerdeka.com##.navbar-main-ads
 indomerdeka.com,palembangindependen.com##.navbar-main-ads
 indometro.id,namatin.com,nomplok.com,sebagai.com,situskuliner.com##.widget a[target="_blank"]:has(> img)
@@ -11198,7 +11202,6 @@ marketeers.com##.w-\[300px\]
 marketeers.com##article [class^="bg-gray-"]:has-text(/adv/i)
 marketeers.com##div:has(> iframe[src^="https://ads.marketeers.com"])
 marza11.shop##.skpt_2nd.img
-mastrigus.com##.cookie-notification
 matadewata.com##img[width="727"][height="338"]
 matain.id##.app_layer
 matamata.com##.wrap-ads-leaderboard
@@ -11353,7 +11356,7 @@ moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: static):
 moenime.com##*:matches-css(position: fixed):has(img):not(.scroll-to-top)
 moenime.com##*:matches-css(position: fixed):matches-css(background-image: /base64/)
 moenime.com##*:matches-css(position: relative):matches-css(border-image-source: /url\(/)
-moenime.com##+js(acis, document.getElementById, Blob()
+moenime.com##+js(acis, document.getElementById, /Blob\(|attachShadow/)
 moenime.com##+js(aeld, /mouseup|pointerup/, /window\.open|decodeURIComponent/)
 moenime.com##+js(aeld, click, /\.php|fromCharCode/)
 moenime.com##+js(no-fetch-if, trafficbass.com)
@@ -12381,6 +12384,8 @@ tirto.id###bkgOverlay
 tirto.id###bn-premium
 tirto.id###delayedPopup
 tirto.id###premium
+tirto.id###sidebanner1
+tirto.id###sidebanner2
 tirto.id##+js(aopr, window.$nuxt._route.query.copy)
 tirto.id##+js(rc, container900, div)
 tirto.id##.article-sidebar
@@ -13531,6 +13536,7 @@ zurich.co.id##.privacy-warning-main
 ||cendanagaming.$popup
 ||cendanapoker.$image,third-party
 ||cendanapoker.$popup
+||centerklik.com^*/banner-
 ||ceritanakal.com/wp-content/uploads/2025/06/GIF-*.gif$image
 ||ceritasex.$popup
 ||cfcdn.apcqwd.com/prod/svimg/*.gif|$image
@@ -14389,6 +14395,7 @@ zurich.co.id##.privacy-warning-main
 ||itutoto.$image,third-party
 ||ituvip.$image,third-party
 ||iustitiapapua.com^*/banner/
+||iuxmarket.com/api/v2/affiliate/$image,domain=~iux.com|~iuxmarket.com
 ||ivopoker.$image,third-party
 ||ivopoker.$popup
 ||iwashstation.com^
@@ -15350,6 +15357,7 @@ zurich.co.id##.privacy-warning-main
 ||opuspoker.cc^$popup
 ||orientalpoker.$image,third-party
 ||orientalpoker.$popup
+||ostife.com^*/banner-
 ||otomotif1.com/banner/
 ||otostar.id/images/banners/
 ||otto4d.$image,third-party
@@ -15360,7 +15368,6 @@ zurich.co.id##.privacy-warning-main
 ||pabrikpoker.$image,third-party
 ||pacificpoker.com^$third-party
 ||padssup.com^$third-party
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js,domain=duniakode.com|harianmerdeka.id|herdamedia.com|indokontraktor.com|kersabaca.com|kuyhaa.me|laptophia.com|masdhika.com|otakotaku.com|serieswans.com|shinryu2.blogspot.com|trivusi.web.id|yukinoshita.web.id
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js,domain=isekaipalace.com
 ||pagead2.googlesyndication.com^
 ||pages.dev^$script,domain=atlantaelectronics.co.id
@@ -16336,7 +16343,6 @@ zurich.co.id##.privacy-warning-main
 ||tipstaruhansbobet.$image,third-party
 ||tiradar.id^*/banner-
 ||tirasonline.com^*/iklan-$image
-||tirto.id/embed/affiliate/$frame
 ||titipjepang.com^*/banner-$image
 ||tlauncher.co.com^
 ||tlauncher.org^
@@ -16789,6 +16795,7 @@ zurich.co.id##.privacy-warning-main
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
+~adsterra.com##[href^="https://beta.publishers.adsterra.com/signup"]:has(img)
 ~adsterra.com##[href^="https://publishers.adsterra.com/referral/"]:has(img)
 ~adv.co.id##[href^="https://adv.co.id"]:has(img)
 ~ajaib.co.id##[href^="https://referral.ajaib.co.id/"]:has(img)
@@ -16833,6 +16840,8 @@ zurich.co.id##.privacy-warning-main
 ~injd.site##[href="https://injd.site/login"]
 ~intellifluence.com##a[href^="https://links.intellifluence.com/"]:has(img)
 ~invol.co,~involve.asia##a[href^="https://invol.co/aff_"]
+~iux.com,~iuxmarket.com##[href^="https://portal.iux.com/id/register"]:has(img)
+~iux.com,~iuxmarket.com##[href^="https://portal.iux.com/sg/register"]:has(img)
 ~jagoanhosting.com##[href^="https://member.jagoanhosting.com/aff.php"]:has(img)
 ~jayaabadi.pro##[href^="https://jayaabadi.pro/"]
 ~jogjaweb.co.id##[href^="https://hub.jogjaweb.co.id/aff.php?"]:has(img)

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 20 Dec 2025 00:43 UTC (updated regularly)
+! Last modified: 20 Dec 2025 12:08 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -1689,7 +1689,6 @@
 ##[href*="https://menujupenta.site/"]
 ##[href*="luxury111" i]
 ##[href*="luxury138" i]
-##[href*="ouo.io/ref/"]
 ##[href="http://bit.ly/KaikoSLOT"]
 ##[href="http://bit.ly/MENANG123"]
 ##[href="http://bit.ly/PentaSLOT"]
@@ -2889,8 +2888,6 @@
 ##[href^="https://rebrand.ly/Sport388_"]
 ##[href^="https://rebrand.ly/adsgacor1"]
 ##[href^="https://rebrand.ly/idxline"]
-##[href^="https://safelinkblogger.com/ref/"]
-##[href^="https://safelinku.com/ref/"] > img
 ##[href^="https://satsport.com"]
 ##[href^="https://slotguru88gandul.com/register"]
 ##[href^="https://sokuja.id/"][rel*="nofollow"]:has(> img)
@@ -6974,6 +6971,7 @@
 /ITCBET.gif|$image
 /IklanGIF/*$image
 /JPDEWA.gif|$image
+/JStivenCM/Aggressive-Anti-AdBlock/*
 /JUDIKARTU.gif|$image
 /JuaraCapsa.gif|$image
 /KAYA303_desktop.$image
@@ -8629,7 +8627,6 @@ aboutsemarang.id,indoposco.id,linggaterkini.com,timur-online.com##img[width="970
 accuweather.*##.banner-body
 accuweather.*##.privacy-policy-banner
 accuweather.com##.sidebar-telmet-promo
-accuweather.com/adc2010/*/*.*$image
 acehekspres.com,acehportal.com,acehsatu.com,axialnews.id,baliglobalnews.com,baliilu.com,batamnow.com,batamtoday.com,beritakeadilan.com,bloktuban.com,bukamata.id,canalberita.com,ciremaitoday.com,detaktangsel.com,diaribali.com,doktersehat.com,faktualnews.co,jatimkini.com,kabarhandayani.com,kabarjombang.com,kaltimtoday.co,lintasterkini.com,mediarealitas.com,mediaselektif.com,mediawawasan.com,metropublik.com,nasionalnews.id,ortax.org,panrita.news,pilar.id,porosbumi.com,prolegalnews.id,satubanten.com,seru.co.id,teras7.com,trust3media.com,utamanews.com,zonapasar.com##img[alt*="iklan" i]
 acehekspres.com,acehportal.com,acehstandar.com,acehtrend.com,kabartamiang.com,kabartimurnews.com,malukuterkini.com,metropolis.id,modusaceh.co##article #slpremium
 acehherald.com,centralbatam.co.id,pijarnews.com,sempenanews.com##img[height="1024"][width="819"]
@@ -11919,7 +11916,6 @@ republika.co.id##header:style(position: inherit !important)
 republikbobotoh.com##a[href*="/ads/"]:has(img)
 retrogametalk.com##.floatingchat-container-wrap-mobi
 retrogametalk.com##.widget-area.sidebar
-reviewsteknologiku.tech,suarakuningan.com##a[href^="https://s.shopee.co.id/"]
 rgames31.com##.entry-content > center a[target="_blank"] input
 rgol.id###ads
 rgol.id##img[width="1360"][height="240"]
@@ -15457,6 +15453,7 @@ zurich.co.id##.privacy-warning-main
 ||penaku.id^*/iklan-$image
 ||pendekarqq.$image,third-party
 ||pendekarqq.$popup
+||pengepulmobil.com^*/banner_
 ||perjudianonline.com^$third-party
 ||pertamax7.com^*/banner-$image
 ||pertaniannews.com^*/banner-$image
@@ -16691,6 +16688,7 @@ zurich.co.id##.privacy-warning-main
 ||wp.com/*.photobucket.com/*/Blogger%20Perempuan/banner-$domain=~bloggerperempuan.com
 ||wp.com/bloggerhub.id/wp-content/uploads/$image,domain=~bloggerhub.id
 ||wp.com/www.backlink.co.id/wp-content/uploads/$image,domain=~backlink.co.id|~blogpartner.id
+||wp.com/www.jagoanhosting.com^*/banner-$domain=~jagoanhosting.com
 ||wpadmngr.com^
 ||wpbet365.$image,third-party
 ||wsmwidget.mediaprimalabs.com^$domain=bharian.com.my|hmetro.com.my
@@ -16838,7 +16836,7 @@ zurich.co.id##.privacy-warning-main
 ~indowebsite.co.id##[href^="https://www.indowebsite.co.id/web-hosting/?id="]:has(img)
 ~inibray.link##[href^="https://inibray.link/"]
 ~injd.site##[href="https://injd.site/login"]
-~intellifluence.com##a[href^="https://links.intellifluence.com/"]:has(img)
+~intellifluence.com##[href^="https://links.intellifluence.com/"]:has(img)
 ~invol.co,~involve.asia##a[href^="https://invol.co/aff_"]
 ~iux.com,~iuxmarket.com##[href^="https://portal.iux.com/id/register"]:has(img)
 ~iux.com,~iuxmarket.com##[href^="https://portal.iux.com/sg/register"]:has(img)
@@ -16847,17 +16845,17 @@ zurich.co.id##.privacy-warning-main
 ~jogjaweb.co.id##[href^="https://hub.jogjaweb.co.id/aff.php?"]:has(img)
 ~kegz.site##[href="https://kegz.site/login"]
 ~koko88.my##[href*="koko88.my"]
-~komunitasbos.com##[href^="https://id.komunitasbos.com/aff/"]:has(img)
 ~linkfast.vip##[href^="https://linkfast.vip/"]
 ~mandiriteknik.co.id##[href*="mandiriteknik.co.id"]
 ~menujupenta.site##[href="https://menujupenta.site/login"]
 ~monetag.com##[href^="https://monetag.com/?ref_id="]:has(img)
 ~nanovest.io##[href^="https://nanovest.go.link/"]:has(img)
+~nephobox.com,~onelink.me,~terabox.com##[href^="https://terabox.onelink.me/"]:has(img)
 ~niagahoster.co.id##[href*="//niagahoster.co.id" i][href*="?REFERRALCODE" i]:has(img)
 ~niagahoster.co.id##[href^="https://panel.niagahoster.co.id/ref/"]:has(img)
 ~oketheme.com##[href^="https://www.oketheme.com/members/aff/go/"]:has(img)
-~onelink.me##[href^="https://terabox.onelink.me/"]:has(img)
 ~orangarab.fun##[href="https://orangarab.fun/777"]
+~ouo.io##[href*="ouo.io/ref/"]
 ~qwords.com##[href^="https://promosi.qwords.com/"]:has(img)
 ~rajabacklink.com##[href^="https://rajabacklink.com/refferal.php?q="]:has(img)
 ~redirect388herosafest.com##[href*="redirect388herosafest.com/register/"]:has(> img)
@@ -16869,7 +16867,7 @@ zurich.co.id##.privacy-warning-main
 ~redirectolx101safest.com##[href*="redirectolx101safest.com/register/"]:has(> img)
 ~saiikou.com##[href*="saiikou.com"]
 ~seedbacklink.com##[href="https://id.seedbacklink.com/"]:has(img)
-~seedbacklink.com##[href^="https://panel.seedbacklink.com/aff/"] > img
+~seedbacklink.com##[href^="https://panel.seedbacklink.com/aff/"]:has(img)
 ~smartfren.com##[href^="https://www.smartfren.com/connect-with-us/whats-new/promotion/"] > img
 ~suara.com##.wrap-ads-leaderboard
 ~sugeng.id##[href^="https://sugeng.id/?ref="]:has(img)

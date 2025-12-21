@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 20 Dec 2025 12:08 UTC (updated regularly)
+! Last modified: 21 Dec 2025 10:37 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -6879,7 +6879,6 @@
 .com/iklan/*$image,domain=~persis.or.id
 .gif$image,domain=/kiryuu0\d+\.com/
 .gif$image,domain=149.56.24.226|15.235.11.45|198.105.112.57|45.11.57.243|anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu03.*|komikcast.*|kuramanime.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|shinigami09.com
-.gif|$domain=moenime.com
 .gif|$image,domain=45.11.57.168|oppa.biz|oppadrama.biz
 .gif|$image,domain=oploverz.*
 .id/ads/
@@ -10196,8 +10195,8 @@ hukumkriminal.net##.hk-header-ads-area
 hukumonline.com##.my-2.d-flex.ps-ads-banner
 hukumonline.com##.product-header
 hukumonline.com##.ps-ads-banner
-hukumonline.com##div:matches-css(width: 300px):matches-css(height: 250px)
 hukumonline.com##div:matches-css(width: 320px):matches-css(height: 50px)
+hukumonline.com,inilah.com##div:matches-css(width: 300px):matches-css(height: 250px)
 humabetang.com,wowkeren.com##.ne-banner-layout1
 humaniora.id##figure:has(> a):has-text(/adv/i)
 humaniora.id##img[width="750"][height="160"]
@@ -10420,7 +10419,7 @@ inibaru.id##div.overflow-hidden.top-32.sticky.h-\[600px\].w-\[160px\].dark\:bg-i
 inibaru.id##div:has(> .adsbygoogle)
 inidramaku.net##.cm-popup-modal
 inijabar.com,suarakonsumenindonesia.com##img[title*="adv" i]
-inilah.com###__next > div[style^="height: 278px; width: 100%;"]
+inilah.com###__next > div:matches-css(height: 278px)
 inilah.com###ads-slot-top-header
 inilah.com##.MuiModal-root
 inilah.com##.MuiStack-root:has(> span:has-text(/adv/i))
@@ -11345,29 +11344,7 @@ modijiurl.com##[src^="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXs
 moenime.com###\31 xbet
 moenime.com###moemodals
 moenime.com###w-node-b77
-moenime.com##*:matches-css(position: /fixed|absolute/):has(:is(a, canvas, image, form, [onclick], [href*="base64"]))
-moenime.com##*:matches-css(position: /fixed|absolute|relative/):matches-css(background-image: /url\(/)
-moenime.com##*:matches-css(position: fixed):has(*:matches-css(background-image: /url\(/))
-moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: /absolute|relative/))
-moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: static):not([src*="WUSpzgC"]))
-moenime.com##*:matches-css(position: fixed):has(img):not(.scroll-to-top)
-moenime.com##*:matches-css(position: fixed):matches-css(background-image: /base64/)
-moenime.com##*:matches-css(position: relative):matches-css(border-image-source: /url\(/)
-moenime.com##+js(acis, document.getElementById, /Blob\(|attachShadow/)
-moenime.com##+js(aeld, /mouseup|pointerup/, /window\.open|decodeURIComponent/)
-moenime.com##+js(aeld, click, /\.php|fromCharCode/)
 moenime.com##+js(no-fetch-if, trafficbass.com)
-moenime.com##+js(nowoif)
-moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
-moenime.com##.entry-content div:matches-css(text-align: center):has(img + [onclick])
-moenime.com##.show
-moenime.com##.site-content:style(z-index: 10 !important; position: relative!important;)
-moenime.com##a[target*="blank"]:has(> img)
-moenime.com##body > svg
-moenime.com##div:has(:has-text(/\/donate/))
-moenime.com##div[style*="background-color"]:has(> [onclick*="none"])
-moenime.com##footer :has-text(/TeraBox/i)
-moenime.com##form:matches-css(position: fixed)
 mojok.co###kontainer-ads-desktop
 mojok.co###kontainer-ads-mobile
 mojok.co##img[width="1200"][height="240"]
@@ -11977,6 +11954,7 @@ samehadaku.*##a[target="_blank"] ~ .naveps:style(display: inline !important;)
 samehadaku.*##a[target="_blank"] ~ .pencenter:style(display: inline-block !important;)
 samehadaku.*##div[class*="player-iklan"]
 samehadaku.*##img[style="width: 50%; height: 70px;"]
+sammobile.com##.adm-ad-loading
 sanga.id##img[height="1600"][width="900"]
 sange.link##.Dvr-B
 sange.link##.DvrCn

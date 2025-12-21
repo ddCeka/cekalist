@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 20 Dec 2025 12:08 UTC (updated regularly)
-! host_count: 14954
+! Last modified: 21 Dec 2025 10:36 UTC (updated regularly)
+! host_count: 14958
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -9760,6 +9760,7 @@
 0.0.0.0 ocoin.tech
 0.0.0.0 oconner.biz
 0.0.0.0 octafx.com
+0.0.0.0 octillion.tv
 0.0.0.0 octopusgirl.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 oddscheck.com
@@ -9994,6 +9995,7 @@
 0.0.0.0 open.oneplus.net
 0.0.0.0 openadserving.com
 0.0.0.0 openbet.com
+0.0.0.0 openglass.tv
 0.0.0.0 openkerja.id
 0.0.0.0 openlog.tapapis.cn
 0.0.0.0 openrtb.cootlogix.com
@@ -11091,6 +11093,7 @@
 0.0.0.0 ratutogel.org
 0.0.0.0 rawkuma.com
 0.0.0.0 rayaponsel.org
+0.0.0.0 rayjump.com
 0.0.0.0 rb88.com
 0.0.0.0 rb887.com
 0.0.0.0 rbg.id
@@ -14406,6 +14409,7 @@
 0.0.0.0 wu5555.com
 0.0.0.0 wu6666.com
 0.0.0.0 wurfl.io
+0.0.0.0 wurl.com
 0.0.0.0 ww9.fitgirl-repacks.xyz
 0.0.0.0 www-bankera.com
 0.0.0.0 www-enigma.co

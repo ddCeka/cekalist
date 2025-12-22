@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 22 Dec 2025 04:22 UTC (updated regularly)
+! Last modified: 22 Dec 2025 10:57 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -5410,7 +5410,6 @@
 ##a[href^="https://pokervking.net"]
 ##a[href^="https://prediksidara.com"]
 ##a[href^="https://prediksidukuntogel.top"]
-##a[href^="https://promosi."][target="_blank"]:has(img)
 ##a[href^="https://pucuk88.org/register"]
 ##a[href^="https://pusatbandarq."]
 ##a[href^="https://pusatqq."]
@@ -12233,7 +12232,7 @@ tafsirweb.com##article:nth-of-type(2) > div:nth-of-type(3)
 tangerangnews.co.id##.parallxads
 tangerangnews.com##.banner-right
 tangselmedia.com##.widget-area a[target="_blank"][rel*="noreferrer"]:has(> img)
-taplink.at##.cookie-banner
+taplink.at,tirto.id##.cookie-banner
 techinasia.com##.gam-ads-banner
 techkhulasha.com###main-widget
 techkhulasha.com##+js(set, maincount, 0)
@@ -16837,6 +16836,7 @@ zurich.co.id##.privacy-warning-main
 ~orangarab.fun##[href="https://orangarab.fun/777"]
 ~ouo.io##[href*="ouo.io/ref/"]
 ~qwords.com##[href^="https://promosi.qwords.com/"]:has(img)
+~qwords.com##[href^="https://promosi."][target="_blank"]:has(img)
 ~rajabacklink.com##[href^="https://rajabacklink.com/refferal.php?q="]:has(img)
 ~redirect388herosafest.com##[href*="redirect388herosafest.com/register/"]:has(> img)
 ~redirectbaik777safest.com##[href*="redirectbaik777safest.com/register/"]:has(> img)

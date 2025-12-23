@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 22 Dec 2025 04:21 UTC (updated regularly)
-! host_count: 14959
+! Last modified: 23 Dec 2025 08:51 UTC (updated regularly)
+! host_count: 14962
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -6760,6 +6760,7 @@
 0.0.0.0 infotogelharian.com
 0.0.0.0 infototobet.net
 0.0.0.0 ingamesads.gameloft.com
+0.0.0.0 ingest.m2catalyst.com
 0.0.0.0 inginlihat.com
 0.0.0.0 inhilklik.com
 0.0.0.0 ini.sh-pp.com
@@ -13341,6 +13342,7 @@
 0.0.0.0 tmz.vo.llnwd.net
 0.0.0.0 tnc-boot.capcutapi.com
 0.0.0.0 tnc-sg.capcutapi.com
+0.0.0.0 tnc-v2-boot.capcutapi.com
 0.0.0.0 tnc-va-us-looki.capcutapi.com
 0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
@@ -13878,6 +13880,7 @@
 0.0.0.0 unibet.net
 0.0.0.0 unicorpbrunei.com
 0.0.0.0 unicume.com
+0.0.0.0 unisdk.proxima.nie.easebar.com
 0.0.0.0 uniswap.services
 0.0.0.0 unitedgames.net
 0.0.0.0 unityads.unity3d.com

@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 24 Dec 2025 10:54 UTC (updated regularly)
-! host_count: 14962
+! Last modified: 25 Dec 2025 03:13 UTC (updated regularly)
+! host_count: 14966
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -6473,6 +6473,7 @@
 0.0.0.0 igodesu.tv
 0.0.0.0 igrid.org
 0.0.0.0 iguazu.doordash.com
+0.0.0.0 ihmonitor.luckincoffee.us
 0.0.0.0 ihqfiimrbcf.com
 0.0.0.0 ihram.co.id
 0.0.0.0 ihwal.id
@@ -13076,6 +13077,7 @@
 0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.codefusion.technology
 0.0.0.0 telemetry.navigatorapp.net
+0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 telemetryverification.net
 0.0.0.0 teleport.soom.la
@@ -13936,6 +13938,7 @@
 0.0.0.0 usdiagnosis.icocofun.com
 0.0.0.0 use-cr.svr-algorix.com
 0.0.0.0 use-tor.adsrvr.org
+0.0.0.0 use-trk.monetune.com
 0.0.0.0 useads.com
 0.0.0.0 usekahuna.com
 0.0.0.0 user-signals.production-public.tubi.io
@@ -14130,6 +14133,7 @@
 0.0.0.0 vs-api.voodoo-tech.io
 0.0.0.0 vserv.mobi
 0.0.0.0 vsjack.com
+0.0.0.0 vsn-analytics.aparentmedia.com
 0.0.0.0 vstorrent.org
 0.0.0.0 vtewggxzbrcv.bid
 0.0.0.0 vungle.com

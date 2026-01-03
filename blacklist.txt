@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 31 Dec 2025 16:09 UTC (updated regularly)
-! host_count: 14970
+! Last modified: 3 Jan 2026 19:07 UTC (updated regularly)
+! host_count: 14972
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -8195,6 +8195,7 @@
 0.0.0.0 log.happyapkdown.com
 0.0.0.0 log.heartratepros.com
 0.0.0.0 log.hiapkdownload.com
+0.0.0.0 log.hotweathers.live
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.jackpotmasterslots.com
 0.0.0.0 log.kajicam.com
@@ -9793,6 +9794,7 @@
 0.0.0.0 offsidebet.com
 0.0.0.0 offtrackbetting.com
 0.0.0.0 oficial-kmspico.com
+0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 ogrid.org
 0.0.0.0 ohiocasinos.net
 0.0.0.0 ohiolotteryresults.org

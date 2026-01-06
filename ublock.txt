@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 5 Jan 2026 21:07 UTC (updated regularly)
+! Last modified: 6 Jan 2026 13:57 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -6674,7 +6674,7 @@
 -720x90-
 -728x90a.
 -780-x-90-$image,domain=bogordaily.net
--970x250-$image,domain=popculture.id
+-970x250-$image,domain=lampiran.id|popculture.id
 -970x90px-$image,domain=dara.co.id
 -970x90px.$image,domain=gadgetdiva.id
 -Banner-Iklan-$image
@@ -8075,10 +8075,10 @@
 /ratulotto.$image,third-party
 /ratuqq.$image,third-party
 /ratuqq.gif$image
-/rbtvplus\d+\.(com|blog|help|vip)/##*:style(scrollbar-width: thin!important;)
-/rbtvplus\d+\.(com|blog|help|vip)/##:matches-path(/id) div:matches-css(position: fixed):has(> img)
-/rbtvplus\d+\.(com|blog|help|vip)/##:matches-path(/id) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
-/rbtvplus\d+\.(com|blog|help|vip)/##:matches-path(/id) iframe + div:matches-css(position: absolute):has(> img)
+/rbtvplus\d+\.(com|blog|help|vip|xyz)/##*:style(scrollbar-width: thin!important;)
+/rbtvplus\d+\.(com|blog|help|vip|xyz)/##:matches-path(/id) div:matches-css(position: fixed):has(> img)
+/rbtvplus\d+\.(com|blog|help|vip|xyz)/##:matches-path(/id) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
+/rbtvplus\d+\.(com|blog|help|vip|xyz)/##:matches-path(/id) iframe + div:matches-css(position: absolute):has(> img)
 /rctiqq.$image,third-party
 /rdomino.$image,third-party
 /rejekibet.$image,third-party
@@ -8476,7 +8476,7 @@
 68.65.123.84,avtub.io##.blocker.jquery-modal
 80.209.252.146###floattop
 80.209.252.146###top6
-86news.co,ajknews.co,altinanews.com,andalas-time.com,angket24.id,babadbanten.com,bacaonline.id,bakabar.com,balebandung.com,banjarbaruklik.com,barayanews.com,bbsnews.co.id,bekasipedia.com,beritainvestigasinews.id,beritajatim.com,beritamerdekaonline.com,beritamusi.co.id,betara.id,bingkaiwarta.co.id,bogornetwork.com,cahyamedia.co.id,cambaiqu.id,cipulusnews.com,ciremaitoday.com,classyfm.co.id,corongrakyat.co.id,detiksulawesi.com,dikita.id,distrikbantennews.com,dunia-energi.com,ebcmedia.id,fajarharapan.id,figurnews.com,gnews.co.id,gonews.id,harianamanat.com,harianesia.com,hitzserpong.com,idnnewspublish.com,indonesianews.co.id,indotribun.id,infomalangraya.com,inilahonline.com,inisumedang.com,investigasirakyat.com,jabar-online.com,jalurnews.com,jambioke.com,jambiseru.com,jejakkriminal.net,jubi.id,jurnalbengkulu.com,jurnalbidas.com,jurnalborneo.com,jurnalispos.id,kabarmancing.com,kabarsiger.com,kabartangsel.com,kabarxxi.com,kaltimnews.co,kaltimtoday.co,kanalkota.com,karosatuklik.com,katinting.com,kemajuanrakyat.id,kibar.news,klikwarta.com,koranmonitor.com,kotawaringinnews.co.id,lahatsatu.com,lensa-rakyat.com,lensanews.net,lintaspost.id,liputan68.com,majalahsinergitas.id,makassarinsight.com,makassarmetro.com,manadonews.co.id,mediajustitia.com,mediapublik.net,mediaterobos.com,mediatnipolri.id,memotimur.id,mistar.id,mokinews.com,montera.co.id,musirawas.com,nansarunai.com,natmed.id,nawacitalink.com,neazone.id,okemedan.com,okeyboz.com,opsintb.com,otomotif1.com,palapanews.com,pantaulampung.com,pijarnusa.com,pilarcakrawala.news,portalmerdeka.id,prabunews.com,prioritastv.com,propertinews.id,puankepri.com,pusaranmedia.com,radarcikarang.com,radarcom.id,radarjakarta.id,radarkeadilan.com,rakyatpos.id,rebolasi.com,ruangbicara.co.id,rubrika.co.id,saskindomedia.com,satupiston.com,sebelas12.com,selasar.co,seputarforex.com,seputarsulut.com,serambijambi.id,seraungpost.com,shalokalindonesia.com,siarindomedia.com,sijorikepri.com,silabuskepri.co.id,sketsaindonesia.co.id,starbanjar.com,suarabangka.com,sukoharjonews.com,suluhnews.id,sumselindependen.com,sumselnian.com,sumselupdate.com,suryanenggala.id,suryapagi.com,swatantranews.com,tegas.co,teraskabar.id,teropongmedia.id,theacehpost.com,tifamaluku.com,tilik.id,topiksultra.com,topmetro.news,trenasia.com,trenasia.id,trust3media.com,utamanews.id,utamapost.com,voxlampung.com,wanmedia.co.id,warna.co,wartabanten.id,wartahukum.net,wartanesia.id,wawainews.id,zonaintelektual.com,zonapasar.com##img[alt*="banner" i]
+86news.co,ajknews.co,altinanews.com,andalas-time.com,angket24.id,babadbanten.com,bacaonline.id,bakabar.com,balebandung.com,banjarbaruklik.com,barayanews.com,bbsnews.co.id,bekasipedia.com,beritainvestigasinews.id,beritajatim.com,beritamerdekaonline.com,beritamusi.co.id,betara.id,bingkaiwarta.co.id,bogornetwork.com,cahyamedia.co.id,cambaiqu.id,cipulusnews.com,ciremaitoday.com,classyfm.co.id,corongrakyat.co.id,detiksulawesi.com,dikita.id,distrikbantennews.com,dunia-energi.com,ebcmedia.id,fajarharapan.id,figurnews.com,gnews.co.id,gonews.id,harianamanat.com,harianesia.com,hitzserpong.com,idnnewspublish.com,indonesianews.co.id,indotribun.id,infomalangraya.com,inilahonline.com,inisumedang.com,investigasirakyat.com,jabar-online.com,jalurnews.com,jambioke.com,jambiseru.com,jejakkriminal.net,jubi.id,jurnalbengkulu.com,jurnalbidas.com,jurnalborneo.com,jurnalispos.id,kabarmancing.com,kabarsiger.com,kabartangsel.com,kabarxxi.com,kaltimnews.co,kaltimtoday.co,kanalkota.com,karosatuklik.com,katinting.com,kemajuanrakyat.id,kibar.news,klikwarta.com,koranmonitor.com,kotawaringinnews.co.id,lahatsatu.com,lampiran.id,lensa-rakyat.com,lensanews.net,lintaspost.id,liputan68.com,majalahsinergitas.id,makassarinsight.com,makassarmetro.com,manadonews.co.id,mediajustitia.com,mediapublik.net,mediaterobos.com,mediatnipolri.id,memotimur.id,mistar.id,mokinews.com,montera.co.id,musirawas.com,nansarunai.com,natmed.id,nawacitalink.com,neazone.id,okemedan.com,okeyboz.com,opsintb.com,otomotif1.com,palapanews.com,pantaulampung.com,pijarnusa.com,pilarcakrawala.news,portalmerdeka.id,prabunews.com,prioritastv.com,propertinews.id,puankepri.com,pusaranmedia.com,radarcikarang.com,radarcom.id,radarjakarta.id,radarkeadilan.com,rakyatpos.id,rebolasi.com,ruangbicara.co.id,rubrika.co.id,saskindomedia.com,satupiston.com,sebelas12.com,selasar.co,seputarforex.com,seputarsulut.com,serambijambi.id,seraungpost.com,shalokalindonesia.com,siarindomedia.com,sijorikepri.com,silabuskepri.co.id,sketsaindonesia.co.id,starbanjar.com,suarabangka.com,sukoharjonews.com,suluhnews.id,sumselindependen.com,sumselnian.com,sumselupdate.com,suryanenggala.id,suryapagi.com,swatantranews.com,tegas.co,teraskabar.id,teropongmedia.id,theacehpost.com,tifamaluku.com,tilik.id,topiksultra.com,topmetro.news,trenasia.com,trenasia.id,trust3media.com,utamanews.id,utamapost.com,voxlampung.com,wanmedia.co.id,warna.co,wartabanten.id,wartahukum.net,wartanesia.id,wawainews.id,zonaintelektual.com,zonapasar.com##img[alt*="banner" i]
 92news.id##img[width="696"][height="174"]
 99updates.id###popup-ads-modal
 99updates.id##.banner-ads
@@ -12408,38 +12408,16 @@ tmcblog.com##.td-container a[target="_blank"] div[style*="position: fixed;"]
 tnp.sg##.w-full.min-h-\[50px\].lg\:min-h-\[120px\]
 tobapos.co##.news_portal_ads_banner
 toffeedev.com##:matches-path(/blog) a[href^="https://marketing.toffeedev.com/"]:has(img)
-tokopedia.*##.unf-footer-android
-tokopedia.*##.unf-footer-ios
-tokopedia.*/img/*/error-404*.*$domain=tokopedia.com,image
-tokopedia.com###product-socialholder
-tokopedia.com###shop-cover
-tokopedia.com##.article-share
-tokopedia.com##.article-share-button
 tokopedia.com##.css-6xix1i
 tokopedia.com##.css-f1hbq2
 tokopedia.com##.e1nc1fa20.css-kl3gjj
 tokopedia.com##.e90j6ys0.css-1b94wk9-unf-overlay
 tokopedia.com##.h0omPnp2Vr0upyxAZbs4jw\=\=
-tokopedia.com##.jssocials-shares
-tokopedia.com##.jssocials.product-socialholder__button
-tokopedia.com##.rvm-shares-product
-tokopedia.com##.ta-product
-tokopedia.com##.widget_media_image
 tokopedia.com##:matches-path(/find/) div[data-testid^="divFindProduct"]:has(div[data-testid="master-product-card"] [data-testid="lblTopads"])
 tokopedia.com##:matches-path(/find/) div[data-testid^="divFindProduct#"]:has(div[data-testid="master-product-card"] [data-testid="linkProductTopads"])
 tokopedia.com##:matches-path(/p/) a[data-testid="lnkProductContainer"]:has([alt*="topads"])
 tokopedia.com##:matches-path(/search?) div[data-testid="master-product-card"]:has([data-testid="divSRPTopadsIcon"])
-tokopedia.com##DIV[class="loader-wrap"]
-tokopedia.com##DIV[class="row-fluid mt-10 ml-5"]
-tokopedia.com##DIV[class="seal-account"]
-tokopedia.com##IMG[class="mr-5"]
-tokopedia.com##[class="cover__land"]
 tokopedia.com##[data-testid="WTA-TopSticky"]
-tokopedia.com##[data-testid="divSRPTopadsIcon"]:upward([data-testid="divProductWrapper"])
-tokopedia.com##[data-testid="icnHomeTopadsRecom"]:upward([class="prd_container-card css-1c4umxf"])
-tokopedia.com##[data-testid="icnHomeTopadsRecom"]:upward([data-testid="divProduct"])
-tokopedia.com##[data-testid="linkProductTopads"]:upward([data-testid="master-product-card"])
-tokopedia.com##[data-testid="topadsCPMWrapper"]out-constrained.has-global-padding.align
 tokopedia.com##a[data-testid="lnkProductContainer"]:has(img[alt^="topads"])
 tokopedia.com##body:style(margin-top: 0!important;)
 tokopedia.com##div:matches-css(position: fixed):has(> button[aria-label="close web to app pop up" i])
@@ -12457,8 +12435,6 @@ tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
 tokopedia.com#?#div[data-testid="divCarouselProduct"]:has(span:-abp-contains(/^Ad$/))
 tokopedia.com#?#div[data-testid="lazy-frame"]:has(span:-abp-contains(/^Ad$/))
 tokopedia.com#?#div[data-testid^="divProductRecommendation"]:has(span:-abp-contains(/^Ad$/))
-tokopedia.com/*/bg-city.*
-tokopedia.com/*/desktop_foreground.*
 tokosatu.com#@#.popupflyin-clicks-area
 topbusiness.id##img[width="1600"][height="197"]
 topbusiness.id##img[width="2560"][height="317"]
@@ -14790,6 +14766,7 @@ zurich.co.id##.privacy-warning-main
 ||lajupoker.$popup
 ||lakibet.$image,third-party
 ||lakipoker.$image,third-party
+||lampiran.id^*/banner-
 ||lampuhijau.com/assets/general/images/banners/
 ||lampungmandiri.id^*/iklan-$image
 ||langitqq.$image,third-party

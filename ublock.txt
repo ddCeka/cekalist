@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 7 Jan 2026 20:13 UTC (updated regularly)
+! Last modified: 9 Jan 2026 12:15 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -9458,14 +9458,6 @@ cobisnis.com##body > div:matches-css(position: fixed):has(a > img)
 cobisnis.com,tirto.id##.banner-section
 codeflare.net###adBlockInfo
 codeflare.net##.adsparallax
-codepen.io##.hero-404-iframe
-codepen.io##A[class="large-screen-logo"]
-codepen.io##DIV[class="flex-grid-thirds"]
-codepen.io##DIV[class="projects-promo"]
-codepen.io##FOOTER[id="promo-footer"][class="promo-footer"]
-codepen.io##NAV[id="link-footer-codepen-links"][class="link-footer-links link-footer-codepen-links"]
-codepen.io##NAV[id="link-footer-community-links"][class="link-footer-links link-footer-community-links"]
-codepen.io/assets/logos/*
 codingcertification.org##.ads-overlay-player
 codingcertification.org##.ads-video-iklan
 codingcertification.org##.code-block:has( > .banner-row)

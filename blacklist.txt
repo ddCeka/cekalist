@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 7 Jan 2026 20:06 UTC (updated regularly)
-! host_count: 9449
+! Last modified: 9 Jan 2026 12:11 UTC (updated regularly)
+! host_count: 9452
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -3735,6 +3735,7 @@
 0.0.0.0 evangelinedowns.com
 0.0.0.0 evebet.com
 0.0.0.0 evenorodd.com
+0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-dot-learning-piano.appspot.com
 0.0.0.0 event-portal.dailyinnovation.biz
@@ -5944,6 +5945,7 @@
 0.0.0.0 mcssnifer.net
 0.0.0.0 meadowsgaming.com
 0.0.0.0 meatspin.biz
+0.0.0.0 mebed.dm-event.net
 0.0.0.0 meccabingo.com
 0.0.0.0 med-api.admost.com
 0.0.0.0 medanbetting.com
@@ -7624,6 +7626,7 @@
 0.0.0.0 sensors.larkplayerapp.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
+0.0.0.0 sensorsdata-datasink.stardust-tv.com
 0.0.0.0 sentosa88.net
 0.0.0.0 sentraelektronika.com
 0.0.0.0 sentrapromosi.com

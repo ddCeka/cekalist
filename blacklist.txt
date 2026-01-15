@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 9 Jan 2026 12:11 UTC (updated regularly)
-! host_count: 9452
+! Last modified: 15 Jan 2026 13:35 UTC (updated regularly)
+! host_count: 9479
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -142,6 +142,7 @@
 0.0.0.0 338judicasino.org
 0.0.0.0 33999.com
 0.0.0.0 339hg.com
+0.0.0.0 360totalsecurity.com
 0.0.0.0 365hoki.com
 0.0.0.0 365iwin.com
 0.0.0.0 365kiu.com
@@ -1806,6 +1807,7 @@
 0.0.0.0 aws.userlogsanalytics.com
 0.0.0.0 axiatradeward.com
 0.0.0.0 axiobola.com
+0.0.0.0 axon.ai
 0.0.0.0 axzsd.pro
 0.0.0.0 ayambangkok.com
 0.0.0.0 ayojuara.com
@@ -3756,6 +3758,7 @@
 0.0.0.0 events-api.towneers.prod.data.krmt.io
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-stream-svc.cordial.com
+0.0.0.0 events-stream-svc.cordial.io
 0.0.0.0 events-stream-svc.usw2.cordial.com
 0.0.0.0 events.api.red.wemesh.ca
 0.0.0.0 events.appsflyer.com
@@ -3766,6 +3769,7 @@
 0.0.0.0 events.claspws.tv
 0.0.0.0 events.fubo.tv
 0.0.0.0 events.funnelish.com
+0.0.0.0 events.gonative.io
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 events.ifunny.co
 0.0.0.0 events.lbesecapi.com
@@ -3843,6 +3847,7 @@
 0.0.0.0 filebanner.com
 0.0.0.0 filecr.com
 0.0.0.0 finalbet88.com
+0.0.0.0 fingerhi.net
 0.0.0.0 fingerlakesracetrack.com
 0.0.0.0 finisihshop.com
 0.0.0.0 firamidaelektroshop.com
@@ -4325,6 +4330,7 @@
 0.0.0.0 haxnode.net
 0.0.0.0 hb-af-us-central1.outfit7.com
 0.0.0.0 hb-failover-stpceyl2ua-uw.a.run.app
+0.0.0.0 hb-mob2.optiword.com
 0.0.0.0 hb.rayjump.com
 0.0.0.0 hb588.net
 0.0.0.0 hb88u.net
@@ -5731,6 +5737,7 @@
 0.0.0.0 m99d.com
 0.0.0.0 m9d.com
 0.0.0.0 ma-code.ru
+0.0.0.0 mab-mob2.websearchapp.com
 0.0.0.0 mabesqq.net
 0.0.0.0 mabosbet.com
 0.0.0.0 mabosbet.net
@@ -5904,6 +5911,7 @@
 0.0.0.0 mastertotokl.info
 0.0.0.0 matasayu.com
 0.0.0.0 maticooads.com
+0.0.0.0 matomo.podslink.net
 0.0.0.0 matrix.dailyinnovation.biz
 0.0.0.0 maubet.com
 0.0.0.0 maubet88.com
@@ -6276,7 +6284,10 @@
 0.0.0.0 newjerseylotteryresults.org
 0.0.0.0 newmexicocasinos.net
 0.0.0.0 newmexicolotteryresults.org
+0.0.0.0 news-app-events.apple.com
 0.0.0.0 news-cdn.site
+0.0.0.0 news-events.apple.com
+0.0.0.0 news-sports-events.apple.com
 0.0.0.0 newsnet.in.ua
 0.0.0.0 newyorkcasinos.net
 0.0.0.0 newyorklotteryresults.org
@@ -6853,6 +6864,7 @@
 0.0.0.0 playtech-casino-list.com
 0.0.0.0 playwinningpoker.com
 0.0.0.0 playwinpoker.com
+0.0.0.0 playwire.com
 0.0.0.0 plazabet.com
 0.0.0.0 plazabet.net
 0.0.0.0 plazabola.com
@@ -7261,6 +7273,16 @@
 0.0.0.0 resoccertip.com
 0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 restartad.com
+0.0.0.0 revanced.dev
+0.0.0.0 revanced.net
+0.0.0.0 revanced.to
+0.0.0.0 revancedapk.net
+0.0.0.0 revancedapk.org
+0.0.0.0 revancedapp.download
+0.0.0.0 revancedapp.io
+0.0.0.0 revancedapps.com
+0.0.0.0 revancedextended.com
+0.0.0.0 revancedextended.io
 0.0.0.0 reviewed-casinos.com
 0.0.0.0 reward-api.csjplatform.com
 0.0.0.0 rezashopping.com
@@ -7783,6 +7805,7 @@
 0.0.0.0 sjg001.com
 0.0.0.0 skadnetwork.singular.net
 0.0.0.0 skadsdk.appsflyer.com
+0.0.0.0 skadsdk.appsflyersdk.com
 0.0.0.0 skidmoregr.info
 0.0.0.0 skillbet.com
 0.0.0.0 skorbola.co
@@ -8380,6 +8403,7 @@
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.codefusion.technology
+0.0.0.0 telemetry.doxo.com
 0.0.0.0 telemetry.navigatorapp.net
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.voxeet.com
@@ -8733,6 +8757,7 @@
 0.0.0.0 track.adflow-prod.minionplatform.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.aieic.com
+0.0.0.0 track.applicaster.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.aptitudemedia.co
 0.0.0.0 track.cpatool.net
@@ -9001,6 +9026,8 @@
 0.0.0.0 v9betvn.com
 0.0.0.0 v9betvn.org
 0.0.0.0 validate.appsflyer.com
+0.0.0.0 vanced.io
+0.0.0.0 vanced.to
 0.0.0.0 vb008.com
 0.0.0.0 vbet.com
 0.0.0.0 vc63t.com

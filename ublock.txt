@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 15 Jan 2026 13:36 UTC (updated regularly)
+! Last modified: 16 Jan 2026 03:20 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -9071,7 +9071,7 @@ bioskop21.*###floating_banner_bottom
 bioskop21.*,bsk21.ink###floating_banner_bottom
 bioskop78.com###floating_banner_bottoms
 bioskop78.com###wrap > center
-bioskop78.com,cnbcindonesia.com###billboard_banner
+bioskop78.com,cnbcindonesia.com,detik.com###billboard_banner
 bioskop78.com,nonton33.com###floating_banner_tops
 bioskop90.com###floating_banner_left
 bioskop90.com###floating_banner_right
@@ -9119,7 +9119,7 @@ blog.arizman.com##.iklan-kiri-postingan
 blog.arizman.com##.toko-kanan
 blog.arizman.com##.toko-kiri
 blog.tribunjualbeli.com###div-Top-Leaderboard
-blog.tribunjualbeli.com,bolanas.com,bolasport.com,grid.id,gridoto.com,juara.net,kgnow.com,kompas.com,kompas.tv,motorplus-online.com,parapuan.co,tribunnews.com,tribunnewswiki.com##div:matches-css-before(content: /Adv/)
+blog.tribunjualbeli.com,bolanas.com,bolasport.com,grid.id,gridhype.id,gridoto.com,gridpop.id,juara.net,kgnow.com,kompas.com,kompas.tv,motorplus-online.com,parapuan.co,tribunnews.com,tribunnewswiki.com##div:matches-css-before(content: /Adv/)
 blog.tribunjualbeli.com,tribunnews.com###div-Right-MediumRectangle-1
 bloggerperempuan.com##.ct-slider
 blogspot.com###floating_banner_bottom2
@@ -9391,7 +9391,6 @@ cloud.majalahhewan.com##p:has( > a[href="#downloadnow"])
 cloud.majalahhewan.com#?#span:-abp-contains(Advertisement)
 cloud.majalahhewan.com,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 cluetoday.com,kabarnusantaranews.com,koranpelita.co,rakyatbicara.id##aside figure > img
-cmlabs.co###cookiesConsentCard
 cna.id##.programtic-ads
 cnbcindonesia.com###balloon:matches-css(position: fixed)
 cnbcindonesia.com###skinad
@@ -9435,7 +9434,6 @@ cnbcindonesia.com,insertlive.com##.banner
 cnnindonesia.com###livetv-float:remove()
 cnnindonesia.com##.border-b.bg-white.h-\[45px\].p-2.flex
 cnnindonesia.com##.bottom-\[50px\].left-0.z-\[90\].fixed.mb-4.text-white.px-4.py-3.bg-cnn_red
-cnnindonesia.com##.bottom_banner_bar
 cnnindonesia.com##.bottom_banner_container
 cnnindonesia.com##.detail_ads
 cnnindonesia.com##.inbetween_ads
@@ -9445,6 +9443,7 @@ cnnindonesia.com##article .picdetail > .inbetween:has(> amp-ad)
 cnnindonesia.com##div:has(> [id^="adv-"])
 cnnindonesia.com##img[alt*="banner" i]
 cnnindonesia.com##p:has(> .inview_ap_0.videocnn):remove()
+cnnindonesia.com,detik.com##.bottom_banner_bar
 cnnindonesia.com,detik.com##.sisip_video_ds:remove()
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-container
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-height
@@ -9539,10 +9538,12 @@ destinasiwisatamu.blogspot.com###headlineatas
 detak.co.id,infomalangraya.co.id,kalimantanpost.com,pedulirakyat.co.id,radarcikarang.com,tekape.co##.textwidget > center > a:has(img)
 detakbanten.com##.sunfw_section_content-top
 detektifswasta.xyz,kabarbangka.com,koranntb.com,matakota.com,newposkomanado.id,siarindomedia.com##.widget:has(img[style*="max-width: 100%; height: auto;"])
+detik.com###adv-callback
 detik.com###adv-caption-lead
 detik.com###adv-caption-lead + #leaderboard:has([id^="div-gpt-ad"])
 detik.com###billboard
 detik.com###detikPagiSore
+detik.com###inventory-p5
 detik.com###leaderboard:has(> center > [id^="div-gpt-ad-"])
 detik.com###leaderboard:has([id^="div-gpt-ad"])
 detik.com###leaderboard[style*="width: 750px;height: 100px;"]
@@ -9554,12 +9555,19 @@ detik.com###sto_banner
 detik.com###top_banner
 detik.com##.adv
 detik.com##.aevp:has(> .sisip_video_ds):remove()
+detik.com##.balloon
+detik.com##.balloon_adskiri
+detik.com##.balloon_close
+detik.com##.balloon_closekiri
 detik.com##.banner_inside_article
 detik.com##.banner_reg
 detik.com##.bb_banner
 detik.com##.billboard-top
 detik.com##.breaking-detikpagi
+detik.com##.breakingnews-float
 detik.com##.breakingnews-float:remove()
+detik.com##.close_tb
+detik.com##.close_tbot
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
 detik.com##.detail__body-text div:matches-css(align-content: center):has(> .video > [id^="div-gpt-"])
 detik.com##.dugout-video:remove()
@@ -9582,6 +9590,8 @@ detik.com##.skybanner
 detik.com##.staticdetail_ads
 detik.com##.staticdetail_container:has(.staticdetail_ads)
 detik.com##.staticdetail_container:has(> .staticdetail_ads)
+detik.com##.teads-player
+detik.com##.top_banner_bar
 detik.com##body > div:matches-css(min-height: 150px):has(> center > [id^="div-gpt-ad-"])
 detik.com##body > div[id^="div-gpt-ad-"]
 detik.com##body:style(overflow: auto !important;)
@@ -9591,6 +9601,7 @@ detik.com##div:matches-css(width: 970px):matches-css(height: 250px):has(center >
 detik.com##div[data-ads]
 detik.com##div[data-tf-loaded]
 detik.com##div[style^="margin: 10px auto;width: 970px;height: 250px"]
+detik.com##header.header:style(padding-top:0px!important; margin-bottom:0px!important;)
 detik.com##header:style(margin: 0!important; padding: 0!important;)
 detik.com,haibunda.com###bottom_banner
 detik.com,haibunda.com##.mr:has(.mr1-scrollpage-container .mr1-scrollpage-banner)
@@ -9632,8 +9643,6 @@ dewatanews.com##.lalulintas
 deweezz.com,naikmotor.com,nusabali.com,pyfahealth.com##a[href*="bit.ly/"]:has(> img)
 dewidomino.gif|$image
 dewiku.com,guideku.com,himedik.com,hitekno.com,mobimoto.com###close-ads-bottom
-dewiku.com,himedik.com,hitekno.com,matamata.com,mobimoto.com,suara.com##.fc-ab-root
-dewiku.com,himedik.com,hitekno.com,matamata.com,mobimoto.com,suara.com##body:style(overflow: auto !important;)
 dewiku.com,suara.com##.bg-ads-sticky-side
 dewiku.com,suara.com##.bg-ads-sticky-top
 diadona.id##.banner-sc
@@ -9851,6 +9860,7 @@ fortuneidn.com,ggwp.id,idntimes.com###IDN_MR1-wrapper
 fortuneidn.com,ggwp.id,idntimes.com###IDN_MR2-wrapper
 fortuneidn.com,ggwp.id,idntimes.com###IDN_MR3-wrapper
 fortuneidn.com,ggwp.id,idntimes.com###ads-infeed
+fortuneidn.com,ggwp.id,idntimes.com##.css-150zvrw
 fortuneidn.com,ggwp.id,idntimes.com##[id^="wrapper-IDN_MegaBillboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com##.css-cw25l4
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com##.css-t1oq30
@@ -10009,6 +10019,10 @@ grid.id##.relative.skycrapper
 grid.id##.skin_ads
 grid.id##.title__default
 grid.id##.top_banner-wrapper
+grid.id,gridhype.id,gridpop.id###bottom-banner
+grid.id,gridhype.id,gridpop.id##.giant_1-wrapper.relative
+grid.id,gridhype.id,gridpop.id##.giant_2-wrapper.relative
+grid.id,gridhype.id,gridpop.id##.relative.skycrapper
 grid.id,gridoto.com##.kgnowGate.video-box-wrap
 grid.id,gridoto.com,motorplus-online.com##.ads__side
 grid.id,gridoto.com,motorplus-online.com##.ads__top-big
@@ -10016,6 +10030,8 @@ grid.id,juara.net###div-Inside-MediumRectangle
 grid.id,motorplus-online.com##.floatingIframe:remove()
 grid.id,motorplus-online.com##.nkt__stick--left
 grid.id,motorplus-online.com##.nkt__stick--right
+gridhype.id,gridpop.id##.bottom_banner
+gridhype.id,gridpop.id##.top_banner-wrapper
 gridnetwork.id##.ads_skin
 gridoto.com###div-Inside-Medium-Rectangle
 gridoto.com##.ads-liftdown
@@ -10265,6 +10281,7 @@ igniel.com##.pariwara
 igo-bokep.*,igobokep.*###floatbanner-bottom
 igobokep.*###floatbanner-bottom
 igobokep.boats,igobokep.com,tv1.igo-bokep.icu,tv3.igo-bokep.icu###floatbanner-bottom
+igodesu.tv,kisahterlarang.site,sukasex.net,sukasex.tv##+js(nowoif)
 imgur.com##.BottomRecirc-label
 imgur.com##.Gallery-EngagementBarContainer
 imgur.com##.SmartAppBanner-wrapper
@@ -10570,8 +10587,6 @@ jurnalfaktual.id##.f-slideup
 jurnalfaktual.id,kotakgame.com##+js(aopr, $.magnificPopup.open)
 jurnalisindonesia.id##.nkt__stick
 jurnalispost.online##img[width="796"][height="139"]
-jurnalistekno.id##body > .fc-ab-root
-jurnalistekno.id##body:style(overflow: auto !important;)
 jurnalistekno.id##div:matches-css(text-align: center):has(> a > img)
 jurnalistekno.id,tutwuri.id##+js(no-xhr-if, googlesyndication)
 jurnalkaltara.com##[class^="mvp-widget"] .wp-block-image > img
@@ -10708,7 +10723,6 @@ kiryuu02.*##+js(nowolf)
 kiryuu02.*##.kln
 kisahdunia.com##+js(aost, DOMTokenList.prototype.contains, manageBodyClasses)
 kisahterlarang.site,layarwibu.com,sukasex.net,sukasex.tv##+js(rmnt, script, popupUrl)
-kisahterlarang.site,sukasex.net,sukasex.tv##+js(nowoif)
 kitalulus.com,midteknologi.com##:matches-path(/blog) .widget:has(img[style="max-width: 100%; height: auto;"])
 kitamudamedia.com##.sponsor-1 > img
 kitamudamedia.com##.thm-sidebar-box img[style="max-width: 100%; height: auto;"]
@@ -11213,6 +11227,7 @@ medcom.id##div.skycrapper.banner
 medcom.id,metrotvnews.com##.footer_sticky
 mediaasuransinews.co.id##.box-widget img[style="max-width: 100%; height: auto;"]
 mediabumn.com###mvp-site-main:style(margin-top: 0!important;)
+mediacorp.sg##.programtic-ads
 mediaedukasi.id,siagasatu.co.id##[id^="sidebar-"] img[style="max-width: 100%; height: auto;"]
 mediaetam.com##img[width="1024"][height="282"]
 mediafire.*###cookie-accept-footer
@@ -11539,6 +11554,7 @@ ntvnews.id###LEADERBOARD_2
 ntvnews.id##.body_read [id^="INARTICLE_" i]
 ntvnews.id##[style="min-width: 728px; height: 90px;"]
 ntvnews.id##[style="min-width: 728px; min-height: 90px;"]
+ntvnews.id,nusantaratv.com##.close-sticky-content
 ntvnews.id,nusantaratv.com##[id="sticky" i]
 nu.or.id###carouselBanner
 nu.or.id###carouselHeader:has(a[class="print:hidden"] > img[src^="https://storage.nu.or.id/storage/banners/"])
@@ -11547,7 +11563,6 @@ nusantaraterkini.com##.rotatingBannerWidget
 nusantaratv.com###div-gpt-ad-oop
 nusantaratv.com###google_ads_2
 nusantaratv.com##.ads-slot-mb-container
-nusantaratv.com##.close-sticky-content
 obordewata.com###fancybox-overlay
 obordewata.com###fancybox-wrap
 obordewata.com##[id^="obord-"]:has(> .obord-adlabel)
@@ -12075,6 +12090,9 @@ siberkota.com##.wpb_single_image:has(> h3:has-text(Advertising))
 sibernas.id##.widget figure > div > a:has(img)
 simakberita.com##img[width="1600"][height="794"]
 sindonews.com###ads
+sindonews.com###ads_1
+sindonews.com###ads_1:style(display:none!important; height:0!important; padding:0!important; margin:0!important;)
+sindonews.com###ads_2
 sindonews.com###advertnativeDiv
 sindonews.com###me-div-gpt-ad-bottom-sticky
 sindonews.com###me-div-gpt-ad-leaderboard
@@ -13892,7 +13910,10 @@ zurich.co.id##.privacy-warning-main
 ||fullbet88.$image,third-party
 ||fullbet88.$popup
 ||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=andalasrayanews.com|bandasapuluah.com|bardimin.com|bukamata.id|infomalangraya.co.id|inlens.id|investasiku.id|jalurdua.com|jejaknarasi.id|juaramedia.com|rakyatbekasi.com|rinews.id|satelitnews.com|sketsindonews.com|suarabahana.com
+||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=dewiku.com|himedik.com|hitekno.com|matamata.com|mobimoto.com|suara.com
 ||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=grid.id|gridoto.com|juara.net|kompas.com|kompasiana.com|kontan.co.id|motorplus-online.com|parapuan.co|sonora.id|tribunnews.com
+||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=jurnalistekno.id
+||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=okezone.com
 ||fundomino.$image,third-party
 ||gadgetdiva.id/ads/
 ||gadgetdiva.id^*-banner-

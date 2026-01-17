@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 16 Jan 2026 03:14 UTC (updated regularly)
-! host_count: 9480
+! Last modified: 17 Jan 2026 09:28 UTC (updated regularly)
+! host_count: 9489
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -1506,6 +1506,7 @@
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.us.tiktok.com
+0.0.0.0 analytics.wachanga.app
 0.0.0.0 analytics.wildlifestudios.com
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 andalaselektronica.com
@@ -3089,6 +3090,7 @@
 0.0.0.0 cj5500.com
 0.0.0.0 cjsab.com
 0.0.0.0 cl-ad.x-flow.app
+0.0.0.0 clarity.ms
 0.0.0.0 classicasinos.com
 0.0.0.0 classicgoldcasino.net
 0.0.0.0 classycoin-casino.com
@@ -3695,6 +3697,7 @@
 0.0.0.0 en.softonic.com
 0.0.0.0 energycasinopartners.com
 0.0.0.0 enetcasino.com
+0.0.0.0 engagelab.cc
 0.0.0.0 engine.gamesrevenue.com
 0.0.0.0 eplmasters.com
 0.0.0.0 epom.com
@@ -4135,6 +4138,7 @@
 0.0.0.0 gladiatorslots.com
 0.0.0.0 glance.inmobi.com
 0.0.0.0 global-elektronik.com
+0.0.0.0 global-sis.engagelab.com
 0.0.0.0 global-staticplat.cdn.bcebos.com
 0.0.0.0 global.appnext.com
 0.0.0.0 global.sportsbook.com
@@ -4880,6 +4884,7 @@
 0.0.0.0 iphonebetting.net
 0.0.0.0 ipoker.com
 0.0.0.0 iqzone.com
+0.0.0.0 ir-sdk.guardease.com
 0.0.0.0 irajaya-elektronik.com
 0.0.0.0 isin4d.com
 0.0.0.0 isoftbet.com
@@ -5963,6 +5968,7 @@
 0.0.0.0 mediaelektronika.com
 0.0.0.0 medialand.ru
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
+0.0.0.0 mediation.goog
 0.0.0.0 mediation.mwmadnetworks.com
 0.0.0.0 mediation.unity3d.com
 0.0.0.0 meendocash.com
@@ -7264,6 +7270,7 @@
 0.0.0.0 report.1-1.io
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.pixverse.ai
+0.0.0.0 report.starshort.online
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 republicbet.com
@@ -8995,6 +9002,7 @@
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 usa-coolcatcasino.com
 0.0.0.0 usa-online-casino.net
+0.0.0.0 usage.digitalconcerthall.com
 0.0.0.0 usage.influxdata.com
 0.0.0.0 usaokcasinos.com
 0.0.0.0 usaonlinecasinos.org
@@ -9059,6 +9067,7 @@
 0.0.0.0 venombet.net
 0.0.0.0 verajohn.com
 0.0.0.0 verifybet.com
+0.0.0.0 verifysession.uxcam.com
 0.0.0.0 vermontcasinos.com
 0.0.0.0 vernondowns.com
 0.0.0.0 vernons.com

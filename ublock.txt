@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 19 Jan 2026 16:49 UTC (updated regularly)
+! Last modified: 21 Jan 2026 04:32 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8806,7 +8806,7 @@ asiktv99.*,elangstream369.*,goalootv188.*,lapaktv368.*,lapaktv88.*,nobartv288.*,
 asiktv99.*,elangstream369.*,goalootv188.*,lapaktv368.*,lapaktv88.*,nobartv288.*,nowgoaltv288.*,tvbersama.cam,tvbersama.cc,tvbersama288.*###popupklanfooter
 asiktv99.*,elangstream369.*,goalootv188.*,lapaktv368.*,lapaktv88.*,nobartv288.*,nowgoaltv288.*,tvbersama.cam,tvbersama.cc,tvbersama288.*##.banner__item
 asiktv99.*,elangstream369.*,goalootv188.*,lapaktv368.*,lapaktv88.*,nobartv288.*,nowgoaltv288.*,tvbersama.cam,tvbersama.cc,tvbersama288.*##.inline-banner
-aspirasidirect.com,batarapos.com,bbnewsmadina.com,beritakitanews.com,cahayaselatan.com,ciremainews.com,detaknews.id,edisiindonesia.id,garismerahnews.com,gatanews.id,hariankota.com,hariansiber.com,harita.id,indcyber.com,intermedianews.co.id,kabarnusa.com,kaltimonline.com,keuanganonline.id,kilassultra.com,koranmerah.com,lantainewstv.com,lintasmedan.com,lombokboss.com,lugasnusantara.co.id,majalahmataborneonews.com,malukuindomedia.com,mandarnews.com,mediabuser.co.id,mediatrias.com,metrodeadline.com,mimbarnusantara.com,nuansapos.com,onlinekoe.com,posonews.id,radarnasional.net,rinews.id,sinarpos.co.id,sorottipikor.com,sumbernusantara.co.id,time7newss.com,tintajurnalisnews.co.id,tirtanews.co.id,wartakitanews.com##.widget:has(figure > img)
+aspirasidirect.com,batarapos.com,bbnewsmadina.com,beritakitanews.com,cahayaselatan.com,ciremainews.com,detaknews.id,edisiindonesia.id,garismerahnews.com,gatanews.id,hariankota.com,hariansiber.com,harita.id,indcyber.com,intermedianews.co.id,kabarnusa.com,kaltimonline.com,keuanganonline.id,kilassultra.com,lantainewstv.com,lintasmedan.com,lombokboss.com,lugasnusantara.co.id,majalahmataborneonews.com,malukuindomedia.com,mandarnews.com,mediabuser.co.id,mediatrias.com,metrodeadline.com,mimbarnusantara.com,nuansapos.com,onlinekoe.com,posonews.id,radarnasional.net,rinews.id,sinarpos.co.id,sorottipikor.com,sumbernusantara.co.id,time7newss.com,tintajurnalisnews.co.id,tirtanews.co.id,wartakitanews.com##.widget:has(figure > img)
 aspirasidirect.com,ciremainews.com,potret24.com,sinarpos.com##.dt_navbar-banner-item
 aspirasinews.id,munivmotoblog.com,qayyumnews.id##[width="1024"][height="170"]
 astroawani.com###banner
@@ -9348,19 +9348,6 @@ chatnews.id##.w-\[120px\].h-\[600px\]
 chatnews.id##.w-full.h-\[50px\]
 chatnews.id##.w-full.h-\[600px\]
 chatnews.id,trenasia.com,trenasia.id##.w-full.h-\[90px\]
-cheatcc.com##DIV[class="body-wide-banner"]
-cheatcc.com##DIV[id="main_title"][class="title"]
-cheatcc.com##DIV[id="poll-content"]
-cheatcc.com##DIV[id="pollForm"]
-cheatcc.com/CCC-Css-Images/images/2012-backgrounds/New-Wallpaper-2012-grey.jpg
-cheatcc.com/addthis_buttons/*
-cheatcc.com/ads/*
-cheatcc.com/from_our_friends/*
-cheatcc.com/images/footer/logo.png
-cheatcc.com/images/specialfeatures_banner.jpg
-cheatcc.com/layout_images/header_logo.png
-cheatcc.com/podcast/ads/*
-cheatcc.com/sliders/*
 chip.co.id###TopBannerBg
 chordindonesia.com###ads-mid-anymind
 chordtela.com##.adsbawahjudul

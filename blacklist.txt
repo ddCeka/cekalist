@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 21 Jan 2026 04:31 UTC (updated regularly)
-! host_count: 9489
+! Last modified: 22 Jan 2026 13:07 UTC (updated regularly)
+! host_count: 9500
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -1548,6 +1548,7 @@
 0.0.0.0 api-ad-callback.mobiuspace.net
 0.0.0.0 api-analytics.prod.birdapp.com
 0.0.0.0 api-fp-retry-bj.fengkongcloud.com
+0.0.0.0 api-fp-retry-sa.fengkongcloud.com
 0.0.0.0 api.abcsinsights.com
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.ad.intl.xiaomi.com
@@ -1987,6 +1988,7 @@
 0.0.0.0 bangthebook.com
 0.0.0.0 bankbola.com
 0.0.0.0 banner.appsflyer.com
+0.0.0.0 banner.bet365partners.com
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 bannerflow.com
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -3107,6 +3109,7 @@
 0.0.0.0 client-events-ingress.bookbub.com
 0.0.0.0 client-events.gurushots.com
 0.0.0.0 client-log.box.com
+0.0.0.0 client-telemetry-preauth.hingeprod.net
 0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 client.midosoo.com
 0.0.0.0 clientlog.perfectworldgames.com
@@ -3362,6 +3365,7 @@
 0.0.0.0 daspoker.com
 0.0.0.0 data-detect.nie.easebar.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
+0.0.0.0 data-p.gryphline.com
 0.0.0.0 data.eu.pendo.io
 0.0.0.0 data.kuiniuca.com
 0.0.0.0 data.mistat.india.xiaomi.com
@@ -3744,6 +3748,8 @@
 0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-dot-learning-piano.appspot.com
+0.0.0.0 event-log-api-data-platform-data-lake-prod.gryphline.com
+0.0.0.0 event-log-api-ipv6.gryphline.com
 0.0.0.0 event-portal.dailyinnovation.biz
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-us.ssp.taxssp.com
@@ -3757,6 +3763,7 @@
 0.0.0.0 event.togothermany.com
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 0.0.0.0 eventgw.twilio.com
+0.0.0.0 eventlog.gryphline.com
 0.0.0.0 events-api.lyrebirdstudio.net
 0.0.0.0 events-api.soundcloud.com
 0.0.0.0 events-api.towneers.prod.data.krmt.io
@@ -3940,6 +3947,7 @@
 0.0.0.0 foxgambling.com
 0.0.0.0 foxycasino.com
 0.0.0.0 fp-it.fengkongcloud.com
+0.0.0.0 fp-sa-it.fengkongcloud.com
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 free-bets-uk.org
@@ -5541,6 +5549,7 @@
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log-v4-insight.kaizenplatform.net
+0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log-verify.mob.com
 0.0.0.0 log.51changdu.com
 0.0.0.0 log.adtimaserver.vn
@@ -5554,6 +5563,7 @@
 0.0.0.0 log.cleandesigner.live
 0.0.0.0 log.cleanertoolboxonline.live
 0.0.0.0 log.cleansweepplu.com
+0.0.0.0 log.clearcleanerpro.live
 0.0.0.0 log.documentmanagerpdfdocxlssale.live
 0.0.0.0 log.down61.com
 0.0.0.0 log.dramaboxdb.com
@@ -6242,6 +6252,7 @@
 0.0.0.0 nanime.biz
 0.0.0.0 narutobet.com
 0.0.0.0 nasimobi.com
+0.0.0.0 native-log-collect.gryphline.com
 0.0.0.0 native.cli.bz
 0.0.0.0 nativead.s3.amazonaws.com
 0.0.0.0 nativesdks.mparticle.com

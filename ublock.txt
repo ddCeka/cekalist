@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 22 Jan 2026 13:08 UTC (updated regularly)
+! Last modified: 23 Jan 2026 19:26 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -9362,6 +9362,7 @@ cloud.majalahhewan.com#?#span:-abp-contains(Advertisement)
 cloud.majalahhewan.com,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 cluetoday.com,kabarnusantaranews.com,koranpelita.co,rakyatbicara.id##aside figure > img
 cna.id##.programtic-ads
+cnbcindonesia.com###balloon
 cnbcindonesia.com###balloon:matches-css(position: fixed)
 cnbcindonesia.com###skinad
 cnbcindonesia.com###streamBox.fixed:remove()
@@ -9385,6 +9386,7 @@ cnbcindonesia.com##div:matches-css(position: sticky):has(div:matches-css(backgro
 cnbcindonesia.com##div:matches-css(position: sticky):has(div:matches-css(background-size: 300px 250px):has(> [id^="div-gpt-ad-"])):upward(div[style="width: 100%; height:600px;"])
 cnbcindonesia.com##div[style$="height:600px;"]
 cnbcindonesia.com##div[style*="height:400px;"]
+cnbcindonesia.com##div[style="z-index:65; position: fixed; bottom:0;  isolation:isolate;display: block; width:100%;"]
 cnbcindonesia.com##div[style^="width: 100%; height:400px;"]:has(> [style^="position:sticky"])
 cnbcindonesia.com##div[style^="width:970px;"]
 cnbcindonesia.com,cnnindonesia.com##.mega-billboard
@@ -10398,7 +10400,6 @@ inibaru.id##div:has(> .adsbygoogle)
 inidramaku.net##.cm-popup-modal
 inijabar.com,suarakonsumenindonesia.com##img[title*="adv" i]
 inilah.com###__next > div:matches-css(height: 278px)
-inilah.com###__next > div:nth-of-type(1)
 inilah.com###ads-slot-top-header
 inilah.com##.MuiModal-root
 inilah.com##.MuiStack-root:has(> span:has-text(/adv/i))
@@ -10412,6 +10413,8 @@ inilah.com##.mui-style-fg8iht.MuiStack-root
 inilah.com##.mui-style-jsgj5i.MuiStack-root
 inilah.com##.mui-style-za8aav
 inilah.com##div.mui-style-b34tjk
+inilah.com##div[style="height: 278px; width: 100%; background-color: rgb(239, 239, 239); display: flex; align-items: center; justify-content: center; gap: 1px;"]
+inilah.com##div[style="height:278px;width:100%;background-color:#efefef;display:flex;align-items:center;justify-content:center;gap:1px"]
 inilah.com,kompasiana.com###anchormasklink
 inilahbanten.co.id##.bro-banner-on70
 inilahkoran.id,marjinal.id,metronusantaranews.com,patriotnews.id,portal-islam.com,tribratanewsalor.com,tribratanewsbelu.com,tribratanewsende.com,tribratanewsflorestimur.com,tribratanewskupang.com,tribratanewskupangkota.com,tribratanewslembata.com,tribratanewsmanggarai.com,tribratanewsmanggaraibarat.com,tribratanewsntt.com,tribratanewsrotendao.com,tribratanewssikka.com,tribratanewssumbabarat.com,tribratanewssumbabaratdaya.com,tribratanewssumbatimur.com,tribratanewsttu.com,westjavatoday.com##.logo-banner .pull-right

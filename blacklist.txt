@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 22 Jan 2026 13:07 UTC (updated regularly)
+! Last modified: 23 Jan 2026 19:26 UTC (updated regularly)
 ! host_count: 9500
 ! Homepage: https://github.com/ddCeka/CekaList
 

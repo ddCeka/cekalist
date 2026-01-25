@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 23 Jan 2026 19:26 UTC (updated regularly)
+! Last modified: 25 Jan 2026 13:12 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -2682,7 +2682,6 @@
 ##[href="https://t.ly/iklanPS"]
 ##[href="https://t.ly/iklanWS2"]
 ##[href="https://t.ly/iklanZILONG"]
-##[href="https://t.ly/indogame888-banner"]
 ##[href="https://t.ly/indopride88-elitz/"]
 ##[href="https://t.ly/indositusxxi"]
 ##[href="https://t.ly/inibokep"]
@@ -2905,6 +2904,7 @@
 ##[href^="https://sokuja.id/"][rel*="nofollow"]:has(> img)
 ##[href^="https://sub2.lapakbuah.site/"]
 ##[href^="https://sub6.kaya303.net/"]
+##[href^="https://t.ly/indogame888"]
 ##[href^="https://t.ly/kota188-"]
 ##[href^="https://t.ly/menara188-"]
 ##[href^="https://t.ly/menaraplay-"]
@@ -5687,6 +5687,7 @@
 ##img[alt="bandar855" i]
 ##img[alt="bandarxl"]
 ##img[alt="banner 325x300"]
+##img[alt="bimabet" i]
 ##img[alt="birutoto" i]
 ##img[alt="bisnis4d"]
 ##img[alt="densustoto" i]
@@ -5702,6 +5703,7 @@
 ##img[alt="jokerbet888" i]
 ##img[alt="kaikoslot" i]
 ##img[alt="mainhoki" i]
+##img[alt="mandalatoto" i]
 ##img[alt="metro4d" i]
 ##img[alt="naga588" i]
 ##img[alt="pacmantoto" i]
@@ -6658,6 +6660,7 @@
 ##img[title="slot gacor" i]
 ##img[width="468"][height="60"]
 ##img[width="728"][height="90"]
+##img[width="900px"][height="60px"]
 #@#[id^="google_ads_iframe"]
 *#*/ad/$image,redirect-rule=1x1.gif
 *$popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
@@ -8077,8 +8080,8 @@
 /ratulotto.$image,third-party
 /ratuqq.$image,third-party
 /ratuqq.gif$image
-/rbtvplus\d+\.(com|blog|help|info|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
-/rbtvplus\d+\.(com|blog|help|info|rest|vip|xyz)/##.czlll-rlselse
+/rbtvplus\d+\.(com|blog|cyou|help|info|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
+/rbtvplus\d+\.(com|blog|cyou|help|info|rest|vip|xyz)/##.czlll-rlselse
 /rctiqq.$image,third-party
 /rdomino.$image,third-party
 /rejekibet.$image,third-party
@@ -9169,7 +9172,6 @@ bolasport.com##.dableclsbanner
 bolasport.com##.mid-banner
 bolasport.com##div.content_footer--list:nth-of-type(2)
 bolasport.com,grid.id,gridoto.com,juara.net##div.ads-inf-box
-bolasport.com,grid.id,gridoto.com,juara.net,kompas.com,kompas.tv,parapuan.co,sonora.id,~video.kompas.com##.video-box-wrap:has(> .rVideo-player):remove()
 bolasport.com,grid.id,gridoto.com,kompas.com,kompas.tv,kompasiana.com,motorplus-online.com,sonora.id,tribunnews.com##.pushdown-banner
 bolasport.com,grid.id,gridoto.com,kompas.com,kompas.tv,motorplus-online.com##.kgnw-player
 bolasport.com,grid.id,gridoto.com,motorplus-online.com,parapuan.co##.ads-inf-box
@@ -11558,8 +11560,6 @@ okestream.*,okestream365.*##.header-banner
 okestream.*,okestream365.*##.player-button-ad
 okestream.*,okestream365.*##.stickyfooter
 okestream.*,okestream365.*##.top-player-banner
-okestream.*,~okestream.id,okestream365.*###popbox
-okestream.*,~okestream.id,okestream365.*##+js(rc, flowbox, body)
 okestreamtv.uk.com,okestreamtv.win###divFLRAbottom
 okezone.com###contentx .vicon:remove()
 okezone.com###rekomendasi_video:remove()
@@ -13328,6 +13328,7 @@ zurich.co.id##.privacy-warning-main
 ||bogorchannel.id^*/iklan-$image
 ||bogordaily.net^*-banner-$image
 ||bogordaily.net^*/banner-$image
+||bokep.work/*.gif
 ||bola168.$image,third-party
 ||bola168.$popup
 ||bola168bet.$image,third-party
@@ -16783,6 +16784,8 @@ zurich.co.id##.privacy-warning-main
 ~nephobox.com,~onelink.me,~terabox.com##[href^="https://terabox.onelink.me/"]:has(img)
 ~niagahoster.co.id##[href*="//niagahoster.co.id" i][href*="?REFERRALCODE" i]:has(img)
 ~niagahoster.co.id##[href^="https://panel.niagahoster.co.id/ref/"]:has(img)
+~okestream.id,okestream.*,okestream365.*###popbox
+~okestream.id,okestream.*,okestream365.*##+js(rc, flowbox, body)
 ~oketheme.com##[href^="https://www.oketheme.com/members/aff/go/"]:has(img)
 ~orangarab.fun##[href="https://orangarab.fun/777"]
 ~ouo.io##[href*="ouo.io/ref/"]
@@ -16807,6 +16810,7 @@ zurich.co.id##.privacy-warning-main
 ~toffee.id##[href^="https://toffee.id/growth?"]:has(img)
 ~tokocrypto.com##[href^="https://www.tokocrypto.com/account/signup?ref="]:has(img)
 ~triv.co.id##[href^="https://triv.co.id/aff/"]:has(img)
+~video.kompas.com,bolasport.com,grid.id,gridoto.com,juara.net,kompas.com,kompas.tv,parapuan.co,sonora.id##.video-box-wrap:has(> .rVideo-player):remove()
 ~vpn89.site##[href="https://vpn89.site/jd89"] > img
 ~vpn89.site##[href="https://vpn89.site/ratu"] > img
 ~yok.lol##[href^="https://yok.lol/"]

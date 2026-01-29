@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 25 Jan 2026 13:11 UTC (updated regularly)
-! host_count: 9500
+! Last modified: 29 Jan 2026 14:28 UTC (updated regularly)
+! host_count: 9508
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -546,6 +546,7 @@
 0.0.0.0 ads-sdk.nianticlabs.com
 0.0.0.0 ads-segment-profile-noneu.truecaller.com
 0.0.0.0 ads-server.mxplay.com
+0.0.0.0 ads-static.phonepe.com
 0.0.0.0 ads.ad2iction.com
 0.0.0.0 ads.adadapted.com
 0.0.0.0 ads.adinmotech.com
@@ -570,6 +571,7 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.pdbarea.com
+0.0.0.0 ads.phonepe.com
 0.0.0.0 ads.pinger.com
 0.0.0.0 ads.rmbl.ws
 0.0.0.0 ads.save21.site
@@ -2630,6 +2632,7 @@
 0.0.0.0 brucebetting.com
 0.0.0.0 bs.nakanohito.jp
 0.0.0.0 bstgms4y.com
+0.0.0.0 bstream.channelcom.tech
 0.0.0.0 bstream.kzhi.tech
 0.0.0.0 bte78.com
 0.0.0.0 bts-la.ucweb.com
@@ -3287,6 +3290,7 @@
 0.0.0.0 d.kugou.com
 0.0.0.0 d.reddit.com
 0.0.0.0 d19xf4taj229i8.cloudfront.net
+0.0.0.0 d1tru86qrby720.cloudfront.net
 0.0.0.0 d239g0z67jcted.cloudfront.net
 0.0.0.0 d2jn12r3o7an7z.cloudfront.net
 0.0.0.0 d2nrdy2pg3k168.cloudfront.net
@@ -4133,6 +4137,7 @@
 0.0.0.0 gf8.com
 0.0.0.0 gf888.com
 0.0.0.0 gg9999.com
+0.0.0.0 ggbond.peaksite.tech
 0.0.0.0 giantvegas.com
 0.0.0.0 gibelplazaelektronik.com
 0.0.0.0 gid.tapapis.cn
@@ -5602,6 +5607,7 @@
 0.0.0.0 log.tpns.tencent.com
 0.0.0.0 log.ultimatecleaner.pro
 0.0.0.0 log.umsns.com
+0.0.0.0 log.weathertrip.net
 0.0.0.0 log.wigoliv.work
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com
@@ -8786,6 +8792,7 @@
 0.0.0.0 track.lc.quark.cn
 0.0.0.0 track.midway.run
 0.0.0.0 track.mobshark.net
+0.0.0.0 track.onef.pro
 0.0.0.0 track.pingstart.com
 0.0.0.0 track.spzan.com
 0.0.0.0 track.starmakerstudios.com
@@ -9354,6 +9361,7 @@
 0.0.0.0 wyomingcasinos.com
 0.0.0.0 wyominglotteryresults.org
 0.0.0.0 wzrkt.com
+0.0.0.0 x3m.biz
 0.0.0.0 x77x77.info
 0.0.0.0 xam06.com
 0.0.0.0 xbfk51p7.review

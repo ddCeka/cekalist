@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 29 Jan 2026 14:28 UTC (updated regularly)
-! host_count: 9508
+! Last modified: 31 Jan 2026 16:03 UTC (updated regularly)
+! host_count: 9516
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -3661,6 +3661,7 @@
 0.0.0.0 e-ssl.apsalar.com
 0.0.0.0 e.apsalar.com
 0.0.0.0 e.qq.com
+0.0.0.0 e.tapdb.ap-sg.tapapis.com
 0.0.0.0 e6188.com
 0.0.0.0 e68ph.net
 0.0.0.0 e6bet.com
@@ -3752,6 +3753,7 @@
 0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-dot-learning-piano.appspot.com
+0.0.0.0 event-gateway.data.karrotmarket.com
 0.0.0.0 event-log-api-data-platform-data-lake-prod.gryphline.com
 0.0.0.0 event-log-api-ipv6.gryphline.com
 0.0.0.0 event-portal.dailyinnovation.biz
@@ -4147,6 +4149,7 @@
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 gjeyqtunbnap.com
+0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 gladiatorcasino.com
 0.0.0.0 gladiatorslots.com
 0.0.0.0 glance.inmobi.com
@@ -4289,6 +4292,7 @@
 0.0.0.0 gynax.com
 0.0.0.0 h-adashx.ut.alibaba.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
+0.0.0.0 h-adashx4id.ut.taobao.com
 0.0.0.0 h2777.com
 0.0.0.0 h2888.com
 0.0.0.0 h5.isnssdk.com
@@ -4894,6 +4898,7 @@
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 iowacasinos.net
 0.0.0.0 iowalotteryresults.org
+0.0.0.0 ip.xindong.com
 0.0.0.0 iphonebetting.net
 0.0.0.0 ipoker.com
 0.0.0.0 iqzone.com
@@ -5619,6 +5624,7 @@
 0.0.0.0 loganmedia.mobi
 0.0.0.0 logapi-and.zhipin.com
 0.0.0.0 logbak.hicloud.com
+0.0.0.0 logc-sg.tsd.xindong.com
 0.0.0.0 logcollection.ronghub.com
 0.0.0.0 logdata.hatspotlight.asia
 0.0.0.0 logend.cookpad.com
@@ -6613,6 +6619,7 @@
 0.0.0.0 openbet.com
 0.0.0.0 openglass.tv
 0.0.0.0 openlog.tapapis.cn
+0.0.0.0 openlog.tapapis.com
 0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 opera.com
 0.0.0.0 oppabet.com
@@ -7206,6 +7213,7 @@
 0.0.0.0 rahasiasbobet.com
 0.0.0.0 rahicomm.com
 0.0.0.0 rainmaker.production-public.tubi.io
+0.0.0.0 rainmaker4.production-public.tubi.io
 0.0.0.0 raja-togel.com
 0.0.0.0 raja111.com
 0.0.0.0 raja303.com

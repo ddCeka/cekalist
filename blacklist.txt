@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 31 Jan 2026 16:03 UTC (updated regularly)
-! host_count: 9516
+! Last modified: 05 Feb 2026 13:44 UTC (updated regularly)
+! host_count: 9521
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -394,6 +394,7 @@
 0.0.0.0 activity.browser.intl.miui.com
 0.0.0.0 ad-api-log.colopl.jp
 0.0.0.0 ad-api.ehawk.com
+0.0.0.0 ad-api.maxnapps.com
 0.0.0.0 ad-brix.com
 0.0.0.0 ad-channel.wikawika.xyz
 0.0.0.0 ad-creative.projectcarmen.com
@@ -2309,6 +2310,7 @@
 0.0.0.0 bgo.com
 0.0.0.0 bgroom.com
 0.0.0.0 bhintangponsel.com
+0.0.0.0 bi-report.maxnapps.com
 0.0.0.0 bi-tracker-global.rivergame.net
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bi.yeshen.com
@@ -3296,6 +3298,7 @@
 0.0.0.0 d2nrdy2pg3k168.cloudfront.net
 0.0.0.0 d32z5ni8t5127x.cloudfront.net
 0.0.0.0 d3hdbjtb1686tn.cloudfront.net
+0.0.0.0 d3vgkjyuhp91nc.cloudfront.net
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
 0.0.0.0 da55555.com
 0.0.0.0 da6699.com
@@ -3792,6 +3795,7 @@
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 events.mz.unity3d.com
 0.0.0.0 events.prd.api.discomax.com
+0.0.0.0 events.production.us1.pgw-pci.klarna.net
 0.0.0.0 events.swiftlycontent.net
 0.0.0.0 events.swishapps.ai
 0.0.0.0 events.textme-app.com
@@ -5616,6 +5620,7 @@
 0.0.0.0 log.wigoliv.work
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com
+0.0.0.0 log1.cmpassport.com
 0.0.0.0 log1.perfectworldgames.com
 0.0.0.0 log16-normal-us-ttp.capcutapi.us
 0.0.0.0 log2.ihubgo.info

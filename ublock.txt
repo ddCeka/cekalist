@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 05 Feb 2026 13:45 UTC (updated regularly)
+! Last modified: 06 Feb 2026 22:48 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8087,8 +8087,8 @@
 /ratulotto.$image,third-party
 /ratuqq.$image,third-party
 /ratuqq.gif$image
-/rbtvplus\d+\.(com|blog|cyou|help|info|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
-/rbtvplus\d+\.(com|blog|cyou|help|info|rest|vip|xyz)/##.czlll-rlselse
+/rbtvplus\d+\.(com|blog|cyou|help|info|lol|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
+/rbtvplus\d+\.(com|blog|cyou|help|info|lol|rest|vip|xyz)/##.czlll-rlselse
 /rctiqq.$image,third-party
 /rdomino.$image,third-party
 /rejekibet.$image,third-party
@@ -9804,6 +9804,7 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1e66tux
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1elofja
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1h4x27n
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1hajl86
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1hihsk8
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1lh0foa
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1wq0q65
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-2jq43e
@@ -10777,6 +10778,7 @@ kompas.com,kompas.tv,sonora.id##.kgnw-middle-ready.kgnw-middle
 kompas.com,kompasiana.com,sonora.id##.osmplaceonsite.ads-partner-wrap
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 kompas.id##.flex.justify-center.lg\:px-8.my-6
+kompas.id##.items-center.justify-center.flex.relative.w-full.lg\:min-h-\[132px\].min-h-\[92px\]
 kompas.id##.mb-8.pb-8.border-blue-10.border-b-2
 kompas.id##.non-paywall:style(display: block !important;)
 kompas.id##.paywall

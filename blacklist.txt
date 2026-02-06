@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 05 Feb 2026 13:44 UTC (updated regularly)
-! host_count: 9521
+! Last modified: 06 Feb 2026 22:48 UTC (updated regularly)
+! host_count: 9522
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -4716,6 +4716,7 @@
 0.0.0.0 imrworldwide.com
 0.0.0.0 in-the-casino.com
 0.0.0.0 inapps.appsflyer.com
+0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 incrasebux.com
 0.0.0.0 indahwebstore119.com
 0.0.0.0 index-online-casino.com

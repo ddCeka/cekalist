@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 06 Feb 2026 22:48 UTC (updated regularly)
-! host_count: 9522
+! Last modified: 10 Feb 2026 22:13 UTC (updated regularly)
+! host_count: 9521
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -3233,7 +3233,6 @@
 0.0.0.0 cr788.com
 0.0.0.0 cr87.com
 0.0.0.0 cr999.com
-0.0.0.0 cracked-games.org
 0.0.0.0 crackingcity.com
 0.0.0.0 crackingpatching.com
 0.0.0.0 crackingpatching.org

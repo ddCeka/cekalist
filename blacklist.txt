@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 10 Feb 2026 22:13 UTC (updated regularly)
-! host_count: 9521
+! Last modified: 11 Feb 2026 16:59 UTC (updated regularly)
+! host_count: 9522
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -8047,6 +8047,7 @@
 0.0.0.0 stats.cn.ronghub.com
 0.0.0.0 stats.fifthstarlabs.io
 0.0.0.0 stats.grafana.org
+0.0.0.0 stats.norton.com
 0.0.0.0 stats.oilpainting.colorbynumber.veraxen.com
 0.0.0.0 stats.popcap.com
 0.0.0.0 stats.rong-edge.com

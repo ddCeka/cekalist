@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 12 Feb 2026 13:38 UTC (updated regularly)
+! Last modified: 15 Feb 2026 14:03 UTC (updated regularly)
 ! host_count: 9522
 ! Homepage: https://github.com/ddCeka/CekaList
 
@@ -6050,7 +6050,6 @@
 0.0.0.0 michiganlotteryresults.org
 0.0.0.0 mickeypoker.com
 0.0.0.0 microsoftactivationscripts.com
-0.0.0.0 midgerelativelyhoax.com
 0.0.0.0 mightyslots.com
 0.0.0.0 milkfountain.com
 0.0.0.0 mimicromax.com
@@ -8890,6 +8889,7 @@
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk2.pinterest.com
 0.0.0.0 trkapi.impact.com
+0.0.0.0 trkcliq.com
 0.0.0.0 trndoffers.com
 0.0.0.0 tropez-online-casino-games.com
 0.0.0.0 tropeziapalace.com

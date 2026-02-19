@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 17 Feb 2026 05:15 UTC (updated regularly)
+! Last modified: 19 Feb 2026 13:15 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8732,14 +8732,6 @@ apkdrill.com##.col-md-4.widget-area
 apkdrill.com##.col-md-8.content-area
 apkdrill.com##.site-footer
 apkdrill.com##.top-header
-apkmirror.*##[href="https://t.me/apkmirror_official"]
-apkmirror.com###shareDropdown
-apkmirror.com##.icon-facebook
-apkmirror.com##.icon-gplus
-apkmirror.com##.icon-rss
-apkmirror.com##.icon-twitter
-apkmirror.com##.playstore-icon
-apkmirror.com##.qrcode-icon
 apkmody.io###above-the-fold-ad
 arahnews.com,bisnisnews.com,businesstoday.id,ekbisindonesia.com,ekonominews.com,fokussiber.com,haibisnis.com,halloidn.com,hallopresiden.com,haloagro.com,harianekonomi.com,harianinvestor.com,heisport.com,infoekbis.com,infokumkm.com,infoseru.com,infotelko.com,infoups.com,jatimraya.com,kilasnews.com,kontenberita.com,lingkarin.com,mediaagri.com,nusraraya.com,pangannews.com,sawitpost.com##img[width="1024"][height="119"]
 arahpandang.com##.ads--stick-parent
@@ -10001,11 +9993,6 @@ gridoto.com##.read__left
 gridoto.com,kompas.tv###jxOutstreamContainer
 gridoto.com,kompasiana.com,sonora.id,tribunnews.com##+js(aeld, /copy|keydown/)
 gtainside.com##.box_highlight_error
-gtainside.com/*/body_bg.*
-gtainside.com/*/box_bg.*
-gtainside.com/*/share_fb.*
-gtainside.com/*/share_g.*
-gtainside.com/*/share_twitter.*
 gudangmovies21.cfd,mangakita.id,mangakita.net,manganime.in,movieajip.online##[href^="https://bit.ly/"]
 gudangmovies21.chat,sattorrent.com,soulscans.my.id##+js(aopr, SGPB_POPUP_PARAMS)
 gudangpemain.com##.blocker-notice

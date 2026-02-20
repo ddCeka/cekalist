@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 19 Feb 2026 13:15 UTC (updated regularly)
-! host_count: 9521
+! Last modified: 20 Feb 2026 12:23 UTC (updated regularly)
+! host_count: 9520
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -3219,7 +3219,6 @@
 0.0.0.0 costabingo.com
 0.0.0.0 costco-adbutler.com
 0.0.0.0 counters.booking.com
-0.0.0.0 countly.globaldelight.net
 0.0.0.0 covertsoccerprofits.com
 0.0.0.0 cp.pushwoosh.com
 0.0.0.0 cpaclickoffers.com

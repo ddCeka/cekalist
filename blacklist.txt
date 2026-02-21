@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 20 Feb 2026 12:23 UTC (updated regularly)
-! host_count: 9520
+! Last modified: 22 Feb 2026 00:46 UTC (updated regularly)
+! host_count: 9521
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -8846,6 +8846,7 @@
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
 0.0.0.0 tracking.purchasely.io
 0.0.0.0 tracking.trnox.com
+0.0.0.0 tracking.twelveapp.sh
 0.0.0.0 tracking.viewlift.com
 0.0.0.0 tracking.ws.eurosport.com
 0.0.0.0 trackingclick.net

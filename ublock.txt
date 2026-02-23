@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 22 Feb 2026 00:47 UTC (updated regularly)
+! Last modified: 23 Feb 2026 18:15 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -9024,7 +9024,7 @@ ambontoday.com,autoride.co.id,bacatrend.com,bangsaku.co,bardimin.com,batamclick.
 amp.reddit.com##.AppSelectorModal__body
 amp.reddit.com##.upsell_banner
 anakteknik.co.id,howdy.id,obengplus.com##+js(no-fetch-if, pagead2.googlesyndication.com)
-anconaguide.com,azarug.org,bcjschool.org,foundationrepairwichitaks.net,glenbeulah.org,harvardasda.org,hoppin-grapes.com,internetincomecoach.com,learnenglishindublin.com,rivercatsmainecoons.com,stlwebdev.org,weddingphotographercleveland.com##a[target*="blank"]:has(> img)
+anconaguide.com,azarug.org,hoppin-grapes.com,internetincomecoach.com,learnenglishindublin.com,rivercatsmainecoons.com,sabellaphoto.com,weddingphotographercleveland.com##a[target*="blank"]:has(> img)
 androidapksfree.com##.header-ad-heading
 anibatch.moe,anichin.blog,animekompi.fun,cinemaemas6.com,cinemakeren6.id,dramaencode.net,gudangkomik.com,kawanfilm21.co,kazefuri.cloud,kazefuri.info,mangakita.id,nimegami.id,otakudesu.best,rebahan21.com,rebahin.lol,sektedoujin.cc,sobatku21.xyz,sokuja.uk,westmanga.me##+js(nowoif)
 anichin.*###floatcenter
@@ -9226,6 +9226,7 @@ batamclick.com,editorial9.com,jarrakpos.com,mediakaltim.com,nabire.net,sandeq.co
 batamnews.co.id##.ads-banner-link
 batamnews.co.id,borneonusantaranews.com,cakrawalantt.com,harianmerdeka.id,karawangnews.com,komentar.co,progresif.id###btm_banner
 batampos.co.id,papuaterkini.com,papuatoday.com##+js(acis, SGPopup)
+bcjschool.org,foundationrepairwichitaks.net,glenbeulah.org,harvardasda.org,stlwebdev.org##a[target*="blank"]:has(> img)
 beasiswaindo.com##[class^="sponsor-"]
 beautyjournal.id###adsense-parallax-banner-container
 beautyjournal.id###main-banner-container
@@ -11533,30 +11534,6 @@ mediabumn.com###mvp-site-main:style(margin-top: 0!important;)
 mediacorp.sg##.programtic-ads
 mediaedukasi.id,siagasatu.co.id##[id^="sidebar-"] img[style="max-width: 100%; height: auto;"]
 mediaetam.com##img[width="1024"][height="282"]
-mediafire.*###cookie-accept-footer
-mediafire.*##.DLExtraInfo-accountStatus
-mediafire.*##.social-cont
-mediafire.*##[href="/credits/"]
-mediafire.*##[href="/policies/privacy_policy.php"]
-mediafire.*##[href="/policies/terms_of_service.php"]
-mediafire.*##[href="/policy_violation/copyright.php"]
-mediafire.*##[href="/press/"]
-mediafire.*##[href="/software/mobile/"]
-mediafire.*##[href="/upgrade"]
-mediafire.*##[href="/upgrade/"]
-mediafire.*##[href="https://vividengine.com"]
-mediafire.*##[href="https://vpnreports.com/"]
-mediafire.*##[href^="/upgrade/index.php"]
-mediafire.com##.DLExtraInfo-row
-mediafire.com##A[class="ParallelDL-optIn"]
-mediafire.com##A[class="dlPromo2Content dlPromoContent"]
-mediafire.com##A[class="dlPromo3Content dlPromoContent"]
-mediafire.com##DIV[class="dlInfo-Body"]
-mediafire.com##DIV[class="dlInfo-Speed"]
-mediafire.com##DIV[class="socialFBContainer"]
-mediafire.com##DIV[class="subFooterSocialWrap"]
-mediafire.com##[class="logo cf"]
-mediafire.com/*/error_missing.svg
 mediahiburan.my##+js(acis, document.oncontextmenu)
 mediahiburan.my##.adplaceholder-mrec
 mediaindonesia.com###cont-megabillboard
@@ -11670,7 +11647,8 @@ modijiurl.com##[src^="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXs
 moenime.com###\31 xbet
 moenime.com###moemodals
 moenime.com###w-node-b77
-moenime.com##*:matches-css(position: absolute):has(:is(canvas, iframe, [href*="data:image"], [src*="data:image"], img[src*="blob:"], input[src*="blob:"]))
+moenime.com##*:matches-css(position: absolute):has(*:matches-css(background-image: /base64|url\(/))
+moenime.com##*:matches-css(position: absolute):has(:is(canvas, iframe, [href*="data:image"], [src*="data:image"], img[src*="blob:"], input[src*="blob:"], [data*="blob:"]))
 moenime.com##*:matches-css(position: absolute):has(> :matches-css(position: relative))
 moenime.com##*:matches-css(position: absolute):matches-css(background-image: /base64|url\(/)
 moenime.com##*:matches-css(position: fixed)
@@ -12890,7 +12868,6 @@ wowkeren.com##article div:matches-css(display: inline-block):has(> script)
 wowkeren.com##div[style*="width:300px;min-height:250px"]
 wtools.io###adsright_vertical
 www.gtainside.com##.box_highlight_error
-www.mediafire.com##.upsell-ab-promo
 www.nexusmods.com###accordion-header-mods-per-page
 www.nexusmods.com###app-banner
 www.nexusmods.com###loggedOutPremiumBanner

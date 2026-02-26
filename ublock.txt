@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 23 Feb 2026 18:15 UTC (updated regularly)
+! Last modified: 26 Feb 2026 13:29 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -10344,7 +10344,6 @@ gridoto.com##.js-ads-stick
 gridoto.com##.read__left
 gridoto.com,kompas.tv###jxOutstreamContainer
 gridoto.com,kompasiana.com,sonora.id,tribunnews.com##+js(aeld, /copy|keydown/)
-gtainside.com##.box_highlight_error
 gudangmovies21.cfd,mangakita.id,mangakita.net,manganime.in,movieajip.online##[href^="https://bit.ly/"]
 gudangmovies21.chat,sattorrent.com,soulscans.my.id##+js(aopr, SGPB_POPUP_PARAMS)
 gudangpemain.com##.blocker-notice
@@ -11008,12 +11007,12 @@ kiryuu.cc##.kln
 kiryuu.cc##a[target*="blank"]:has(> img)
 kiryuu.cc##div[id^="teaser"]
 kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*="z-index: 2147483647"]
-kiryuu01.com##[href^="https://linkfast.asia/"]
 kiryuu01.com,manhwaindo.one###teaserbottom
 kiryuu02.*###floatcenter
 kiryuu02.*###teaserbottom
 kiryuu02.*##+js(nowolf)
 kiryuu02.*##.kln
+kiryuu03.com##div[class*="ads-header"]
 kisahdunia.com##+js(aost, DOMTokenList.prototype.contains, manageBodyClasses)
 kisahterlarang.site,layarwibu.com,sukasex.net,sukasex.tv##+js(rmnt, script, popupUrl)
 kitalulus.com,midteknologi.com##:matches-path(/blog) .widget:has(img[style="max-width: 100%; height: auto;"])
@@ -11647,11 +11646,12 @@ modijiurl.com##[src^="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXs
 moenime.com###\31 xbet
 moenime.com###moemodals
 moenime.com###w-node-b77
+moenime.com##*:matches-css(position: /absolute|relative/):matches-css(background-image: /base64|url\(/)
+moenime.com##*:matches-css(position: /fixed|sticky/)
 moenime.com##*:matches-css(position: absolute):has(*:matches-css(background-image: /base64|url\(/))
-moenime.com##*:matches-css(position: absolute):has(:is(canvas, iframe, [href*="data:image"], [src*="data:image"], img[src*="blob:"], input[src*="blob:"], [data*="blob:"]))
+moenime.com##*:matches-css(position: absolute):has(:is(canvas, embed, iframe, image, [href*="data:image"], [src*="data:image"], [src*="blob:"], [data*="blob:"]))
 moenime.com##*:matches-css(position: absolute):has(> :matches-css(position: relative))
-moenime.com##*:matches-css(position: absolute):matches-css(background-image: /base64|url\(/)
-moenime.com##*:matches-css(position: fixed)
+moenime.com##*:matches-css(position: relative):has(:is([src*="blob:"]))
 moenime.com##+js(acis, Element.prototype.addEventListener, remove)
 moenime.com##+js(acis, Element.prototype.attachShadow)
 moenime.com##+js(acis, String.fromCharCode)
@@ -11775,6 +11775,8 @@ nextren.grid.id##div.banner-r
 ngomek.com###adblock-overlay
 ngopibareng.id##div:has(> p:has-text(/adv/i))
 ngulikode.com##+js(aopr, nocopas)
+nimegami.*##+js(nowoif)
+nimegami.*##div[class^="iklan_banner"]
 nimegami.id##+js(aopr, go_url)
 nimeindo.*,awsubs.*##div#popupAd
 ninemanga.com##.sitemaji_banner
@@ -12867,7 +12869,6 @@ wowkeren.com##.ne-banner-layout1
 wowkeren.com##article div:matches-css(display: inline-block):has(> script)
 wowkeren.com##div[style*="width:300px;min-height:250px"]
 wtools.io###adsright_vertical
-www.gtainside.com##.box_highlight_error
 www.nexusmods.com###accordion-header-mods-per-page
 www.nexusmods.com###app-banner
 www.nexusmods.com###loggedOutPremiumBanner
@@ -16256,6 +16257,7 @@ zurich.co.id##.privacy-warning-main
 ||shiokuda.$image,third-party
 ||shiokuda.$popup
 ||shngm.id/*.gif
+||shopee.co.id^$popup,domain=berkasdrive.*|nimegami.*
 ||shqbsdjatunl.com^$popup
 ||shrinkads.com/js/xe.js$script
 ||siapbet.$image,third-party
@@ -16440,6 +16442,7 @@ zurich.co.id##.privacy-warning-main
 ||swatantranews.com^*/iklan-$image
 ||switchpoker.com^$third-party
 ||syndication.twitter.com/srv/timeline-profile^$third-party
+||t.co^$popup,domain=berkasdrive.*|nimegami.*
 ||tahun-qq.$image,third-party
 ||tahunqq.$image,third-party
 ||taiwebs.com^

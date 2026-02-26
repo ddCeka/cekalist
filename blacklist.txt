@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 23 Feb 2026 18:14 UTC (updated regularly)
-! host_count: 9521
+! Last modified: 26 Feb 2026 13:29 UTC (updated regularly)
+! host_count: 9523
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -5658,6 +5658,7 @@
 0.0.0.0 logservice1.dbankcloud.cn
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logsink.zedge.net
+0.0.0.0 logssug.ucweb.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logz.tekiusa.com
 0.0.0.0 lokeriklan.com
@@ -8966,6 +8967,7 @@
 0.0.0.0 ubpop.com
 0.0.0.0 uc.ucweb.com
 0.0.0.0 uc9.ucweb.com
+0.0.0.0 ucads.ucweb.com
 0.0.0.0 ucus.ucweb.com
 0.0.0.0 ue.flipboard.com
 0.0.0.0 ueuodgnrhb.com

@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 26 Feb 2026 13:29 UTC (updated regularly)
-! host_count: 9523
+! Last modified: 26 Feb 2026 20:51 UTC (updated regularly)
+! host_count: 9524
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -4079,6 +4079,7 @@
 0.0.0.0 garenapoker.com
 0.0.0.0 garudaplazashop.com
 0.0.0.0 garudashoping.com
+0.0.0.0 gaslah.my.id
 0.0.0.0 gateway.ttpsdk.info
 0.0.0.0 gavurashop.com
 0.0.0.0 gc855.com

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 26 Feb 2026 13:29 UTC (updated regularly)
+! Last modified: 26 Feb 2026 20:52 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -7244,7 +7244,7 @@
 .biz/iklan/
 .com/iklan/*$image,domain=~persis.or.id
 .gif$image,domain=/kiryuu0\d+\.com/
-.gif$image,domain=anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu03.*|komikcast.*|kuramanime.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|shinigami09.com
+.gif$image,domain=anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu03.*|komikcast.*|kuramanime.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|shinigami09.com|winbu.*
 .gif|$domain=moenime.com
 .gif|$image,domain=45.11.57.168|oppa.biz|oppadrama.biz
 .gif|$image,domain=oploverz.*
@@ -9051,6 +9051,7 @@ animeindo.video##.in_up_ad-area
 animekhor.org,animexin.top,oploverz.best###overplay
 animekompi.*###overplay
 animekompi.*###teaser4
+animekompi.*##+js(abort-on-property-write, MutationObserver)
 animekompi.*##.kln
 animekompi.fun##.ays-pb-modals
 animekompi.fun,bioskop21.*,dojing.net,hidoristream.online,komik18.xyz,komikdewasa.art,komikstation.org,komiku.asia,melongmovies.com,mihentai.com,movieku.*,sektedoujin.cc##div[id^="teaser"]
@@ -9880,8 +9881,10 @@ detik.com##.staticdetail_container:has(.staticdetail_ads)
 detik.com##.staticdetail_container:has(> .staticdetail_ads)
 detik.com##.teads-player
 detik.com##.top_banner_bar
+detik.com##[data-ads]
 detik.com##body > div:matches-css(min-height: 150px):has(> center > [id^="div-gpt-ad-"])
 detik.com##body > div[id^="div-gpt-ad-"]
+detik.com##body.hasBillboard:style(padding-top:0 !important;)
 detik.com##body:style(overflow: auto !important;)
 detik.com##body:style(padding-top: 0!important;)
 detik.com##div:matches-css(width: 300px):matches-css(min-height:250px):has(script)
@@ -11662,6 +11665,8 @@ moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
 moenime.com##.entry-content div:matches-css(text-align: center):has([onclick])
 moenime.com##.entry-content form[action*="/go.php"]
 moenime.com##:is(.widget, .widget-area)
+moenime.com##[style*="translate("]:has([src*="blob:"])
+moenime.com##[style*="z-index"]:has([src*="blob:"] + [style*="background"])
 moenime.com##^script:has-text(/decodeURIComponent\(|(?:%|x)[0-9A-Fa-f]{2}/)
 moenime.com##body:style(overflow: auto !important;)
 moenime.com##iframe:matches-css(position: absolute)
@@ -14231,6 +14236,7 @@ zurich.co.id##.privacy-warning-main
 ||garudacitizen.com^*/iklan-$image
 ||garudakiu.$image,third-party
 ||garudaqq.$image,third-party
+||gaslah.my.id^$third-party
 ||gatanews.id^*/iklan-$image
 ||gatra.com^*/banners/
 ||gebyarbola.$image,third-party

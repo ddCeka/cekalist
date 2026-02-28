@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 27 Feb 2026 17:06 UTC (updated regularly)
+! Last modified: 01 Mar 2026 02:52 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -10296,6 +10296,7 @@ gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 gramedia.com##.entry-content > .grame-promo
 greeners.co,honestdocs.id##.top-banner
 greenscene.co.id,mamikos.com,mojok.co##.footer_stickyexp
+grid.id###button-scroll-top
 grid.id###buttonGridstore
 grid.id###div-top-banner-transparent
 grid.id###outbrain-container
@@ -10305,11 +10306,13 @@ grid.id##.ads-flying-carpet
 grid.id##.ads-horad
 grid.id##.ads-mr
 grid.id##.ads__skyscraper
+grid.id##.ads_below_photo-wrapper
 grid.id##.ads_imr2
 grid.id##.ads_sky
 grid.id##.bottom_banner
 grid.id##.bottom_banner-wrapper.relative
 grid.id##.nkt__stick
+grid.id##.pushdown-banner
 grid.id##.relative.below_photo
 grid.id##.relative.skycrapper
 grid.id##.skin_ads
@@ -11649,17 +11652,16 @@ modijiurl.com##[src^="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXs
 moenime.com###\31 xbet
 moenime.com###moemodals
 moenime.com###w-node-b77
+moenime.com##*:matches-css(background-image: /base64|url\(/)
 moenime.com##*:matches-css(position: /absolute|relative/):matches-css(background-image: /base64|url\(/)
 moenime.com##*:matches-css(position: /fixed|sticky/)
 moenime.com##*:matches-css(position: absolute):has(*:matches-css(background-image: /base64|url\(/))
 moenime.com##*:matches-css(position: absolute):has(:is(canvas, embed, iframe, image, [href*="data:image"], [src*="data:image"], [src*="blob:"], [data*="blob:"]))
 moenime.com##*:matches-css(position: absolute):has(> :matches-css(position: relative))
-moenime.com##*:matches-css(position: relative):has(:is([src*="blob:"]))
-moenime.com##*:matches-css(z-index: /[0-9]/):has(*:matches-css(background-image: /base64|url\(/))
-moenime.com##*:matches-css(z-index: /[0-9]/):has(:is([src*="blob:"], [data*="blob:"]))
 moenime.com##+js(acis, Element.prototype.addEventListener, remove)
 moenime.com##+js(acis, Element.prototype.attachShadow)
 moenime.com##+js(acis, String.fromCharCode)
+moenime.com##+js(acis, document.getElementById, Blob()
 moenime.com##+js(acis, window.atob)
 moenime.com##+js(no-fetch-if, trafficbass.com)
 moenime.com##+js(nowoif)
@@ -11667,7 +11669,6 @@ moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
 moenime.com##.entry-content div:matches-css(text-align: center):has([onclick])
 moenime.com##.entry-content form[action*="/go.php"]
 moenime.com##:is(.widget, .widget-area)
-moenime.com##:is([style*="z-index"], [style*="translate("]):has([src*="blob:"]):has([style*="background"])
 moenime.com##^script:has-text(/decodeURIComponent\(|(?:%|x)[0-9A-Fa-f]{2}/)
 moenime.com##body:style(overflow: auto !important;)
 moenime.com##iframe:matches-css(position: absolute)

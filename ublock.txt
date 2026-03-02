@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 01 Mar 2026 02:52 UTC (updated regularly)
+! Last modified: 02 Mar 2026 21:45 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -1892,6 +1892,7 @@
 ##[href*="https://menujupenta.site/"]
 ##[href*="luxury111" i]
 ##[href*="luxury138" i]
+##[href="http://bit.ly/BRH21"]
 ##[href="http://bit.ly/KaikoSLOT"]
 ##[href="http://bit.ly/MENANG123"]
 ##[href="http://bit.ly/PentaSLOT"]
@@ -2360,6 +2361,7 @@
 ##[href="https://jali.me/ularslot2025"]
 ##[href="https://jali.pro/stream-lv4d"]
 ##[href="https://joiboy.ink/IkiruKTU"]
+##[href="https://joiboy.ink/KTwinbu"]
 ##[href="https://joiboy.ink/Komikcast2"]
 ##[href="https://join.gratis/IDGACORR"]
 ##[href="https://joy.link/unggul88"]
@@ -2395,6 +2397,7 @@
 ##[href="https://klik.fun/boomxxiidk"]
 ##[href="https://klik.fun/ngebo180"]
 ##[href="https://klik.gg/anichin"]
+##[href="https://klik.gg/anikompi"]
 ##[href="https://klik.gg/animasu"]
 ##[href="https://klik.gg/animasupb"]
 ##[href="https://klik.gg/animenyus"]
@@ -2444,6 +2447,7 @@
 ##[href="https://klik.top/ikihd"]
 ##[href="https://klik.top/ikiruid"]
 ##[href="https://klik.top/komikcast"]
+##[href="https://klik.top/kompihkd"]
 ##[href="https://klik.top/kurani"]
 ##[href="https://klik.top/kurnim"]
 ##[href="https://klik.top/manhwaindo"]
@@ -2451,6 +2455,7 @@
 ##[href="https://klik.top/samehada"]
 ##[href="https://klik.top/samehadaku"]
 ##[href="https://klik.top/shihome"]
+##[href="https://klik.top/winbu"]
 ##[href="https://klik.zeus.fun/DM21"]
 ##[href="https://klik.zeus.fun/Mindo"]
 ##[href="https://klik.zeus.fun/ak"]
@@ -2822,6 +2827,7 @@
 ##[href="https://server-x7.xyz/TopVvip32"]
 ##[href="https://server-x7.xyz/TopVvip33"]
 ##[href="https://server-x7.xyz/TopVvip43"]
+##[href="https://server-x7.xyz/TopVvip64"]
 ##[href="https://shor.by/NontonSBO"]
 ##[href="https://shorten.ee/GocrotAL"]
 ##[href="https://shorten.ee/GocrotDUL"]
@@ -2855,6 +2861,7 @@
 ##[href="https://t.ly/a3-mkt"]
 ##[href="https://t.ly/adsagb"]
 ##[href="https://t.ly/ainzscans"]
+##[href="https://t.ly/anime-gacorrun"]
 ##[href="https://t.ly/animekompi88"]
 ##[href="https://t.ly/animesab"]
 ##[href="https://t.ly/animetab"]
@@ -2942,6 +2949,7 @@
 ##[href="https://tapme.ink/arenaspin_vip03"]
 ##[href="https://tapme.ink/arenaspin_vip09"]
 ##[href="https://tapme.ink/arenaspin_vip10"]
+##[href="https://tapme.ink/arenaspin_vip101"]
 ##[href="https://tapme.ink/arenaspin_vip123"]
 ##[href="https://tembak.pro/byfilm"]
 ##[href="https://tembak.pro/film"]
@@ -2999,6 +3007,7 @@
 ##[href="https://tinyurl.com/mastertogelll"]
 ##[href="https://tinyurl.com/mastertogelss"]
 ##[href="https://tinyurl.com/menaraSaiko"]
+##[href="https://tinyurl.com/momoplay37"]
 ##[href="https://tinyurl.com/nontonanimenew36"]
 ##[href="https://tinyurl.com/oploverz36"]
 ##[href="https://tinyurl.com/pecahbanget138"]
@@ -7246,7 +7255,7 @@
 .gif$image,domain=/kiryuu0\d+\.com/
 .gif$image,domain=anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu03.*|komikcast.*|kuramanime.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|shinigami09.com|winbu.*
 .gif|$domain=moenime.com
-.gif|$image,domain=45.11.57.168|oppa.biz|oppadrama.biz
+.gif|$image,domain=45.11.57.31|oppa.biz|oppadrama.biz
 .gif|$image,domain=oploverz.*
 .id/ads/
 .id/adv/
@@ -8443,8 +8452,8 @@
 /ratulotto.$image,third-party
 /ratuqq.$image,third-party
 /ratuqq.gif$image
-/rbtvplus\d+\.(com|blog|cyou|help|info|lat|lol|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
-/rbtvplus\d+\.(com|blog|cyou|help|info|lat|lol|rest|vip|xyz)/##.czlll-rlselse
+/rbtvplus\d+\.(com|baby|blog|cyou|help|info|lat|lol|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
+/rbtvplus\d+\.(com|baby|blog|cyou|help|info|lat|lol|rest|vip|xyz)/##.czlll-rlselse
 /rctiqq.$image,third-party
 /rdomino.$image,third-party
 /rejekibet.$image,third-party
@@ -8732,7 +8741,7 @@
 01nonton.com,bioskop45.com,drakorindo.tv,idbioskop.com,indomv.net,nekopoi.care,nonton33.net,nonton789.com,nontonsub.com,sukamovie.mobi,zonabola.id##a[href^="http://bit.ly/"]
 01ntn.cc##[href^="https://goratu.site"]
 01ntn.cc,91.208.197.221###topban
-01ntn.cc,91.208.197.221,anibatch.moe,anichin.social,animekompi.fun,animexin.dev,bioskop21.*,boscinematv1.space,cinemaemas6.com,cinemakeren6.id,dramaserial21.cam,filem21.org,gudangkomik.com,gudangmovies21.chat,idxmovie21.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,kazefuri.info,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kuroshireader.com,kusonime.com,layardrama.*,layardrama21.*,mangasusuku.com,melongmovies.com,movieku.*,nimegami.id,nntonfilm.my.id,nomat.site,omanga.net,otakudesu.best,otakudesu.id,rebahin.lol,sobatku21.xyz,westmanga.me,winbu.tv##a[target*="blank"]:has(> img)
+01ntn.cc,91.208.197.221,anibatch.moe,anichin.social,animekompi.fun,animexin.dev,bioskop21.*,boscinematv1.space,cinemaemas6.com,cinemakeren6.id,dramaserial21.cam,filem21.org,gudangkomik.com,gudangmovies21.chat,idxmovie21.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,kazefuri.info,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kuroshireader.com,kusonime.com,layardrama.*,layardrama21.*,mangasusuku.com,melongmovies.com,movieku.*,nimegami.id,nntonfilm.my.id,nomat.site,omanga.net,otakudesu.best,otakudesu.id,rebahin.lol,sobatmov.xyz,westmanga.me,winbu.tv##a[target*="blank"]:has(> img)
 100kpj.com##.sticky-bottom
 100kpj.com,bisnis.com,intipseleb.com,tempo.co,viva.co.id##.dm-player:remove()
 100kpj.com,tvonenews.com##.sticky-bottom
@@ -8770,9 +8779,9 @@
 3gpterbaru.com##+js(aopr, LieDetector)
 3gpterbaru.com,duniaseksi.com##+js(rmnt, script, /decodeURIComponent\(escape|fairAdblock/)
 3gpterbaru.com,duniaseksi.com##^script:has-text(/decodeURIComponent\(escape|fairAdblock/)
-45.11.57.168,oppa.biz,oppadrama.biz##+js(aopr, popup_custom_data)
-45.11.57.168,oppa.biz,oppadrama.biz##.kln
-45.11.57.168,oppa.biz,oppadrama.biz##a[target*="blank"]:has(> img)
+45.11.57.31,oppa.biz,oppadrama.biz##+js(aopr, popup_custom_data)
+45.11.57.31,oppa.biz,oppadrama.biz##.kln
+45.11.57.31,oppa.biz,oppadrama.biz##a[target*="blank"]:has(> img)
 456club11.com
 456sad.cc
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
@@ -9024,9 +9033,9 @@ ambontoday.com,autoride.co.id,bacatrend.com,bangsaku.co,bardimin.com,batamclick.
 amp.reddit.com##.AppSelectorModal__body
 amp.reddit.com##.upsell_banner
 anakteknik.co.id,howdy.id,obengplus.com##+js(no-fetch-if, pagead2.googlesyndication.com)
-anconaguide.com,azarug.org,hoppin-grapes.com,internetincomecoach.com,learnenglishindublin.com,rivercatsmainecoons.com,sabellaphoto.com,weddingphotographercleveland.com##a[target*="blank"]:has(> img)
+anconaguide.com,azarug.org,hbvadvocate.org,internetincomecoach.com,jtcwd.com,sabellaphoto.com,shadowofthevampire.com,wwrb.org##a[target*="blank"]:has(> img)
 androidapksfree.com##.header-ad-heading
-anibatch.moe,anichin.blog,animekompi.fun,cinemaemas6.com,cinemakeren6.id,dramaencode.net,gudangkomik.com,kawanfilm21.co,kazefuri.cloud,kazefuri.info,mangakita.id,nimegami.id,otakudesu.best,rebahan21.com,rebahin.lol,sektedoujin.cc,sobatku21.xyz,sokuja.uk,westmanga.me##+js(nowoif)
+anibatch.moe,anichin.blog,animekompi.fun,cinemaemas6.com,cinemakeren6.id,dramaencode.net,gudangkomik.com,kawanfilm21.co,kazefuri.cloud,kazefuri.info,mangakita.id,nimegami.id,otakudesu.best,rebahan21.com,rebahin.lol,sektedoujin.cc,sobatmov.xyz,sokuja.uk,westmanga.me##+js(nowoif)
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
@@ -9227,7 +9236,7 @@ batamclick.com,editorial9.com,jarrakpos.com,mediakaltim.com,nabire.net,sandeq.co
 batamnews.co.id##.ads-banner-link
 batamnews.co.id,borneonusantaranews.com,cakrawalantt.com,harianmerdeka.id,karawangnews.com,komentar.co,progresif.id###btm_banner
 batampos.co.id,papuaterkini.com,papuatoday.com##+js(acis, SGPopup)
-bcjschool.org,foundationrepairwichitaks.net,glenbeulah.org,harvardasda.org,stlwebdev.org##a[target*="blank"]:has(> img)
+bcjschool.org,foundationrepairwichitaks.net,glenbeulah.org,harvardasda.org,hoppin-grapes.com,learnenglishindublin.com,rivercatsmainecoons.com,stlwebdev.org,weddingphotographercleveland.com##a[target*="blank"]:has(> img)
 beasiswaindo.com##[class^="sponsor-"]
 beautyjournal.id###adsense-parallax-banner-container
 beautyjournal.id###main-banner-container
@@ -11064,9 +11073,9 @@ komikdewasa.*##.teaser4
 komikdewasa.art##+js(aeld, click, tampilkanUrl)
 komikdewasa.art##.wp-image-80765.size-full.alignnone
 komikdewasa.art##body:style(padding-top: 0 !important; padding-bottom: 0 !important;)
-komikdewasa.mom,komikindo.vip,komikindo1.*,komikindo2.*,komikindo3.*,komikindo4.*,mangatoon.cc##+js(aeld, contextmenu)
-komikdewasa.mom,komikindo.vip,komikindo1.*,komikindo2.*,komikindo3.*,komikindo4.*,mangatoon.cc##.kln
-komikdewasa.mom,komikindo.vip,komikindo1.*,komikindo2.*,komikindo3.*,komikindo4.*,mangatoon.cc##body > div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
+komikdewasa.mom,komikindo.club,komikindo1.*,komikindo2.*,komikindo3.*,komikindo4.*,mangatoon.cc##+js(aeld, contextmenu)
+komikdewasa.mom,komikindo.club,komikindo1.*,komikindo2.*,komikindo3.*,komikindo4.*,mangatoon.cc##.kln
+komikdewasa.mom,komikindo.club,komikindo1.*,komikindo2.*,komikindo3.*,komikindo4.*,mangatoon.cc##body > div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
 komikindo.*##.ads a[href]
 komikindo.*##.ads iframe
 komikindo.co##a[href^="https://shope.ee/"]
@@ -11474,7 +11483,7 @@ mangacanblog.com##+js(aeld, /^(?:contextmenu|selectstart)$/)
 mangacanblog.com##+js(aopr, document.onkeydown)
 mangacanblog.com##.mas_tamvan
 mangafap.com###lbanner
-mangakita.id,russsmithlaw.com,sobatku21.xyz,sokuja.uk,wibudesu.co##+js(aopr, popup_custom_data)
+mangakita.id,russsmithlaw.com,sobatmov.xyz,sokuja.uk,wibudesu.co##+js(aopr, popup_custom_data)
 mangakita.net##a[title^="manga4d"]
 mangaku.bio##.separator > a[imageanchor="1"]
 mangaku.bio##[id^="ftads"]
@@ -11487,12 +11496,12 @@ manganime.in##.separator
 manganime.live###ftads
 manganime.live##.berlangganan-500
 mangashiro.net###openpopunder
-manhwadesu.io,manhwaindo.my,manhwaland.baby,manhwaland.land##+js(aeld, contextmenu)
-manhwadesu.io,manhwaindo.my,manhwaland.baby,manhwaland.land##+js(nowoif)
-manhwadesu.io,manhwaindo.my,manhwaland.baby,manhwaland.land##.kln
-manhwadesu.io,manhwaindo.my,manhwaland.baby,manhwaland.land##a[target*="blank"]
-manhwadesu.io,manhwaindo.my,manhwaland.baby,manhwaland.land##div[id^="teaser"]
-manhwadesu.io,manhwaindo.my,manhwaland.baby,manhwaland.land##div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
+manhwadesu.art,manhwaindo.my,manhwaland.baby,manhwaland.land##+js(aeld, contextmenu)
+manhwadesu.art,manhwaindo.my,manhwaland.baby,manhwaland.land##+js(nowoif)
+manhwadesu.art,manhwaindo.my,manhwaland.baby,manhwaland.land##.kln
+manhwadesu.art,manhwaindo.my,manhwaland.baby,manhwaland.land##a[target*="blank"]
+manhwadesu.art,manhwaindo.my,manhwaland.baby,manhwaland.land##div[id^="teaser"]
+manhwadesu.art,manhwaindo.my,manhwaland.baby,manhwaland.land##div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
 manhwadesu.org##a[href^="https://klik.gg/"]
 manhwaindo.*###teaser3
 manhwaindo.*##.kln
@@ -11658,10 +11667,11 @@ moenime.com##*:matches-css(position: /fixed|sticky/)
 moenime.com##*:matches-css(position: absolute):has(*:matches-css(background-image: /base64|url\(/))
 moenime.com##*:matches-css(position: absolute):has(:is(canvas, embed, iframe, image, [href*="data:image"], [src*="data:image"], [src*="blob:"], [data*="blob:"]))
 moenime.com##*:matches-css(position: absolute):has(> :matches-css(position: relative))
+moenime.com##*:matches-css(position: relative):has([src*="base64"])
+moenime.com##+js(acis, Blob)
 moenime.com##+js(acis, Element.prototype.addEventListener, remove)
 moenime.com##+js(acis, Element.prototype.attachShadow)
 moenime.com##+js(acis, String.fromCharCode)
-moenime.com##+js(acis, document.getElementById, Blob()
 moenime.com##+js(acis, window.atob)
 moenime.com##+js(no-fetch-if, trafficbass.com)
 moenime.com##+js(nowoif)
@@ -11746,6 +11756,7 @@ narasi.tv##.max-xl\:hidden.top-24.left-0.fixed.z-10
 narasi.tv##.mb-4.bg-\[\#e3e3e3\]
 narasi.tv##.min-w-\[160px\].min-h-\[600px\]
 narasi.tv##.pb-6.billboard
+narasi.tv##.read-next
 narasi.tv##.sky-scraper-ads
 narasi.tv,uzone.id##.fixed.bottom-0
 nawacita.co##.iklannawacita
@@ -12060,7 +12071,7 @@ pewarta.co.id###top_ad_content
 pewarta.co.id##.billboard_ads1
 pewarta.co.id##.billboard_pushdown
 pewarta.co.id##.dynamic_ads
-pf21.ink,pusatfilm21.online##a[target*="blank"]:has(> img)
+pf21.ink,pusatfilm21.online,pusatfilm21info.com##a[target*="blank"]:has(> img)
 phptutorial.net,uptodown.com##.ad
 pijarnews.com##img[width="1080"][height="277"]
 pijarnews.com##img[width="1280"][height="328"]
@@ -16321,7 +16332,7 @@ zurich.co.id##.privacy-warning-main
 ||snacklink.id/js/web-script.$3p,script
 ||snacklink.id/js/web-script.js$script,third-party
 ||sngine.com/content/uploads/videos/$media,redirect=noopmp4-1s
-||sobatku21.xyz/wp-content/uploads/$media,redirect=noopmp4-1s
+||sobatmov.xyz/wp-content/uploads/$media,redirect=noopmp4-1s
 ||sobatpkr.$image,third-party
 ||sobatpkr.$popup
 ||sobatpoker.$image,third-party
@@ -17078,6 +17089,7 @@ zurich.co.id##.privacy-warning-main
 ~bloggerperempuan.com##[href*="//bloggerperempuan.com"]:has(img)
 ~bsky.*,~bluesky.*##a[href^="https://bsky.app/intent/compose?text="]
 ~bsky.social##.share-bluesky:not(html,body,article)
+~cepaturl.com##[href^="https://cepaturl.com/"]
 ~chess.com##button[data-share-url]
 ~clickadu.com##[href^="https://www.clickadu.com/?rfd="]:has(img)
 ~collaborator.pro##[href^="https://collaborator.pro?ref="]:has(img)
@@ -17155,6 +17167,7 @@ zurich.co.id##.privacy-warning-main
 ~hatena.ne.jp##.hatena-bookmark-button:not(html,body,:empty)
 ~hawkhost.com##[href^="https://my.hawkhost.com/aff.php"]:has(img)
 ~hayai.me##[href="https://hayai.me/akunhoki"]
+~hayai.me##[href="https://hayai.me/vvip"]
 ~idwebhost.com##[href^="https://idwebhost.com/aff/"]:has(img)
 ~indodax.com##[href^="https://indodax.com/ref/"]:has(img)
 ~indowebsite.co.id##[href^="https://www.indowebsite.co.id/web-hosting/?id="]:has(img)
@@ -17191,6 +17204,7 @@ zurich.co.id##.privacy-warning-main
 ~linkedin.com##li[data-share=linkedin]
 ~linkedin.com,~terabox.com##div[class*=share-box]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i],[class*=has-share-box])
 ~linkfast.vip##[href^="https://linkfast.vip/"]
+~linksiap.me##[href^="https://linksiap.me/"]
 ~mail.ru##a[href^="https://connect.mail.ru/share?url="]
 ~menujupenta.site##[href="https://menujupenta.site/login"]
 ~mewe.com##div[class*=share-link]

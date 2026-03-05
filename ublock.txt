@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 03 Mar 2026 16:40 UTC (updated regularly)
+! Last modified: 05 Mar 2026 14:32 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8452,8 +8452,8 @@
 /ratulotto.$image,third-party
 /ratuqq.$image,third-party
 /ratuqq.gif$image
-/rbtvplus\d+\.(com|baby|blog|cyou|help|info|lat|lol|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
-/rbtvplus\d+\.(com|baby|blog|cyou|help|info|lat|lol|rest|vip|xyz)/##.czlll-rlselse
+/rbtvplus\d+\.(com|baby|blog|cyou|help|info|lat|lol|pics|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
+/rbtvplus\d+\.(com|baby|blog|cyou|help|info|lat|lol|pics|rest|vip|xyz)/##.czlll-rlselse
 /rctiqq.$image,third-party
 /rdomino.$image,third-party
 /rejekibet.$image,third-party
@@ -9509,12 +9509,15 @@ bolasport.com,kompas.tv##.mgidclsbanner
 bolasport.com,parapuan.co,sonora.id###div-Inside-MediumRectangle
 bolatimes.com,dewiku.com,guideku.com,himedik.com,hitekno.com,matamata.com,mobimoto.com,suara.com##.adds-top
 bolatimes.com,dewiku.com,guideku.com,himedik.com,hitekno.com,mobimoto.com##.wrap-ads-leaderboard
+bolatimes.com,dewiku.com,guideku.com,himedik.com,matamata.com,mobimoto.com,suara.com###div-ad-skin_right
+bolatimes.com,dewiku.com,guideku.com,himedik.com,matamata.com,mobimoto.com,suara.com##.placeholder_belt
+bolatimes.com,dewiku.com,guideku.com,himedik.com,matamata.com,mobimoto.com,suara.com##.placeholder_read_body
 bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com##.placeholder_leaderboard
 bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com##.placeholder_r1
 bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com##.wrap-ads-r
 bolatimes.com,dewiku.com,himedik.com,hitekno.com,matamata.com###geniee-berita-terkait
 bolatimes.com,dewiku.com,himedik.com,hitekno.com,matamata.com,mobimoto.com,suara.com##[class^="placeholder_"]:has([id^="div-ad-"])
-bolatimes.com,guideku.com,hitekno.com,matamata.com##.adds-top.add
+bolatimes.com,guideku.com,hitekno.com,matamata.com,suara.com##.adds-top.add
 bolatimes.com,guideku.com,matamata.com##.anchor_banner
 bolatimes.com,guideku.com,matamata.com##.banner-ads--big
 bolatimes.com,guideku.com,matamata.com##.detail-content > div
@@ -11666,8 +11669,13 @@ moenime.com##*:matches-css(position: /absolute|relative/):has(:is(canvas, embed,
 moenime.com##*:matches-css(position: /absolute|relative/):matches-css(background-image: /base64|url\(/)
 moenime.com##*:matches-css(position: /fixed|sticky/)
 moenime.com##*:matches-css(position: absolute):has(*:matches-css(background-image: /base64|url\(/))
+moenime.com##*:matches-css(position: absolute):has(*:matches-css(border-image-source: /base64|url\(/))
+moenime.com##*:matches-css(position: absolute):has(*:matches-css(content: /base64|url\(/))
+moenime.com##*:matches-css(position: absolute):has(*:matches-css-after(content: /base64|url\(/))
 moenime.com##*:matches-css(position: absolute):has(> :matches-css(position: relative))
+moenime.com##*:matches-css(position: absolute):matches-css(content: /base64|url\(/)
 moenime.com##*:matches-css(position: relative):has([src*="base64"])
+moenime.com##*:matches-css(position: static):matches-css(display: /grid|flex/):has(> :matches-css(position: static)):remove()
 moenime.com##+js(acis, Blob)
 moenime.com##+js(acis, Element.prototype.addEventListener, remove)
 moenime.com##+js(acis, Element.prototype.attachShadow)
@@ -12495,7 +12503,6 @@ suara.com###div-ad-pariwara_satu
 suara.com###pariwara_dua
 suara.com###pariwara_satu
 suara.com###recWidgetRecommendation
-suara.com##.adds-top.add
 suara.com##.banner-ads--parallax
 suara.com##.bg-ads-sticky-side
 suara.com##.bg-ads-sticky-top
@@ -13983,6 +13990,7 @@ zurich.co.id##.privacy-warning-main
 ||dharapos.com^*/iklan-$image
 ||dialognews.id^*/banner-$image
 ||diamondtoto.$image,third-party
+||dicrotin.sbs/*.mp4$media,redirect=noopmp4-1s
 ||digiads.co.id^$third-party
 ||digitalnews.co.id^*/iklan-$image
 ||dimensiqq.$image,third-party

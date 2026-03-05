@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 03 Mar 2026 16:40 UTC (updated regularly)
-! host_count: 9525
+! Last modified: 05 Mar 2026 14:30 UTC (updated regularly)
+! host_count: 9531
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -684,6 +684,7 @@
 0.0.0.0 africanjunglebooty.com
 0.0.0.0 africanpalacecasino.com
 0.0.0.0 afroditecasino.com
+0.0.0.0 afs.googlesyndication.com
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
 0.0.0.0 agen-338a-terpercaya.com
 0.0.0.0 agen-betting.com
@@ -5575,6 +5576,7 @@
 0.0.0.0 log.bloodsugars.live
 0.0.0.0 log.cleandesigner.live
 0.0.0.0 log.cleanertoolboxonline.live
+0.0.0.0 log.cleanerwish.live
 0.0.0.0 log.cleansweepplu.com
 0.0.0.0 log.clearcleanerpro.live
 0.0.0.0 log.documentmanagerpdfdocxlssale.live
@@ -5603,13 +5605,16 @@
 0.0.0.0 log.pdfbookeditor.live
 0.0.0.0 log.pdfviewerscannerstore.live
 0.0.0.0 log.phonefreshfix.live
+0.0.0.0 log.photorecoverypicturerecovery.com
 0.0.0.0 log.pngindir.com
 0.0.0.0 log.pullcenter.live
 0.0.0.0 log.pvpgang.com
+0.0.0.0 log.scanqrcodedesign.live
 0.0.0.0 log.smartclearpro.com
 0.0.0.0 log.snow.me
 0.0.0.0 log.stickflow.xyz
 0.0.0.0 log.suddenclean.com
+0.0.0.0 log.sweepycleanplus.com
 0.0.0.0 log.talkie-ai.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log.tpns.tencent.com
@@ -6912,6 +6917,7 @@
 0.0.0.0 plugin.mediavoice.com
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 pn.ybp.yahoo.com
+0.0.0.0 pob-mob2.websearchbrowser.com
 0.0.0.0 pocketfives.com
 0.0.0.0 poin-777.com
 0.0.0.0 poin-indosat.com

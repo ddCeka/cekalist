@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 08 Mar 2026 12:25 UTC (updated regularly)
+! Last modified: 09 Mar 2026 03:25 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -11269,6 +11269,7 @@ kucingmania.net,nomor.net##+js(ra, oncontextmenu|ondragstart|onkeydown|onmousedo
 kucingpersia.co.id##+js(aopr, document.onkeydown)
 kumapoi.info##+js(noeval-if, /chp_?ad/)
 kumparan.com###parallax
+kumparan.com##+js(set, body.style.overflow, visible !important)
 kumparan.com##.pb8.pt8.flex.bshhdS.sc-1u3us5z-1.cTlHVA.Viewweb__StyledView-sc-b0snvl-0
 kumparan.com##[data-qa-id*="banner"]
 kumparan.com##[data-qa-id*="mobile-article-page-"]:has-text(/adv/i)
@@ -11284,6 +11285,10 @@ kumparan.com##[data-qa-id^="desktop-article-page-inline-"]:has(span:has-text(/AD
 kumparan.com##[data-qa-id^="desktop-sidebar-banner-"]
 kumparan.com##[data-qa-id^="left-skyscrapper-ads"]
 kumparan.com##[data-qa-id^="right-skyscrapper-ads"]
+kumparan.com##button[data-qa-id="close"]
+kumparan.com##div[class*="ModalContent"]
+kumparan.com##div[class*="ModalOverlay"]
+kumparan.com##div[class*="Modalweb__"]
 kumparan.com#?#[data-qa-id="desktop-article-page-below-images"]:has(span:-abp-contains(/ADVERTISEMENT/i))
 kumparan.com#?#[data-qa-id^="desktop-article-page-inline-"]:has(span:-abp-contains(/ADVERTISEMENT/i))
 kuninganmass.com##.zox-side-widget > figure > img
@@ -11697,6 +11702,7 @@ moenime.com##.entry-content form[action*="/go.php"]
 moenime.com##:is(.widget, .widget-area)
 moenime.com##:is([srcset*="data:"], [style*="transform"]):matches-css(position: absolute)
 moenime.com##^script:has-text(/decodeURIComponent\(|(?:%|x)[0-9A-Fa-f]{2}/)
+moenime.com##body > [style*="margin-"]:has(> img[src*="data:" i]):remove()
 moenime.com##body:style(overflow: auto !important;)
 moenime.com##iframe:matches-css(position: absolute)
 mojok.co###kontainer-ads-desktop

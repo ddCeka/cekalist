@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 05 Mar 2026 14:32 UTC (updated regularly)
+! Last modified: 08 Mar 2026 12:25 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -499,6 +499,7 @@
 ##.Gallery-Share:not(html,body,:empty)
 ##.Iklan
 ##.PixyPaperad
+##.PreferredSourceButtonWrapper:is(a,div)
 ##.SectionAds
 ##.Share_Icons:not(html,body,:empty)
 ##.SocialArticleIcons:not(html,body,:empty)
@@ -980,7 +981,6 @@
 ##.dt-right-ads
 ##.dt-top-ads
 ##.dual_ads
-##.elementor-popup-modal
 ##.elementor-widget-jnews_element_ads_elementor
 ##.et_social_icons_container:not(html,body,:empty)
 ##.ezoic-ads-adaptive
@@ -1052,6 +1052,8 @@
 ##.gmr-masonry-banner
 ##.gmr-topbanner
 ##.gmr-verytopbanner
+##.goo-pref:is(a,div)
+##.google-addus:is(a,div)
 ##.googleplusshare:not(html,body,:empty)
 ##.gridlove-ad-below-header
 ##.happy-footer
@@ -8452,8 +8454,8 @@
 /ratulotto.$image,third-party
 /ratuqq.$image,third-party
 /ratuqq.gif$image
-/rbtvplus\d+\.(com|baby|blog|cyou|help|info|lat|lol|pics|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
-/rbtvplus\d+\.(com|baby|blog|cyou|help|info|lat|lol|pics|rest|vip|xyz)/##.czlll-rlselse
+/rbtvplus\d+\.(com|baby|blog|cyou|help|info|lat|lol|mom|pics|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
+/rbtvplus\d+\.(com|baby|blog|cyou|help|info|lat|lol|mom|pics|rest|vip|xyz)/##.czlll-rlselse
 /rctiqq.$image,third-party
 /rdomino.$image,third-party
 /rejekibet.$image,third-party
@@ -9033,7 +9035,7 @@ ambontoday.com,autoride.co.id,bacatrend.com,bangsaku.co,bardimin.com,batamclick.
 amp.reddit.com##.AppSelectorModal__body
 amp.reddit.com##.upsell_banner
 anakteknik.co.id,howdy.id,obengplus.com##+js(no-fetch-if, pagead2.googlesyndication.com)
-anconaguide.com,azarug.org,hbvadvocate.org,internetincomecoach.com,jtcwd.com,sabellaphoto.com,shadowofthevampire.com,wwrb.org##a[target*="blank"]:has(> img)
+anconaguide.com,geaction.org,hbvadvocate.org,internetincomecoach.com,izma.shop,jtcwd.com,lastharvest.org,sabellaphoto.com,shadowofthevampire.com##a[target*="blank"]:has(> img)
 androidapksfree.com##.header-ad-heading
 anibatch.moe,anichin.blog,animekompi.fun,cinemaemas6.com,cinemakeren6.id,dramaencode.net,gudangkomik.com,kawanfilm21.co,kazefuri.cloud,kazefuri.info,mangakita.id,nimegami.id,otakudesu.best,rebahan21.com,rebahin.lol,sektedoujin.cc,sobatmov.xyz,sokuja.uk,westmanga.me##+js(nowoif)
 anichin.*###floatcenter
@@ -9154,6 +9156,7 @@ ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21offici
 ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.*,filmapik.my,ganool.app,gudangmovies21.host,movieon21.mov,movies21.ing,nontonfilm.website,teman21.app,terbit21.*,terbit21official.*###float-bottom-banner
 ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.*,filmapik.my,ganool.app,gudangmovies21.host,movieon21.mov,movies21.ing,nontonfilm.website,teman21.app,terbit21.*,terbit21official.*###top-banner
 ayoqq.gif|$image
+azarug.org,bcjschool.org,foundationrepairwichitaks.net,glenbeulah.org,harvardasda.org,hoppin-grapes.com,learnenglishindublin.com,rivercatsmainecoons.com,stlwebdev.org,weddingphotographercleveland.com,wwrb.org##a[target*="blank"]:has(> img)
 azhan.co,mediahiburan.my##+js(acis, disableSelection, reEnable)
 babelhebat.com,badakpos.com,balipolitika.com,barometerbali.com,beritamujizat.com,beritanasional.id,bisnisbanten.com,bogornetwork.com,bumntrack.co.id,dekade.id,detiksultra.com,dialognews.id,difanews.com,djawaranews.com,eljabar.com,elmitra95fm.com,gakorpan.com,gamingonphone.com,gempurnews.com,hasanah.id,infosumut.id,inilahjateng.com,inlens.id,jangantulalit.com,jejaringpos.com,kabaraktualita.com,kabardesa.co.id,kanalntb.co,kapabar.com,kendarikini.com,kerincitime.co.id,kliksamarinda.com,koranprogresif.id,kronikkaltim.id,manuntungnews.com,matadewata.com,matakota.com,mediaberitalampung.co.id,metrobanten.co.id,mitraenamdua.com,muaraenimnews.com,muslimafiyah.com,newsurban.id,ntbsatu.com,pancarpos.com,pcnucilacap.com,pelitarakyat.com,pojokberita.co,potretmaluku.id,radarkarawang.id,radarmanadoonline.com,rakyatbicara.id,rumaysho.com,suarabhinneka.com,suaraindependentnews.id,suaraislam.id,sumselmedia.com,topkonstruksi.com,upnews.id,wartabalionline.com,wartakotanews.id,wartausaha.com,zetizens.id##img[width="728"][height="91"]
 bacakoran.co##.sidebnr-stick
@@ -9236,7 +9239,6 @@ batamclick.com,editorial9.com,jarrakpos.com,mediakaltim.com,nabire.net,sandeq.co
 batamnews.co.id##.ads-banner-link
 batamnews.co.id,borneonusantaranews.com,cakrawalantt.com,harianmerdeka.id,karawangnews.com,komentar.co,progresif.id###btm_banner
 batampos.co.id,papuaterkini.com,papuatoday.com##+js(acis, SGPopup)
-bcjschool.org,foundationrepairwichitaks.net,glenbeulah.org,harvardasda.org,hoppin-grapes.com,learnenglishindublin.com,rivercatsmainecoons.com,stlwebdev.org,weddingphotographercleveland.com##a[target*="blank"]:has(> img)
 beasiswaindo.com##[class^="sponsor-"]
 beautyjournal.id###adsense-parallax-banner-container
 beautyjournal.id###main-banner-container
@@ -10108,6 +10110,7 @@ f95zone.to##li:nth-of-type(2) > .u-ripple.p-navEl
 fajar.co.id###WipeAd-Place
 fajar.co.id###WipeAd-Place2
 fajar.co.id###banner_slider_place2
+fajar.co.id###bannerx
 fajar.co.id###bottom_ads_holder
 fajar.co.id###closeAdsBtnx
 fajar.co.id###fajar_like_geniee_ads
@@ -10158,6 +10161,7 @@ filmku.net##.clearfix.act2-970x90:nth-of-type(3)
 filmnikmat.*##img[alt*="iklan"]
 fimela.com##.py-4.banner
 fimela.com##.read-page--boost-video:remove()
+flashbackrecorder.com#@#.elementor-popup-modal
 florespos.net##img[width="728"][height="100"]
 fokusborneo.com##.single-article center > img
 fokusmedan.com##img[width="720"][height="120"]
@@ -11665,16 +11669,20 @@ moenime.com###\31 xbet
 moenime.com###moemodals
 moenime.com###w-node-b77
 moenime.com##*:matches-css(background-image: /base64|url\(/)
-moenime.com##*:matches-css(position: /absolute|relative/):has(:is(canvas, embed, iframe, image, object, [data*="data:image"], [href*="data:image"], [src*="data:image"], [src*="blob:"], [data*="blob:"]))
+moenime.com##*:matches-css(position: /absolute|relative/):has(*:matches-css(content: /base64|url\(/))
+moenime.com##*:matches-css(position: /absolute|relative/):has(:is(canvas, embed, iframe, object, [src*="blob:"], [data*="blob:"]))
+moenime.com##*:matches-css(position: /absolute|relative/):has(:is(image, [type*="image"], [data*="data:image"], [href*="data:image"], [src*="data:image"], img[src*="data:"]))
 moenime.com##*:matches-css(position: /absolute|relative/):matches-css(background-image: /base64|url\(/)
 moenime.com##*:matches-css(position: /fixed|sticky/)
 moenime.com##*:matches-css(position: absolute):has(*:matches-css(background-image: /base64|url\(/))
 moenime.com##*:matches-css(position: absolute):has(*:matches-css(border-image-source: /base64|url\(/))
-moenime.com##*:matches-css(position: absolute):has(*:matches-css(content: /base64|url\(/))
+moenime.com##*:matches-css(position: absolute):has(*:matches-css(list-style-image: /base64|url\(/))
 moenime.com##*:matches-css(position: absolute):has(*:matches-css-after(content: /base64|url\(/))
 moenime.com##*:matches-css(position: absolute):has(> :matches-css(position: relative))
 moenime.com##*:matches-css(position: absolute):matches-css(content: /base64|url\(/)
+moenime.com##*:matches-css(position: absolute):matches-css(list-style-image: /base64|url\(/)
 moenime.com##*:matches-css(position: relative):has([src*="base64"])
+moenime.com##*:matches-css(position: static) > :matches-css(position: absolute)
 moenime.com##*:matches-css(position: static):matches-css(display: /grid|flex/):has(> :matches-css(position: static)):remove()
 moenime.com##+js(acis, Blob)
 moenime.com##+js(acis, Element.prototype.addEventListener, remove)
@@ -11687,6 +11695,7 @@ moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
 moenime.com##.entry-content div:matches-css(text-align: center):has([onclick])
 moenime.com##.entry-content form[action*="/go.php"]
 moenime.com##:is(.widget, .widget-area)
+moenime.com##:is([srcset*="data:"], [style*="transform"]):matches-css(position: absolute)
 moenime.com##^script:has-text(/decodeURIComponent\(|(?:%|x)[0-9A-Fa-f]{2}/)
 moenime.com##body:style(overflow: auto !important;)
 moenime.com##iframe:matches-css(position: absolute)
@@ -12153,8 +12162,8 @@ publica-news.com##[aria-label="advertisement" i]
 publicholidays.co.id##.phg-ad
 publicholidays.co.id##.phgviewportconditional:has(> .phg-ad):style(min-height: 10px!important;)
 purworejonews.com##.wp-custom-header
-pusatporn18.com##+js(aeld, /^(?:load|click)$/, popMagic)
 pusatporn18.com##.content-post center:has(> a > img)
+pusatporn18.com,sibinor.fun##+js(aeld, /^(?:load|click)$/, popMagic)
 qoo10.co.id##.stream-item-below-header:has(> div:matches-css(min-height: 320px))
 qoo10.co.id,surgatekno.com##ins[data-ad-client]
 qsantri.eu.org###before-ad
@@ -13990,7 +13999,6 @@ zurich.co.id##.privacy-warning-main
 ||dharapos.com^*/iklan-$image
 ||dialognews.id^*/banner-$image
 ||diamondtoto.$image,third-party
-||dicrotin.sbs/*.mp4$media,redirect=noopmp4-1s
 ||digiads.co.id^$third-party
 ||digitalnews.co.id^*/iklan-$image
 ||dimensiqq.$image,third-party

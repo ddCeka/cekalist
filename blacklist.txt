@@ -1,6 +1,6 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 09 Mar 2026 03:25 UTC (updated regularly)
+! Last modified: 11 Mar 2026 19:05 UTC (updated regularly)
 ! host_count: 9531
 ! Homepage: https://github.com/ddCeka/CekaList
 
@@ -2042,6 +2042,7 @@
 0.0.0.0 bdbolaibcbet.com
 0.0.0.0 bdr99.com
 0.0.0.0 bdrqq.com
+0.0.0.0 bdtelemetry.amazon
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.qq.com
@@ -6062,7 +6063,6 @@
 0.0.0.0 mimpibet.com
 0.0.0.0 minnesotacasinos.net
 0.0.0.0 minnesotalotteryresults.org
-0.0.0.0 minor-api-os.hoyoverse.com
 0.0.0.0 mintedpoker.com
 0.0.0.0 mintegral.com
 0.0.0.0 mintegral.net
@@ -7424,6 +7424,7 @@
 0.0.0.0 rugfrfji.win
 0.0.0.0 ruidownsracing.com
 0.0.0.0 ruleto.com
+0.0.0.0 rum.us-east-1.amazonaws.com
 0.0.0.0 rumah-judi.com
 0.0.0.0 rumahbokep.xyz
 0.0.0.0 rumahelektronik.com
@@ -8792,7 +8793,6 @@
 0.0.0.0 tr.line.me
 0.0.0.0 tr.snapchat.com
 0.0.0.0 tr6.snapchat.com
-0.0.0.0 trace-v1.free-reels.com
 0.0.0.0 trace.free-reels.com
 0.0.0.0 trace.qq.com
 0.0.0.0 traces.sr.roku.com

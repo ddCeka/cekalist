@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 11 Mar 2026 19:05 UTC (updated regularly)
-! host_count: 9531
+! Last modified: 12 Mar 2026 14:13 UTC (updated regularly)
+! host_count: 9527
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -3240,7 +3240,6 @@
 0.0.0.0 crackshash.com.atlaq.com
 0.0.0.0 crackshash.org
 0.0.0.0 crasheye.cn
-0.0.0.0 craydark.pw
 0.0.0.0 crazyluckcasino.com
 0.0.0.0 crazymonkeycasino.com
 0.0.0.0 crazyslots.com
@@ -6836,7 +6835,6 @@
 0.0.0.0 pgdt.gtimg.cn
 0.0.0.0 pglstatp-toutiao.com
 0.0.0.0 pharaohscasino.com
-0.0.0.0 pheersie.com
 0.0.0.0 phillipinepools.com
 0.0.0.0 phluant.com
 0.0.0.0 phoenixgreyhoundpark.com
@@ -8859,7 +8857,6 @@
 0.0.0.0 tracking.viewlift.com
 0.0.0.0 tracking.ws.eurosport.com
 0.0.0.0 trackingclick.net
-0.0.0.0 traditionallyobjectlessblinked.com
 0.0.0.0 traditioncasino.com
 0.0.0.0 tradplusad.com
 0.0.0.0 traffic-monetizer.com
@@ -8978,7 +8975,6 @@
 0.0.0.0 ucads.ucweb.com
 0.0.0.0 ucus.ucweb.com
 0.0.0.0 ue.flipboard.com
-0.0.0.0 ueuodgnrhb.com
 0.0.0.0 ufz.doesxyz.com
 0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 ujungkontol.com

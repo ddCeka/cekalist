@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 12 Mar 2026 14:13 UTC (updated regularly)
-! host_count: 9527
+! Last modified: 14 Mar 2026 23:53 UTC (updated regularly)
+! host_count: 9534
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -4157,6 +4157,7 @@
 0.0.0.0 gladiatorslots.com
 0.0.0.0 glance.inmobi.com
 0.0.0.0 global-elektronik.com
+0.0.0.0 global-report.ml.youngjoygame.com
 0.0.0.0 global-sis.engagelab.com
 0.0.0.0 global-staticplat.cdn.bcebos.com
 0.0.0.0 global.appnext.com
@@ -4235,6 +4236,8 @@
 0.0.0.0 gotangkas.com
 0.0.0.0 gowildcasino.com
 0.0.0.0 gowildgaming.com
+0.0.0.0 gplog-sg.byteoversea.com
+0.0.0.0 gpm-mon-va.bytegsdk.com
 0.0.0.0 gpm-mon-va.byteoversea.com
 0.0.0.0 gpwa.org
 0.0.0.0 gr88.com
@@ -4266,6 +4269,9 @@
 0.0.0.0 groupiklan.com
 0.0.0.0 grs.hicloud.com
 0.0.0.0 grubbychicks.com
+0.0.0.0 gsdk-quic-gcp-va.bytegsdk.com
+0.0.0.0 gsdk-va.bytegsdk.com
+0.0.0.0 gsdk19-va.bytegsdk.com
 0.0.0.0 gshade.org
 0.0.0.0 gts-ads.twistbox.com
 0.0.0.0 guavita.biz
@@ -5553,6 +5559,7 @@
 0.0.0.0 log-boot.tiktokv.com
 0.0.0.0 log-mediation.easemobi.net
 0.0.0.0 log-music-data.line-apps.com
+0.0.0.0 log-nontt.bytegsdk.com
 0.0.0.0 log-pub-hk.aoshitang.com
 0.0.0.0 log-sdk.ksapisrv.com
 0.0.0.0 log-sg.capcutapi.com

@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 17 Mar 2026 21:48 UTC (updated regularly)
-! host_count: 9534
+! Last modified: 19 Mar 2026 01:43 UTC (updated regularly)
+! host_count: 9536
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -7693,7 +7693,9 @@
 0.0.0.0 senangpokerseo.com
 0.0.0.0 seni888.com
 0.0.0.0 senibola.com
+0.0.0.0 sensor.aqhg.online
 0.0.0.0 sensor.emolm.com
+0.0.0.0 sensor.photogrid.app
 0.0.0.0 sensors.larkplayerapp.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app

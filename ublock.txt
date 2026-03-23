@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 20 Mar 2026 21:51 UTC (updated regularly)
+! Last modified: 23 Mar 2026 20:22 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -7272,21 +7272,21 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 -wpbet365.$image
 .1080.x.90.
 .bid^$popup,third-party
-.biz/iklan/
+.biz/iklan/$image,stylesheet
 .com/iklan/$image,domain=~persis.or.id
 .gif$image,domain=/kiryuu0\d+\.com/
 .gif$image,domain=anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.*|kiryuu.*|kiryuu03.*|komikcast.*|kuramanime.*|mangakita.*|movieku.*|nontondrama.*|okestream.*|oploverz.*|shinigami09.com|winbu.*
 .gif$image,to=bk21.net
 .gif|$image,domain=45.11.57.31|oppa.biz|oppadrama.biz
 .gif|$image,domain=oploverz.*
-.id/ads/
-.id/adv/
-.id/iklan/
-.info/iklan/
-.me/iklan/
-.my/iklan/
-.net/iklan/
-.tv/iklan/
+.id/ads/$image,stylesheet,xmlhttprequest
+.id/adv/$image,stylesheet
+.id/iklan/$image,stylesheet
+.info/iklan/$image,stylesheet
+.me/iklan/$image,stylesheet
+.my/iklan/$image,stylesheet
+.net/iklan/$image,stylesheet
+.tv/iklan/$image,stylesheet
 .win^$popup,third-party
 /*capsa*.gif$image
 /*judi*.gif$image
@@ -7435,7 +7435,9 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 /SLOT-GACOR.gif$image
 /SaktiSpin-$image
 /SkinADkanan.
+/SkinADkanan.$image
 /SkinADkiri.
+/SkinADkiri.$image
 /SylicaChan/BeNime/*/safelink.$3p,script
 /TEXASPOKERCC-$image
 /TEXASPOKERCC.$image,third-party
@@ -7596,7 +7598,7 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 /asiaqq.$image,third-party
 /asikpkv-$image
 /asliqq.$image,third-party
-/assets/iklan/*
+/assets/iklan/*$image
 /astonbet-$image
 /astonbet.$image,third-party
 /astonwin.$image,third-party
@@ -8019,7 +8021,7 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 /ikln/*
 /images/ads.$image,redirect-rule=1x1.gif
 /images/idxbet/*$image
-/images/iklan/*
+/images/iklan/*$image
 /images/iklan_
 /images/share_icons/*
 /images/social-share/*
@@ -8585,6 +8587,7 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 /skuy99/safelinkmaterialize/*/auto.$3p,script
 /slot-pulsa-tanpa-potongan-$image
 /smartfren/ads.
+/smartfren/ads.$script
 /snacklinkbanner.$domain=~snacklink.id
 /snacklinkbanner.png|$image
 /sogopoker-$image
@@ -8676,7 +8679,7 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 /unovegas.gif$image
 /uploads/iklan/*$image
 /usaha-berhasil.gif|$image
-/usahaberhasil.gif|
+/usahaberhasil.gif|$image
 /utamaqq.$image,third-party
 /vegas78bet.$image,third-party
 /vegasgg.gif|$image
@@ -9956,12 +9959,12 @@ deviantart.net/share/*.*$domain=forum.deviantart.com,image
 dewabioskop21.org###main-popup
 dewabioskop21.org##.banner-middle
 dewabioskop21.org##.banner-right
-dewaporn.*##.happy-header
 dewaporn.*##.happy-header > [href] > .loading
 dewaporn.*##.happy-header > a:has(> img)
 dewaporn.*##.happy-sidebar
 dewaporn.*##.happy-sidebar > [href] > .loading
 dewaporn.*##.happy-sidebar > a:has(> img)
+dewaporn.*,lendirqu.cam##.happy-header
 dewatanews.com##.lalulintas
 deweezz.com,naikmotor.com,nusabali.com,pyfahealth.com##a[href*="bit.ly/"]:has(> img)
 dewidomino.gif|$image
@@ -10170,7 +10173,7 @@ film-ganool.com##.random
 filmapik21.*###le_header_ads
 filmjepangku.com,filmjepangku.net,heppinn.id,javsubid.*,javsubindo.*,nontonhentai.net,pascol.*,starjepang.wiki##.kln
 filmjepangku.com,hencop.com,javsubindo.*,lendirpedia.*,minioppai.org,pascol.*,pemersatu.link,starjepang.wiki,terviral.cam##body > div[id^="teaser"]
-filmjepangku.net,hencop.lol,heppinn.id,javsubid.com,javsubindo.site,komik18.*,komikdewasa.*,komikremaja.*,lendirpedia.*,mangasusuku.com,manhwaindo.*,manhwaland.mom,manhwalist.com,pascol.*,pascol.com,sintube.icu,skandalpedia.*,starjepang.*##.kln
+filmjepangku.net,hencop.lol,heppinn.id,javsubid.com,javsubindo.site,klipjepang.shop,komik18.*,komikdewasa.*,komikremaja.*,lendirpedia.*,mangasusuku.com,manhwaindo.*,manhwaland.mom,manhwalist.com,pascol.*,pascol.com,sintube.icu,skandalpedia.*,starjepang.*##.kln
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
 filmnikmat.*##img[alt*="iklan"]
@@ -11054,7 +11057,6 @@ klikpositif.com##img[width="2560"][height="853"]
 klikseru.*##.textwidget img[width="300"][height="250"]
 klikseru.*##center img[width="728"][height="70"]
 klikwartaku.com,suarakalbar.co.id##.site-ads-section-parallax-link
-klipjepang.shop##.kln
 klubpria.com##.stickyunit
 klubpria.com##center:has(> [id^="div-gpt-ad"])
 knowyourmeme.com##.cbox-smedia
@@ -11362,7 +11364,6 @@ legacynews.id##img[width="750"][height="150"]
 lemaripojok.com##.widget:has(.widget-content > iframe)
 lendirpedia.*,pascol.*##.ays-pb-modals
 lendirqu.*##.popup-banner
-lendirqu.cam##.happy-header
 lensaindonesia.com###idcomboard1.com-728x90
 lensaindonesia.com###idcomright1.com-300x250
 lensaindonesia.com###idcomright2.com-300x250
@@ -12976,7 +12977,7 @@ zurich.co.id##.privacy-warning-main
 ||588poker.$popup
 ||5starbet.$image,third-party
 ||5starsbet.$image,third-party
-||64p3am9x95ct.com^$popup
+||64p3am9x95ct.com^$popup,third-party
 ||76kbet.$all
 ||77megabet.$image,third-party
 ||7nagabet.$image,third-party
@@ -13008,8 +13009,8 @@ zurich.co.id##.privacy-warning-main
 ||99mania.$image,third-party
 ||99poker.$image,third-party
 ||9bet.$image,third-party
-||9eb10b7a3d04a.com^$popup
-||a63t9o1azf.com^$popup
+||9eb10b7a3d04a.com^$popup,third-party
+||a63t9o1azf.com^$popup,third-party
 ||abgqq.$image,third-party
 ||abgqq.$popup
 ||abgqq88.$image,third-party
@@ -13032,10 +13033,10 @@ zurich.co.id##.privacy-warning-main
 ||ad-loupe.com^$third-party
 ||adatogel.$image,third-party
 ||adatogel.$popup
-||adbsys.icu^$popup
+||adbsys.icu^$popup,third-party
 ||addesigner.com^$third-party
 ||addthis.com/static/btn/sm-share*.gif^
-||adeumssp.com^
+||adeumssp.com^$third-party
 ||adianhusaini.id^*/banner%20$image
 ||adjarabet.$image,third-party
 ||adjarabet.$popup
@@ -13044,7 +13045,7 @@ zurich.co.id##.privacy-warning-main
 ||adplus.co.id^$third-party
 ||adpop-1.com^$third-party
 ||adreach.co^$third-party
-||ads.d21.media^
+||ads.d21.media^$third-party
 ||ads.gmbr.pro^
 ||ads.indosatooredoo.com^$third-party
 ||ads.save21.site^$image,third-party
@@ -13333,7 +13334,7 @@ zurich.co.id##.privacy-warning-main
 ||astrototo.$popup
 ||ativadorkmspico.com^
 ||atnews.id^*/banner/
-||auredzeon.com^$popup
+||auredzeon.com^$popup,third-party
 ||autonetmagz.com^*/banner-$image
 ||auxbet.$image,third-party
 ||auxbet.$popup
@@ -13739,7 +13740,6 @@ zurich.co.id##.privacy-warning-main
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.jsdelivr.net/npm/disable-devtool@$3p,script
 ||cdn.kaskus.com/img/skin/*.gif$image
-||cdn.rawgit.com/sdnime09/Ngewe-om/f8cad426/sayang.js$script
 ||cdnasiaclub.$popup
 ||cdnasiaclub.com^$third-party
 ||cdnfgo.xyz/wp-content/uploads/*.gif|$domain=komiktap.info
@@ -13760,9 +13760,9 @@ zurich.co.id##.privacy-warning-main
 ||centerklik.com^*/banner-
 ||ceritanakal.com/wp-content/uploads/2025/06/GIF-*.gif$image
 ||ceritasex.$popup
-||cfs.uzone.id^
+||cfs.uzone.id^$third-party
 ||cfs1.uzone.id^$third-party
-||cfs2.uzone.id^
+||cfs2.uzone.id^$third-party
 ||champspoker.$image,third-party
 ||chatnews.id/banner-$image
 ||chilipoker.com^$third-party
@@ -13804,7 +13804,7 @@ zurich.co.id##.privacy-warning-main
 ||crackshash.com.atlaq.com^
 ||crackshash.org^
 ||crashlytics.com^
-||csf.uzone.id^
+||csf.uzone.id^$third-party
 ||cyakibet.$image,third-party
 ||cyakibet.$popup
 ||cyakibet77.$image,third-party
@@ -13855,7 +13855,7 @@ zurich.co.id##.privacy-warning-main
 ||dahsyatqq.$image,third-party
 ||dahsyatqq.$popup
 ||dailypost.id^*/iklan-
-||dairouzy.net^$popup
+||dairouzy.net^$popup,third-party
 ||damqq.$image,third-party
 ||danaqq.$image,third-party
 ||dara.co.id^*/iklan-$image
@@ -14311,7 +14311,6 @@ zurich.co.id##.privacy-warning-main
 ||hdpbola.$image,third-party
 ||hebatqq.$image,third-party
 ||help.totalav.com^
-||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
 ||herald.id^*_ads_$image
 ||hitadsmedia.com^$third-party
 ||hjtowin.$image,third-party
@@ -14621,7 +14620,7 @@ zurich.co.id##.privacy-warning-main
 ||ivopoker.$image,third-party
 ||ivopoker.$popup
 ||iwashstation.com^
-||iwtserve.com^$popup
+||iwtserve.com^$popup,third-party
 ||j5newsroom.com^*/banner-$image
 ||jabarnews.com^*/banner-$image
 ||jabaronline.com/uploads/ads/
@@ -15879,7 +15878,7 @@ zurich.co.id##.privacy-warning-main
 ||q99bet.$popup
 ||qayyumnews.id^*/banner-
 ||qbandars.$image,third-party
-||qprskl.com^
+||qprskl.com^$third-party
 ||qq-domino.$image,third-party
 ||qq-online.$image,third-party
 ||qq1221.$image,third-party
@@ -16220,7 +16219,7 @@ zurich.co.id##.privacy-warning-main
 ||shiokuda.$popup
 ||shngm.id/*.gif
 ||shopee.co.id^$popup,domain=berkasdrive.*|nimegami.*
-||shqbsdjatunl.com^$popup
+||shqbsdjatunl.com^$popup,third-party
 ||shrinkads.com/js/xe.js$script
 ||siapbet.$image,third-party
 ||siarindomedia.com^*-iklan-$image
@@ -16674,7 +16673,7 @@ zurich.co.id##.privacy-warning-main
 ||toyotaqiuqiu.$image,third-party
 ||toyotaqq.$image,third-party
 ||tpb.party^
-||track.aptitudemedia.co^$popup
+||track.aptitudemedia.co^$popup,third-party
 ||track.zerofriend.com^$popup,third-party
 ||tracker.lazada.co.id^$third-party
 ||trackingclick.net^$third-party
@@ -16715,7 +16714,7 @@ zurich.co.id##.privacy-warning-main
 ||twinbet.$image,third-party
 ||twitter.com/share$third-party
 ||typeform.com$frame,domain=detik.com
-||u-ad.info^
+||u-ad.info^$third-party
 ||u-on.eu^$popup,third-party
 ||u16822.$image,third-party
 ||u16822.$popup

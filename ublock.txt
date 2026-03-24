@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 23 Mar 2026 20:22 UTC (updated regularly)
+! Last modified: 24 Mar 2026 21:21 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -2202,6 +2202,8 @@
 ##[href="https://cek.to/idlixreffklik"]
 ##[href="https://cek.to/ikiruhoki"]
 ##[href="https://cek.to/kazehoki"]
+##[href="https://cek.to/klikxxi36"]
+##[href="https://cek.to/klikxxihoki"]
 ##[href="https://cek.to/koenime180"]
 ##[href="https://cek.to/koenime180nex"]
 ##[href="https://cek.to/koenime36"]
@@ -9009,7 +9011,7 @@ ads.id##img[alt="admaven"]
 afederasi.com,infobaik.id,inilahkoran.id,jalurdua.com,lambeturah.co.id,lampunggo.com,marjinal.id,monologis.id,nusadaily.com,portal-islam.com,rmolpapua.id,teraslampung.com,westjavatoday.com##[class*="bn-"]
 affmotor.com,alkitabonline.org,bacaterus.com,bankiir.id,beritaja.com,biayatarif.com,brainly.co.id,carisinyal.com,emitennews.com,gamefinity.id,gammafisblog.com,gen987fm.com,hellosehat.com,inilah.com,jabar-online.com,jagobengkel.com,ladiestory.id,lenteratoday.com,pakaibanking.com,pelindo.co.id,persis.or.id,pilihprofesi.com,prosesbayar.com,sumselindependen.com,tuliskan.id,versusbeda.com##body:style(overflow: auto!important; position: unset!important;)
 affmotor.com,jagobengkel.com,versusbeda.com##.jquery-modal
-agast.org,bbbsmanchester.org,fbnm.org,hsofpc.org,jtcwd.com,qualityassociates.org,sabellaphoto.com,shadowofthevampire.com,sweetiepieparenting.com,theleatherconnection.com##a[target*="blank"]:has(> img)
+agast.org,bbbsmanchester.org,educationet.org,fbnm.org,hsofpc.org,jtcwd.com,sabellaphoto.com,savageredimix.com,shadowofthevampire.com,sweetiepieparenting.com,theleatherconnection.com##a[target*="blank"]:has(> img)
 agen_bola_online.gif|$image
 agenbokep.*##.popbox
 agenbokep.*,bandarbokep.*,bokepindo.*,doooood.co,duniabokep.*,hencop.com,indobokepin.*,javindo.*,javsubindo.*,malayporntube.net,minioppai.org,myhdjav.me,ngentub.cc,nontonbokep.*,sibokepjepang.*##+js(nowoif)
@@ -9064,7 +9066,7 @@ ambontoday.com,autoride.co.id,bacatrend.com,bangsaku.co,bardimin.com,batamclick.
 amp.reddit.com##.AppSelectorModal__body
 amp.reddit.com##.upsell_banner
 anakteknik.co.id,howdy.id,obengplus.com##+js(no-fetch-if, pagead2.googlesyndication.com)
-anconaguide.com,azarug.org,bcjschool.org,foundationrepairwichitaks.net,geaction.org,getnoticedgetfound.com,glenbeulah.org,harvardasda.org,hbvadvocate.org,hoppin-grapes.com,internetincomecoach.com,izma.shop,lastharvest.org,learnenglishindublin.com,rivercatsmainecoons.com,stlwebdev.org,weddingphotographercleveland.com,wwrb.org##a[target*="blank"]:has(> img)
+anconaguide.com,azarug.org,bcjschool.org,foundationrepairwichitaks.net,geaction.org,getnoticedgetfound.com,glenbeulah.org,harvardasda.org,hbvadvocate.org,hoppin-grapes.com,internetincomecoach.com,izma.shop,lastharvest.org,learnenglishindublin.com,qualityassociates.org,rivercatsmainecoons.com,stlwebdev.org,weddingphotographercleveland.com,wwrb.org##a[target*="blank"]:has(> img)
 androidapksfree.com##.header-ad-heading
 anibatch.moe,anichin.blog,animekompi.fun,cinemaemas6.com,cinemakeren6.id,dramaencode.net,gudangkomik.com,kawanfilm21.co,kazefuri.cloud,kazefuri.info,nimegami.id,otakudesu.best,rebahan21.com,rebahin.lol,sektedoujin.cc,sobatmov.xyz,sokuja.uk,westmanga.me##+js(nowoif)
 anichin.*,animekhor.org,animekompi.*,animexin.top,kuronime.*,oploverz.best,otakudesu.*###overplay
@@ -10154,10 +10156,10 @@ farah.id##.banner_wrap
 fastdrama.co###myModal
 fastdrama.co,hkfree.co###modal
 favo.id##:matches-path(/blogs) .banners
-fctv33.*,fctv77.*,rbsports77.*,rbtv77.*##*:style(scrollbar-width: thin!important;)
-fctv33.*,fctv77.*,rbsports77.*,rbtv77.*##:matches-path(/id) div:matches-css(position: fixed):has(> img)
-fctv33.*,fctv77.*,rbsports77.*,rbtv77.*##:matches-path(/id) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
-fctv33.*,fctv77.*,rbsports77.*,rbtv77.*##:matches-path(/id) iframe + div:matches-css(position: absolute):has(> img)
+fctv33.*,fctv33hd.*,fctv77.*,rbsports77.*,rbtv77.*##*:style(scrollbar-width: thin!important;)
+fctv33.*,fctv33hd.*,fctv77.*,rbsports77.*,rbtv77.*##:matches-path(/id) div:matches-css(position: fixed):has(> img)
+fctv33.*,fctv33hd.*,fctv77.*,rbsports77.*,rbtv77.*##:matches-path(/id) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
+fctv33.*,fctv33hd.*,fctv77.*,rbsports77.*,rbtv77.*##:matches-path(/id) iframe + div:matches-css(position: absolute):has(> img)
 femaledaily.com##.btn_ads_close_top_frame
 femina.co.id##.img-ads
 femina.co.id##a[href^="https://femina.co.id/cmsact_banner"]:has(img)

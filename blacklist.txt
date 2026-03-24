@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 23 Mar 2026 20:21 UTC (updated regularly)
-! host_count: 9538
+! Last modified: 24 Mar 2026 21:21 UTC (updated regularly)
+! host_count: 9539
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -456,7 +456,7 @@
 0.0.0.0 adashx4id.ut.taobao.com
 0.0.0.0 adatogel.com
 0.0.0.0 adauntukanda.com
-0.0.0.0 adballoon.sooplive.co.kr
+0.0.0.0 adballoon.sooplive.com
 0.0.0.0 adblade.com
 0.0.0.0 adbsys.icu
 0.0.0.0 adbutler.costco.com
@@ -3398,7 +3398,7 @@
 0.0.0.0 ddf88.org
 0.0.0.0 ddzmacau.com
 0.0.0.0 de01.rayjump.com
-0.0.0.0 deapi.sooplive.co.kr
+0.0.0.0 deapi.sooplive.com
 0.0.0.0 dearerfonder.info
 0.0.0.0 debojuagug1sf.cloudfront.net
 0.0.0.0 decide.mixpanel.com
@@ -4847,6 +4847,7 @@
 0.0.0.0 infototobet.net
 0.0.0.0 ingamesads.gameloft.com
 0.0.0.0 ingest.m2catalyst.com
+0.0.0.0 ingest.skarb.work
 0.0.0.0 inginlihat.com
 0.0.0.0 inibos.com
 0.0.0.0 inipoker.com
@@ -7316,7 +7317,7 @@
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 republicbet.com
-0.0.0.0 reqde.sooplive.co.kr
+0.0.0.0 reqde.sooplive.com
 0.0.0.0 reskyelektronik.com
 0.0.0.0 reskyelektroshop.com
 0.0.0.0 reskyonlineshop.com
@@ -9173,7 +9174,7 @@
 0.0.0.0 vniddlg.xyz
 0.0.0.0 vns008.com
 0.0.0.0 vns456.com
-0.0.0.0 vod-mplayer.sooplive.co.kr
+0.0.0.0 vod-mplayer.sooplive.com
 0.0.0.0 vodkapoker.com
 0.0.0.0 volcanicgold.com
 0.0.0.0 volceapplog.com

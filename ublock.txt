@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 25 Mar 2026 21:29 UTC (updated regularly)
+! Last modified: 26 Mar 2026 21:25 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8482,8 +8482,8 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 /ratulotto.$image,third-party
 /ratuqq.$image,third-party
 /ratuqq.gif$image
-/rbtvplus\d+\.(com|baby|blog|cyou|help|homes|info|lat|lol|mom|pics|quest|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
-/rbtvplus\d+\.(com|baby|blog|cyou|help|homes|info|lat|lol|mom|pics|quest|rest|vip|xyz)/##.czlll-rlselse
+/rbtvplus\d+\.(com|baby|blog|cfd|cyou|help|homes|info|lat|lol|mom|pics|quest|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
+/rbtvplus\d+\.(com|baby|blog|cfd|cyou|help|homes|info|lat|lol|mom|pics|quest|rest|vip|xyz)/##.czlll-rlselse
 /rctiqq.$image,third-party
 /rdomino.$image,third-party
 /rejekibet.$image,third-party
@@ -9052,7 +9052,7 @@ alkitabonline.org##.campaign-modal
 alkitabonline.org##.campaign-modal-overlay
 alkitabonline.org##a[data-ref="AD"]:remove()
 alkitabonline.org##a[data-ref="YUEDUYE-AD"]:remove()
-almaftuchin.com##+js(rmnt, script, adblock)
+almaftuchin.com,indokontraktor.com##+js(rmnt, script, adblock)
 alqanime.net##+js(aopr, ouo_token)
 alreinamedia.com,asatuonline.id,bandungberita.com,bangkitmedia.com,barometerjatim.com,beritafajartimur.com,beritatrends.co.id,cerapan.id,dailypost.id,dialograkyat.com,drivenime.com,exposenews.id,infomalang.com,infotimes.id,intipnews.com,jabarnews.com,joglojateng.com,kabarpapua.co.id,kanalkalimantan.com,kebumen24.com,komparatif.id,koreri.com,kutipan.co.id,lampungmediaonline.com,lintaslampung.com,lintassumut.com,majalahteras.com,mediaportalnews.com,metrobatam.com,minanews.net,orbitdigitaldaily.com,papuatimes.co.id,penjuru.id,pijarkepri.com,radarindo.co.id,rakyatnews.co.id,realita.news,sijoritoday.com,sinfonews.com,sorotsultra.com,star-news.id,suaraklaten.id,suarapubliknews.net,sukoharjonews.com,sultranesia.com,teraslampung.com,trotoar.id,ulasan.co,warta-pendidikan.com,zonasulsel.com##.textwidget > a:has(img)
 alreinamedia.com,asatuonline.id,bentaratimur.id,benuanta.co.id,beritainvestigasinews.id,beritakota.id,buruhtinta.com,detaknews.co.id,deteksipos.com,divisi.id,extranews.id,gesahkita.com,halilintarnews.id,hibata.id,indepthnews.id,indosatunews.com,infosulsel.com,jatimnow.com,jatimupdate.id,jejakkasus.info,jodanews.com,kabarbatam.com,kabarpapua.co.id,kabarsumbawa.com,kalbaronline.com,kanalkalimantan.com,karimuntoday.com,katasulsel.com,kebumen24.com,koma.id,koranperbatasan.com,koransultra.com,kotaku.co.id,krsumsel.com,kumbanews.com,lajur.co,lampungmediaonline.com,lintaslampung.com,lintassumut.com,lombokboss.com,majalahteras.com,mediasuarapalu.com,mediatotabuan.co,menit.co.id,metrobatam.com,monopolisumselnews.com,moralriau.com,muarasultra.com,ojenews.com,papuatimes.co.id,portalika.com,radarnasional.net,radioazamfm.id,rakyatnews.co.id,realita.co,relasipublik.com,securitynews.co.id,seru.co.id,simpulrakyat.co.id,sinarpaginews.com,sorongraya.co,suarasumselnews.co.id,technologyindonesia.id,tekape.co,terdepan.co.id,teritorial24.com,timeskaltim.com,tintahijau.com,topikterkini.com,totabuan.news,trennews.id,trotoar.id,ulasan.co,wartatasik.com,zonaintegritas.news##.textwidget > img
@@ -14484,6 +14484,7 @@ zurich.co.id##.privacy-warning-main
 ||img.koran-jakarta.com/images/advertisement/
 ||img.nontonanimeid.*/uploads/ikln/$image,~third-party
 ||imgbanner.site/$image
+||imgbanner.site^$3p,image
 ||imgbob.site/images/banner/$3p
 ||imgur.com/*.gif$image,domain=gocrot.*
 ||imgur.com/PptFxqt.$image

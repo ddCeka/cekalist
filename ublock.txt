@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 28 Mar 2026 21:42 UTC (updated regularly)
+! Last modified: 29 Mar 2026 20:10 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -12283,7 +12283,10 @@ republika.co.id##article > div:matches-css(text-align:center):has-text(/sponsore
 republika.co.id##header:style(position: inherit !important)
 republika.co.id##main.fixedtop:style(margin-top: unset !important)
 republikbobotoh.com##a[href*="/ads/"]:has(img)
+retrogametalk.com###custom_html-1221
+retrogametalk.com##.comments-block
 retrogametalk.com##.floatingchat-container-wrap-mobi
+retrogametalk.com##.site-info.site-footer
 retrogametalk.com##.widget-area.sidebar
 rgames31.com##.entry-content > center a[target="_blank"] input
 rgol.id###ads

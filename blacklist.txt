@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 29 Mar 2026 20:09 UTC (updated regularly)
-! host_count: 9540
+! Last modified: 30 Mar 2026 20:27 UTC (updated regularly)
+! host_count: 9544
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -1576,6 +1576,7 @@
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 api.data-analytics.pokemon.com
 0.0.0.0 api.deeplink.dev
+0.0.0.0 api.event.appstack.tech
 0.0.0.0 api.fusepowered.com
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.gimbal.com
@@ -3419,7 +3420,9 @@
 0.0.0.0 depositbet.com
 0.0.0.0 depositcasinos.com
 0.0.0.0 detaillog-global-dual.coolbcloud.com
+0.0.0.0 detaillog-global-dual.coolgcloud.com
 0.0.0.0 detaillog-global-dual.coolhcloud.com
+0.0.0.0 detailroi.com
 0.0.0.0 detect.rayjump.com
 0.0.0.0 detikbet.net
 0.0.0.0 detikelektroshop.com
@@ -5643,6 +5646,7 @@
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 loganmedia.mobi
 0.0.0.0 logapi-and.zhipin.com
+0.0.0.0 logapi.bodyevey.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logc-sg.tsd.xindong.com
 0.0.0.0 logcollection.ronghub.com

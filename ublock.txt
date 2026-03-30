@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 29 Mar 2026 20:10 UTC (updated regularly)
+! Last modified: 30 Mar 2026 20:28 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -2390,6 +2390,8 @@
 ##[href="https://hoki.mu/cimax21-bandar36"]
 ##[href="https://hoki.mu/cimax21-klikhoki"]
 ##[href="https://jaga.link/anime123"]
+##[href="https://jaga.link/layarkaca21"]
+##[href="https://jaga.link/lk21la"]
 ##[href="https://jaga.link/metabgi"]
 ##[href="https://jali.me/cukupgacor/"]
 ##[href="https://jali.me/ularslot2025"]
@@ -2605,6 +2607,7 @@
 ##[href="https://linkusn.xyz/indoxxi"]
 ##[href="https://linkweb.buzz/Gocrot"]
 ##[href="https://ln.run/bokeped"]
+##[href="https://ln.run/gb025"]
 ##[href="https://lnkl.st/dhxokestream"]
 ##[href="https://lnkl.st/vipaccount"]
 ##[href="https://lynk.id/ligasloto"]
@@ -11170,6 +11173,7 @@ komikindo.*##.ads iframe
 komikindo.co##a[href^="https://shope.ee/"]
 komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
 komikindo.pro##.setdah
+komiknesia.asia##img[alt*="adv" i]
 komikstation.com###floatbanner
 komikstation.org##+js(acis, JSON.parse, break;case $.)
 komikstation.org##+js(aeld, /^(?:load|click)$/, popMagic)
@@ -11814,6 +11818,8 @@ narasi.tv##.read-next
 narasi.tv##.sky-scraper-ads
 narasi.tv,novelgo.id,otospeedcar.com,paraedu.id,radarlombok.co.id##.adsbygoogle
 narasi.tv,uzone.id##.fixed.bottom-0
+narasininja.net##.float-bottom
+narasininja.net##.float-overlay
 nawacita.co##.iklannawacita
 nawacita.co##.iklannawacita22
 nawacita.co##.nawac-iklan
@@ -15519,6 +15525,7 @@ zurich.co.id##.privacy-warning-main
 ||naloqq.$image,third-party
 ||nanatoto.$image,third-party
 ||nanime.biz^$third-party
+||narasininja.net/ads/
 ||nasapoker.$image,third-party
 ||nasapoker.$popup
 ||nasional.news^*-ads-

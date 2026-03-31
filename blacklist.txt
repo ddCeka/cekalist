@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 30 Mar 2026 20:27 UTC (updated regularly)
-! host_count: 9544
+! Last modified: 01 Apr 2026 01:07 UTC (updated regularly)
+! host_count: 9549
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -3799,6 +3799,7 @@
 0.0.0.0 events.mz.unity3d.com
 0.0.0.0 events.prd.api.discomax.com
 0.0.0.0 events.production.us1.pgw-pci.klarna.net
+0.0.0.0 events.split.io
 0.0.0.0 events.swiftlycontent.net
 0.0.0.0 events.swishapps.ai
 0.0.0.0 events.textme-app.com
@@ -4110,6 +4111,7 @@
 0.0.0.0 gebyarundian-tsel777.tk
 0.0.0.0 gedgedsshop.com
 0.0.0.0 geede.info
+0.0.0.0 geegad.com
 0.0.0.0 geico.com.ssl.sc.omtrdc.net
 0.0.0.0 gem-log.sloegem.com
 0.0.0.0 gemarcapsa.com
@@ -6229,6 +6231,7 @@
 0.0.0.0 multionlineshoping.com
 0.0.0.0 multiplazaelektronika.com
 0.0.0.0 multiplazashop.com
+0.0.0.0 multiww.com
 0.0.0.0 mulyajayashoping.com
 0.0.0.0 mum.alibabachengdun.com
 0.0.0.0 mummysgold.com
@@ -7116,6 +7119,7 @@
 0.0.0.0 probet99.com
 0.0.0.0 prod-analytics.royal.drmgms.com
 0.0.0.0 prod-clientlog.fastly.newssuite.sinfony.ne.jp
+0.0.0.0 prod-ue1-metrics.hingeprod.net
 0.0.0.0 prod.adjoe.zone
 0.0.0.0 prod.cm.publishers.advertising.a2z.com
 0.0.0.0 prod.report.nacustomerexperience.citi.com
@@ -8466,6 +8470,7 @@
 0.0.0.0 telemetry.doxo.com
 0.0.0.0 telemetry.navigatorapp.net
 0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 telemetry.split.io
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 teleport.soom.la
 0.0.0.0 teletamaelektro44.com

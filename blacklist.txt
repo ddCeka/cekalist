@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 01 Apr 2026 01:07 UTC (updated regularly)
-! host_count: 9549
+! Last modified: 01 Apr 2026 20:34 UTC (updated regularly)
+! host_count: 9558
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -1617,6 +1617,7 @@
 0.0.0.0 app-ads-services.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
+0.0.0.0 app-log-lab.immomo.com
 0.0.0.0 app-log-oversea.immomo.com
 0.0.0.0 app-monitor.spacecape.com
 0.0.0.0 app-tracking.hlogo.de
@@ -1659,6 +1660,7 @@
 0.0.0.0 appwall.tv2phone.cn
 0.0.0.0 apsrgeo.amap.com
 0.0.0.0 aqi.wd.amberweather.com
+0.0.0.0 aqueduct-collector-prod.alar.my
 0.0.0.0 arbetas.com
 0.0.0.0 arbetas.info
 0.0.0.0 arbetas.org
@@ -3010,6 +3012,7 @@
 0.0.0.0 cassaon-casino.com
 0.0.0.0 castlecasino.com
 0.0.0.0 casumo.com
+0.0.0.0 catsonictp.com
 0.0.0.0 cbmsport.com
 0.0.0.0 cbnpoker88.com
 0.0.0.0 cbo855.com
@@ -3962,6 +3965,7 @@
 0.0.0.0 foxycasino.com
 0.0.0.0 fp-it.fengkongcloud.com
 0.0.0.0 fp-sa-it.fengkongcloud.com
+0.0.0.0 fpconfig.net
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 free-bets-uk.org
@@ -4852,6 +4856,7 @@
 0.0.0.0 infotogelharian.com
 0.0.0.0 infototobet.net
 0.0.0.0 ingamesads.gameloft.com
+0.0.0.0 ingest.databuckets.com
 0.0.0.0 ingest.m2catalyst.com
 0.0.0.0 ingest.skarb.work
 0.0.0.0 inginlihat.com
@@ -6187,6 +6192,7 @@
 0.0.0.0 mostonlinecasino.com
 0.0.0.0 mousheen.net
 0.0.0.0 moveitlikemilla.com
+0.0.0.0 mp-gb-sdklog.kurogames.net
 0.0.0.0 mrepo.org
 0.0.0.0 mrgreen.com
 0.0.0.0 mrkmspico.com
@@ -6813,6 +6819,7 @@
 0.0.0.0 paypopup.com
 0.0.0.0 paytobet.com
 0.0.0.0 pboya.net
+0.0.0.0 pco-sm-log.tantanapp.com
 0.0.0.0 pcprogs.net
 0.0.0.0 pcprogs.ru
 0.0.0.0 pcprotect.com
@@ -7323,6 +7330,7 @@
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.pixverse.ai
 0.0.0.0 report.starshort.online
+0.0.0.0 report.tantanapp.com
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 republicbet.com
@@ -8452,6 +8460,7 @@
 0.0.0.0 tc.qzwxrtyk.com
 0.0.0.0 tc.vbnmhjlp.com
 0.0.0.0 tc.weszxdrf.com
+0.0.0.0 tc.zxcvbnml.com
 0.0.0.0 tccbanner.com
 0.0.0.0 tdedfootball.com
 0.0.0.0 tdid.m.qq.com

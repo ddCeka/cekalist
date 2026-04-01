@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 01 Apr 2026 01:08 UTC (updated regularly)
+! Last modified: 01 Apr 2026 20:35 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -181,6 +181,7 @@
 ###desaiklan
 ###desktop-ads-id-1
 ###desktop-ads-id-2
+###desktop-floating-ad
 ###detailSkinAdLeft
 ###detailSkinAdRight
 ###diaspora-button-container
@@ -501,6 +502,8 @@
 ###ss-floating-bar
 ###sticky-ad-atas
 ###sticky-ad-bawah
+###sticky-ads-mobile
+###sticky-bottom-ad
 ###sticky-iklan
 ###story-socials
 ###switch-ad
@@ -541,9 +544,11 @@
 ##.ad-728-container
 ##.ad-bawah
 ##.ad-before
+##.ad-bottom-wrapper
 ##.ad-code-block
 ##.ad-container
 ##.ad-float-image
+##.ad-header-bottom
 ##.ad-heder-320-50
 ##.ad-min-280
 ##.ad-slot-wrap
@@ -12947,6 +12952,8 @@ wowkeren.com##.ne-banner-layout1
 wowkeren.com##article div:matches-css(display: inline-block):has(> script)
 wowkeren.com##div[style*="width:300px;min-height:250px"]
 wtools.io###adsright_vertical
+www.arieffservicecenter.com###ignielSubscribe
+www.arieffservicecenter.com###sticky-ads-mobile
 www.mediafire.com##.Continent.DLExtraInfo-uploadLocationMap.lazyload
 www.nexusmods.com###accordion-header-mods-per-page
 www.nexusmods.com###app-banner
@@ -13124,6 +13131,7 @@ zurich.co.id##.privacy-warning-main
 ||aboutsemarang.id^*/iklan-$image
 ||abrts.pro^$popup,third-party
 ||accesstrade.co.id^$third-party
+||accounts.google.com/gsi/*$xhr,script,3p
 ||acehekspres.com/files/sewaan/
 ||acehportal.com^*/banners/
 ||acehstandar.com/files/sewaan/$image
@@ -14179,6 +14187,7 @@ zurich.co.id##.privacy-warning-main
 ||everypoker.com^$third-party
 ||ewarta.co/*/files/banner/
 ||ewarta.co/*/files/promotion/
+||ex-ample.org^$script,from=ex-ample.com
 ||expressvpn.com^
 ||ezcrack.info^
 ||eze99.me^$image,third-party

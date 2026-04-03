@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 03 Apr 2026 07:08 UTC (updated regularly)
+! Last modified: 03 Apr 2026 19:45 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8568,8 +8568,8 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 /ratulotto.$image,third-party
 /ratuqq.$image,third-party
 /ratuqq.gif$image
-/rbtvplus\d+\.(com|baby|blog|cfd|cyou|help|homes|info|lat|lol|mom|pics|quest|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
-/rbtvplus\d+\.(com|baby|blog|cfd|cyou|help|homes|info|lat|lol|mom|pics|quest|rest|vip|xyz)/##.czlll-rlselse
+/rbtvplus\d+\.(com|baby|blog|cfd|cyou|help|homes|info|lat|lol|mom|one|pics|quest|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
+/rbtvplus\d+\.(com|baby|blog|cfd|cyou|help|homes|info|lat|lol|mom|one|pics|quest|rest|vip|xyz)/##.czlll-rlselse
 /rctiqq.$image,third-party
 /rdomino.$image,third-party
 /rejekibet.$image,third-party
@@ -9522,6 +9522,7 @@ bisnis.com##.billboardPushdown
 bisnis.com##.billboardRectangle.billboard
 bisnis.com##.billboardTop.billboard
 bisnis.com##.billboardWrapper
+bisnis.com##.mt50.container > .row > .col-right.col-3.sidebar
 bisnis.com##.skyscrapper
 bisnis.com##.skyscrapper--left
 bisnis.com##.skyscrapper--right
@@ -10298,6 +10299,7 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1elofja
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1h4x27n
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1hajl86
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1hihsk8
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1j2c0kg
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1lh0foa
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1wq0q65
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-2jq43e
@@ -10955,6 +10957,7 @@ jawapos.com##[class$="__disclaimer"]
 jawapos.com##[id^="iklan"]
 jawapos.com##[style^="height"][style$="align-items: center;"]
 jawapos.com##button[aria-label="Tutup Iklan"]
+jawapos.com##div.relative.ease-in-out.duration-500.transition-\[height\]
 jawapos.com##div:matches-css(width: 120px):matches-css(height: 600px)
 jawapos.com##div:matches-css(width: 300px):matches-css(min-height: 600px)
 jawapos.com##div:matches-css(width: 728px):matches-css(height: auto)
@@ -11301,6 +11304,7 @@ kompasiana.com##.align-center.floatingWrap
 kompasiana.com##.banner-center
 kompasiana.com##.banner-mgid
 kompasiana.com##.banner-top
+kompasiana.com##div.ads-inf-box
 kompasiana.com,modifikasi.com##.banner-top
 kompasiana.com,sonora.id##.banner
 kompasiana.com,tribunnews.com##.popupbb-overlay
@@ -11519,6 +11523,8 @@ linkpoi.me##+js(aopr, disableItToContinue)
 linktown.co.id##:matches-path(/blog) .brus-banners
 liputan4.com##.ads_beforerelated
 liputan4.com##.widget_block > img
+liputan6.com###bottomframe-toggle
+liputan6.com##.banner--bottomframe
 liputan6.com##.box-ads-right
 liputan6.com##.gateway__mobile-app
 liputan6.com##.headline_ad__box
@@ -13015,6 +13021,7 @@ yummy.co.id##.css-bs33cg
 yummy.co.id##.css-fjjeok
 yummy.co.id##div:has(> button:has-text(/tutup/i)):has-text(/SCROLL UNTUK MELANJUTKAN MEMBACA/i)
 yummy.co.id##div:matches-css(align-items: center):has-text(/adv/i)
+zalora.co.id##div.wp-block-image
 zetizens.id##.widget:has(> .stream-item-widget-content > a > img)
 zigi.id##.slot-iklan
 zonabola.com###aside img[width="300"][height="250"]

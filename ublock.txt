@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 01 Apr 2026 20:35 UTC (updated regularly)
+! Last modified: 03 Apr 2026 07:08 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -9463,7 +9463,7 @@ beritasiber.com##.sticky-ads-bottom
 beritasiber.com,diksimerdeka.com,katasulsel.com,radarbandung.com,rumpikota.com,suarasiber.co.id##.parallaxads
 beritasiber.com,serambiislam.com,topikpost.com##.adx-parallax
 beritasore.co.id,jejakmufassir.my.id,mistertekno.com##+js(nowoif)
-beritasulsel.com,bidiknewstoday.com,dara.co.id,kabarpapua.co,okeborneo.com,sulutnews.com,swaradesaku.com,timur-online.com###sidebar-right img[style="max-width: 100%; height: auto;"]
+beritasulsel.com,bidiknewstoday.com,dara.co.id,kabarpapua.co,okeborneo.com,rakyatbekasi.com,sulutnews.com,swaradesaku.com,timur-online.com###sidebar-right img[style="max-width: 100%; height: auto;"]
 beritasumut.com,hariansib.com,matatelinga.com,medanposonline.com,sumut24.co,viralnasional.com##.sidebar_stick.melayang
 beritatotabuan.com##.newkarma-core-topbanner
 beritatotabuan.com,harianbhirawa.co.id,kabarmancing.com,lensanews.net,rakyatjambi.co##.ktz_banner

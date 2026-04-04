@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 03 Apr 2026 19:44 UTC (updated regularly)
-! host_count: 9578
+! Last modified: 05 Apr 2026 00:27 UTC (updated regularly)
+! host_count: 9574
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -354,7 +354,6 @@
 0.0.0.0 9tip.com
 0.0.0.0 a.appbaqend.com
 0.0.0.0 a.applvn.com
-0.0.0.0 a63t9o1azf.com
 0.0.0.0 a78.com
 0.0.0.0 a805.com
 0.0.0.0 a9388.com
@@ -458,7 +457,6 @@
 0.0.0.0 adauntukanda.com
 0.0.0.0 adballoon.sooplive.com
 0.0.0.0 adblade.com
-0.0.0.0 adbsys.icu
 0.0.0.0 adbutler.costco.com
 0.0.0.0 adcamp.ru
 0.0.0.0 adcel.co
@@ -4938,8 +4936,6 @@
 0.0.0.0 irajaya-elektronik.com
 0.0.0.0 isin4d.com
 0.0.0.0 isoftbet.com
-0.0.0.0 istana-impian.com
-0.0.0.0 istana-impian2.com
 0.0.0.0 istanabola.com
 0.0.0.0 istanaiklan.com
 0.0.0.0 istanaimpian1.com
@@ -7163,7 +7159,6 @@
 0.0.0.0 promotioncamp.com
 0.0.0.0 proofbet.com
 0.0.0.0 props.id
-0.0.0.0 propsid.b-cdn.net
 0.0.0.0 protonge.com
 0.0.0.0 proudlypoker.com
 0.0.0.0 proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
@@ -8045,6 +8040,7 @@
 0.0.0.0 star88bet.net
 0.0.0.0 star88bola.com
 0.0.0.0 star88win.com
+0.0.0.0 star88win.net
 0.0.0.0 star996.com
 0.0.0.0 starbet77.com
 0.0.0.0 starbet99.com

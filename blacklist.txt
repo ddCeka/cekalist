@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 05 Apr 2026 00:27 UTC (updated regularly)
-! host_count: 9574
+! Last modified: 07 Apr 2026 00:30 UTC (updated regularly)
+! host_count: 9579
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -1611,8 +1611,10 @@
 0.0.0.0 apis.appnxt.net
 0.0.0.0 apishow.babybus.com
 0.0.0.0 apishowstats.babybus.com
+0.0.0.0 apm-fe.rnote.com
 0.0.0.0 apm-fe.xiaohongshu.com
 0.0.0.0 apm-log-upload-os.hoyoverse.com
+0.0.0.0 apm-native.redbascket.com
 0.0.0.0 apm-native.xiaohongshu.com
 0.0.0.0 apm-track.xiaohongshu.com
 0.0.0.0 apollobet.com
@@ -5568,6 +5570,7 @@
 0.0.0.0 livedealer.org
 0.0.0.0 livv88.com
 0.0.0.0 lklfwu-inapps.appsflyersdk.com
+0.0.0.0 lng.xiaohongshu.com
 0.0.0.0 lo555.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 locojungle.com
@@ -5634,6 +5637,7 @@
 0.0.0.0 log.pngindir.com
 0.0.0.0 log.pullcenter.live
 0.0.0.0 log.pvpgang.com
+0.0.0.0 log.qrscanner.live
 0.0.0.0 log.scanqrcodedesign.live
 0.0.0.0 log.smartclearpro.com
 0.0.0.0 log.snow.me
@@ -8219,6 +8223,7 @@
 0.0.0.0 t.adx.opera.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.castle.io
+0.0.0.0 t2.xiaohongshu.com
 0.0.0.0 t3337.com
 0.0.0.0 t3338.com
 0.0.0.0 taboola.com

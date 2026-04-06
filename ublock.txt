@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 05 Apr 2026 00:28 UTC (updated regularly)
+! Last modified: 07 Apr 2026 00:30 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -10387,8 +10387,6 @@ gigapurbalingga.cc,kuyhaa-me.pw##.entry-content center:has(> .button-container >
 gigapurbalingga.net,kuyhaa-me.com,lk21official.cc##center
 gigapurbalinggaa.com##article .code-block > center:has(> button:has-text(/download/i))
 girlsgogames.co.id,permainan.co.id##.advert
-gitlab.*##.light-red.js-broadcast-notification-1
-gitlab.com##.sticky.flash-container-page.flash-container
 glints.com##body:style(margin-top: 0!important;)
 globalsumut.com##img[width="900"][height="350"]
 gocrot.me,gocrot.org##.popup-cr7
@@ -11760,12 +11758,6 @@ mojok.co##img[width="1200"][height="240"]
 moladin.com###bannerid_4
 monitorindonesia.com##a[rel*="sponsored"]
 mosaikislam.com##.urutan_artikel
-mothership.sg###block-imu2
-mothership.sg###block-imu3
-mothership.sg###block-outstream3
-mothership.sg###block-outstream4
-mothership.sg###ms-footer
-mothership.sg###ms-header
 motorplus-online.com###ad-below-photo-container
 motorplus-online.com###ad-genie-container
 motorplus-online.com###div-ad-below-comment-container
@@ -12939,8 +12931,6 @@ wowkeren.com##.ne-banner-layout1
 wowkeren.com##article div:matches-css(display: inline-block):has(> script)
 wowkeren.com##div[style*="width:300px;min-height:250px"]
 wtools.io###adsright_vertical
-www.arieffservicecenter.com###ignielSubscribe
-www.arieffservicecenter.com###sticky-ads-mobile
 www.mediafire.com##.Continent.DLExtraInfo-uploadLocationMap.lazyload
 www.nexusmods.com###accordion-header-mods-per-page
 www.nexusmods.com###app-banner
@@ -15509,6 +15499,7 @@ zurich.co.id##.privacy-warning-main
 ||muvibet.$image,third-party
 ||muvibet.$popup
 ||my.avira.com^
+||my.telkomsel.com/src/static/app-ads.txt$domain=my.telkomsel.com
 ||mybestpoker.$image,third-party
 ||mybet188.$image,third-party
 ||mycoding.id/assets/seosecret/seosecretidnblockads.js

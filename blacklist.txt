@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 07 Apr 2026 00:30 UTC (updated regularly)
-! host_count: 9579
+! Last modified: 10 Apr 2026 23:52 UTC (updated regularly)
+! host_count: 9586
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -394,6 +394,7 @@
 0.0.0.0 ad-api-log.colopl.jp
 0.0.0.0 ad-api.ehawk.com
 0.0.0.0 ad-api.maxnapps.com
+0.0.0.0 ad-api.revoaidapp.com
 0.0.0.0 ad-brix.com
 0.0.0.0 ad-channel.wikawika.xyz
 0.0.0.0 ad-creative.projectcarmen.com
@@ -3395,6 +3396,7 @@
 0.0.0.0 datafinder-beacon.starii-rover.com
 0.0.0.0 dataflow.biliapi.com
 0.0.0.0 datarangers-event.myrightone.com
+0.0.0.0 datasink.sensorsjourney.com
 0.0.0.0 datk.bridgeoos.com
 0.0.0.0 davincisgold.net
 0.0.0.0 davincisgold.org
@@ -5608,6 +5610,7 @@
 0.0.0.0 log.cleansweepplu.com
 0.0.0.0 log.clearcleanerpro.live
 0.0.0.0 log.documentmanagerpdfdocxlssale.live
+0.0.0.0 log.documentreaderapp.com
 0.0.0.0 log.down61.com
 0.0.0.0 log.dramaboxdb.com
 0.0.0.0 log.easy39.com
@@ -6125,6 +6128,7 @@
 0.0.0.0 mkvpoker.club
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 mmcshoping.com
+0.0.0.0 mmp-api.itpub.cloud
 0.0.0.0 mmp001.scalemonk.com
 0.0.0.0 mmtangkas.biz
 0.0.0.0 mmtangkas.tripod.com
@@ -6225,6 +6229,7 @@
 0.0.0.0 mssdk-boot.cpacutapi.com
 0.0.0.0 mssdk-va.byteoversea.com
 0.0.0.0 mssdk.capcutapi.us
+0.0.0.0 mt-api.itpub.cloud
 0.0.0.0 mtag.mman.kr
 0.0.0.0 mtburn.jp
 0.0.0.0 mtgglobals.com
@@ -6361,6 +6366,7 @@
 0.0.0.0 news-app-events.apple.com
 0.0.0.0 news-cdn.site
 0.0.0.0 news-events.apple.com
+0.0.0.0 news-img.site
 0.0.0.0 news-sports-events.apple.com
 0.0.0.0 newsnet.in.ua
 0.0.0.0 newyorkcasinos.net
@@ -9114,6 +9120,7 @@
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 utorrent.com
 0.0.0.0 uwin.com
+0.0.0.0 uydeqs9.xyz
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 v.kidoz.net
 0.0.0.0 v16-ad.byteoversea.com

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 10 Apr 2026 23:53 UTC (updated regularly)
+! Last modified: 12 Apr 2026 05:50 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -11195,6 +11195,8 @@ kompas.com###contentArticle > .kcm-track
 kompas.com###contentArticle > .kgnw-middle:has(> .kgnw-middle-player):remove()
 kompas.com###credential_picker_container
 kompas.com##+js(aeld, scroll, kgSticky)
+kompas.com##+js(set, body.style.overflow, auto !important)
+kompas.com##+js(set, html.style.overflow, auto !important)
 kompas.com##.ads-latest-wrap
 kompas.com##.ads-on-body
 kompas.com##.ads-partner-wrap-pop
@@ -11234,6 +11236,7 @@ kompas.com##.kcm__superbig
 kompas.com##.kcm__top
 kompas.com##.kcm__tower
 kompas.com##.kcm__track
+kompas.com##.kgmModal-block
 kompas.com##.kgnw-main:has(> .kgnw-player):remove()
 kompas.com##.kgnw-modal-ads
 kompas.com##.kgnw-modal-adswrap
@@ -11248,6 +11251,8 @@ kompas.com##.show.ol_promo
 kompas.com##.sticky-ads-close
 kompas.com##[src^="https://adsimg.kompas.com"]
 kompas.com##div:has( > #gpt-passback)
+kompas.com##section#kgmModal-onetap
+kompas.com##section.kgmModal.-otbottom
 kompas.com,kompas.tv,sonora.id##.kgnw-middle-ready.kgnw-middle
 kompas.com,kompasiana.com,sonora.id##.osmplaceonsite.ads-partner-wrap
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
@@ -11928,6 +11933,7 @@ nusantaratv.com##.ads-slot-mb-container
 obordewata.com###fancybox-overlay
 obordewata.com###fancybox-wrap
 obordewata.com##[id^="obord-"]:has(> .obord-adlabel)
+obtainium.imranr.dev##.kao-banner
 ocbc.id##+js(set-local-storage-item, cookieConsent, true)
 offenseproject.com##+js(acis, document.createElement, ignielAdBlock)
 offenseproject.com##+js(set-cookie, CookiePolicy, accepted)
@@ -12372,7 +12378,9 @@ sattakingcharts.in,quotesopia.com,creditsgoal.com##.post-navigation.navigation
 sattakingcharts.in,quotesopia.com,creditsgoal.com##.site-footer
 sattakingcharts.in,quotesopia.com,creditsgoal.com##.text-center.tp-top
 sattakingcharts.in,quotesopia.com,creditsgoal.com##.type-post
+satujuang.com##.sj-ads-parallax-wrap
 satujuang.com##.sj-parallax-top-container
+satujuang.com##.sj-super-top-wrap
 satukanal.com##img[width="800"][height="167"]
 satukanegeri.co.id,satukanegeri.com##.AD-banner
 satumejanews.id##.wpb_wrapper > .td-fix-index > img

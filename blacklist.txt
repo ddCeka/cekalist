@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 12 Apr 2026 05:49 UTC (updated regularly)
-! host_count: 9587
+! Last modified: 19 Apr 2026 13:24 UTC (updated regularly)
+! host_count: 9595
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -1664,6 +1664,7 @@
 0.0.0.0 appvalley-apk.com
 0.0.0.0 appwall.tv2phone.cn
 0.0.0.0 apsrgeo.amap.com
+0.0.0.0 aptoide-rtb.aptoide.com
 0.0.0.0 aqi.wd.amberweather.com
 0.0.0.0 aqueduct-collector-prod.alar.my
 0.0.0.0 arbetas.com
@@ -2327,6 +2328,7 @@
 0.0.0.0 bi-tracker-global.rivergame.net
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bi.yeshen.com
+0.0.0.0 bidder.a11.vega.aurion11.io
 0.0.0.0 bidder.dsp.outfit7.com
 0.0.0.0 bidder.mdspinc.com
 0.0.0.0 bidjora.com
@@ -3488,6 +3490,7 @@
 0.0.0.0 dgpc.com
 0.0.0.0 dhy678.com
 0.0.0.0 diagmon-serviceapi.samsungdm.com
+0.0.0.0 diagnostics.rakam.io
 0.0.0.0 diamondelektronik.com
 0.0.0.0 diamondvipcasino.com
 0.0.0.0 dicelandcasino.com
@@ -4179,6 +4182,7 @@
 0.0.0.0 gladiatorslots.com
 0.0.0.0 glance.inmobi.com
 0.0.0.0 global-elektronik.com
+0.0.0.0 global-receiver-ta.thinkingdata.cn
 0.0.0.0 global-report.ml.youngjoygame.com
 0.0.0.0 global-sis.engagelab.com
 0.0.0.0 global-staticplat.cdn.bcebos.com
@@ -6688,6 +6692,7 @@
 0.0.0.0 os.scmpacdn.com
 0.0.0.0 osakapools.com
 0.0.0.0 osg-777.com
+0.0.0.0 otel-collector.reliability.smartnews.net
 0.0.0.0 otel-mobile.doordash.com
 0.0.0.0 other.appcpi.net
 0.0.0.0 ourbetting.com
@@ -7223,6 +7228,7 @@
 0.0.0.0 qa-events-schema.viacom.tech
 0.0.0.0 qam000.com
 0.0.0.0 qam888.com
+0.0.0.0 qbk1.com
 0.0.0.0 qcloud-sg-datareceiver.kurogame.xyz
 0.0.0.0 qist.me
 0.0.0.0 qmds-dev-samsung.com
@@ -7298,6 +7304,7 @@
 0.0.0.0 rajawaliolshop.web.id
 0.0.0.0 rajawaliqq.net
 0.0.0.0 rajjj.com
+0.0.0.0 rakam-api.aptoide.com
 0.0.0.0 rakebrain.com
 0.0.0.0 rama-yana.com
 0.0.0.0 ramayanaelektroshop.com
@@ -7345,6 +7352,7 @@
 0.0.0.0 replase.gq
 0.0.0.0 replase.ml
 0.0.0.0 report-edge.agora.io
+0.0.0.0 report-edge.rtesvc.com
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 report.1-1.io
@@ -8619,7 +8627,6 @@
 0.0.0.0 thewillpower.org
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 thinkbingo.com
-0.0.0.0 thinkingdata.cn
 0.0.0.0 thistledown.com
 0.0.0.0 thupox.com
 0.0.0.0 ti9bet.com
@@ -8880,6 +8887,7 @@
 0.0.0.0 track.zerofriend.com
 0.0.0.0 trackdan.com
 0.0.0.0 tracker-api.my.com
+0.0.0.0 tracker.a11.vega.aurion11.io
 0.0.0.0 tracker.adotmob.com
 0.0.0.0 tracker.fengkongcloud.com
 0.0.0.0 tracker.lazada.co.id

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 19 Apr 2026 13:25 UTC (updated regularly)
+! Last modified: 20 Apr 2026 20:39 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -539,6 +539,7 @@
 ##._xt_ad_close
 ##._xt_ad_close_internal
 ##.a2a_kit:not(html,body,:empty)
+##.above-title-ad-placeholder-img
 ##.ad-300-container
 ##.ad-320-container
 ##.ad-728-container
@@ -8554,8 +8555,8 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 /ratulotto.$image,third-party
 /ratuqq.$image,third-party
 /ratuqq.gif$image
-/rbtvplus\d+\.(com|baby|blog|cfd|cyou|help|homes|info|lat|lol|mom|one|pics|quest|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
-/rbtvplus\d+\.(com|baby|blog|cfd|cyou|help|homes|info|lat|lol|mom|one|pics|quest|rest|vip|xyz)/##.czlll-rlselse
+/rbtvplus\d+\.(com|baby|blog|cfd|click|cyou|help|homes|info|lat|lol|mom|one|pics|quest|rest|vip|xyz)/##*:style(scrollbar-width: thin!important;)
+/rbtvplus\d+\.(com|baby|blog|cfd|click|cyou|help|homes|info|lat|lol|mom|one|pics|quest|rest|vip|xyz)/##.czlll-rlselse
 /rctiqq.$image,third-party
 /rdomino.$image,third-party
 /rejekibet.$image,third-party
@@ -10342,7 +10343,7 @@ gamefaqs.gamespot.com##.paginate .fa-list-ul.fa
 gamefaqs.gamespot.com##.row.container.footer_site
 gamefaqs.gamespot.com##.row.container.masthead_main
 gamefaqs.gamespot.com##.title
-gamefinity.id###popup-ads
+gamefinity.id,kabarpublik.id###popup-ads
 gamespot.com##.share--column
 ganool.ph##.col-xs-12.col-md-6.col-lg-6
 ganool.watch###middle-banner
@@ -11191,8 +11192,6 @@ kompas.com###contentArticle > .kcm-track
 kompas.com###contentArticle > .kgnw-middle:has(> .kgnw-middle-player):remove()
 kompas.com###credential_picker_container
 kompas.com##+js(aeld, scroll, kgSticky)
-kompas.com##+js(set, body.style.overflow, auto !important)
-kompas.com##+js(set, html.style.overflow, auto !important)
 kompas.com##.ads-latest-wrap
 kompas.com##.ads-on-body
 kompas.com##.ads-partner-wrap-pop
@@ -11232,7 +11231,6 @@ kompas.com##.kcm__superbig
 kompas.com##.kcm__top
 kompas.com##.kcm__tower
 kompas.com##.kcm__track
-kompas.com##.kgmModal-block
 kompas.com##.kgnw-main:has(> .kgnw-player):remove()
 kompas.com##.kgnw-modal-ads
 kompas.com##.kgnw-modal-adswrap
@@ -11247,8 +11245,6 @@ kompas.com##.show.ol_promo
 kompas.com##.sticky-ads-close
 kompas.com##[src^="https://adsimg.kompas.com"]
 kompas.com##div:has( > #gpt-passback)
-kompas.com##section#kgmModal-onetap
-kompas.com##section.kgmModal.-otbottom
 kompas.com,kompas.tv,sonora.id##.kgnw-middle-ready.kgnw-middle
 kompas.com,kompasiana.com,sonora.id##.osmplaceonsite.ads-partner-wrap
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]

@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 20 Apr 2026 20:38 UTC (updated regularly)
-! host_count: 9595
+! Last modified: 25 Apr 2026 11:00 UTC (updated regularly)
+! host_count: 9608
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -538,6 +538,7 @@
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-image.production-public.tubi.io
 0.0.0.0 ads-img-al.xhscdn.com
+0.0.0.0 ads-img-bak.xhscdn.com
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-leaseweb.appsgeyser.com
 0.0.0.0 ads-link.net
@@ -1494,6 +1495,7 @@
 0.0.0.0 analytics.nianticspatial.com
 0.0.0.0 analytics.oliveapp.net
 0.0.0.0 analytics.picsart.com
+0.0.0.0 analytics.pocketfm.com
 0.0.0.0 analytics.prod.mybuddy.ai
 0.0.0.0 analytics.prod.tophat.withbuddies.com
 0.0.0.0 analytics.projectcarmen.com
@@ -3101,6 +3103,7 @@
 0.0.0.0 cinaqq.com
 0.0.0.0 circabet.com
 0.0.0.0 circuscasino.com
+0.0.0.0 cirrus-full-snapshots-track-csv-v1-0-na-prod.s3.amazonaws.com
 0.0.0.0 cirruscasino.net
 0.0.0.0 citibet88.com
 0.0.0.0 citraelektroshop.com
@@ -4200,6 +4203,7 @@
 0.0.0.0 go.admost.com
 0.0.0.0 go.mobstitialtag.com
 0.0.0.0 go.vrvm.com
+0.0.0.0 goads2023.com
 0.0.0.0 goal-info.com
 0.0.0.0 goal303.com
 0.0.0.0 goalbet.com
@@ -4669,6 +4673,7 @@
 0.0.0.0 iconcardinal.com
 0.0.0.0 id-13.com
 0.0.0.0 id368.com
+0.0.0.0 id6.me
 0.0.0.0 idaholotteryresults.org
 0.0.0.0 idb365.com
 0.0.0.0 idbet88.com
@@ -6150,6 +6155,8 @@
 0.0.0.0 mob2.mymusic2025.com
 0.0.0.0 mob2.welltastic-app.com
 0.0.0.0 moba8.net
+0.0.0.0 mobads-logs.bcebos.com
+0.0.0.0 mobads-pre-config.cdn.bcebos.com
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mobalert.online
 0.0.0.0 mobclix.com
@@ -6165,6 +6172,7 @@
 0.0.0.0 mobileapptracking.com
 0.0.0.0 mobilebanner.ru
 0.0.0.0 mobilecasinoparty.com
+0.0.0.0 mobileconfig.sascdn.com
 0.0.0.0 mobilecore.com
 0.0.0.0 mobiledl.adboe.com
 0.0.0.0 mobilefuse.com
@@ -7141,6 +7149,7 @@
 0.0.0.0 primescratchcards.com
 0.0.0.0 primesportspicks.com
 0.0.0.0 prismcasino.com
+0.0.0.0 prismriotads.com
 0.0.0.0 privacy-sandbox.appsflyersdk.com
 0.0.0.0 privateinternetaccess.com
 0.0.0.0 privatestats.whatsapp.net
@@ -8895,6 +8904,7 @@
 0.0.0.0 tracker.neodatagroup.com
 0.0.0.0 tracker.srta.spectrum.com
 0.0.0.0 tracker.str-nrg.com
+0.0.0.0 tracker.tianmu.mobi
 0.0.0.0 tracker.ulivetv.net
 0.0.0.0 trackernew.ulivetv.net
 0.0.0.0 trackers.fubo.tv
@@ -9092,6 +9102,7 @@
 0.0.0.0 uoarbhxfyygn.com
 0.0.0.0 up-hl.3g.qq.com
 0.0.0.0 up.ousabq.tech
+0.0.0.0 upc.zztfly.com
 0.0.0.0 updatebetting.com
 0.0.0.0 updatebetting.info
 0.0.0.0 updatebetting.net
@@ -9265,6 +9276,7 @@
 0.0.0.0 wbl6677.com
 0.0.0.0 wbl8899.com
 0.0.0.0 wbx.com
+0.0.0.0 wcp.taobao.com
 0.0.0.0 wdig.vo.llnwd.net
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.news.apple-dns.net
@@ -9495,6 +9507,7 @@
 0.0.0.0 yellaface.com
 0.0.0.0 yesads.com
 0.0.0.0 yf2816.com
+0.0.0.0 yfanads.com
 0.0.0.0 yhulicell.com
 0.0.0.0 yieldkit.com
 0.0.0.0 yieldmo.com

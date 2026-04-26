@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 26 Apr 2026 10:21 UTC (updated regularly)
+! Last modified: 27 Apr 2026 03:32 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -884,6 +884,7 @@
 ##.baca-juga-ad
 ##.baneratasbawah
 ##.banner-625x235-content
+##.banner-ads
 ##.banner-ads--big
 ##.banner-ads-image
 ##.banner-ads-inner
@@ -1468,6 +1469,7 @@
 ##.player-ads-left-2
 ##.player-ads-top
 ##.player-ads-top-1
+##.player-banner-ads-top
 ##.player-banner-left
 ##.player-banner-left-2
 ##.player-banner-top
@@ -9214,6 +9216,7 @@ arrahmah.id##img[width="350"][height="49"]
 arsipbiru.com##.cookies
 artikel.rumah123.com,belajarmandiriyuk.com,liputanindonesia.co.id##a[href^="https://shopee.co.id/"]:has(> img)
 artisbokep.*##.top-banner
+artisbokep.*,republikbokep.*,xbokepin.*###floating-banner-wrap
 artisbokep.*,republikbokep.*,xbokepin.*##a[target*="blank"]:has(> img)
 artisbokep.online,artisbokep.site##.ab-top-video-banners
 artisbokep.online,artisbokep.site##.banner-slide
@@ -10436,6 +10439,7 @@ grid.id##.ads__skyscraper
 grid.id##.ads_below_photo-wrapper
 grid.id##.ads_imr2
 grid.id##.ads_sky
+grid.id##.before\:content-\[\'advertisment\'\]
 grid.id##.bottom_banner
 grid.id##.bottom_banner-wrapper.relative
 grid.id##.nkt__stick
@@ -10650,6 +10654,7 @@ idfl.me##[id^="yui-gen"].postcontainer
 idfl.me,teknoup.com###fancybox-wrap
 idlixku.com###adblock-modal
 idlixku.com##*:style(filter: unset !important; pointer-events: auto!important;)
+idlixku.com##+js(prevent-setTimeout, getComputedStyle)
 idlixku.com##.asgdc
 idlixku.com##.module_home_ads
 idlixku.com##.swal-overlay
@@ -12981,6 +12986,7 @@ www.reddit.com##xpromo-app-selector
 www.reddit.com##xpromo-new-app-selector
 www.wikihow.com###footer_newsletter
 www.xda-developers.com##.adsninja-rail-container.sidebar
+xbokepin.*###popupBannerOverlay
 xda-developers.com##.adsninja-rail-container.sidebar
 xl.co.id##.sc-concent
 xxiku.com##.auto-banner:remove()

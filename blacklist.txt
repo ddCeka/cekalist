@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 25 Apr 2026 11:00 UTC (updated regularly)
-! host_count: 9608
+! Last modified: 26 Apr 2026 10:20 UTC (updated regularly)
+! host_count: 9607
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -3498,7 +3498,6 @@
 0.0.0.0 diamondvipcasino.com
 0.0.0.0 dicelandcasino.com
 0.0.0.0 diecasinos.com
-0.0.0.0 dig.bdurl.net
 0.0.0.0 digiads.co.id
 0.0.0.0 digibet.com
 0.0.0.0 digitbet.net

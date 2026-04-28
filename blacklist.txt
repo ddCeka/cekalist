@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 27 Apr 2026 03:31 UTC (updated regularly)
-! host_count: 9607
+! Last modified: 28 Apr 2026 10:25 UTC (updated regularly)
+! host_count: 9610
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -4329,6 +4329,7 @@
 0.0.0.0 gxwjkbxubfjd.com
 0.0.0.0 gynax.com
 0.0.0.0 h-adashx.ut.alibaba.com
+0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 h-adashx4id.ut.taobao.com
 0.0.0.0 h2777.com
@@ -6711,6 +6712,8 @@
 0.0.0.0 p.statp.com
 0.0.0.0 p1-lm.adukwai.com
 0.0.0.0 p16-ad.byteoversea.com
+0.0.0.0 p3-ad-sign.byteimg.com
+0.0.0.0 p3-ad-sign.byteimg.com.queniusy.com
 0.0.0.0 p30download.ir
 0.0.0.0 pacificpoker.com
 0.0.0.0 paddypartners.com

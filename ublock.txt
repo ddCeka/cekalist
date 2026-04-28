@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 27 Apr 2026 03:32 UTC (updated regularly)
+! Last modified: 28 Apr 2026 10:26 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -9490,6 +9490,8 @@ bidikindonesianews.co.id,eksposisi.com,indojambi.id,inspirasijambi.com,kilasgaru
 bidiknewstoday.com##.elementor-element > .elementor-widget-container:has(> .elementor-heading-title:has-text(/adv/i))
 biem.co##img[width="420"][height="70"]
 bilibili.tv###bilibiliPlayer .ip-watermark
+bilibili.tv##.dialog--mobile
+bilibili.tv##html, body:style(overflow: auto !important;)
 bincangsyariah.com,law-justice.co,suaraindonesia.co.id###AdAAnchor
 bintangmawar.net###bmpop_adpB
 bioskop.*,bioskop21.*,bk21.top###floating_banner_bottom

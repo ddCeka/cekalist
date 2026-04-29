@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 28 Apr 2026 10:26 UTC (updated regularly)
+! Last modified: 29 Apr 2026 19:57 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -9076,6 +9076,7 @@ acehpost.id,berandatimur.com,bidikindonesianews.co.id,eksposisi.com,inspirasijam
 acehtrend.com,ajnn.net,beritamerdeka.net,bithe.co,dailyklik.id,kabartamiang.com,kba.one,modusaceh.co,senentangnews.com,suloh.id,theacehpost.com##.funds
 acikepri.com,kabarterkini.co.id,mimbarrakyat.co.id,radarsorong.id,rubis.id,sundalanews.com,teropongnews.com,tuntaslampung.com,wajahborneo.com,zonakalteng.co.id##.widget figure > img
 acoustacorp.com,laporpakfans.com,snowcruise-onze.com,wgfilm21.com##a[target*="blank"]:has(> img)
+acsma.org,buddhistchaplainsnetwork.org,bwua.org,cpcanc.org,flstandards.org,hometeaparty.com,jtcwd.com,rozbih.org,shadowofthevampire.com##a[target*="blank"]:has(> img)
 adclick.g.doubleclick.net/*
 adhyaksafoto.com,ambaritanews.com,analisakini.id,annews.co.id,ayomedan.com,balikini.net,banuatoday.com,bentengsumbar.com,bicaranews.com,bloggua.co.id,borneonusantaranews.com,borneotribun.com,cahayanews.com,canangnews.com,channelntb.com,cipasera.com,deltapariranews.com,dhean.news,dtulis.com,dutanusantaramerdeka.com,dutarakyat.com,e-news.id,elnusanews.com,expossumbar.com,faktabandungraya.com,fokussumatera.com,gajahtobanews.id,garda.id,gebraknasional.com,gemamedianet.com,grapena.com,gustani.id,haibanjar.com,impiannews.com,independentnews45.com,indimanado.com,indomen.co.id,indonesiaberkibarnews.com,infokepri.com,infopubliknews.com,inilahmedan.com,instingjurnalis.com,jurnalmanado.com,jurnalmediaindonesia.com,kabarcenter.com,kabarmetro.co.id,kabarok.com,kabarsinjai.com,kabarviral79.com,kalbarnews.co.id,kebumenekspres.com,klikmetro.com,klikrealita.com,komentar.co,konselpos.com,kontakbanten.co.id,kontrasriau.com,lamosai.com,lelemuku.com,lenterajabar.com,lintashukum-indonesia.com,liputansbm.com,lpc-online.com,makalamnews.id,medanmerdeka.com,mediaadvokasi.id,mediapolmaspoldasu.com,mediaselektif.com,mediasembilan.co.id,mediaterobos.com,merdekasumsel.com,metro-online.co,metrokalimantan.com,metrokampung.com,news-daring.com,nusantaranews.net,nusantaranews.web.id,okenews.net,padangterkininews.net,paparazziindo.com,pengawal.id,peoplenews.id,peristiwanusantara.com,pilarempat.com,pilarsulut.co,poskotasumatera.com,poskotasumut.id,postkotantb.com,potretsumsel.id,prodeteksi.com,radarnusantara.com,radarpos.id,radarsumatera.com,realitakini.com,realitamedia.com,realitasnews.com,redaksimanado.com,salingkaluak.com,sasambonews.com,senipertanian.com,serikatnasional.id,sidikjari.co.id,sigi24.com,spiritnews.media,sriwijayanews.com,suaraborneo.id,suarabumigora.com,suarakayong.id,suarakonsumenindonesia.com,suaranusra.com,sumateraline.com,tanamonews.com,topnewsumatera.com,toprilis.com,trust3media.com,vnn.co.id,wartabumigora.id,wartanad.id,wartanasional.co##.widget:has(> .widget-content > img)
 adikanime.com##.adik-warning
@@ -9092,7 +9093,7 @@ ads.id##img[alt="admaven"]
 afederasi.com,infobaik.id,inilahkoran.id,jalurdua.com,lambeturah.co.id,lampunggo.com,marjinal.id,monologis.id,nusadaily.com,portal-islam.com,rmolpapua.id,teraslampung.com,westjavatoday.com##[class*="bn-"]
 affmotor.com,alkitabonline.org,bacaterus.com,bankiir.id,beritaja.com,biayatarif.com,brainly.co.id,carisinyal.com,emitennews.com,gamefinity.id,gammafisblog.com,gen987fm.com,hellosehat.com,inilah.com,jabar-online.com,jagobengkel.com,ladiestory.id,lenteratoday.com,pakaibanking.com,pelindo.co.id,persis.or.id,pilihprofesi.com,prosesbayar.com,sumselindependen.com,tuliskan.id,versusbeda.com##body:style(overflow: auto!important; position: unset!important;)
 affmotor.com,jagobengkel.com,versusbeda.com##.jquery-modal
-agast.org,anconaguide.com,azarug.org,bbbsmanchester.org,bcjschool.org,foundationrepairwichitaks.net,geaction.org,getnoticedgetfound.com,glenbeulah.org,harvardasda.org,hbvadvocate.org,hoppin-grapes.com,hsofpc.org,internetincomecoach.com,izma.shop,lastharvest.org,learnenglishindublin.com,milwaukeehdtv.org,qualityassociates.org,raifoundation.org,rivercatsmainecoons.com,stlwebdev.org,sweetiepieparenting.com,weddingphotographercleveland.com,wwrb.org##a[target*="blank"]:has(> img)
+agast.org,anconaguide.com,azarug.org,bbbsmanchester.org,bcjschool.org,educationet.org,fbnm.org,foundationrepairwichitaks.net,geaction.org,getnoticedgetfound.com,glenbeulah.org,harvardasda.org,hbvadvocate.org,hoppin-grapes.com,hsofpc.org,internetincomecoach.com,izma.shop,lastharvest.org,learnenglishindublin.com,milwaukeehdtv.org,morrishillna.org,qualityassociates.org,raifoundation.org,rivercatsmainecoons.com,savageredimix.com,stlwebdev.org,sweetiepieparenting.com,teachsouthafrica.org,theleatherconnection.com,tipmra.com,unfpahaiti.org,weddingphotographercleveland.com,wwrb.org##a[target*="blank"]:has(> img)
 agen_bola_online.gif|$image
 agenbokep.*##.popbox
 agenbokep.*,bandarbokep.*,bokepindo.*,doooood.co,duniabokep.*,hencop.com,indobokepin.*,javindo.*,javsubindo.*,malayporntube.net,minioppai.org,myhdjav.me,ngentub.cc,nontonbokep.*,sibokepjepang.*##+js(nowoif)
@@ -9490,8 +9491,6 @@ bidikindonesianews.co.id,eksposisi.com,indojambi.id,inspirasijambi.com,kilasgaru
 bidiknewstoday.com##.elementor-element > .elementor-widget-container:has(> .elementor-heading-title:has-text(/adv/i))
 biem.co##img[width="420"][height="70"]
 bilibili.tv###bilibiliPlayer .ip-watermark
-bilibili.tv##.dialog--mobile
-bilibili.tv##html, body:style(overflow: auto !important;)
 bincangsyariah.com,law-justice.co,suaraindonesia.co.id###AdAAnchor
 bintangmawar.net###bmpop_adpB
 bioskop.*,bioskop21.*,bk21.top###floating_banner_bottom
@@ -10164,7 +10163,6 @@ e24.no##.article-share
 edge.id##.elementor-popup-modal
 edisimedan.com,oneesports.id,populis.id##.ad-container
 editorialkaltim.com##img[width="250"][height="100"]
-educationet.org,fbnm.org,jtcwd.com,morrishillna.org,savageredimix.com,shadowofthevampire.com,teachsouthafrica.org,theleatherconnection.com,tipmra.com,unfpahaiti.org##a[target*="blank"]:has(> img)
 ekonomi.inilah.com,teknologi.inilah.com###bannerkiri
 eksposisi.com###single-content:style(margin-top: 150px!important;)
 ekstrabladet.dk##label[for*=ShareModal]

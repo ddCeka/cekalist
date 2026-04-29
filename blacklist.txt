@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 28 Apr 2026 10:25 UTC (updated regularly)
-! host_count: 9610
+! Last modified: 29 Apr 2026 19:56 UTC (updated regularly)
+! host_count: 9612
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -6192,6 +6192,7 @@
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon.us.tiktokv.com
+0.0.0.0 mon11-misc-lq.fqnovel.com
 0.0.0.0 mon16-normal-us-ttp.capcutapi.us
 0.0.0.0 monacasino.com
 0.0.0.0 monacoaces.com
@@ -8699,6 +8700,7 @@
 0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
 0.0.0.0 tnc16-useast1a.isnssdk.com
+0.0.0.0 tnc3-alisc1.bytedance.com
 0.0.0.0 tnkfactory.com
 0.0.0.0 tns.simba.taobao.com
 0.0.0.0 tobapplog.ctobsnssdk.com

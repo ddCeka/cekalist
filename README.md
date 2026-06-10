@@ -11,7 +11,7 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
     <img src="https://img.shields.io/github/repo-size/ddCeka/CekaList?label=Repo%20Size&color=black" alt="repo size" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" > 
-    <img src="https://img.shields.io/badge/Updated%20Hosts-4/Jun/2026-lightblue" >
+    <img src="https://img.shields.io/badge/Updated%20Hosts-10/Jun/2026-lightblue" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" > 
     <img src="https://img.shields.io/github/last-commit/ddCeka/CekaList?label=Last%20Commit" alt="last commit" >
@@ -75,31 +75,37 @@ Custom DNS untuk Android 9.0+ [Non-Root] contoh dari cara di atas
  1. Buka Pengaturan => Jaringan & internet => Lanjutan => DNS Pribadi.
  2. Pilih opsi nama host penyedia DNS Pribadi.
  3. Masukan dari contoh penyedia DNS dibawah dan tekan simpan.
+
 ---
-[Adguard DNS (3 Flavours):](https://adguard-dns.io/en/public-dns.html)
-- Default server
+[Bebas DNS:](https://github.com/bebasid/bebasdns)
+- DNS-over-HTTPS
 ```
-	dns.adguard-dns.com
+	https://dns.bebasid.com/dns-query
 ```
-- Non-filtering server
+- DNS-over-TLS
 ```
-	unfiltered.adguard-dns.com
+	tls://dns.bebasid.com:853
+```
+[Adguard DNS:](https://adguard-dns.io/kb/general/dns-providers/)
+- DNS-over-HTTPS
+```
+	https://dns.adguard-dns.com/dns-query
+```
+- DNS-over-TLS
+```
+	tls://dns.adguard-dns.com
 ```
 - Family Protection server
 ```
-	family.adguard-dns.com
+	https://family.adguard-dns.com/dns-query
 ```
-[NextDNS (Adblocking with Whitelist Supported)](https://help.nextdns.io/t/m1hmv0k/which-setup-type-to-use)
+[NextDNS (Account needed):](https://help.nextdns.io/t/m1hmv0k/which-setup-type-to-use)
 ```
 	(IdAnda).dns.nextdns.io
 ```
 [Quad9 DNS (Adblocking Supported):](https://docs.quad9.net/Setup_Guides/Android/Android_9%2B_%28Encrypted%29/)
 ```
 	dns.quad9.net
-```
-[Blah DNS:](https://github.com/ookangzheng/blahdns)
-```
-	dot-ch.blahdns.com
 ```
 [CloudFlare DNS:](https://www.cloudflare.com/en-gb/learning/dns/what-is-1.1.1.1)
 ```

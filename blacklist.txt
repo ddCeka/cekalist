@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 04 Jun 2026 19:58 UTC (updated regularly)
-! host_count: 9632
+! Last modified: 10 Jun 2026 09:41 UTC (updated regularly)
+! host_count: 9635
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -1542,6 +1542,8 @@
 0.0.0.0 anitaphoneshop.com
 0.0.0.0 aniview.com
 0.0.0.0 ankasatourtravel.com
+0.0.0.0 annas-archive.li
+0.0.0.0 annas-archive.pm
 0.0.0.0 antisocialmedicallc.com
 0.0.0.0 anugerahelektronik.com
 0.0.0.0 anugracell.com
@@ -9076,6 +9078,7 @@
 0.0.0.0 ue.flipboard.com
 0.0.0.0 ufz.doesxyz.com
 0.0.0.0 ug-sg.byteoversea.com
+0.0.0.0 uibjh29vqc.com
 0.0.0.0 ujungkontol.com
 0.0.0.0 uk-bingo.net
 0.0.0.0 uk-tipsters.com

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 16 Jun 2026 10:00 UTC (updated regularly)
+! Last modified: 16 Jun 2026 10:27 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -10198,6 +10198,7 @@ expontt.com,krsumsel.com,metrobuananews.com##aside .gallery-item
 expossumbar.com##.toppanel-banner-aftercontent
 expossumbar.com,topsumbar.co.id##.toppanel-banner-stickyright
 expossumbar.com,topsumbar.co.id##.toppanel-topbanner
+f95zone.to##.block--category34.block--category.block
 f95zone.to##.is-active.offCanvasMenu-subList > li:nth-of-type(13)
 f95zone.to##.js-notices.notices--block.notices
 f95zone.to##.node--link.node--depth2.node--id127.node
@@ -15181,7 +15182,6 @@ zurich.co.id##.privacy-warning-main
 ||menangqq.$popup
 ||menitindonesia.com^*/banner-
 ||menubola.$popup
-||meong.club/go/?aHR0c$doc,urlskip=/\/go\/\?(aHR0c.+)/ -base64
 ||merahputihterkini.com/assets/banner/
 ||mesiniklan.andipublisher.com^$third-party
 ||mestresdopoker.com^$third-party

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 16 Jun 2026 10:27 UTC (updated regularly)
+! Last modified: 17 Jun 2026 04:06 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -7383,6 +7383,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 .my/iklan/$image,stylesheet
 .net/iklan/$image,stylesheet
 .tv/iklan/$image,stylesheet
+.webp|$to=layarotaku.id
 /*capsa*.gif$image
 /*judi*.gif$image
 /*taruhan*.gif$image
@@ -9348,7 +9349,7 @@ bangkitmedia.com##aside p:matches-css(text-align: center):has(> a > img)
 bangsaku.co###sidebar-banner-bawah
 bangsaku.co,derapjuang.id,detaknews.co.id,embaranmedia.com,faktabanten.co.id,harianpilar.com,kitalulus.com,koranpapua.id,matrasnews.com,prokaltim.com,serialmovieislami.com,suarakumandang.com,surabayaonline.co,topkonstruksi.com,tvpapua.com,ulasan.co,wacana.org,wahdah.or.id,wartajurnalis.com,wartanesia.id##+js(aopr, SGPB_POPUP_PARAMS)
 bangsaonline.com##.add-banner
-banjarhits.co,benhil.net,borneotrend.com,lingkaran.id,possindo.com##.cookie-consent
+banjarhits.co,benhil.net,borneotrend.com,indonesia.travel,lingkaran.id,possindo.com##.cookie-consent
 banjarhits.co,qsantri.eu.org###after-ad
 bankiir.id,biayatarif.com,pakaibanking.com,pilihprofesi.com,prosesbayar.com###myAds
 bankiir.id,biayatarif.com,pakaibanking.com,pilihprofesi.com,prosesbayar.com,tuliskan.id###myCont
@@ -11436,6 +11437,10 @@ layardrama.*,layardrama21.*#@#.idmuvi-topbanner-aftermenu
 layardrama21.*###floatbanner-bottom
 layardrama21.*###idmuvi-popup
 layardrama21.*##+js(noeval-if, /fairAdblock|chp_?adblock|adsbygoogle\.js/)
+layarecchi.best,layarotaku.id,layarwibu.com,nekonime.org,xml-acronym-demystifier.org##.kln
+layarecchi.best,layarotaku.id,layarwibu.com,nekonime.org,xml-acronym-demystifier.org##body > div:matches-css(position: fixed)
+layarecchi.best,layarotaku.id,layarwibu.com,nekonime.org,xml-acronym-demystifier.org##img[width="410px"][height="90px"]
+layarecchi.best,layarotaku.id,layarwibu.com,nekonime.org,xml-acronym-demystifier.org##img[width="535px"][height="90px"]
 layarkaca21.*###fbanner
 layarkaca21.*###fbbanner
 layarkaca21.*###pbanner
@@ -11443,8 +11448,6 @@ layarkaca21.*,layarkaca21.com,lk21.org###hbanner
 layarkaca21.tv,lk21.tv##.fancybox-skin
 layarkaca21ok.site###banner-popup
 layarkaca21ok.site##.bannerpopup
-layarwibu.com###popup
-layarwibu.com###popup-overlay
 layarxxi.*###top-banner-content
 lazone.id##.post-header-banner
 legacynews.id##.mh-widget > .wp-block-image > a > img

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 27 Jun 2026 12:11 UTC (updated regularly)
+! Last modified: 27 Jun 2026 22:00 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -10138,6 +10138,8 @@ f95zone.to##.offCanvasMenu-list > li:nth-of-type(4)
 f95zone.to##.offCanvasMenu-list > li:nth-of-type(6)
 f95zone.to##.offCanvasMenu-list > li:nth-of-type(7)
 f95zone.to##.p-navgroup--member.p-account.p-navgroup
+f95zone.to##.uix_fabBar--active.uix_fabBar
+f95zone.to##.uix_fabBar
 f95zone.to##.uix_tabBar
 fajar.co.id###WipeAd-Place
 fajar.co.id###WipeAd-Place2

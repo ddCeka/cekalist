@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 27 Jun 2026 12:11 UTC (updated regularly)
-! host_count: 9636
+! Last modified: 28 Jun 2026 12:44 UTC (updated regularly)
+! host_count: 9639
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -3938,6 +3938,7 @@
 0.0.0.0 fix-tips.com
 0.0.0.0 fixed-bets.com
 0.0.0.0 fixedbet365.com
+0.0.0.0 fj.fatsoeslandmil.com
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 flb6688.com
 0.0.0.0 flbet.com
@@ -8275,6 +8276,7 @@
 0.0.0.0 t3337.com
 0.0.0.0 t3338.com
 0.0.0.0 taboola.com
+0.0.0.0 tadex.id
 0.0.0.0 tagdelivery.mayoclinic.org
 0.0.0.0 tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com
 0.0.0.0 tags.creditkarma.com
@@ -9409,6 +9411,7 @@
 0.0.0.0 winx2x.com
 0.0.0.0 wizbet.com
 0.0.0.0 wizcase.com
+0.0.0.0 wk.locatiocorms.com
 0.0.0.0 wlog.ksapisrv.com
 0.0.0.0 wn888.com
 0.0.0.0 wolfrunslot.net

@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 28 Jun 2026 12:45 UTC (updated regularly)
+! Last modified: 29 Jun 2026 09:17 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8996,6 +8996,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 @@||kaze-batch.blogspot.com^$generichide
 @@||kledo.com/blog/wp-content/uploads/$1p,image
 @@||kreatifmedia.co/kreatifmedia/assets/images/banner-iklan/$1p
+@@||kuyhaa.me/wp-admin/admin-ajax.php
 @@||lihatgambar.my.id/js/adanalytics.js$1p,script
 @@||lihatgambar.my.id^$ghide
 @@||majalahikan.com^$generichide

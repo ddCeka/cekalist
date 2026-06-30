@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 29 Jun 2026 09:16 UTC (updated regularly)
-! host_count: 9639
+! Last modified: 01 Jul 2026 02:31 UTC (updated regularly)
+! host_count: 9641
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -3209,6 +3209,7 @@
 0.0.0.0 collegefootballlocks.com
 0.0.0.0 coloknaga.com
 0.0.0.0 coloradocasinos.net
+0.0.0.0 colorfulculture.click
 0.0.0.0 colosseumcasino.com
 0.0.0.0 coltpoker.com
 0.0.0.0 colusacasino.com
@@ -9229,6 +9230,7 @@
 0.0.0.0 vidout.net
 0.0.0.0 viewyachts.com
 0.0.0.0 vik-analytics.moonactive.net
+0.0.0.0 villainoussession.com
 0.0.0.0 villento.com
 0.0.0.0 vimaxasli.id
 0.0.0.0 vimaxcentral.com

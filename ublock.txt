@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 04 Jul 2026 18:31 UTC (updated regularly)
+! Last modified: 05 Jul 2026 03:10 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -9305,6 +9305,7 @@ awsubs.*,nimeindo.*##div#popupAd
 awsubs.co###popupAd
 awsubs.co##div:matches-css(position: fixed):has(> .kln)
 awsubs.id,bioskop45.com,drakorindo.tv,idbioskop.com,nonton33.net##a[href^="https://goo.gl/"]
+axe.com##:matches-path(/id/inspirasi) .featured-product
 axialnews.id##img[width="970"][height="316"]
 ayobacanews.com,beritajurnalis.net,beritapopuler.co.id,bisnismarket.com,bogorzonenews.com,coinvestasi.com,fakta.com,harianindonesia.net,infoterkini.id,infotren.id,jabaronline.com,jurnalcakrawala.com,kabarindoraya.com,kabarkala.com,kalesang.id,kaltimkita.com,lahatsatu.com,lensametro.com,line1.news,liputan12.id,liriknews.com,mahatva.id,mediawarta.com,mistar.id,nuntium.id,pilarparlemen.id,portal7.co.id,portalbanten.net,portalberita.co.id,pusaranmedia.com,revivaltv.id,sakanews.com,serayunews.com,suarabantennews.com,sulselpasti.com##img[alt*="ads" i]
 ayobacanews.com,cosmopolitan.co.id,creativedisc.com,disway.id,downloadtanku.org,genyo.id,hariankandidat.co.id,indonesiatoday.co.id,indopop.id,indozone.id,industry.co.id,jurnalkawasan.com,jurnalnusa.com,katadata.co.id,koran-jakarta.com,lambeturah.co.id,minangsatu.com,modalrakyat.id,moladin.com,morigro.id,ntvnews.id,nusantaraterkini.co,pikiran-rakyat.com,realestat.id,riau24.com,rmol.id,sumbarsatu.com##.ads
@@ -10256,6 +10257,7 @@ filmku.net##.clearfix.act2-970x90:nth-of-type(3)
 filmnikmat.*##img[alt*="iklan"]
 filmnikmat.*,filmnikmattv1.*###fadeinbox
 fimela.com##.py-4.banner
+finansialku.com##.sticky-footer
 flashbackrecorder.com#@#.elementor-popup-modal
 florespos.net##img[width="728"][height="100"]
 fokusborneo.com##.single-article center > img
@@ -10300,6 +10302,8 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div.css-domd8m:nth-
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com,yummy.co.id##.wrapper-ads
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com,yummy.co.id##[id^="IDN_"]
 fortuneidn.com,ggwp.id,popbela.com,popmama.com##.megabillboard-container
+forum.mobilism.org##.footable-loaded.breakpoint.phone.announcement.table-hover.table-primary.table-white.table.footable
+forum.mobilism.org##.social-top
 ftnews.co.id###ad-mobile
 ftnews.co.id##.wrap_leaderboard
 ftnews.co.id,harianmerahputih.id,rakyatpos.com,tvrinews.com##.ad-banner
@@ -10350,6 +10354,8 @@ ggwp.id###detailSkinAdRight
 gigapurbalingga.cc##.button-container
 gigapurbalingga.net,kuyhaa-me.com,lk21official.cc##center
 girlsgogames.co.id,permainan.co.id##.advert
+github.com##.flex-items-center.flex-justify-between.d-flex.tmp-my-3
+github.com##.rounded-1.border.blankslate-spacious.blankslate
 github.com##[href="https://tuple.app/*"]
 github.com##[href="https://www.subble.com"]
 github.com##[href^="https://www.warp.dev/"]
@@ -11199,6 +11205,7 @@ kompas.com##div:has( > #gpt-passback)
 kompas.com,kompas.tv,sonora.id##.kgnw-middle-ready.kgnw-middle
 kompas.com,kompasiana.com,sonora.id##.osmplaceonsite.ads-partner-wrap
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
+kompas.id##.flex.items-center.justify-center.w-full.relative
 kompas.id##.flex.justify-center.lg\:px-8.my-6
 kompas.id##.items-center.justify-center.flex.relative.w-full.lg\:min-h-\[132px\].min-h-\[92px\]
 kompas.id##.items-stretch.flex-col.flex-1.flex.z-0.relative.w-full
@@ -11213,7 +11220,6 @@ kompas.id##div.relative:has(> .max-w-\[320px\].min-h-\[50px\])
 kompas.id##div.relative:has(> .max-w-\[970px\].min-h-\[90px\])
 kompas.id##div:matches-css(max-width: 320px):matches-css(max-height: 50px)
 kompas.id##div:matches-css(max-width: 728px):matches-css(max-height: 90px)
-kompas.id#.flex.items-center.justify-center.w-full.relative
 kompas.tv###_popIn_recommend_word
 kompas.tv###banner-partner-lestari
 kompas.tv###header-banner-lestari
@@ -12468,6 +12474,7 @@ sumselupdate.com##.textwidget > img
 sundalanews.com##.e3lan
 sundul.com##.\33 .Premium.Sundul
 sundul.com##.\34 .Premium.Sundul
+superprof.co.id##:matches-path(/blog) .post-content .teachers-cta-link
 suporter.co.id##div:has(> script)
 surabayaonline.co##img[width="1300"][height="200"]
 surabayaonline.co##img[width="600"][height="303"]
@@ -12816,6 +12823,7 @@ yasir252.com##.download > .link-btn:has([title*="iklan" i])
 yasir252.com##a#download-link[rel]
 yasir252.com##a.tombol-link[href][target][rel]
 yasir252.com##div.label-link-btn
+yoona.id##:matches-path(/blog) .yoo-check-our-products
 yourdictionary.com##.advertising-container
 youtube-mp3.my###sadl
 youtube-mp3.my###sadr

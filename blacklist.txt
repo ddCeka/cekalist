@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 05 Jul 2026 03:09 UTC (updated regularly)
-! host_count: 9636
+! Last modified: 05 Jul 2026 13:30 UTC (updated regularly)
+! host_count: 9640
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -387,6 +387,7 @@
 0.0.0.0 achaubet.com
 0.0.0.0 acmbet.com
 0.0.0.0 acmbet.net
+0.0.0.0 acquaintjokinglyscoring.com
 0.0.0.0 actionpoker.com
 0.0.0.0 activator-kmspico.net
 0.0.0.0 activators.pro
@@ -3872,6 +3873,7 @@
 0.0.0.0 fansbetting.com
 0.0.0.0 fansbobet.com
 0.0.0.0 fantasishop.com
+0.0.0.0 farflung-permission.com
 0.0.0.0 fast2bet.com
 0.0.0.0 fast2bet.net
 0.0.0.0 fastbet99.biz
@@ -4589,7 +4591,9 @@
 0.0.0.0 httpdns.bilivideo.com
 0.0.0.0 httpool.com
 0.0.0.0 https-filtering-check.adtidy.org
+0.0.0.0 hubapi.my.id
 0.0.0.0 huge-odds.com
+0.0.0.0 hungry-exit.com
 0.0.0.0 huntmad.com
 0.0.0.0 huttelkomsel18.com
 0.0.0.0 huttselreward.com
@@ -9409,11 +9413,11 @@
 0.0.0.0 winx2x.com
 0.0.0.0 wizbet.com
 0.0.0.0 wizcase.com
-0.0.0.0 wk.locatiocorms.com
 0.0.0.0 wlog.ksapisrv.com
 0.0.0.0 wn888.com
 0.0.0.0 wolfrunslot.net
 0.0.0.0 wompanalytics.azurewebsites.net
+0.0.0.0 wonderfulyesterday.com
 0.0.0.0 wongbet.asia
 0.0.0.0 wongpkr.com
 0.0.0.0 wongpkr.net

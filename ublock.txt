@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 05 Jul 2026 13:31 UTC (updated regularly)
+! Last modified: 05 Jul 2026 20:51 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -9982,6 +9982,7 @@ delik.tv,jabarekspres.com,kbeonline.id,kliksatu.com,pasundanekspres.co,radarcire
 delik.tv,jabarekspres.com,kbeonline.id,kliksatu.com,pasundanekspres.co,radarcirebon.id,radarcirebon.tv,radartasik.id,rakcer.id,realitakita.com##.site-sticky-bottom
 delikasia.com,liputan4.com##.widget_block > img
 derapjuang.id,halopaginews.com,humaniora.id,jatengtoday.com,kaltarastories.com,kediritangguh.co,letternews.net,masakini.co,mobilkomersial.com,narasiterkini.com,pilar.id,pojokbatam.id,radarbanten.co.id##.elementor-widget-container > a:has(img)
+designcise.com##.sticky-banner-wrapper
 destinasiwisatamu.blogspot.com###headlineatas
 detak.co.id,infomalangraya.co.id,jakrev.com,kalimantanpost.com,pedulirakyat.co.id,radarcikarang.com,tekape.co##.textwidget > center > a:has(img)
 detakbanten.com##.sunfw_section_content-top
@@ -10138,8 +10139,8 @@ droidlime.com###mvp-site-main:style(margin-top: 0px!important;)
 dropshipaja.com,hostnic.id##:matches-path(/blog) .code-block
 drphone.id,halilintarnews.id,harianmerdeka.id,indimanado.com,komentar.co,orasirakyat.com,pasjabar.com,sbnnews.id,teraskabar.id##.fixed-leftSd
 drphone.id,halilintarnews.id,harianmerdeka.id,indimanado.com,komentar.co,orasirakyat.com,pasjabar.com,sbnnews.id,teraskabar.id##.fixed-rightSd
-dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com##.gmr-floatbanner
-dteksinews.co.id,harianesia.com##.gmr-topbanner
+dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com,rilpolitik.com##.gmr-floatbanner
+dteksinews.co.id,harianesia.com,rilpolitik.com##.gmr-topbanner
 duniagames.co.id,harianjogja.com,netralnews.com##.ads-container
 duniaku.net###banner-popup-desktop
 dutaislam.com##.outer-wrapper:style(margin-top:60px!important;)
@@ -12697,7 +12698,7 @@ tvkabel.net###tutup2
 tvonenews.com###btt
 tvonenews.com##.giant-banner-container
 tvonenews.com##.slotiklan-320x100
-tvonenews.com##.slotiklan-custom-desktop
+tvonenews.com,viva.co.id##.slotiklan-custom-desktop
 tvrijakartanews.com##.fix-ads
 tvrinews.com##.ad-wing
 tvrinews.com##.ad-wing-left.ad-wing
@@ -12753,6 +12754,7 @@ visitor357.sbs
 visitor6657.sbs
 visitor7357.sbs
 visitor87457.sbs
+viva.co.id###oop-home
 viva.co.id###otp_ads
 viva.co.id##.main-content + .section-affiliate
 viva.co.id##.portlet.sideskycrapper
@@ -12837,6 +12839,7 @@ zonabola.com###simplemodal-container
 zonabola.com###simplemodal-overlay
 zonaebt.com##.elementor-widget-container > .uael-gallery-parent
 zonanusantara.com##.desktop-banner
+zonasi.id##.ray-floating-ads-container
 zooba.id##.infeedads
 |whatsapp://send$domain=~whatsapp.com
 ||01repo.pages.dev/$media,redirect=noopmp4-1s
@@ -13871,6 +13874,7 @@ zooba.id##.infeedads
 ||dragonpoker.$image,third-party
 ||dramaday.net/soundtrack.js$script
 ||dreamers.id/img_ads/
+||ds3.aws-ec2.com/static/ads/$image
 ||duapoker.$image,third-party
 ||duapoker.$popup
 ||dufanqq.$image,third-party

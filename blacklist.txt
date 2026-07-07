@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 05 Jul 2026 20:50 UTC (updated regularly)
-! host_count: 9640
+! Last modified: 07 Jul 2026 21:18 UTC (updated regularly)
+! host_count: 9642
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -1859,6 +1859,7 @@
 0.0.0.0 b99.yahoo.co.jp
 0.0.0.0 ba0088.com
 0.0.0.0 bacc1688.com
+0.0.0.0 badnessgimmickposted.com
 0.0.0.0 baijiabo.com
 0.0.0.0 balak9.com
 0.0.0.0 balakqq.com
@@ -4171,6 +4172,7 @@
 0.0.0.0 germanykasino.com
 0.0.0.0 gerwen.info
 0.0.0.0 get-kmspico.com
+0.0.0.0 getandplay.web.id
 0.0.0.0 getinmac.com
 0.0.0.0 getintomac.net
 0.0.0.0 getintopc.cc

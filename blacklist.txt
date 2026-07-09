@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 07 Jul 2026 21:18 UTC (updated regularly)
-! host_count: 9642
+! Last modified: 10 Jul 2026 00:00 UTC (updated regularly)
+! host_count: 9645
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -1675,6 +1675,7 @@
 0.0.0.0 appwall.tv2phone.cn
 0.0.0.0 apsrgeo.amap.com
 0.0.0.0 aptoide-rtb.aptoide.com
+0.0.0.0 aqcaphatjoxv.com
 0.0.0.0 aqi.wd.amberweather.com
 0.0.0.0 aqueduct-collector-prod.alar.my
 0.0.0.0 arbetas.com
@@ -6876,6 +6877,7 @@
 0.0.0.0 paypopup.com
 0.0.0.0 paytobet.com
 0.0.0.0 pboya.net
+0.0.0.0 pbs.inmobi.com
 0.0.0.0 pco-sm-log.tantanapp.com
 0.0.0.0 pcprogs.net
 0.0.0.0 pcprogs.ru
@@ -9289,6 +9291,7 @@
 0.0.0.0 vtewggxzbrcv.bid
 0.0.0.0 vungle.com
 0.0.0.0 vwin.com
+0.0.0.0 w.inmobi.com
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 wagerweb.com
 0.0.0.0 wagerx.com

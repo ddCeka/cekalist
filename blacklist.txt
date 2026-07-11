@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 11 Jul 2026 08:44 UTC (updated regularly)
-! host_count: 9645
+! Last modified: 11 Jul 2026 20:22 UTC (updated regularly)
+! host_count: 9654
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -525,6 +525,7 @@
 0.0.0.0 adreach.co
 0.0.0.0 adrevenue.appsflyer.com
 0.0.0.0 adreviewcamp.com
+0.0.0.0 adroitdeceitcongestion.com
 0.0.0.0 ads-ap-venues.yinzcam.com
 0.0.0.0 ads-api.kidsnote.com
 0.0.0.0 ads-api.twitter.com
@@ -1544,6 +1545,7 @@
 0.0.0.0 ankasatourtravel.com
 0.0.0.0 annas-archive.li
 0.0.0.0 annas-archive.pm
+0.0.0.0 antiadblocksystems.com
 0.0.0.0 antisocialmedicallc.com
 0.0.0.0 anugerahelektronik.com
 0.0.0.0 anugracell.com
@@ -2441,6 +2443,7 @@
 0.0.0.0 bmw333.net
 0.0.0.0 bn0011.com
 0.0.0.0 bnipoker.com
+0.0.0.0 bobsleddomesticglandular.com
 0.0.0.0 bodog.net
 0.0.0.0 bodog88.com
 0.0.0.0 bodog88.info
@@ -2521,6 +2524,7 @@
 0.0.0.0 bolajudisbobet.com
 0.0.0.0 bolajudisbobet.net
 0.0.0.0 bolajudit.com
+0.0.0.0 bolakami-banner-tracker.bolakami.workers.dev
 0.0.0.0 bolaketangkasan.com
 0.0.0.0 bolaketangkasan.net
 0.0.0.0 bolaklik.com
@@ -2707,6 +2711,7 @@
 0.0.0.0 bzd88.com
 0.0.0.0 c-4fambt.com
 0.0.0.0 c-stat.eu
+0.0.0.0 c.adsco.re
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.sayhi.360.cn
 0.0.0.0 c.vrvm.com
@@ -3606,6 +3611,7 @@
 0.0.0.0 dream777.info
 0.0.0.0 dream777.org
 0.0.0.0 drewpickles.com
+0.0.0.0 driverhugoverblown.com
 0.0.0.0 droppingodds.com
 0.0.0.0 ds3222.com
 0.0.0.0 ds3666.com
@@ -6952,6 +6958,7 @@
 0.0.0.0 pk989.com
 0.0.0.0 pkq13.com
 0.0.0.0 pkr88.com
+0.0.0.0 pkygraajhdap.com
 0.0.0.0 planet23.com
 0.0.0.0 planet7casino.com
 0.0.0.0 planetcasino.com
@@ -7344,6 +7351,7 @@
 0.0.0.0 rama-yana.com
 0.0.0.0 ramayanaelektroshop.com
 0.0.0.0 ramuanobatherball.com
+0.0.0.0 rarelypunenhancements.com
 0.0.0.0 ratubetting.com
 0.0.0.0 ratubola.com
 0.0.0.0 ratubola.info
@@ -9266,6 +9274,7 @@
 0.0.0.0 vivacm88.info
 0.0.0.0 vivobetting.com
 0.0.0.0 vivobetting.org
+0.0.0.0 vivodemisrentas.net
 0.0.0.0 vixcasino.com
 0.0.0.0 vk-analytics.ru
 0.0.0.0 vkwaeo.com

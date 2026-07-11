@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 11 Jul 2026 02:41 UTC (updated regularly)
+! Last modified: 11 Jul 2026 08:45 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -8936,7 +8936,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 180.*,chugoku-np.co.jp##.social
 18subindo.com##.request-warning-bubble
 18subindo.com##a[href^="https://tinyurl.com/"]
-18subindo.com,agenbokep.*,bandarbokep.*,bokepindo.*,bokepindo21.*,bokepjilbab.*,bokepvir.*,cctvbokep.*,duniabokep.*,filmnikmat.*,filmnikmattv1.*,gocrot.me,gocrot.org,hencop.com,igo-bokep.*,igobokep.*,javindo.*,javlendirqu.*,javsubindo.*,kesiangan.com,lendirpedia.*,malayporntube.net,minioppai.org,myhdjav.me,ngentub.cc,ngocoks.com,nokephub.*,nontonbokep.*,nontonhentai.net,nontonhentai.org,pascol.*,pojokan69.com,rumahperjaka.*,seponghub.*,sibokepjepang.*##a[target*="blank"]:has(> img)
+18subindo.com,agenbokep.*,bandarbokep.*,bokepindo.*,bokepindo21.*,bokepjilbab.*,bokepvir.*,cctvbokep.*,duniabokep.*,filmnikmat.*,filmnikmattv1.*,gocrot.me,gocrot.org,igo-bokep.*,igobokep.*,javindo.*,javlendirqu.*,javsubindo.*,kesiangan.com,lendirpedia.*,malayporntube.net,minioppai.org,myhdjav.me,ngentub.cc,ngocoks.com,nokephub.*,nontonbokep.*,nontonhentai.net,nontonhentai.org,pascol.*,pojokan69.com,rumahperjaka.*,seponghub.*,sibokepjepang.*##a[target*="blank"]:has(> img)
 193.142.147.230,5.253.86.213,ainzscans.net,jenismac.com##+js(noeval-if, /chp_?ad/)
 198.105.112.102###fb-fanbox
 198.105.112.22###fb-fanbox
@@ -9159,7 +9159,7 @@ ads.id##img[alt="admaven"]
 afederasi.com,harianbangsa.net,harianrakyat.id,infobaik.id,inilahkoran.id,jalurdua.com,lambeturah.co.id,lampunggo.com,marjinal.id,monologis.id,nusadaily.com,portal-islam.com,rmolpapua.id,teraslampung.com,westjavatoday.com##[class*="bn-"]
 agen_bola_online.gif|$image
 agenbokep.*##.popbox
-agenbokep.*,b0k3hviral3.blogspot.com,bandarbokep.*,bokepindo.*,bokepindo69.*,doooood.co,duniabokep.*,hencop.com,indobokepin.*,javindo.*,javsubindo.*,malayporntube.net,minioppai.org,muantap2.blogspot.com,myhdjav.me,ngentub.cc,nontonbokep.*,sibokepjepang.*##+js(nowoif)
+agenbokep.*,b0k3hviral3.blogspot.com,bandarbokep.*,bokepindo.*,bokepindo69.*,doooood.co,duniabokep.*,indobokepin.*,javindo.*,javsubindo.*,muantap2.blogspot.com,myhdjav.me,nontonbokep.*,sibokepjepang.*##+js(nowoif)
 agenbokep.*,bandarbokep.*,ceritanakal.com,duniabokep.*,indobokepin.*,javsubindo.*,nontonbokep.*,pascol.*##a:has(> img[src$=".gif"])
 agenbola.gif|$image
 agenqq.gif|$image
@@ -10276,7 +10276,7 @@ film-ganool.com##.random
 filmapik21.*###le_header_ads
 filmjepang.it.com,filmjepangku.net,filmjepangku.online,hencop.lol,heppinn.id,javsubid.com,javsubindo.site,klipjepang.shop,komik18.*,komikdewasa.*,komikremaja.*,lendirpedia.*,mangasusuku.com,manhwaindo.*,manhwaland.mom,manhwalist.com,pascol.*,pascol.com,sintube.icu,skandalpedia.*,starjepang.*##.kln
 filmjepangku.com,filmjepangku.net,heppinn.id,javsubid.*,javsubindo.*,nontonhentai.net,pascol.*,starjepang.one##.kln
-filmjepangku.com,hencop.com,javsubindo.*,lendirpedia.*,minioppai.org,pascol.*,pemersatu.link,starjepang.one##body > div[id^="teaser"]
+filmjepangku.com,javsubindo.*,lendirpedia.*,minioppai.org,pascol.*,pemersatu.link,starjepang.one##body > div[id^="teaser"]
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
 filmnikmat.*##img[alt*="iklan"]
@@ -10554,8 +10554,8 @@ hellosehat.com##.article-mobile-ad
 heloindonesia.com##.img-banner
 hencop.com###teaser7
 hencop.com,hencop.lol,heppinn.id,indodb21.com,nontonhentai.net###floatcenter
-hencop.com,heppinn.id,minioppai.org,nontonhentai.net,nontonhentai.org###floatcenter
 hencop.lol,komikcast02.com###teaser4
+heppinn.id,minioppai.org,nontonhentai.net,nontonhentai.org###floatcenter
 heraldmakassar.com##.wpb_wrapper > .td-fix-index a[target="_blank"]:has(> img)
 herstory.co.id,klubpria.com##div:matches-css(text-align: center):has(> [id^="div-gpt-ad"])
 herworld.co.id##div.ads-belt
@@ -11083,6 +11083,7 @@ katasiber.id##.widget > figure > video:remove()
 katasulsel.com##.adsbox
 katuju.id##.article-partner
 katuju.id##.read-ads
+kayatan.vip###floatingBanner
 kazefuri.id,otakupoi.org###fAP_fkAdPop
 kazefuri.id,otakupoi.org##html, body:style(overflow: auto!important; position: unset!important;)
 kazefuri.net##.blox
@@ -11709,6 +11710,7 @@ minanews.net##img[height="2560"][width="683"]
 minanews.net,teropongmedia.id##.elementor-popup-modal
 minanews.net,teropongmedia.id##body:style(overflow: auto!important; position: unset!important;)
 minioppai.org###overplay
+minioppai.org##div:matches-css(position: fixed):has(> .kln)
 mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##.bebaskan
 mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##.kln
 mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##img[alt*="banner" i]

@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 11 Jul 2026 20:22 UTC (updated regularly)
-! host_count: 9654
+! Last modified: 12 Jul 2026 16:33 UTC (updated regularly)
+! host_count: 9660
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -223,6 +223,7 @@
 0.0.0.0 6a0e2d19ac28.com
 0.0.0.0 6bets10.com
 0.0.0.0 6c37f8a12dede103bf7.com
+0.0.0.0 6d30803f5f.com
 0.0.0.0 7000bet.com
 0.0.0.0 722cc.com
 0.0.0.0 72678.com
@@ -2761,6 +2762,7 @@
 0.0.0.0 capjikiapsp.com
 0.0.0.0 capjikiasemar.com
 0.0.0.0 capjikiasemar.net
+0.0.0.0 capndr.com
 0.0.0.0 capqq.com
 0.0.0.0 capsa-susun.net
 0.0.0.0 captains-casino.com
@@ -5008,6 +5010,7 @@
 0.0.0.0 jackpotpalace.com
 0.0.0.0 jackpotparty.com
 0.0.0.0 jackpotred.com
+0.0.0.0 jads.co
 0.0.0.0 jadwalbolachampion.org
 0.0.0.0 jadwalligaindonesia.org
 0.0.0.0 jadwalligaitalia.com
@@ -7199,6 +7202,7 @@
 0.0.0.0 prod.report.nacustomerexperience.citi.com
 0.0.0.0 profiler-collector.dalyfeds.com
 0.0.0.0 profiler-collector.wshareit.com
+0.0.0.0 profitablecpmratenetwork.com
 0.0.0.0 projecta-common-1258344701.file.myqcloud.com
 0.0.0.0 prolapseman.com
 0.0.0.0 promo-images.ttpsdk.info
@@ -8645,6 +8649,7 @@
 0.0.0.0 thelivedealer.com
 0.0.0.0 thelotter.com
 0.0.0.0 themacuser.org
+0.0.0.0 theme-sphere.com
 0.0.0.0 themobiletracker.com
 0.0.0.0 thepalacegroup.com
 0.0.0.0 thepiratebay.party
@@ -8676,6 +8681,7 @@
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 thinkbingo.com
 0.0.0.0 thistledown.com
+0.0.0.0 thoroughgear.com
 0.0.0.0 thupox.com
 0.0.0.0 ti9bet.com
 0.0.0.0 tianji98.com

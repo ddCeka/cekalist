@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 12 Jul 2026 16:33 UTC (updated regularly)
-! host_count: 9660
+! Last modified: 12 Jul 2026 17:48 UTC (updated regularly)
+! host_count: 9667
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -353,6 +353,7 @@
 0.0.0.0 9nagatangkas.info
 0.0.0.0 9nagatangkas.org
 0.0.0.0 9tip.com
+0.0.0.0 a-ads.com
 0.0.0.0 a.appbaqend.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.line.me
@@ -2451,6 +2452,7 @@
 0.0.0.0 bodog88.net
 0.0.0.0 bodog888.com
 0.0.0.0 boi.netai.net
+0.0.0.0 bojo.rajatravel.online
 0.0.0.0 bojue06.com
 0.0.0.0 bojue09.com
 0.0.0.0 bola-judi.com
@@ -3105,6 +3107,7 @@
 0.0.0.0 channelbola.org
 0.0.0.0 chartboost.com
 0.0.0.0 chartboosts.com
+0.0.0.0 chaseherbalpasty.com
 0.0.0.0 chavoads.com
 0.0.0.0 check4d.com
 0.0.0.0 cheng99.com
@@ -5313,6 +5316,7 @@
 0.0.0.0 juditogelonlineindonesia.com
 0.0.0.0 juditogelterpercaya.com
 0.0.0.0 juegaocho.com
+0.0.0.0 juicyads.com
 0.0.0.0 jumbo8.com
 0.0.0.0 jumbo8.net
 0.0.0.0 junecleeland.com
@@ -8044,6 +8048,7 @@
 0.0.0.0 spartanslots.com
 0.0.0.0 spbobet1.com
 0.0.0.0 specialagentbola.com
+0.0.0.0 speedcount.co
 0.0.0.0 speedline-inc.com
 0.0.0.0 speee-ad.akamaized.net
 0.0.0.0 spider-tracker.xiaohongshu.com
@@ -9326,6 +9331,7 @@
 0.0.0.0 wbl6677.com
 0.0.0.0 wbl8899.com
 0.0.0.0 wbx.com
+0.0.0.0 wcikamgamzc.com
 0.0.0.0 wcp.taobao.com
 0.0.0.0 wdig.vo.llnwd.net
 0.0.0.0 weather-analytics-events.apple.com
@@ -9651,6 +9657,7 @@
 0.0.0.0 zonabets.com
 0.0.0.0 zonaglobalshop.com
 0.0.0.0 zonajitu.com
+0.0.0.0 zonaportal.org
 0.0.0.0 zonaprediksi.me
 0.0.0.0 zonatangkas.com
 0.0.0.0 zonawin.com

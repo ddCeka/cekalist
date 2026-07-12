@@ -1,6 +1,6 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 12 Jul 2026 16:34 UTC (updated regularly)
+! Last modified: 12 Jul 2026 17:49 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
 
 ###Ad300B
@@ -9215,7 +9215,7 @@ anichin.*,animekhor.org,animekompi.*,animexin.top,cosmicscans.*,kuronime.*,oplov
 anichin.blog,anichin.co,anichin.watch,hidoristream.online,kazefuri.cloud,komiksin.net,mangaindo.*,nekokun.my.id,soulscans.my.id###floatcenter
 anichin.co,anichin.name,anichin.watch,animekhor.org,animekompi.sbs,animexin.dev,hidoristream.online,isekaisubs.web.id,kazefuri.cloud,otakudesu.blog###overplay
 anichin.dev##[href="https://cek.to/anc-dwc"]
-anichin.top,animekompi.vip,bokepindo69.*,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,sukasex.net,sukasex.tv,westmanga.*##+js(nowoif)
+anichin.top,animekompi.vip,bokepindo69.*,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kimcilonly.site,kingbokep.*,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,sukasex.net,sukasex.tv,tantecentil.fans,westmanga.*##+js(nowoif)
 anichin.watch,ikiru.wtf,layarkaca21ok.site,mangatale.co,movieku.*,tooncubus.top##a:has(> img[src$=".gif"])
 animasu.cc##.lmd-iklan
 animasu.cc,animexin.xyz,ganool.nl,ganool.ph,kiryuu.org,komikcast.*,lmanime.com,luciferdonghua.in,mangaindo.me,mangakita.id,mangakita.net,oploverz.*,realmscans.com###teaser3
@@ -9278,10 +9278,11 @@ artisbokep.*##.top-banner
 artisbokep.*,artisbokep.online,artisbokep.site##.ab-top-video-banners
 artisbokep.*,artisbokep.online,artisbokep.site##.banner-slide
 artisbokep.*,artisbokep.online,artisbokep.site##.top-banner
+artisbokep.*,artisbokep.site,republikbokep.*,xbokepin.*###popupBannerOverlay
+artisbokep.*,republikbokep.*,sebokep.vip,xbokepin.*##a[target*="blank"]:has(> img)
 artisbokep.*,republikbokep.*,xbokepin.*###floating-banner-wrap
 artisbokep.*,republikbokep.*,xbokepin.*##a[target*="blank"]:has(> img)
 artisbokep.site###floating-banner-inner
-artisbokep.site###popupBannerOverlay
 artisbokep.site###top-floating-banner-inner
 artstation.com##.s-icons
 asajabar.com,atjehterkini.id,kepripedia.com,matrasnews.com,patrolihukum.net###sidebar-header
@@ -9623,6 +9624,7 @@ bogordaily.net,vcgamers.com##.insert_ads
 bogornetwork.com##img[width="700"][height="243"]
 bogornetwork.com##img[width="730"][height="91"]
 bokep.pemersatu.top,pemersatufun.*###myDiv
+bokep360.*##a[href*="gamdom"]
 bokep360.*##a[title="banner" i]:has(> img)
 bokepcrot.*,bokepcrot69.*,bokepkita.*,bokepsex.*,inibokep.*,kamarbokep.*,kebokepanku.*,ruangbokep.*,ruangbokep99.*,sibokep.*##+js(nowoif)
 bokepcrot.*,bokepcrot69.*,bokepkita.*,bokepsex.*,inibokep.*,kamarbokep.*,kebokepanku.*,ruangbokep.*,ruangbokep99.*,sibokep.*##.btm_ban
@@ -10226,7 +10228,9 @@ expossumbar.com,topsumbar.co.id##.toppanel-banner-stickyright
 expossumbar.com,topsumbar.co.id##.toppanel-topbanner
 f95zone.to##.block--category34.block--category.block
 f95zone.to##.is-active.offCanvasMenu-subList > li:nth-of-type(13)
+f95zone.to##.js-filterInput.input
 f95zone.to##.js-notices.notices--block.notices
+f95zone.to##.js-offCanvasNavSource.p-nav-list > li:nth-of-type(2)
 f95zone.to##.node--link.node--depth2.node--id127.node
 f95zone.to##.node--link.node--depth2.node--id129.node
 f95zone.to##.node--link.node--depth2.node--id136.node
@@ -10237,9 +10241,12 @@ f95zone.to##.offCanvasMenu-list > li:nth-of-type(6)
 f95zone.to##.offCanvasMenu-list > li:nth-of-type(7)
 f95zone.to##.p-footer
 f95zone.to##.p-navgroup--member.p-account.p-navgroup
+f95zone.to##.p-navgroup-link.uix_sidebarTrigger__component.uix_sidebarCanvasTrigger
 f95zone.to##.uix_fabBar
 f95zone.to##.uix_fabBar--active.uix_fabBar
 f95zone.to##.uix_tabBar
+f95zone.to##a.button.button--link:nth-of-type(1)
+f95zone.to##a.button.button--link:nth-of-type(3)
 fajar.co.id###WipeAd-Place
 fajar.co.id###WipeAd-Place2
 fajar.co.id###banner_slider_place2
@@ -11133,6 +11140,7 @@ kingbokep.*###floating-bottom
 kingbokep.*###floating-bottom, #float-bot
 kingbokep.*###floating-top
 kingbokep.*###floating-top, #float-top
+kingbokep.*##+js(acis, checkAdsStatus)
 kingbokep.*##[data-dgazzbdbfcbzagfz]
 kingbokep.*##[style^="height:"]:has(> img)
 kingbokep.*##img[src*=".gif"]:not(div[class*="video"] > img)
@@ -12333,7 +12341,6 @@ seblang.com##.widget .flexslider
 sebokep.com##+js(aopr, SGPB_POPUP_PARAMS)
 sebokep.com##a[target*="blank"]:has(> img)
 sebokep.com,sebokep.vip##.sg-popup-builder-content
-sebokep.vip##a[target*="blank"]:has(> img)
 sekato.id##img[width="1200"][height="200"]
 sekedus.com##.ad-custom
 sekedus.com##body > .main-container > div:matches-css(position: fixed):has-text(/adblock/i)
@@ -12570,6 +12577,7 @@ tangerangnews.co.id##.parallxads
 tangerangnews.com##.banner-right
 tangselmedia.com##.widget-area a[target="_blank"][rel*="noreferrer"]:has(> img)
 tantecentil.fans##.popup-overlay
+tantecentil.fans##div[style*="z-index: 999999"]
 tass.com##.social__button
 techinasia.com##.gam-ads-banner
 techkhulasha.com###main-widget
@@ -12890,6 +12898,7 @@ wowkeren.com##article div:matches-css(display: inline-block):has(> script)
 wowkeren.com##div[style*="width:300px;min-height:250px"]
 wtools.io###adsright_vertical
 xbokepin.*###popupBannerOverlay
+xbokepin.*##.rbdb-overlay
 xl.co.id##.sc-concent
 xxiku.com##.auto-banner:remove()
 y5lgg2zbn2.com
@@ -13021,6 +13030,7 @@ zooba.id##.infeedads
 ||99poker.$image,third-party
 ||9bet.$image,third-party
 ||9eb10b7a3d04a.com^$popup,third-party
+||a-ads.com^$third-party
 ||abgqq.$image,third-party
 ||abgqq.$popup
 ||abgqq88.$image,third-party
@@ -13592,6 +13602,7 @@ zooba.id##.infeedads
 ||bogorchannel.id^*/iklan-$image
 ||bogordaily.net^*-banner-$image
 ||bogordaily.net^*/banner-$image
+||bojo.rajatravel.online^$third-party
 ||bokep.work/*.gif
 ||bola168.$image,third-party
 ||bola168.$popup
@@ -13750,6 +13761,7 @@ zooba.id##.infeedads
 ||cfs1.uzone.id^$third-party
 ||cfs2.uzone.id^$third-party
 ||champspoker.$image,third-party
+||chaseherbalpasty.com^$third-party
 ||chatnews.id/banner-$image
 ||chilipoker.com^$third-party
 ||cimbbet.$image,third-party
@@ -14700,6 +14712,7 @@ zooba.id##.infeedads
 ||juditogel.$image,third-party
 ||juditogelaman.$image,third-party
 ||juditogelonline.$image,third-party
+||juicyads.com^$third-party
 ||juragan21.*/wp-content/uploads/*.gif$image
 ||jurnalbengkulu.com^*/banner_
 ||jurnalbengkulu.com^*/promo_
@@ -16094,6 +16107,7 @@ zooba.id##.infeedads
 ||sotoqq90.$image,third-party
 ||spbobet1.$image,third-party
 ||spbobet1.$popup
+||speedcount.co^$third-party
 ||spiritsumbar.com^*/iklan-$image
 ||sponsor-qq.$image,third-party
 ||sponsorqq.$image,third-party
@@ -16606,6 +16620,7 @@ zooba.id##.infeedads
 ||warunguang.$image,third-party
 ||waspada.id^*/iklan-$image
 ||wawasanriau.com/assets/banner/
+||wcikamgamzc.com^$third-party
 ||web-taruhan-bola.$image,third-party
 ||webiklan.com^$third-party
 ||webjudibola.$image,third-party
@@ -16693,6 +16708,7 @@ zooba.id##.infeedads
 ||ziobet.$image,third-party
 ||zonaebt.com^*/900-%C3%97-110-$image
 ||zonaebt.com^*/banner-$image
+||zonaportal.org^$third-party
 ||zonaprediksi.$image,third-party
 ||zonaprediksi.$popup
 ||zonasatunews.com^*/iklan-

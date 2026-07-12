@@ -4,7 +4,6 @@ dead.txt
 filter.txt
 log
 temp
-update
-update2
+update.txt
+update2.txt
 *.patch
-*.list

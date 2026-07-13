@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 12 Jul 2026 17:48 UTC (updated regularly)
-! host_count: 9667
+! Last modified: 13 Jul 2026 22:50 UTC (updated regularly)
+! host_count: 9669
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -8848,6 +8848,7 @@
 0.0.0.0 tokorajaelektronika.com
 0.0.0.0 tokosuntik.com
 0.0.0.0 tokosuntik.net
+0.0.0.0 tokoviral.online
 0.0.0.0 tokyopoolstoday.com
 0.0.0.0 tokyopoolstoday.net
 0.0.0.0 tolonglah.pages.dev
@@ -9670,4 +9671,5 @@
 0.0.0.0 zxphiz.tech
 0.0.0.0 zzhengre.com
 0.0.0.0 zzun88.com
+0.0.0.0 zzuolmapj.com
 0.0.0.0 zzwin168.com

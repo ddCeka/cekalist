@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 13 Jul 2026 22:50 UTC (updated regularly)
-! host_count: 9669
+! Last modified: 14 Jul 2026 07:31 UTC (updated regularly)
+! host_count: 9681
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -1686,6 +1686,7 @@
 0.0.0.0 arbetas.info
 0.0.0.0 arbetas.org
 0.0.0.0 arbetas2.com
+0.0.0.0 archivehub.com.ng
 0.0.0.0 arcspire.io
 0.0.0.0 ardhy-prediction.com
 0.0.0.0 area-bola.com
@@ -3442,6 +3443,7 @@
 0.0.0.0 deapi.sooplive.com
 0.0.0.0 dearerfonder.info
 0.0.0.0 debojuagug1sf.cloudfront.net
+0.0.0.0 decafeligiblyhad.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 dekisoft.com
 0.0.0.0 delapantgl.com
@@ -4051,6 +4053,7 @@
 0.0.0.0 ftuapps.io
 0.0.0.0 ftuapps.me
 0.0.0.0 fuck.org
+0.0.0.0 fudfzudwoa.com
 0.0.0.0 fugupoker.com
 0.0.0.0 fullbet88.com
 0.0.0.0 fun688.com
@@ -4921,6 +4924,7 @@
 0.0.0.0 inner-active.mobi
 0.0.0.0 innovads-server.poster.appsinnova.com
 0.0.0.0 innovid.com
+0.0.0.0 inshorturl.com
 0.0.0.0 inside-bet.com
 0.0.0.0 insidethroat.com
 0.0.0.0 insight.ucweb.com
@@ -6447,6 +6451,7 @@
 0.0.0.0 nodepositcasinobonuses.net
 0.0.0.0 nodepositcasinos247.com
 0.0.0.0 nodepositonlinecasino.org
+0.0.0.0 noemisnakier.com
 0.0.0.0 nomorjitu.net
 0.0.0.0 nomorkeluar.com
 0.0.0.0 noobscript.com
@@ -6562,6 +6567,7 @@
 0.0.0.0 officials-kmspico.com
 0.0.0.0 offsidebet.com
 0.0.0.0 offtrackbetting.com
+0.0.0.0 offwardscraps.com
 0.0.0.0 oficial-kmspico.com
 0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 ohiocasinos.net
@@ -7441,6 +7447,7 @@
 0.0.0.0 rezkyelektrostore.com
 0.0.0.0 rezpector11.mywapblog.com
 0.0.0.0 rf1616.com
+0.0.0.0 rfesgftfefdesrfewsterwtfgewtfe.store
 0.0.0.0 rfgodfdf.bid
 0.0.0.0 rgo88.com
 0.0.0.0 rgobet.com
@@ -7573,6 +7580,7 @@
 0.0.0.0 sadeempc.com
 0.0.0.0 sadobeanalytics.geico.com
 0.0.0.0 safariscratch.com
+0.0.0.0 safelinkearn.com
 0.0.0.0 sahabatarena.com
 0.0.0.0 sahabatarena.org
 0.0.0.0 sahabatbola.com
@@ -9088,6 +9096,7 @@
 0.0.0.0 tyc9588.com
 0.0.0.0 tycollectproxy.tiyalive.com
 0.0.0.0 typersi.com
+0.0.0.0 tzetzessmoking.com
 0.0.0.0 u-ad.info
 0.0.0.0 u-on.eu
 0.0.0.0 u16822.com
@@ -9290,6 +9299,7 @@
 0.0.0.0 vixcasino.com
 0.0.0.0 vk-analytics.ru
 0.0.0.0 vkwaeo.com
+0.0.0.0 vm.ydstinkle.com
 0.0.0.0 vm5apis.com
 0.0.0.0 vmap.v.ad-generation.jp
 0.0.0.0 vn002.com
@@ -9313,6 +9323,7 @@
 0.0.0.0 vungle.com
 0.0.0.0 vwin.com
 0.0.0.0 w.inmobi.com
+0.0.0.0 w3.t5tm8zptlf6o8lc.cfd
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 wagerweb.com
 0.0.0.0 wagerx.com
@@ -9377,6 +9388,7 @@
 0.0.0.0 wespoker.com
 0.0.0.0 west.bidtellect.com
 0.0.0.0 wheelingisland.com
+0.0.0.0 whelmlegge.com
 0.0.0.0 wheretobet.com
 0.0.0.0 wheretogambleonline.info
 0.0.0.0 whipcrack.org

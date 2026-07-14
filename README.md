@@ -1,25 +1,25 @@
 <div align="center">
-  <h1>Hosts file curated for Personal use</h1> 
+  <h1>Hosts file curated for Personal use</h1>
 </div>
 
 <div align="justify">
 Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, but feel free to use if you want to.
 </div>
 &nbsp;
-<div align="center"> 
-  <a href="https://github.com/ddCeka/CekaList" > 
+<div align="center">
+  <a href="https://github.com/ddCeka/CekaList" >
     <img src="https://img.shields.io/github/repo-size/ddCeka/CekaList?label=Repo%20Size&color=black" alt="repo size" >
   <a/>
-  <a href="https://github.com/ddCeka/CekaList/commits/master" > 
-    <img src="https://img.shields.io/badge/Updated%20Hosts-14/Jul/2026-lightblue" >
+  <a href="https://github.com/ddCeka/CekaList/commits/master" >
+    <img src="https://img.shields.io/badge/Updated%20Hosts-15/Jul/2026-lightblue" >
   <a/>
-  <a href="https://github.com/ddCeka/CekaList/commits/master" > 
+  <a href="https://github.com/ddCeka/CekaList/commits/master" >
     <img src="https://img.shields.io/github/last-commit/ddCeka/CekaList?label=Last%20Commit" alt="last commit" >
   <a/>
-  <a href="https://github.com/ddCeka/CekaList/commits/master" > 
+  <a href="https://github.com/ddCeka/CekaList/commits/master" >
     <img src="https://img.shields.io/badge/Maintained-yes-blue" >
   <a/>
-  <a href="https://github.com/ddCeka/CekaList/blob/master/LICENSE" > 
+  <a href="https://github.com/ddCeka/CekaList/blob/master/LICENSE" >
     <img src="https://img.shields.io/github/license/ddCeka/CekaList?label=License&color=green" alt="license" >
   <a/>
 </div>
@@ -126,13 +126,13 @@ Custom DNS untuk Android 9.0+ [Non-Root] contoh dari cara di atas
 ```
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                    Version 2, August 2024
- 
+
 Copyright (C) 2024 ddCeka
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document, and changing it is allowed as long
 as the name is changed.
- 
+
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 

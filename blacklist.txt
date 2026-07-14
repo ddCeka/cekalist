@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
-! Last modified: 14 Jul 2026 07:31 UTC (updated regularly)
-! host_count: 9681
+! Last modified: 15 Jul 2026 02:26 UTC (updated regularly)
+! host_count: 9682
 ! Homepage: https://github.com/ddCeka/CekaList
 
 0.0.0.0 0016.com
@@ -6416,6 +6416,7 @@
 0.0.0.0 newjerseylotteryresults.org
 0.0.0.0 newmexicocasinos.net
 0.0.0.0 newmexicolotteryresults.org
+0.0.0.0 newrevive.detik.com
 0.0.0.0 news-app-events.apple.com
 0.0.0.0 news-cdn.site
 0.0.0.0 news-events.apple.com

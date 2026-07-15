@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
-! Last modified: 15 Jul 2026 02:27 UTC (updated regularly)
 ! Homepage: https://github.com/ddCeka/CekaList
+! Last modified: 15 Jul 2026 20:41 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -198,6 +198,8 @@
 ###close-floatadsq
 ###close-iklanbawah
 ###contents > yt-share-target-renderer:nth-of-type(1n+2)
+###credential_picker_container
+###credential_picker_iframe
 ###ctoolbar
 ###d_ads
 ###desaiklan
@@ -640,6 +642,8 @@
 ##.ads-atas
 ##.ads-atas-player
 ##.ads-banner-container
+##.ads-banner-wrapper
+##.ads-banner-wrapper-1
 ##.ads-bawah
 ##.ads-bawah-player
 ##.ads-below-single
@@ -647,6 +651,7 @@
 ##.ads-billboard
 ##.ads-bock-1
 ##.ads-bottom-fixed
+##.ads-bottom-wrapper
 ##.ads-chapter-0
 ##.ads-fixed
 ##.ads-fixed-bottom
@@ -10277,6 +10282,7 @@ fakta.com##.fkt-home-ads-right-1-container
 faktabali.com##.ktzsingle-bannerright
 faktadata.id##img[width="1080"][height="428"]
 faktualnews.co###wideskyscraper
+fandom.com##.AgeGateDialog-module_modal__huX7o
 fantasiku.com,igobokep.*##+js(noeval-if, /fairAdblock|chp_?adblock|adsbygoogle\.js/)
 farah.id##.banner_wrap
 fastdrama.co###myModal
@@ -10288,6 +10294,7 @@ fctv33.*,fctv33hd.*,fctv77.*,rbsports77.*,rbsports77hd.*,rbtv77.*##:matches-path
 fctv33.*,fctv33hd.*,fctv77.*,rbsports77.*,rbsports77hd.*,rbtv77.*##:matches-path(/id) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
 fctv33.*,fctv33hd.*,fctv77.*,rbsports77.*,rbsports77hd.*,rbtv77.*##:matches-path(/id) iframe + div:matches-css(position: absolute):has(> img)
 femaledaily.com##.btn_ads_close_top_frame
+femaledaily.com##.top-banner
 femina.co.id##.img-ads
 femina.co.id##a[href^="https://femina.co.id/cmsact_banner"]:has(img)
 femina.co.id,greeners.co##.side-banner
@@ -10425,6 +10432,7 @@ gonews.id,insitekaltim.com##img[width="1024"][height="173"]
 goodnewsfromindonesia.id##.ad-popup-overlay
 goodnewsfromindonesia.id##.article-photos-ads
 goodnewsfromindonesia.id##[data-cptid*=".id_728x90"]
+google.com###slim_appbar > div
 gooto.com###zone_3
 gooto.com##.bannerfulltop.bannerfull
 gooto.com##.fix-bottom
@@ -13055,6 +13063,7 @@ zooba.id##.infeedads
 ||abgqqnew.$image,third-party
 ||aboutsemarang.id^*/iklan-$image
 ||accesstrade.co.id^$third-party
+||accounts.google.com/gsi/iframe/select$subdocument
 ||acehekspres.com/files/sewaan/
 ||acehportal.com^*/banners/
 ||acehstandar.com/files/sewaan/$image
@@ -13082,6 +13091,7 @@ zooba.id##.infeedads
 ||adpop-1.com^$third-party
 ||adreach.co^$third-party
 ||adroitdeceitcongestion.com^$third-party
+||ads.brave.com^$third-party
 ||ads.d21.media^$third-party
 ||ads.gmbr.pro^
 ||ads.indosatooredoo.com^$third-party
@@ -13247,6 +13257,7 @@ zooba.id##.infeedads
 ||amanahummat.com^*/banner-$image
 ||amanatrakyat.com^*/banner/
 ||amanqq.$image,third-party
+||amazonaws.com/assets.femaledaily.com/web-assets/ads/
 ||amdbet.$image,third-party
 ||amdbet88.$image,third-party
 ||amdbet88.$popup

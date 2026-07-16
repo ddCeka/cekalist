@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 15 Jul 2026 20:41 (updated regularly)
+! Last modified: 16 Jul 2026 15:07 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -422,7 +422,6 @@
 0.0.0.0 ad-splash-tracking.hktvmall.com
 0.0.0.0 ad-splash.hktvmall.com
 0.0.0.0 ad-x.co.uk
-0.0.0.0 ad.admitad.com
 0.0.0.0 ad.apps.fm
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.bestools.group
@@ -439,7 +438,6 @@
 0.0.0.0 ad.leadboltapps.net
 0.0.0.0 ad.leap.app
 0.0.0.0 ad.line-scdn.net
-0.0.0.0 ad.mail.ru
 0.0.0.0 ad.mediamixer.co.kr
 0.0.0.0 ad.mobiuspace.net
 0.0.0.0 ad.mojisead.co.kr
@@ -527,7 +525,6 @@
 0.0.0.0 adonly.com
 0.0.0.0 adpies.com
 0.0.0.0 adplatform.vrtcal.com
-0.0.0.0 adplex.co.kr
 0.0.0.0 adplus.co.id
 0.0.0.0 adpop-1.com
 0.0.0.0 adpopcorn.com
@@ -632,7 +629,6 @@
 0.0.0.0 adslop.com
 0.0.0.0 adslot.uc.cn
 0.0.0.0 adsmo.ru
-0.0.0.0 adsmobila.com
 0.0.0.0 adsmogo.mobi
 0.0.0.0 adsmogo.net
 0.0.0.0 adsmoloco.com
@@ -647,7 +643,6 @@
 0.0.0.0 adstrategy.biz.weibo.com
 0.0.0.0 adsunflower.com
 0.0.0.0 adtech.de
-0.0.0.0 adtheorent.com
 0.0.0.0 adtilt.com
 0.0.0.0 adtima-static.zadn.vn
 0.0.0.0 adtimaserver.vn
@@ -1416,6 +1411,7 @@
 0.0.0.0 ak8999.com
 0.0.0.0 aki-gb-sdklog.kurogames.net
 0.0.0.0 aksescepatjp.com
+0.0.0.0 akseskaiko.cam
 0.0.0.0 aksespolaslot.click
 0.0.0.0 aktivator-windows.net
 0.0.0.0 akucintabola.com
@@ -1433,7 +1429,6 @@
 0.0.0.0 alfisbeautyshop.com
 0.0.0.0 ali-ad.a.yximgs.com
 0.0.0.0 ali-stats.jpush.cn
-0.0.0.0 alicdn.com
 0.0.0.0 alifelektroshop.com
 0.0.0.0 all-casino-bonuses.com
 0.0.0.0 allbingoclub.com
@@ -1510,7 +1505,6 @@
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 analytics.enjoymobiserver.com
 0.0.0.0 analytics.ff.avast.com
-0.0.0.0 analytics.google.com
 0.0.0.0 analytics.hardlightgames.com
 0.0.0.0 analytics.jodelapis.com
 0.0.0.0 analytics.kaltura.com
@@ -1761,7 +1755,6 @@
 0.0.0.0 aruna-fone.com
 0.0.0.0 arxondas.com
 0.0.0.0 as.adfonic.net
-0.0.0.0 as.uncn.jp
 0.0.0.0 asalqq.com
 0.0.0.0 asanalytics.booking.com
 0.0.0.0 aseafterschool.org
@@ -2103,8 +2096,6 @@
 0.0.0.0 bca99.com
 0.0.0.0 bcadomino.com
 0.0.0.0 bcfads.com
-0.0.0.0 bd1.guancha.cn
-0.0.0.0 bd2.guancha.cn
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bdbola.com
@@ -2148,6 +2139,7 @@
 0.0.0.0 benteng777.2024.mom
 0.0.0.0 bepolite.eu
 0.0.0.0 berangkasilmu.com
+0.0.0.0 bergurukecina.fun
 0.0.0.0 berita3jambi.com
 0.0.0.0 beritaagenbola.com
 0.0.0.0 beritaagenbola.net
@@ -2481,7 +2473,6 @@
 0.0.0.0 blg008.com
 0.0.0.0 blindbetpoker.com
 0.0.0.0 blink.fra-01.braze.eu
-0.0.0.0 blog-sokuhou.com
 0.0.0.0 blogabet.com
 0.0.0.0 blogads.com
 0.0.0.0 blogjudi.com
@@ -2733,7 +2724,6 @@
 0.0.0.0 britbets.com
 0.0.0.0 britscasino.com
 0.0.0.0 brokeragentbola.com
-0.0.0.0 brokerbabe.com
 0.0.0.0 brucebetting.com
 0.0.0.0 bs.nakanohito.jp
 0.0.0.0 bstgms4y.com
@@ -3144,6 +3134,7 @@
 0.0.0.0 cdn.synctv.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 cdnasiaclub.com
+0.0.0.0 cdnfgo.xyz
 0.0.0.0 cdns.lodeo.io
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 cdpoker.com
@@ -3408,6 +3399,7 @@
 0.0.0.0 culturachina.net
 0.0.0.0 cupidamp4.pages.dev
 0.0.0.0 cupidwin.live
+0.0.0.0 cutlink.now
 0.0.0.0 cwei88.com
 0.0.0.0 cws-hulu.conviva.com
 0.0.0.0 cx6188.com
@@ -3422,8 +3414,6 @@
 0.0.0.0 cyberscat.com
 0.0.0.0 cytochemistryrecitativewrasse.com
 0.0.0.0 czbet88.com
-0.0.0.0 czechcash.com
-0.0.0.0 d-load.org
 0.0.0.0 d.applvn.com
 0.0.0.0 d.kugou.com
 0.0.0.0 d.reddit.com
@@ -3692,6 +3682,7 @@
 0.0.0.0 donotwatch.org
 0.0.0.0 dontwatch.us
 0.0.0.0 doolallys.com
+0.0.0.0 dooods.pro
 0.0.0.0 dorabet.net
 0.0.0.0 doremi-toto.com
 0.0.0.0 doremibet.com
@@ -3738,6 +3729,7 @@
 0.0.0.0 dt.beyla.site
 0.0.0.0 dtcollect.newsbang.com
 0.0.0.0 dts-log.anker.com
+0.0.0.0 dtscout.com
 0.0.0.0 dualstack-cgicol.amap.com
 0.0.0.0 dualstack-collection.rong-edge.com
 0.0.0.0 dualstack-logs.amap.com
@@ -3996,6 +3988,7 @@
 0.0.0.0 evt.mxplay.com
 0.0.0.0 ewalletcasinobonus.com
 0.0.0.0 ewetot.com
+0.0.0.0 ex-ample.org,from=ex-ample.com
 0.0.0.0 exaberkicau.online
 0.0.0.0 exbet66.com
 0.0.0.0 excelcropcare.com
@@ -4012,7 +4005,6 @@
 0.0.0.0 extraonlineshoping.com
 0.0.0.0 extremeanalgaping.com
 0.0.0.0 ezcrack.info
-0.0.0.0 eze99.me
 0.0.0.0 eze99.net
 0.0.0.0 ezebet.biz
 0.0.0.0 ezebet.org
@@ -4413,6 +4405,7 @@
 0.0.0.0 goebro.com
 0.0.0.0 gofishcasino.com
 0.0.0.0 goi08150kh.com
+0.0.0.0 goid.space
 0.0.0.0 gokillshiojitu.com
 0.0.0.0 golbet.com
 0.0.0.0 gold-game.net
@@ -4455,6 +4448,7 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 goonlinepoker.info
 0.0.0.0 gopiyopiyo.com
+0.0.0.0 goratu.site
 0.0.0.0 gordonsonblueberryhill.com
 0.0.0.0 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 0.0.0.0 gossipbingo.com
@@ -4821,7 +4815,6 @@
 0.0.0.0 hz-telemetry.adobe.io
 0.0.0.0 i-loadzone.com
 0.0.0.0 i-mahjong.com
-0.0.0.0 i-mobile.co.jp
 0.0.0.0 i-vengo.com
 0.0.0.0 i.isnssdk.com
 0.0.0.0 i.mxplayer.j2inter.com
@@ -5113,7 +5106,7 @@
 0.0.0.0 inginlihat.com
 0.0.0.0 inibos.com
 0.0.0.0 inipoker.com
-0.0.0.0 initogel.net
+0.0.0.0 injd.site
 0.0.0.0 inmense.site
 0.0.0.0 inmobi.cn
 0.0.0.0 inmobi.net
@@ -5177,7 +5170,6 @@
 0.0.0.0 ip.xindong.com
 0.0.0.0 iphonebetting.net
 0.0.0.0 ipoker.com
-0.0.0.0 iqzone.com
 0.0.0.0 ir-sdk.guardease.com
 0.0.0.0 irajaya-elektronik.com
 0.0.0.0 isin4d.com
@@ -5343,7 +5335,6 @@
 0.0.0.0 jsj1000.com
 0.0.0.0 jslottery.com
 0.0.0.0 jspotcomedyclub.com
-0.0.0.0 jssdk.rayjump.com
 0.0.0.0 jtogel.com
 0.0.0.0 jual-blackberry-murah.com
 0.0.0.0 jualalatbantu.com
@@ -5587,6 +5578,7 @@
 0.0.0.0 kedaibola.com
 0.0.0.0 kedaibola.org
 0.0.0.0 kedaijudi.com
+0.0.0.0 kegz.site
 0.0.0.0 keirforag.com
 0.0.0.0 kejutan-telkomselpoin.com
 0.0.0.0 kekoldi.org
@@ -5604,7 +5596,6 @@
 0.0.0.0 ketuapkr.com
 0.0.0.0 ketuapkr.net
 0.0.0.0 ketuapoker.net
-0.0.0.0 keydot.net
 0.0.0.0 kg4d.com
 0.0.0.0 kg899.com
 0.0.0.0 kickass-official.blue
@@ -5612,7 +5603,6 @@
 0.0.0.0 kidempo.xtgem.com
 0.0.0.0 kids-in-sandbox.com
 0.0.0.0 kidsinsandbox.info
-0.0.0.0 kiesta.net
 0.0.0.0 kik.com
 0.0.0.0 kilat77sultan.com
 0.0.0.0 killerijo.net
@@ -5641,7 +5631,6 @@
 0.0.0.0 klik-sbobet.com
 0.0.0.0 klik101.com
 0.0.0.0 klik4d.com
-0.0.0.0 klik66.co
 0.0.0.0 klikabadi.com
 0.0.0.0 klikabadi.net
 0.0.0.0 klikajadeh.com
@@ -5740,7 +5729,6 @@
 0.0.0.0 kunirtangkas.com
 0.0.0.0 kunirtangkas.net
 0.0.0.0 kunstverein.us
-0.0.0.0 kusuriyasan.org
 0.0.0.0 kvaedit.site
 0.0.0.0 kvcasino.com
 0.0.0.0 kw0xlh4wig.com
@@ -6079,7 +6067,6 @@
 0.0.0.0 lynbet.net
 0.0.0.0 lynbet.org
 0.0.0.0 m.vpadn.com
-0.0.0.0 m.yap.yahoo.com
 0.0.0.0 m0022.com
 0.0.0.0 m0033.com
 0.0.0.0 m2mbet2.com
@@ -6114,7 +6101,6 @@
 0.0.0.0 m99.com
 0.0.0.0 m99d.com
 0.0.0.0 m9d.com
-0.0.0.0 ma-code.ru
 0.0.0.0 mab-mob2.websearchapp.com
 0.0.0.0 mabesqq.net
 0.0.0.0 mabok88cd.com
@@ -6325,6 +6311,7 @@
 0.0.0.0 maxwin138ln.vercel.app
 0.0.0.0 maxxpicks.com
 0.0.0.0 mayaonlinesoping.com
+0.0.0.0 mayzaent.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mblapi.ssl2.duapps.com
 0.0.0.0 mbn.com.ua
@@ -6391,6 +6378,7 @@
 0.0.0.0 mencetlagi.com
 0.0.0.0 mendhomeclinic.com
 0.0.0.0 mensleatherjacketsonsale.com
+0.0.0.0 menujupenta.site
 0.0.0.0 meratuselectronica.com
 0.0.0.0 mercurypolicy.org
 0.0.0.0 merdekabet.com
@@ -6499,7 +6487,6 @@
 0.0.0.0 mobile-production.content-square.net
 0.0.0.0 mobileadvertiser.yanosik.pl
 0.0.0.0 mobileapptracking.com
-0.0.0.0 mobilebanner.ru
 0.0.0.0 mobilecasinoparty.com
 0.0.0.0 mobileconfig.sascdn.com
 0.0.0.0 mobilecore.com
@@ -6667,7 +6654,6 @@
 0.0.0.0 naloindo.net
 0.0.0.0 nanda-shop.com
 0.0.0.0 nanigans.com
-0.0.0.0 nanime.biz
 0.0.0.0 narutobet.com
 0.0.0.0 nasimobi.com
 0.0.0.0 native-log-collect.gryphline.com
@@ -6735,6 +6721,7 @@
 0.0.0.0 newyorklotteryresults.org
 0.0.0.0 nexac.com
 0.0.0.0 nextacdn.top
+0.0.0.0 nf.diamberproetid.com
 0.0.0.0 nf799.com
 0.0.0.0 nfl-sports-betting.net
 0.0.0.0 nflsportsbetting.org
@@ -7043,7 +7030,6 @@
 0.0.0.0 openlog.tapapis.com
 0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 opera.com
-0.0.0.0 oppabet.com
 0.0.0.0 oppatoto.com
 0.0.0.0 opt8.co
 0.0.0.0 optimalgambling.com
@@ -7051,6 +7037,7 @@
 0.0.0.0 opuspoker.com
 0.0.0.0 oralse.ca
 0.0.0.0 oralse.cx
+0.0.0.0 orangarab.fun
 0.0.0.0 oranjecasino.com
 0.0.0.0 oregonlotteryresults.org
 0.0.0.0 orfej.com
@@ -7064,7 +7051,6 @@
 0.0.0.0 other.appcpi.net
 0.0.0.0 otodaftar.com
 0.0.0.0 ourbetting.com
-0.0.0.0 outbrainimg.com
 0.0.0.0 ov2ochu.bid
 0.0.0.0 overseauspider.yuanshen.com
 0.0.0.0 ovo99h.top
@@ -7090,12 +7076,10 @@
 0.0.0.0 pafidamsrol77.com
 0.0.0.0 pafiempatlawangkab.org
 0.0.0.0 paganza.biz
-0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pages.dev
 0.0.0.0 paidforfree.com
 0.0.0.0 painolympics.info
 0.0.0.0 painolympics.org
-0.0.0.0 painsko.com
 0.0.0.0 pakarobatkuat.com
 0.0.0.0 pakong999.com
 0.0.0.0 paktotoangkasa.com
@@ -7133,7 +7117,6 @@
 0.0.0.0 parfutoria.com
 0.0.0.0 parrot-flow.com
 0.0.0.0 partaitogel.org
-0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partnerearning.com
 0.0.0.0 partybets.com
 0.0.0.0 partybingo.com
@@ -7246,7 +7229,6 @@
 0.0.0.0 pemaintogel.info
 0.0.0.0 pemaintogel.us
 0.0.0.0 pemburu.pages.dev
-0.0.0.0 pencetpoker.gir
 0.0.0.0 pendekarqq.net
 0.0.0.0 pendo-data-prod.box.com
 0.0.0.0 penggilabola.com
@@ -7356,7 +7338,6 @@
 0.0.0.0 plentyjackpots.com
 0.0.0.0 ploy.batmobi.net
 0.0.0.0 pls.prd.mz.internal.unity3d.com
-0.0.0.0 plugin.mediavoice.com
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 pn.ybp.yahoo.com
 0.0.0.0 pob-mob2.websearchbrowser.com
@@ -7468,10 +7449,7 @@
 0.0.0.0 porno-cameroun.com
 0.0.0.0 pornorc.com
 0.0.0.0 portable4pc.com
-0.0.0.0 pos.baidu.com
 0.0.0.0 post-log.pushwoosh.com
-0.0.0.0 postitial.com
-0.0.0.0 postut.cn
 0.0.0.0 povertystudies.org
 0.0.0.0 powerlinks.com
 0.0.0.0 ppin-d.ppin
@@ -7734,6 +7712,7 @@
 0.0.0.0 ramayanaelektroshop.com
 0.0.0.0 ramsites.net
 0.0.0.0 ramuanobatherball.com
+0.0.0.0 ransplay-io.com
 0.0.0.0 rarelypunenhancements.com
 0.0.0.0 ratubetting.com
 0.0.0.0 ratubola.com
@@ -7769,6 +7748,7 @@
 0.0.0.0 reefclubcasino.com
 0.0.0.0 referral-secrets.com
 0.0.0.0 refferal-profit.com
+0.0.0.0 refpa3665.com
 0.0.0.0 regi.di.atlas.samsung.com
 0.0.0.0 register.appsflyer.com
 0.0.0.0 registerjudibola.com
@@ -8057,6 +8037,7 @@
 0.0.0.0 sbobet.biz
 0.0.0.0 sbobet.cn.com
 0.0.0.0 sbobet.com
+0.0.0.0 sbobet.host
 0.0.0.0 sbobet.net
 0.0.0.0 sbobet.org
 0.0.0.0 sbobet008.com
@@ -8217,6 +8198,7 @@
 0.0.0.0 servebom.com
 0.0.0.0 servedby.o2.co.uk
 0.0.0.0 serveraddr.service.kugou.com
+0.0.0.0 serverx16.online
 0.0.0.0 service-ad-image-ga.prd.pluto.tv
 0.0.0.0 service-api.flarelane.com
 0.0.0.0 sessionm.com
@@ -8528,7 +8510,6 @@
 0.0.0.0 star88bet.net
 0.0.0.0 star88bola.com
 0.0.0.0 star88win.com
-0.0.0.0 star88win.net
 0.0.0.0 star996.com
 0.0.0.0 starbet77.com
 0.0.0.0 starbet99.com
@@ -8696,6 +8677,7 @@
 0.0.0.0 suryaiklan.com
 0.0.0.0 sushicapitol.com
 0.0.0.0 sutralove.com
+0.0.0.0 sv.sleeklyyallaer.com
 0.0.0.0 svcbmf2024.com
 0.0.0.0 sweepstakesmachines.com
 0.0.0.0 sweet-boy.com
@@ -8732,12 +8714,12 @@
 0.0.0.0 talog-eu.rebxgame.com
 0.0.0.0 tamacityshop.com
 0.0.0.0 tamanqq.com
+0.0.0.0 tambakbet.vip
 0.0.0.0 tampabaydowns.com
 0.0.0.0 tangandewamerah.store
 0.0.0.0 tangkas-777.com
 0.0.0.0 tangkas.biz
 0.0.0.0 tangkas.com
-0.0.0.0 tangkas.gold
 0.0.0.0 tangkas.net
 0.0.0.0 tangkas1001.com
 0.0.0.0 tangkas1001.net
@@ -8775,7 +8757,6 @@
 0.0.0.0 tappx.com
 0.0.0.0 tapsell.ir
 0.0.0.0 tapsense.com
-0.0.0.0 tapstat.ru
 0.0.0.0 tapulsads.ru
 0.0.0.0 targetbet.com
 0.0.0.0 targetspot.com
@@ -9191,7 +9172,6 @@
 0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
 0.0.0.0 tnc16-useast1a.isnssdk.com
 0.0.0.0 tnc3-alisc1.bytedance.com
-0.0.0.0 tnkfactory.com
 0.0.0.0 tns.simba.taobao.com
 0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 tobapplog.tobsnssdk.com
@@ -9303,7 +9283,6 @@
 0.0.0.0 tokyopoolstoday.net
 0.0.0.0 tolonglah.pages.dev
 0.0.0.0 tonefuse.com
-0.0.0.0 tongqing2015.com
 0.0.0.0 tonybet.com
 0.0.0.0 toogel.org
 0.0.0.0 top1visa.com
@@ -9365,7 +9344,6 @@
 0.0.0.0 tp2p.kg.qq.com
 0.0.0.0 tpb.party
 0.0.0.0 tpbid.com
-0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpcasino.com
 0.0.0.0 tr.acobt.tech
 0.0.0.0 tr.gunosy.com
@@ -9384,7 +9362,6 @@
 0.0.0.0 track.applicaster.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.aptitudemedia.co
-0.0.0.0 track.cpatool.net
 0.0.0.0 track.extra.app
 0.0.0.0 track.hily.com
 0.0.0.0 track.hk01.com
@@ -9496,7 +9473,6 @@
 0.0.0.0 trycasinogamesfree.com
 0.0.0.0 trytobet.org
 0.0.0.0 ts.line-apps.com
-0.0.0.0 ts166.net
 0.0.0.0 tsel-777.tk
 0.0.0.0 tsel-poin777.com
 0.0.0.0 tt1155.com
@@ -9504,7 +9480,6 @@
 0.0.0.0 tt3355.com
 0.0.0.0 tt3838.com
 0.0.0.0 tt5577.com
-0.0.0.0 ttgambar.xyz
 0.0.0.0 ttj1.com
 0.0.0.0 ttj2.com
 0.0.0.0 ttjsd.com
@@ -9571,6 +9546,7 @@
 0.0.0.0 ucads.ucweb.com
 0.0.0.0 ucus.ucweb.com
 0.0.0.0 ue.flipboard.com
+0.0.0.0 ufo777link.com
 0.0.0.0 ufz.doesxyz.com
 0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 ug8deluxe.com
@@ -9603,7 +9579,6 @@
 0.0.0.0 ulti700-yuk.pages.dev
 0.0.0.0 ulti700slot.com
 0.0.0.0 ulti700x.store
-0.0.0.0 ultima7.fun
 0.0.0.0 ultimatepoker.com
 0.0.0.0 ultraadserver.com
 0.0.0.0 umbel.com
@@ -9737,7 +9712,6 @@
 0.0.0.0 videoplus.vo.llnwd.net
 0.0.0.0 videopoker.com
 0.0.0.0 videoslots.com
-0.0.0.0 vidout.net
 0.0.0.0 vietnamelciligi.com
 0.0.0.0 viewyachts.com
 0.0.0.0 vik-analytics.moonactive.net
@@ -9875,6 +9849,7 @@
 0.0.0.0 wespoker.com
 0.0.0.0 west.bidtellect.com
 0.0.0.0 weweidechranz2.pages.dev
+0.0.0.0 wg87vip.bet
 0.0.0.0 wheelingisland.com
 0.0.0.0 whelmlegge.com
 0.0.0.0 wheretobet.com
@@ -9885,7 +9860,6 @@
 0.0.0.0 whitepaper.theprimes.io
 0.0.0.0 whiterosebingo.com
 0.0.0.0 widespace.com
-0.0.0.0 widgets.outbrain.com
 0.0.0.0 wifi4games.com
 0.0.0.0 wifi4games.net
 0.0.0.0 wigobet.com
@@ -9974,7 +9948,6 @@
 0.0.0.0 wscbet.com
 0.0.0.0 wslog-global-dual.coolccloud.com
 0.0.0.0 wsmetrics.batch.com
-0.0.0.0 wsmwidget.mediaprimalabs.com
 0.0.0.0 wsn.com
 0.0.0.0 wsop.com
 0.0.0.0 wtraff.com
@@ -10107,7 +10080,7 @@
 0.0.0.0 ysbjaya88.com
 0.0.0.0 yt003.com
 0.0.0.0 yt7777.com
-0.0.0.0 yuhuads.com
+0.0.0.0 yu.befitkersey.com
 0.0.0.0 yuki138.com
 0.0.0.0 yukiasset.com
 0.0.0.0 yulecheng888.com

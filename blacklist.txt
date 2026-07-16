@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 16 Jul 2026 15:07 (updated regularly)
+! Last modified: 16 Jul 2026 22:07 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -363,6 +363,8 @@
 0.0.0.0 a.appbaqend.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.line.me
+0.0.0.0 a.magsrv.com
+0.0.0.0 a.pemsrv.com
 0.0.0.0 a78.com
 0.0.0.0 a805.com
 0.0.0.0 a9388.com
@@ -6236,6 +6238,7 @@
 0.0.0.0 marylandlotteryresults.org
 0.0.0.0 mas4d.it.com
 0.0.0.0 mas4dio.com
+0.0.0.0 mascarapersonality.com
 0.0.0.0 massachusettscasinos.com
 0.0.0.0 massachusettslotteryresults.org
 0.0.0.0 massgrav.shop

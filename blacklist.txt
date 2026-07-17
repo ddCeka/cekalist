@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 16 Jul 2026 22:07 (updated regularly)
+! Last modified: 17 Jul 2026 15:07 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -3400,7 +3400,6 @@
 0.0.0.0 cuginospizzas.com
 0.0.0.0 culturachina.net
 0.0.0.0 cupidamp4.pages.dev
-0.0.0.0 cupidwin.live
 0.0.0.0 cutlink.now
 0.0.0.0 cwei88.com
 0.0.0.0 cws-hulu.conviva.com
@@ -6361,7 +6360,6 @@
 0.0.0.0 megaelektroshop.com
 0.0.0.0 megasindo.com
 0.0.0.0 megasloto-ampbaru.com
-0.0.0.0 megasloto-asli.top
 0.0.0.0 meinonlinecasino.com
 0.0.0.0 meitustat.com
 0.0.0.0 meja13.net
@@ -8599,7 +8597,6 @@
 0.0.0.0 sts8888.com
 0.0.0.0 sttbet.com
 0.0.0.0 stxm2.com
-0.0.0.0 suara4dgas.com
 0.0.0.0 suaraemas.com
 0.0.0.0 subo168.com
 0.0.0.0 suckdude.com
@@ -8963,7 +8960,6 @@
 0.0.0.0 tc.zxcvbnml.com
 0.0.0.0 tccbanner.com
 0.0.0.0 tdedfootball.com
-0.0.0.0 tdid.m.qq.com
 0.0.0.0 teachscape.vo.llnwd.net
 0.0.0.0 tealand.cmcm.com
 0.0.0.0 teamaretuza.com

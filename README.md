@@ -46,10 +46,10 @@ https://raw.githubusercontent.com/ddCeka/CekaList/master/blacklist.txt
 &nbsp;
 - Filter pelengkap
 ```
-https://raw.githubusercontent.com/ddCeka/CekaList/master/Penambang Koin.txt
+https://raw.githubusercontent.com/ddCeka/CekaList/master/penambang-koin.txt
 ```
 ```
-https://raw.githubusercontent.com/ddCeka/CekaList/master/Pornografi.txt
+https://raw.githubusercontent.com/ddCeka/CekaList/master/pornografi.txt
 ```
 &nbsp;
 - Filter [Ublock Origin](https://github.com/gorhill/uBlock)

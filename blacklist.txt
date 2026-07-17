@@ -1,7 +1,7 @@
 ! Title: CekaList
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 17 Jul 2026 15:07 (updated regularly)
+! Last modified: 17 Jul 2026 22:07 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -1717,6 +1717,7 @@
 0.0.0.0 areabola.co
 0.0.0.0 areabola.com
 0.0.0.0 areabola.net
+0.0.0.0 areaslt.net
 0.0.0.0 areataruhan.com
 0.0.0.0 arena-poncell.com
 0.0.0.0 arena303.com
@@ -2431,6 +2432,7 @@
 0.0.0.0 bintangbola.com
 0.0.0.0 bintangbola.net
 0.0.0.0 bintangcapsa.com
+0.0.0.0 bio.wgauhh.xyz
 0.0.0.0 bionaelektronik.com
 0.0.0.0 biotogel.com
 0.0.0.0 biroduit.com
@@ -2722,6 +2724,7 @@
 0.0.0.0 brandywinephotonics.com
 0.0.0.0 braveglobal.tv
 0.0.0.0 brealtime.com
+0.0.0.0 breedsmuteexams.com
 0.0.0.0 britama86.com
 0.0.0.0 britbets.com
 0.0.0.0 britscasino.com
@@ -3446,6 +3449,7 @@
 0.0.0.0 dafapoker.com
 0.0.0.0 daftar-togel-live.info
 0.0.0.0 daftar-togel.com
+0.0.0.0 daftar.situsngacir.com
 0.0.0.0 daftaragenbola.com
 0.0.0.0 daftaragenbola.org
 0.0.0.0 daftaragenjudi.com
@@ -3503,6 +3507,7 @@
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 data.eu.pendo.io
 0.0.0.0 data.kuiniuca.com
+0.0.0.0 data.masbulo.com
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
@@ -3806,6 +3811,8 @@
 0.0.0.0 dw88.org
 0.0.0.0 dw88gacor.pages.dev
 0.0.0.0 dwabet.asia
+0.0.0.0 dwabt.pro
+0.0.0.0 dwagg.me
 0.0.0.0 dwtjitu.com
 0.0.0.0 dxp.baidu.com
 0.0.0.0 dynamic-report-api.appsflyersdk.com
@@ -3844,6 +3851,7 @@
 0.0.0.0 edomz.com
 0.0.0.0 eelsoup.net
 0.0.0.0 efbet.com
+0.0.0.0 effectivecpmnetwork.com
 0.0.0.0 efwin.com
 0.0.0.0 ekornaga.hexat.com
 0.0.0.0 elang100.com
@@ -4053,6 +4061,7 @@
 0.0.0.0 fiestapoin777.tk
 0.0.0.0 fiis31.com
 0.0.0.0 fiksu.com
+0.0.0.0 file-assist.xuzor.com
 0.0.0.0 filebanner.com
 0.0.0.0 filecr.com
 0.0.0.0 finalbet88.com
@@ -5094,6 +5103,7 @@
 0.0.0.0 infoeuri2012.net
 0.0.0.0 infojudi.net
 0.0.0.0 infolinks.com
+0.0.0.0 infopojokbet.store
 0.0.0.0 inforesmi-telkomselpoin.com
 0.0.0.0 informations-mobile.com
 0.0.0.0 infoterapis.net
@@ -5965,6 +5975,7 @@
 0.0.0.0 logger.growstarry.com
 0.0.0.0 logger.radiatetheworld.com
 0.0.0.0 logging.api.intuit.com
+0.0.0.0 login.ashk7.com
 0.0.0.0 login.norton.com
 0.0.0.0 logindp.com
 0.0.0.0 logink4d.com
@@ -6631,6 +6642,7 @@
 0.0.0.0 mz9.com
 0.0.0.0 n152adserv.com
 0.0.0.0 n1dcasino.com
+0.0.0.0 nag303.xyz
 0.0.0.0 naga-poker.com
 0.0.0.0 naga13.org
 0.0.0.0 naga33premium.site
@@ -7291,6 +7303,7 @@
 0.0.0.0 pj2266.com
 0.0.0.0 pk989.com
 0.0.0.0 pkq13.com
+0.0.0.0 pkr-88.com
 0.0.0.0 pkr88.com
 0.0.0.0 pkygraajhdap.com
 0.0.0.0 planet23.com
@@ -7549,6 +7562,13 @@
 0.0.0.0 promobagus.com
 0.0.0.0 promobetwin188.com
 0.0.0.0 promodewa.com
+0.0.0.0 promosi.bwnn7.com
+0.0.0.0 promosi.ctrr7.com
+0.0.0.0 promosi.hkwn7.com
+0.0.0.0 promosi.mul7.com
+0.0.0.0 promosi.mwn7.com
+0.0.0.0 promosi.snsa7.com
+0.0.0.0 promosi.wfgg7.com
 0.0.0.0 promosi365.com
 0.0.0.0 promoted.sndcdn.com
 0.0.0.0 promoted.soundcloud.com
@@ -7951,6 +7971,7 @@
 0.0.0.0 sahabatselular.com
 0.0.0.0 sahamdomino.net
 0.0.0.0 sajjadali.com
+0.0.0.0 sakti.club
 0.0.0.0 sakuraelektronik.com
 0.0.0.0 salixsostenible.com
 0.0.0.0 saloncs.com
@@ -8419,6 +8440,7 @@
 0.0.0.0 soccerviptips.com
 0.0.0.0 soccerwinningtips.com
 0.0.0.0 socdm.com
+0.0.0.0 socialprooff.com
 0.0.0.0 soft4pc.net
 0.0.0.0 softmany.com
 0.0.0.0 softonic.com
@@ -8677,6 +8699,7 @@
 0.0.0.0 suryaiklan.com
 0.0.0.0 sushicapitol.com
 0.0.0.0 sutralove.com
+0.0.0.0 suvtub.id
 0.0.0.0 sv.sleeklyyallaer.com
 0.0.0.0 svcbmf2024.com
 0.0.0.0 sweepstakesmachines.com
@@ -8747,6 +8770,7 @@
 0.0.0.0 tangkasonline.org
 0.0.0.0 tangkaspoker.com
 0.0.0.0 tangkasq.com
+0.0.0.0 tantegacor88.link
 0.0.0.0 tap-nexus.appspot.com
 0.0.0.0 tapad.com
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
@@ -9754,6 +9778,7 @@
 0.0.0.0 vixcasino.com
 0.0.0.0 vk-analytics.ru
 0.0.0.0 vkwaeo.com
+0.0.0.0 vm.beeteam368.net
 0.0.0.0 vm.ydstinkle.com
 0.0.0.0 vm5apis.com
 0.0.0.0 vmap.v.ad-generation.jp
@@ -9864,6 +9889,7 @@
 0.0.0.0 wigobet.com
 0.0.0.0 wikibola.com
 0.0.0.0 wildjackcasino.com
+0.0.0.0 win25keren.store
 0.0.0.0 win29.com
 0.0.0.0 win456.com
 0.0.0.0 win4d.net

@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 17 Jul 2026 15:07 (updated regularly)
+! Last modified: 17 Jul 2026 22:07 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -3571,6 +3571,7 @@
 ##[href^="http://duniaspa."]
 ##[href^="http://duniavegas88.com/"]
 ##[href^="http://dwabet."]
+##[href^="http://dwabt.pro/"]
 ##[href^="http://dwabt.vip"]
 ##[href^="http://dwatngks."]
 ##[href^="http://dwcash.net"]
@@ -10122,7 +10123,7 @@ dewabioskop21.org##.banner-right
 dewaporn.*##.happy-header > [href] > .loading
 dewaporn.*##.happy-header > a:has(> img)
 dewaporn.*##.happy-sidebar > a:has(> img)
-dewaporn.*,lendirqu.cam,video.pejuanglendir.site##.happy-header
+dewaporn.*,lendirqu.*,video.pejuanglendir.site##.happy-header
 dewaporn.*,video.pejuanglendir.site##.happy-sidebar
 dewatanews.com##.lalulintas
 deweezz.com,naikmotor.com,nusabali.com,pyfahealth.com##a[href*="bit.ly/"]:has(> img)
@@ -11934,8 +11935,8 @@ nobartvgratis.com##.popbox
 nobartvgratis.com##a:has(> img[src$=".gif"])
 nobartvgratis.com##body:style(overflow: auto!important; position: unset!important;)
 nokephub.com##a[href^="https://genec77.space/"]
+nomat.shop,nomat.top##.popup.show
 nomat.site##.show.popup
-nomat.top##.popup.show
 nontonanimeid.*###player_ikln
 nontonanimeid.*##.banner_player
 nontonanimeid.*##.floating_footer
@@ -13351,6 +13352,7 @@ zooba.id##.infeedads
 ||areabet.$image,third-party
 ||areabola.$image,third-party
 ||areabola.$popup
+||areaslt.net^$third-party
 ||areataruhan.com^$third-party
 ||arenacapsa.$image,third-party
 ||arenacash88.$image,third-party
@@ -13639,6 +13641,7 @@ zooba.id##.infeedads
 ||bintangbola.$popup
 ||bintangcapsa.$image,third-party
 ||bintangcapsa.$popup
+||bio.wgauhh.xyz^$third-party
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
 ||biotogel.com^$third-party
@@ -13728,6 +13731,7 @@ zooba.id##.infeedads
 ||boyapoker.$image,third-party
 ||boyaqq.$image,third-party
 ||brand.ad^$third-party
+||breedsmuteexams.com^$third-party
 ||bromopk.$image,third-party
 ||brotogel.$image,third-party
 ||brtnetwork.id/wp-content/uploads/$3p
@@ -13880,6 +13884,7 @@ zooba.id##.infeedads
 ||dadubets.$image,third-party
 ||dadubets.$popup
 ||dafapoker.com^$third-party
+||daftar.situsngacir.com^$third-party
 ||daftaragenjudi.$image,third-party
 ||daftaragentaruhan.$image,third-party
 ||daftarasiapoker77.$image,third-party
@@ -13923,6 +13928,7 @@ zooba.id##.infeedads
 ||danaqq.$image,third-party
 ||dara.co.id^*/iklan-$image
 ||daspoker.com^$third-party
+||data.masbulo.com^$third-party
 ||datukqq.$image,third-party
 ||davidantonny.com^*-banner-$image
 ||dbl.id/img/banners/
@@ -14091,12 +14097,15 @@ zooba.id##.infeedads
 ||dutatv.com^*/banner-$image
 ||dwabet.$image,third-party
 ||dwabet.$popup
+||dwabt.pro^$third-party
+||dwagg.me^$third-party
 ||dwanonton.*/static/banner/*.gif$image
 ||dwoqq.$image,third-party
 ||earneasycash.$image,third-party
 ||earneasycash.$popup
 ||ebsoft.web.id/wp-content/banners/
 ||edomz.com^$third-party
+||effectivecpmnetwork.com^$third-party
 ||ekbisbanten.com^*/iklan-$image
 ||elang-qq.$image,third-party
 ||elang13.$image,third-party
@@ -14165,6 +14174,7 @@ zooba.id##.infeedads
 ||fifadomino.$image,third-party
 ||fifaqq.$image,third-party
 ||figurnews.com^*/banner-
+||file-assist.xuzor.com^$third-party
 ||filebanner.com^$third-party
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
 ||filmdewasa.org/pictures/*.gif
@@ -14553,6 +14563,7 @@ zooba.id##.infeedads
 ||infomiliter.com/wp-content/images/ads/
 ||infonews.id/po-content/assets/img/ad_$image
 ||infopapuaselatan.com^*/banner/
+||infopojokbet.store^$third-party
 ||informasiterpercaya.com^*/iklan-
 ||infosawit.com^*/iklan-$image
 ||infosulawesi.com^*/banner_
@@ -15094,6 +15105,7 @@ zooba.id##.infeedads
 ||lk21static.buzz/iframe/content2.php$frame
 ||lobbyqq.$image,third-party
 ||lobyqq.$image,third-party
+||login.ashk7.com^$third-party
 ||lokeriklan.com^$third-party
 ||lokerjakarta.id^*/banner-$image
 ||lolhello.com^
@@ -15379,6 +15391,7 @@ zooba.id##.infeedads
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
 ||mypic.site/banner/$3p
+||nag303.xyz^$third-party
 ||naga-poker.com^$third-party
 ||nagahoki.$image,third-party
 ||nagahoki.$popup
@@ -15627,6 +15640,7 @@ zooba.id##.infeedads
 ||pirnas.com^*/iklan-
 ||pkq13.$image,third-party
 ||pkq13.$popup
+||pkr-88.com^$third-party
 ||pkrvqq.$image,third-party
 ||pkygraajhdap.com^$third-party
 ||planettoto.com^$third-party
@@ -15781,6 +15795,13 @@ zooba.id##.infeedads
 ||promobagus.com^$third-party
 ||promodewa.$image,third-party
 ||promodewa.$popup
+||promosi.bwnn7.com^$third-party
+||promosi.ctrr7.com^$third-party
+||promosi.hkwn7.com^$third-party
+||promosi.mul7.com^$third-party
+||promosi.mwn7.com^$third-party
+||promosi.snsa7.com^$third-party
+||promosi.wfgg7.com^$third-party
 ||promosi365.$image,third-party
 ||promosi365.$popup
 ||promotioncamp.com^$third-party
@@ -15997,6 +16018,7 @@ zooba.id##.infeedads
 ||sahamdomino.$image,third-party
 ||sahamdomino.$popup
 ||sakongkiu.$image,third-party
+||sakti.club^$third-party
 ||sakuratoto.$image,third-party
 ||salampapua.com^*/adsense/
 ||samsunghoki.$popup
@@ -16207,6 +16229,7 @@ zooba.id##.infeedads
 ||sobatpoker88.$popup
 ||soccerbet.$image,third-party
 ||social-plugins.line.me/widget/share?url=$subdocument
+||socialprooff.com^$third-party
 ||softwareok.com/img/i_like_this.png?$image
 ||sogopoker.$image,third-party
 ||sogopoker.$popup
@@ -16320,6 +16343,7 @@ zooba.id##.infeedads
 ||surya4d.$popup
 ||suryaemas.$image,third-party
 ||suryapos.id^*-banner-$image
+||suvtub.id^$third-party
 ||sv.sleeklyyallaer.com^$third-party
 ||swakarya.com^*/iklan-
 ||swarakaltim.com^*/banner-$image
@@ -16346,6 +16370,7 @@ zooba.id##.infeedads
 ||tangkaspro.$image,third-party
 ||tangkasq.$image,third-party
 ||tangkasq.$popup
+||tantegacor88.link^-party
 ||taruhan-bola-online.$image,third-party
 ||taruhan-bola.$image,third-party
 ||taruhan-online.$image,third-party
@@ -16703,6 +16728,7 @@ zooba.id##.infeedads
 ||vivodemisrentas.net^$third-party
 ||vk.com/js/api/share.js^$3p
 ||vkwaeo.com^$third-party
+||vm.beeteam368.net^$third-party
 ||vm.ydstinkle.com^$third-party
 ||voa-islam.com^*/ads/
 ||vodka728x90.$image,third-party
@@ -16775,6 +16801,7 @@ zooba.id##.infeedads
 ||wikaqq.$image,third-party
 ||wikikomponen.com^*/ads-$image
 ||win11bet.$image,third-party
+||win25keren.store^$third-party
 ||win7poker.$image,third-party
 ||windewa.$image,third-party
 ||window-close.$image,third-party

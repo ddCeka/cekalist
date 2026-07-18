@@ -1,7 +1,7 @@
-! Title: CekaList
+! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 17 Jul 2026 22:07 (updated regularly)
+! Last modified: 18 Jul 2026 06:07 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -2069,6 +2069,7 @@
 0.0.0.0 baron777premium.com
 0.0.0.0 barona.com
 0.0.0.0 baruna88.com
+0.0.0.0 basket70.com
 0.0.0.0 batam-blackmarket.com
 0.0.0.0 batam-marketronik.com
 0.0.0.0 batamcitystoreshop.com
@@ -2212,6 +2213,7 @@
 0.0.0.0 bet-mate.com
 0.0.0.0 bet-portal.net
 0.0.0.0 bet-tipsters.com
+0.0.0.0 bet.hcsrnmeeting.org
 0.0.0.0 bet1128.com
 0.0.0.0 bet16.com
 0.0.0.0 bet2001.com
@@ -4314,6 +4316,7 @@
 0.0.0.0 gdl.i9dhjx.ru
 0.0.0.0 gdn.bigfishgames.com
 0.0.0.0 gdspasticuan1.xyz
+0.0.0.0 gdspialadunia4.xyz
 0.0.0.0 gebyar-telkomsel.com
 0.0.0.0 gebyarbola.company
 0.0.0.0 gebyarbola.org
@@ -4377,6 +4380,7 @@
 0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 gjeyqtunbnap.com
 0.0.0.0 gjtrack.ucweb.com
+0.0.0.0 gkculturelife.com
 0.0.0.0 gladiatorcasino.com
 0.0.0.0 gladiatorslots.com
 0.0.0.0 glance.inmobi.com
@@ -4725,6 +4729,7 @@
 0.0.0.0 hockey-predictions.com
 0.0.0.0 hoki138nova.com
 0.0.0.0 hoki138upper.com
+0.0.0.0 hoki178luv.online
 0.0.0.0 hoki228.com
 0.0.0.0 hoki4d.com
 0.0.0.0 hoki88.com
@@ -6651,6 +6656,7 @@
 0.0.0.0 nagabaru.com
 0.0.0.0 nagaemas.com
 0.0.0.0 nagahoki.com
+0.0.0.0 nagahoki88-resmi.fit
 0.0.0.0 nagamerah.xtgem.com
 0.0.0.0 nagapoker.biz
 0.0.0.0 nagapoker.com
@@ -7089,6 +7095,7 @@
 0.0.0.0 pafidamsrol77.com
 0.0.0.0 pafiempatlawangkab.org
 0.0.0.0 paganza.biz
+0.0.0.0 page-4.rosehavenmanor.com
 0.0.0.0 pages.dev
 0.0.0.0 paidforfree.com
 0.0.0.0 painolympics.info
@@ -8308,6 +8315,7 @@
 0.0.0.0 situs-judionline.net
 0.0.0.0 situs-slot.b-cdn.net
 0.0.0.0 situs-taruhanbola.com
+0.0.0.0 situs.yoshoku-taku.com
 0.0.0.0 situs8888gampangmenang.online
 0.0.0.0 situsagen.com
 0.0.0.0 situsagen.net
@@ -8385,6 +8393,7 @@
 0.0.0.0 skykingscasino.com
 0.0.0.0 slot88-rank1.b-cdn.net
 0.0.0.0 slotastic.com
+0.0.0.0 slotgacor-2.sanremopizza-restaurant.com
 0.0.0.0 slotmadness.com
 0.0.0.0 slotmadnesscampaign.com
 0.0.0.0 slotmagix.com

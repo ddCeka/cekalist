@@ -6,4 +6,7 @@ log
 temp
 update.txt
 update2.txt
+update3.txt
+update4.txt
 *.patch
+*.backup

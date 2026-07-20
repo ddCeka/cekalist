@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 20 Jul 2026 19:07 (updated regularly)
+! Last modified: 21 Jul 2026 01:07 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -236,6 +236,7 @@
 ###floatadsss
 ###floatbannerkanan
 ###floatbannerkiri
+###floating-ads-idlix
 ###floating_ads_bottom_textcss
 ###floating_ads_bottom_textcss2
 ###floating_ads_bottom_textcss_ad
@@ -571,7 +572,6 @@
 ##.ad-300-container
 ##.ad-320-container
 ##.ad-728-container
-##.ad-banner
 ##.ad-bawah
 ##.ad-before
 ##.ad-between-sections
@@ -1216,6 +1216,7 @@
 ##.idblog-footerbanner
 ##.idblog-topbanner
 ##.idblog-topbanner-aftermenu
+##.idlix-ads-container
 ##.idmuvi-afterplayer
 ##.idmuvi-banner-aftercontent
 ##.idmuvi-banner-beforecontent
@@ -2163,6 +2164,11 @@
 ##[href="https://angk.at/qqdewaxbgibola"]
 ##[href="https://angk.at/qqdewaxbolasiar"]
 ##[href="https://argasari.com/sgp-login4"]
+##[href="https://autocst.site/alexavegas"]
+##[href="https://autocst.site/capital303"]
+##[href="https://autocst.site/ilucky88"]
+##[href="https://autocst.site/mildcasino"]
+##[href="https://autocst.site/onebetasia"]
 ##[href="https://bento.me/dewan4dgacor"]
 ##[href="https://bio.site/kaya303_id"]
 ##[href="https://bioly.cc/Balon99"]
@@ -2384,6 +2390,15 @@
 ##[href="https://cli.re/iSport365fbgrup1"]
 ##[href="https://cli.re/isportfbgrup1"]
 ##[href="https://cli.re/kingmanga"]
+##[href="https://clickaja.com/ilucky88"]
+##[href="https://clickaja.com/ilucky88-promosi"]
+##[href="https://clickaja.com/ilucky88-register"]
+##[href="https://clickaja.com/merpatislot88"]
+##[href="https://clickaja.com/merpatislot88-register"]
+##[href="https://clickaja.com/merpatislot88-slot"]
+##[href="https://clickaja.com/onebetasia"]
+##[href="https://clickaja.com/onebetasia-promosi"]
+##[href="https://clickaja.com/onebetasia-slot"]
 ##[href="https://clickurl.link/gala288x"]
 ##[href="https://clickurl.link/menara188x"]
 ##[href="https://clickurl.link/pegasus188x"]
@@ -2719,20 +2734,45 @@
 ##[href="https://linkasd.com/pza99xkazfuri"]
 ##[href="https://linkasd.com/unvgsxNgefil21"]
 ##[href="https://linkbbn.xyz/ksindoxxib"]
+##[href="https://linkid.asia/megatangkas-csn"]
+##[href="https://linkid.asia/megatangkas-promosi"]
+##[href="https://linkid.asia/megatangkas-slots"]
+##[href="https://linkid.asia/nagaikan-csn"]
+##[href="https://linkid.asia/nagaikan-deposit"]
+##[href="https://linkid.asia/nagaikan-slots"]
 ##[href="https://linkjalur.vip/ajaibslot-register"]
+##[href="https://linkjalur.vip/ajaibslots-register"]
+##[href="https://linkjalur.vip/alexavegas-register"]
 ##[href="https://linkjalur.vip/arunabet-register"]
 ##[href="https://linkjalur.vip/asialive88-register"]
 ##[href="https://linkjalur.vip/bolatangkas-register"]
+##[href="https://linkjalur.vip/capital303-register"]
+##[href="https://linkjalur.vip/dewacasino-register"]
+##[href="https://linkjalur.vip/dewatangkas-register"]
 ##[href="https://linkjalur.vip/dewataslot-register"]
 ##[href="https://linkjalur.vip/dewaterbang-register"]
 ##[href="https://linkjalur.vip/eraplay88-register"]
+##[href="https://linkjalur.vip/gaskeunbet-register"]
+##[href="https://linkjalur.vip/igamble247-register"]
 ##[href="https://linkjalur.vip/ilucky88-register"]
+##[href="https://linkjalur.vip/landslot88-register"]
+##[href="https://linkjalur.vip/lemacau-register"]
 ##[href="https://linkjalur.vip/megatangkas-register"]
 ##[href="https://linkjalur.vip/merpatislot88-register"]
+##[href="https://linkjalur.vip/mildcasino-register"]
+##[href="https://linkjalur.vip/nagaikan-register"]
+##[href="https://linkjalur.vip/paiza99-register"]
+##[href="https://linkjalur.vip/shiobet-register"]
 ##[href="https://linkjalur.vip/unogg-register"]
 ##[href="https://linkjalur.vip/unovegas-register"]
 ##[href="https://linkjalur.vip/vegas88-register"]
 ##[href="https://linkmbsw.xyz/indositusxxi"]
+##[href="https://linkmu.my/arunabet-promosi"]
+##[href="https://linkmu.my/arunabet-register"]
+##[href="https://linkmu.my/arunabet-slot"]
+##[href="https://linkmu.my/dewataslot"]
+##[href="https://linkmu.my/dewataslot-register"]
+##[href="https://linkmu.my/dewataslot-slot"]
 ##[href="https://linkol.xyz/sbmmangakita"]
 ##[href="https://linkol.xyz/sbobetmain"]
 ##[href="https://linkr.it/SpinAds2"]
@@ -6224,6 +6264,8 @@
 ##img[alt="Suroso88" i]
 ##img[alt="agb99"]
 ##img[alt="agentoto88" i]
+##img[alt="ajaibslots" i]
+##img[alt="arunabet" i]
 ##img[alt="baik777" i]
 ##img[alt="bandar855" i]
 ##img[alt="bandarxl"]
@@ -6235,6 +6277,7 @@
 ##img[alt="dewagg" i]
 ##img[alt="dewapoker" i]
 ##img[alt="dewascore" i]
+##img[alt="dewatangkas" i]
 ##img[alt="dewataslot" i]
 ##img[alt="dewaterbang" i]
 ##img[alt="dewavegas" i]
@@ -6242,10 +6285,13 @@
 ##img[alt="enakslot" i]
 ##img[alt="eqn388"]
 ##img[alt="hokidewa" i]
+##img[alt="igamble247" i]
+##img[alt="ilucky88" i]
 ##img[alt="instantoto" i]
 ##img[alt="jokerbet888" i]
 ##img[alt="kaikoslot" i]
 ##img[alt="klikhoki" i]
+##img[alt="landslot88" i]
 ##img[alt="mandalatoto" i]
 ##img[alt="merpatislot88" i]
 ##img[alt="pentaslot" i]
@@ -8982,7 +9028,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 100kpj.com##.sticky-bottom
 100kpj.com,tvonenews.com##.sticky-bottom
 103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.*,layardrama21.beauty,layardrama21.club#@#.idmuvi-topbanner-aftermenu
-139.59.14.233,139.59.31.127,139.59.66.207,139.59.68.199,152.42.234.68,154.203.165.93,154.93.81.7,159.65.12.44,159.89.199.235,162.244.95.216,162.244.95.217,165.245.191.13,167.172.93.142,167.99.72.41,178.128.174.243,178.128.61.115,178.128.97.207,178.62.105.101,204.3.203.34,206.189.89.66,45.76.158.111,acsma.org,agast.org,azarug.org,bwua.org,cpcanc.org,desapulosari.id,fbnm.org,jtcwd.com##a[target*="blank"]:has(> img)
+139.59.14.233,139.59.31.127,139.59.66.207,139.59.68.199,152.42.234.68,154.203.165.93,154.93.81.7,159.65.12.44,159.89.199.235,162.244.95.216,162.244.95.217,165.245.191.13,167.172.93.142,167.99.72.41,178.128.174.243,178.128.61.115,178.128.97.207,178.62.105.101,204.3.203.34,206.189.89.66,45.76.158.111,desapulosari.id##a[target*="blank"]:has(> img)
 152.42.201.108,168.144.137.136,212.212.104.25,dhakhira.org,domestikgoddess.com,fatgirlphd.com,fdrag.org,gemaxopen.com,growlingrooster.com,kingofgreece.org,newbeginningcenter.org,pintlabs.com,roadbikeadventure.com,salvemlesvalls.org,schabarumparkfoundation.org,selectiveamnesia.org,sunrisewildlife.org,tradewindsspas.com,triswimcoachonline.com##a[target*="blank"]:has(> img)
 154.203.162.62,154.203.167.46,154.93.72.176,154.93.73.207,154.93.81.153,167.71.210.126,167.99.71.6,207.180.246.102,217.76.53.139,completebeehives.com,conferencebyphone.com,democracyforcalifornia.com,lurvz.com,managingdesire.org##a[target*="blank"]:has(> img)
 167.71.210.126,completebeehives.com##+js(nowoif)
@@ -9265,7 +9311,7 @@ androidapksfree.com##.header-ad-heading
 anibatch.moe,dramaencode.net,gudangmovies21.chat,kazefuri.cloud,kazefuri.id,otakupoi.org,rebahan21.com,sokuja.uk##+js(nowoif)
 anichin.*,animekhor.org,animekompi.*,animexin.top,cosmicscans.*,kuronime.*,oploverz.best,otakudesu.*,samehadaku.*###overplay
 anichin.blog,anichin.co,anichin.watch,hidoristream.online,kazefuri.cloud,komiksin.net,mangaindo.*,nekokun.my.id,soulscans.my.id###floatcenter
-anichin.co,anichin.name,anichin.watch,animekhor.org,animekompi.sbs,animexin.dev,hidoristream.online,isekaisubs.web.id,kazefuri.cloud,otakudesu.blog###overplay
+anichin.co,anichin.name,anichin.watch,animekhor.org,animekompi.sbs,animexin.dev,hidoristream.online,isekaisubs.web.id,kazefuri.cloud,otakudesu.blog,rijunime.it.com###overplay
 anichin.dev##[href="https://cek.to/anc-dwc"]
 anichin.moe,anichin.top,animekompi.vip,bokepindo69.*,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kawanfilm21.co,kimcilonly.site,kingbokep.*,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,simontokx.tv,sukasex.net,sukasex.tv,tantecentil.fans,westmanga.*##+js(nowoif)
 anichin.watch,ikiru.wtf,mangatale.co,movieku.*,nomat.shop,tooncubus.top##a:has(img[src$=".gif"])
@@ -9336,6 +9382,9 @@ artisbokep.*,republikbokep.*,xbokepin.*##a[target*="blank"]:has(> img)
 artisbokep.site###floating-banner-inner
 artisbokep.site###top-floating-banner-inner
 artstation.com##.s-icons
+arunflixy.com,asiasizzle.com,cinexeone.com,csnbiru.blog,csncinema.live,csnplayhd.com,dewataflix.com,flickerlust.com,indoxxihot.com,lk21id.com,markasfilmhot.com,megafimly.com,merpamov.com,movielucky.com,nagavidz.com,zonaplus.space##html, body:style(overflow: auto!important; position: unset!important;)
+arunflixy.com,cinexeone.com,csncinema.live,dewataflix.com,megafimly.com,merpamov.com,movielucky.com,nagavidz.com###popup-overlay
+arunflixy.com,cinexeone.com,csncinema.live,dewataflix.com,megafimly.com,merpamov.com,movielucky.com,nagavidz.com##.ad-stack-container
 asajabar.com,atjehterkini.id,kepripedia.com,matrasnews.com,patrolihukum.net###sidebar-header
 asalunik.com,bokepgemoy.com##+js(nobab)
 asarpua.com##.td-banner-wrap-full
@@ -9344,10 +9393,12 @@ asiaboxdrama.com##.mantine-Modal-root
 asiaboxdrama.com,brainly.co.id,emitennews.com,gamefinity.id,goodnewsfromindonesia.id,infopapuaselatan.com,inst-media.id,jabar-online.com,jagobengkel.com,kabargolkar.com,pilarnewsonline.com,versusbeda.com,wandercom.id##html, body:style(overflow: auto!important; position: unset!important;)
 asiabusinessinfo.com,inilahjambi.com,jurnalberita.id,mediainformasinetwork.com,nttonlinenow.com##.widget > p > img
 asiabusinessinfo.com,mediainformasinetwork.com##.widget > p > a:has(img)
-asiasizzle.com###popup-banner-overlay
-asiasizzle.com##.ad-banner
 asiasizzle.com##div.popup-banner-content
 asiasizzle.com##div.popup-banner-grid
+asiasizzle.com,csnbiru.blog,csnplayhd.com,flickerlust.com,indoxxihot.com,markasfilmhot.com,zonaplus.space###popup-banner-overlay
+asiasizzle.com,csnbiru.blog,csnplayhd.com,flickerlust.com,indoxxihot.com,markasfilmhot.com,zonaplus.space##.ad-banner
+asiasizzle.com,flickerlust.com,indoxxihot.com,markasfilmhot.com###popup-banner-overlay
+asiasizzle.com,flickerlust.com,indoxxihot.com,markasfilmhot.com##.ad-banner
 asibuka.com##.antiadblock
 asiksendiri.shop###content
 asiksendiri.shop###site-container
@@ -11610,6 +11661,8 @@ livesports044.com,tigoals213.com##.banner.flex-center
 lk21.*,lk21official.*,nontondrama.*###nativeAds
 lk21.de,lk21.film,lk21official.cc,lk21official.dev,lk21online.mom,nontondrama.my###nativeAds
 lk21.de,lk21.film,lk21official.cc,lk21official.dev,lk21online.mom,nontondrama.my##a[target*="blank"]:has(> img)
+lk21id.com###popupBottom
+lk21id.com###popupOverlay
 lk21official.*###banner-content
 lk21official.co##a[href][target="_blank"][rel="nofollow"] > img[src$=".gif"]
 lk21official.mom##[id^="btop-"]
@@ -13442,6 +13495,10 @@ zooba.id##.infeedads
 ||asliqq.$image,third-party
 ||asset.kompas.com/data/2025/02/27/sso/js/popup_manager.min.js$script
 ||assetcsn.site/GIF/$3p
+||assetcsn.site/banner-$3p
+||assetcsn.site/banner/$3p
+||assetcsn.site/image/*.gif$3p
+||assetcsn.site/promotion/$3p
 ||assets.pinterest.com/js/pinit
 ||astonbet.$image,third-party
 ||astonbola.$image,third-party
@@ -13846,6 +13903,7 @@ zooba.id##.infeedads
 ||catatanriau.com/assets/banner/
 ||cbnpoker88.$image,third-party
 ||cbnpoker88.$popup
+||cdn.assetcsn.site^$third-party
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.jsdelivr.net/npm/disable-devtool@$3p,script
 ||cdn.kaskus.com/img/skin/*.gif$image
@@ -15118,6 +15176,7 @@ zooba.id##.infeedads
 ||lineperistiwa.com/assets/banner/
 ||linkedin.com/shareArticle$third-party
 ||linkgenerator.xyz$script,third-party
+||linkjalur.vip^$third-party
 ||linksaya.com/images/Sponsor/Iklan_New.gif
 ||linksbobet2016.$image,third-party
 ||linksbobet2016.$popup

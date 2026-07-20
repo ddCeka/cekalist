@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 20 Jul 2026 19:07 (updated regularly)
+! Last modified: 21 Jul 2026 01:07 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -3136,6 +3136,7 @@
 0.0.0.0 cdn-ketchapp.akamaized.net
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 cdn.appnext.com
+0.0.0.0 cdn.assetcsn.site
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 cdn.jampp.com
 0.0.0.0 cdn.korte.ca
@@ -5853,6 +5854,7 @@
 0.0.0.0 linkdewa222.com
 0.0.0.0 linkera.gumlet.io
 0.0.0.0 linkgenerator.xyz
+0.0.0.0 linkjalur.vip
 0.0.0.0 linksbobet2016.com
 0.0.0.0 linktrack.info
 0.0.0.0 lintasniagaelektro.com

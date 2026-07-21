@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 21 Jul 2026 01:07 (updated regularly)
+! Last modified: 22 Jul 2026 01:07 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -3151,6 +3151,7 @@
 0.0.0.0 ced-ns.sascdn.com
 0.0.0.0 cedexis-radar.net
 0.0.0.0 cegels.net
+0.0.0.0 cek.to
 0.0.0.0 cekpoin-hadiahtelkomsel.com
 0.0.0.0 celebpoker.com
 0.0.0.0 celticcasino.com

@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 22 Jul 2026 01:07 (updated regularly)
+! Last modified: 22 Jul 2026 19:07 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -229,7 +229,6 @@
 0.0.0.0 6a0e2d19ac28.com
 0.0.0.0 6bets10.com
 0.0.0.0 6c37f8a12dede103bf7.com
-0.0.0.0 6d30803f5f.com
 0.0.0.0 7000bet.com
 0.0.0.0 722cc.com
 0.0.0.0 72678.com
@@ -359,12 +358,9 @@
 0.0.0.0 9nagatangkas.info
 0.0.0.0 9nagatangkas.org
 0.0.0.0 9tip.com
-0.0.0.0 a-ads.com
 0.0.0.0 a.appbaqend.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.line.me
-0.0.0.0 a.magsrv.com
-0.0.0.0 a.pemsrv.com
 0.0.0.0 a78.com
 0.0.0.0 a805.com
 0.0.0.0 a9388.com
@@ -1569,7 +1565,6 @@
 0.0.0.0 ankasatourtravel.com
 0.0.0.0 annas-archive.li
 0.0.0.0 annas-archive.pm
-0.0.0.0 antiadblocksystems.com
 0.0.0.0 antisocialmedicallc.com
 0.0.0.0 anugerahelektronik.com
 0.0.0.0 anugracell.com
@@ -2507,7 +2502,6 @@
 0.0.0.0 bn0011.com
 0.0.0.0 bnipoker.com
 0.0.0.0 bobatutu.com
-0.0.0.0 bobsleddomesticglandular.com
 0.0.0.0 bodog.net
 0.0.0.0 bodog88.com
 0.0.0.0 bodog88.info
@@ -2783,7 +2777,6 @@
 0.0.0.0 bzd88.com
 0.0.0.0 c-4fambt.com
 0.0.0.0 c-stat.eu
-0.0.0.0 c.adsco.re
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.sayhi.360.cn
 0.0.0.0 c.vrvm.com
@@ -2835,7 +2828,6 @@
 0.0.0.0 capjikiapsp.com
 0.0.0.0 capjikiasemar.com
 0.0.0.0 capjikiasemar.net
-0.0.0.0 capndr.com
 0.0.0.0 capqq.com
 0.0.0.0 capsa-susun.net
 0.0.0.0 captains-casino.com
@@ -3189,7 +3181,6 @@
 0.0.0.0 charleystarphoto.com
 0.0.0.0 chartboost.com
 0.0.0.0 chartboosts.com
-0.0.0.0 chaseherbalpasty.com
 0.0.0.0 chavoads.com
 0.0.0.0 check4d.com
 0.0.0.0 cheng99.com
@@ -3727,7 +3718,6 @@
 0.0.0.0 dream777.info
 0.0.0.0 dream777.org
 0.0.0.0 drewpickles.com
-0.0.0.0 driverhugoverblown.com
 0.0.0.0 droppingodds.com
 0.0.0.0 ds3222.com
 0.0.0.0 ds3666.com
@@ -3740,7 +3730,6 @@
 0.0.0.0 dt.beyla.site
 0.0.0.0 dtcollect.newsbang.com
 0.0.0.0 dts-log.anker.com
-0.0.0.0 dtscout.com
 0.0.0.0 dualstack-cgicol.amap.com
 0.0.0.0 dualstack-collection.rong-edge.com
 0.0.0.0 dualstack-logs.amap.com
@@ -3856,7 +3845,6 @@
 0.0.0.0 edomz.com
 0.0.0.0 eelsoup.net
 0.0.0.0 efbet.com
-0.0.0.0 effectivecpmnetwork.com
 0.0.0.0 efwin.com
 0.0.0.0 ekornaga.hexat.com
 0.0.0.0 elang100.com
@@ -4208,7 +4196,6 @@
 0.0.0.0 ftuapps.io
 0.0.0.0 ftuapps.me
 0.0.0.0 fuck.org
-0.0.0.0 fudfzudwoa.com
 0.0.0.0 fufuslot-pair.bond
 0.0.0.0 fugupoker.com
 0.0.0.0 fullbet88.com
@@ -5230,7 +5217,6 @@
 0.0.0.0 jackpotpalace.com
 0.0.0.0 jackpotparty.com
 0.0.0.0 jackpotred.com
-0.0.0.0 jads.co
 0.0.0.0 jadwalbolachampion.org
 0.0.0.0 jadwalligaindonesia.org
 0.0.0.0 jadwalligaitalia.com
@@ -5648,6 +5634,8 @@
 0.0.0.0 klasemenagenbola.com
 0.0.0.0 klavercasino.com
 0.0.0.0 klik-sbobet.com
+0.0.0.0 klik.best
+0.0.0.0 klik.top
 0.0.0.0 klik101.com
 0.0.0.0 klik4d.com
 0.0.0.0 klikabadi.com
@@ -6257,7 +6245,6 @@
 0.0.0.0 marylandlotteryresults.org
 0.0.0.0 mas4d.it.com
 0.0.0.0 mas4dio.com
-0.0.0.0 mascarapersonality.com
 0.0.0.0 massachusettscasinos.com
 0.0.0.0 massachusettslotteryresults.org
 0.0.0.0 massgrav.shop
@@ -7316,7 +7303,6 @@
 0.0.0.0 pkq13.com
 0.0.0.0 pkr-88.com
 0.0.0.0 pkr88.com
-0.0.0.0 pkygraajhdap.com
 0.0.0.0 planet23.com
 0.0.0.0 planet7casino.com
 0.0.0.0 planetbola88.net
@@ -7563,7 +7549,6 @@
 0.0.0.0 prod.report.nacustomerexperience.citi.com
 0.0.0.0 profiler-collector.dalyfeds.com
 0.0.0.0 profiler-collector.wshareit.com
-0.0.0.0 profitablecpmratenetwork.com
 0.0.0.0 projecta-common-1258344701.file.myqcloud.com
 0.0.0.0 projectkaiser.com
 0.0.0.0 prolapseman.com
@@ -9787,7 +9772,6 @@
 0.0.0.0 vivacm88.info
 0.0.0.0 vivobetting.com
 0.0.0.0 vivobetting.org
-0.0.0.0 vivodemisrentas.net
 0.0.0.0 vixcasino.com
 0.0.0.0 vk-analytics.ru
 0.0.0.0 vkwaeo.com
@@ -9816,7 +9800,6 @@
 0.0.0.0 vungle.com
 0.0.0.0 vwin.com
 0.0.0.0 w.inmobi.com
-0.0.0.0 w3.t5tm8zptlf6o8lc.cfd
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 wagerweb.com
 0.0.0.0 wagerx.com
@@ -9838,7 +9821,6 @@
 0.0.0.0 wbl6677.com
 0.0.0.0 wbl8899.com
 0.0.0.0 wbx.com
-0.0.0.0 wcikamgamzc.com
 0.0.0.0 wcp.taobao.com
 0.0.0.0 wdig.vo.llnwd.net
 0.0.0.0 weather-analytics-events.apple.com

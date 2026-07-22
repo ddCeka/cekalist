@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 22 Jul 2026 01:07 (updated regularly)
+! Last modified: 22 Jul 2026 19:07 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -2345,6 +2345,8 @@
 ##[href="https://cek.to/doujinhoki"]
 ##[href="https://cek.to/gudangap"]
 ##[href="https://cek.to/gudangbp"]
+##[href="https://cek.to/idlix21hoki"]
+##[href="https://cek.to/idlix36"]
 ##[href="https://cek.to/idlixkik1"]
 ##[href="https://cek.to/idlixreffklik"]
 ##[href="https://cek.to/ikiruhoki"]
@@ -3183,6 +3185,7 @@
 ##[href="https://t.ly/ugslotrebahin"]
 ##[href="https://t.ly/xxjjpen"]
 ##[href="https://t.ly/zeon005"]
+##[href="https://t.me/Idlix_21"]
 ##[href="https://t.me/blunder_viral"]
 ##[href="https://t.me/iklandesu"]
 ##[href="https://t.me/mantapwey"]
@@ -9460,7 +9463,7 @@ balikonten.com##.banner-box
 balikonten.com##img[width="728"][height="150"]
 balikpapanupdate.com##img[width="1280"][height="256"]
 balinews.id##.elementor-swiper
-balipolitika.com,berandanusantara.com,beritakota.id,buana.news,buletinnews.com,detiknews.id,indiespot.id,indonewsdaily.com,indopolitika.com,infomase.id,inilahsultra.com,isknews.com,jurnalpatrolinews.co.id,kabarpapua.co.id,kalimantan-news.com,klikpositif.com,klise.news,kontrasaceh.net,lombokboss.com,mediakalbarnews.com,metrobuananews.com,mitraberita.net,narasipublik.net,newsfaktahukumdanham.co.id,nusantara-news.co,papuadalamberita.com,saudagar.news,sekilasmedia.com,seputarpapua.com,sulutexpress.com,sumseltoday.com,tandaseru.com,timikaexpress.id,topbusiness.id,topsumbar.co.id,utamanews.id,wartatoday.com,wartaviral.id##.widget > img
+balipolitika.com,berandanusantara.com,beritakota.id,buana.news,buletinnews.com,detiknews.id,indiespot.id,indonewsdaily.com,indopolitika.com,infomase.id,inilahsultra.com,isknews.com,jurnalpatrolinews.co.id,kabarpapua.co.id,kalimantan-news.com,klikpositif.com,klise.news,kontrasaceh.net,lombokboss.com,mediakalbarnews.com,metrobuananews.com,mitraberita.net,narasipublik.net,newsfaktahukumdanham.co.id,nusantara-news.co,papuadalamberita.com,saudagar.news,sekilasmedia.com,seputarpapua.com,sorotindonesia.com,sulutexpress.com,sumseltoday.com,tandaseru.com,timikaexpress.id,topbusiness.id,topsumbar.co.id,utamanews.id,wartatoday.com,wartaviral.id##.widget > img
 balipost.com,gamebrott.com,jawapos.com##div:matches-css(width: 970px):matches-css(height: 90px)
 balipost.com,humaniora.id,indeksnews.com,lapan6online.com,lintaslampung.com,liputanjatim.com,matrasnews.com,redaksisatu.id,suarapemerintah.id###divFLRALeft
 balipost.com,humaniora.id,indeksnews.com,lapan6online.com,lintaslampung.com,liputanjatim.com,matrasnews.com,redaksisatu.id,suarapemerintah.id###divFLRARight
@@ -11499,7 +11502,6 @@ kumparan.com##button[data-qa-id="close"]
 kumparan.com##div[class*="ModalContent"]
 kumparan.com##div[class*="ModalOverlay"]
 kumparan.com##div[class*="Modalweb__"]
-kumparan.com#?#[data-qa-id="desktop-article-page-below-images"]:has(span:has-text(/ADVERTISEMENT/i))
 kumparan.com#?#[data-qa-id^="desktop-article-page-inline-"]:has(span:has-text(/ADVERTISEMENT/i))
 kuninganmass.com##.zox-side-widget > figure > img
 kuotareguler.com##.entry-content > .code-block
@@ -13083,7 +13085,6 @@ zooba.id##.infeedads
 ||166.62.7.206^$third-party
 ||168liga.$image,third-party
 ||168wbtoto.$image,third-party
-||172.105.216.174^$popup
 ||176.125.243.211/wp-content/uploads/banner/
 ||188affiliates.com^$third-party
 ||188bet.$image,third-party
@@ -13128,7 +13129,6 @@ zooba.id##.infeedads
 ||5starbet.$image,third-party
 ||5starsbet.$image,third-party
 ||64p3am9x95ct.com^$popup,third-party
-||6d30803f5f.com^$third-party
 ||76kbet.$all
 ||77megabet.$image,third-party
 ||7nagabet.$image,third-party
@@ -13162,9 +13162,6 @@ zooba.id##.infeedads
 ||99poker.$image,third-party
 ||9bet.$image,third-party
 ||9eb10b7a3d04a.com^$popup,third-party
-||a-ads.com^$third-party
-||a.magsrv.com^$third-party
-||a.pemsrv.com^$third-party
 ||abgqq.$image,third-party
 ||abgqq.$popup
 ||abgqq88.$image,third-party
@@ -13396,7 +13393,6 @@ zooba.id##.infeedads
 ||anoboy.watch/img/*.gif$image,domain=anoboy.watch
 ||anteroaceh.com/files/sewaan/$image
 ||anterokini.com^*/iklan_
-||antiadblocksystems.com^$third-party
 ||antikqq.$image,third-party
 ||aoecash.$image,third-party
 ||aoecash.$popup
@@ -13750,7 +13746,6 @@ zooba.id##.infeedads
 ||bnipoker.$image,third-party
 ||bnipoker.$popup
 ||bobcbet.$image,third-party
-||bobsleddomesticglandular.com^$third-party
 ||bogorchannel.id^*/iklan-$image
 ||bogordaily.net^*-banner-$image
 ||bogordaily.net^*/banner-$image
@@ -13835,7 +13830,6 @@ zooba.id##.infeedads
 ||burungnews.com^*/banners/
 ||buyu905.$popup
 ||c-stat.eu^$third-party
-||c.adsco.re^$third-party
 ||cacingnaga.$image,third-party
 ||cacingnaga.$popup
 ||cafeskor.$image,third-party
@@ -13852,7 +13846,6 @@ zooba.id##.infeedads
 ||cakrawalanews.co^*/banner-$image
 ||cakrawalanews.co^*/iklan-$image
 ||cantikqq.$image,third-party
-||capndr.com^$third-party
 ||capqq.$image,third-party
 ||capqq.$popup
 ||capsa-susun.$image,third-party
@@ -13919,7 +13912,6 @@ zooba.id##.infeedads
 ||cfs1.uzone.id^$third-party
 ||cfs2.uzone.id^$third-party
 ||champspoker.$image,third-party
-||chaseherbalpasty.com^$third-party
 ||chatnews.id/banner-$image
 ||chilipoker.com^$third-party
 ||cimbbet.$image,third-party
@@ -14151,9 +14143,7 @@ zooba.id##.infeedads
 ||dragonpoker.$image,third-party
 ||dramaday.net/soundtrack.js$script
 ||dreamers.id/img_ads/
-||driverhugoverblown.com^$third-party
 ||ds3.aws-ec2.com/static/ads/$image
-||dtscout.com^$third-party
 ||duapoker.$image,third-party
 ||duapoker.$popup
 ||dufanqq.$image,third-party
@@ -14185,7 +14175,6 @@ zooba.id##.infeedads
 ||earneasycash.$popup
 ||ebsoft.web.id/wp-content/banners/
 ||edomz.com^$third-party
-||effectivecpmnetwork.com^$third-party
 ||ekbisbanten.com^*/iklan-$image
 ||elang-qq.$image,third-party
 ||elang13.$image,third-party
@@ -14270,7 +14259,6 @@ zooba.id##.infeedads
 ||forumiklan.com^$third-party
 ||fotografer.net^*/ads/
 ||franchiseglobal.com/images/banners/
-||fudfzudwoa.com^$third-party
 ||fullbet.$image,third-party
 ||fullbet88.$image,third-party
 ||fullbet88.$popup
@@ -14734,7 +14722,6 @@ zooba.id##.infeedads
 ||jabarpress.com^*/iklan-$image
 ||jabarpublisher.com^*/iklan-$image
 ||jads.co/js/jads.js$redirect-rule=noop.js,domain=pemersatudotfun.com|pemersatufun.com|pemersatufun.site
-||jads.co^$third-party
 ||jagadtani.com/uploads/banner/
 ||jagatreview.com/wp-content/uploads/*-SKIN-
 ||jagoanhosting.com^*/banner-$image
@@ -15010,6 +14997,8 @@ zooba.id##.infeedads
 ||kiuhoki.$popup
 ||kiumaster.$image,third-party
 ||kiumaster.$popup
+||klik.best^$popup
+||klik.top^$popup
 ||klik66.$image,third-party
 ||klik66.co^$popup
 ||klikajadeh.com^$third-party
@@ -15288,7 +15277,6 @@ zooba.id##.infeedads
 ||maruduthutabarat.$image,third-party
 ||maruduthutabarat.$popup
 ||marwahrakyat.com/assets/banner/
-||mascarapersonality.com^$third-party
 ||maspolin.id^*banner-
 ||master138.$image,third-party
 ||master138.$popup
@@ -15725,7 +15713,6 @@ zooba.id##.infeedads
 ||pkq13.$popup
 ||pkr-88.com^$third-party
 ||pkrvqq.$image,third-party
-||pkygraajhdap.com^$third-party
 ||planettoto.com^$third-party
 ||platform.twitter.com/widgets/follow_button$subdocument
 ||platform.twitter.com/widgets/tweet_button$subdocument
@@ -15870,7 +15857,6 @@ zooba.id##.infeedads
 ||probet99.$image,third-party
 ||probet99.$popup
 ||probola.$image,third-party
-||profitablecpmratenetwork.com^$third-party
 ||progresiflines.com^*/banner/
 ||prokaltim.com^*-xbanner.$image
 ||prokaltim.com^*/adv-$image
@@ -16808,7 +16794,6 @@ zooba.id##.infeedads
 ||vivacm88.$popup
 ||vivobetting.$image,third-party
 ||vivobetting.$popup
-||vivodemisrentas.net^$third-party
 ||vk.com/js/api/share.js^$3p
 ||vkwaeo.com^$third-party
 ||vm.beeteam368.net^$third-party
@@ -16819,7 +16804,6 @@ zooba.id##.infeedads
 ||vodkapoker.$popup
 ||voicemagz.com^*/iklan-$image
 ||w22bet.$image,third-party
-||w3.t5tm8zptlf6o8lc.cfd^$third-party
 ||w88domino.$popup
 ||wahanabet.$image,third-party
 ||wahananews.co/ad/$image
@@ -16854,7 +16838,6 @@ zooba.id##.infeedads
 ||warunguang.$image,third-party
 ||waspada.id^*/iklan-$image
 ||wawasanriau.com/assets/banner/
-||wcikamgamzc.com^$third-party
 ||web-taruhan-bola.$image,third-party
 ||webiklan.com^$third-party
 ||webjudibola.$image,third-party
@@ -16914,7 +16897,6 @@ zooba.id##.infeedads
 ||wp.com/*.photobucket.com/*/Blogger%20Perempuan/banner-$domain=~bloggerperempuan.com
 ||wp.com/www.backlink.co.id/wp-content/uploads/$image,domain=~backlink.co.id|~blogpartner.id
 ||wp.com/www.jagoanhosting.com^*/banner-$domain=~jagoanhosting.app|~jagoanhosting.com
-||wpadmngr.com^$third-party
 ||wpbet365.$image,third-party
 ||ws.sharethis.com^$third-party
 ||wsmwidget.mediaprimalabs.com^$domain=bharian.com.my|hmetro.com.my

@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 23 Jul 2026 16:07 (updated regularly)
+! Last modified: 23 Jul 2026 20:07 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -156,6 +156,7 @@
 0.0.0.0 3838sj.com
 0.0.0.0 38777.com
 0.0.0.0 3888bet.com
+0.0.0.0 388hero.bio
 0.0.0.0 388live.com
 0.0.0.0 3b7c0f01022f61d5.com
 0.0.0.0 3beefun.com
@@ -2008,6 +2009,7 @@
 0.0.0.0 bandartogelsingapura.com
 0.0.0.0 bandartop.com
 0.0.0.0 bandarvip.com
+0.0.0.0 bandarxl.bio
 0.0.0.0 bandungstore.com
 0.0.0.0 bangthebook.com
 0.0.0.0 bankbola.com
@@ -2377,6 +2379,7 @@
 0.0.0.0 biotogel.com
 0.0.0.0 biroduit.com
 0.0.0.0 bisa88.com
+0.0.0.0 bisnis4d.bio
 0.0.0.0 bisnishandal.com
 0.0.0.0 bisrtb.vidazoo.com
 0.0.0.0 bitcomet.com
@@ -3745,6 +3748,7 @@
 0.0.0.0 empirecitycasino.com
 0.0.0.0 emputogel.com
 0.0.0.0 en.softonic.com
+0.0.0.0 enakslot.bio
 0.0.0.0 energycasinopartners.com
 0.0.0.0 enetcasino.com
 0.0.0.0 engagelab.cc
@@ -4130,6 +4134,7 @@
 0.0.0.0 gaslah.my.id
 0.0.0.0 gateway.ttpsdk.info
 0.0.0.0 gavurashop.com
+0.0.0.0 gaza-88.com
 0.0.0.0 gc855.com
 0.0.0.0 gcd-s2s.appsflyer.com
 0.0.0.0 gcdsdk.appsflyer.com
@@ -5404,7 +5409,9 @@
 0.0.0.0 klik-sbobet.com
 0.0.0.0 klik.best
 0.0.0.0 klik.top
+0.0.0.0 klik.zeus.fun
 0.0.0.0 klik101.com
+0.0.0.0 klik4.me
 0.0.0.0 klik4d.com
 0.0.0.0 klikabadi.com
 0.0.0.0 klikabadi.net
@@ -5805,6 +5812,7 @@
 0.0.0.0 luckyriverpoker.com
 0.0.0.0 luckytangkas.net
 0.0.0.0 luxbet.com
+0.0.0.0 luxury111.bio
 0.0.0.0 luxury138zz.com
 0.0.0.0 luxurycasino.com
 0.0.0.0 lw-c-log.lastwarapp.com
@@ -7111,6 +7119,7 @@
 0.0.0.0 pornorc.com
 0.0.0.0 portable4pc.com
 0.0.0.0 post-log.pushwoosh.com
+0.0.0.0 powderencouraged.com
 0.0.0.0 powerlinks.com
 0.0.0.0 ppin-d.ppin
 0.0.0.0 ppin-f.ppin
@@ -7357,6 +7366,7 @@
 0.0.0.0 ramuanobatherball.com
 0.0.0.0 ransplay-io.com
 0.0.0.0 rarelypunenhancements.com
+0.0.0.0 ratu89.news
 0.0.0.0 ratubetting.com
 0.0.0.0 ratubola.com
 0.0.0.0 ratubola.info
@@ -7384,6 +7394,9 @@
 0.0.0.0 redbet24.com
 0.0.0.0 redbusbingo.com
 0.0.0.0 redflushcasino.com
+0.0.0.0 redirect388herosafest.com
+0.0.0.0 redirectbandarxlsafest.com
+0.0.0.0 redirectbisnis4dsafest.com
 0.0.0.0 redkings.com
 0.0.0.0 redstarpoker.com
 0.0.0.0 redtram.com
@@ -7520,6 +7533,7 @@
 0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 rtlog.isnssdk.com
 0.0.0.0 rtlog.tiktokv.com
+0.0.0.0 rts.gdn
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 rubybingo.com
 0.0.0.0 rubyfortune.com
@@ -7864,6 +7878,7 @@
 0.0.0.0 shiyifacaisalzc.com
 0.0.0.0 shokawah.com
 0.0.0.0 shopnoit.com
+0.0.0.0 shortbioo.com
 0.0.0.0 shqbsdjatunl.com
 0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 siagajayaelektronik.com
@@ -8157,6 +8172,7 @@
 0.0.0.0 static.terratraf.com
 0.0.0.0 static.timetreeads.com
 0.0.0.0 staticcc.com
+0.0.0.0 statics1.tceru134gsur.ru
 0.0.0.0 statistic-overseas.yunxinfw.com
 0.0.0.0 statistic.live.126.net
 0.0.0.0 statistical-report.djiservice.org
@@ -8610,6 +8626,7 @@
 0.0.0.0 tennesseelotteryresults.org
 0.0.0.0 tentangbola.net
 0.0.0.0 terbesaragenbola.com
+0.0.0.0 terbit21.gdn
 0.0.0.0 tersipu.com
 0.0.0.0 texas-holdem.com
 0.0.0.0 texas-holdempoker-gambling.net

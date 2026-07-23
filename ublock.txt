@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 23 Jul 2026 16:07 (updated regularly)
+! Last modified: 23 Jul 2026 20:07 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -33,6 +33,7 @@
 ###ad_bawah
 ###ad_bgbottomleft
 ###ad_bgbottomright
+###ad_box
 ###ad_container_1
 ###ad_container_2
 ###ad_container_3
@@ -6206,6 +6207,7 @@
 ##div[button=share]
 ##div[class$=-share-single]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i],[class$=has-share-single])
 ##div[class$=-sticky-share]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i],[class*=post-with-stick])
+##div[class*="ads-header"]
 ##div[class*=FooterShare i]
 ##div[class*=_share_button]:not([class*=body i],[id*=body i],[class*=content i],[id*=content i])
 ##div[class*=addthis]
@@ -9666,9 +9668,15 @@ bioskop90.com###floating_banner_left
 bioskop90.com###floating_banner_right
 bioskop90.com##.headborder:nth-of-type(5)
 bioskopgaul.me##.banner-float-bottom
+bioskopkeren.*###float-b-1
+bioskopkeren.*##.idmuvi-floatbanner
 bioskopkeren.*,bioskopkeren.sbs###headads
-bioskopkeren.*,bioskopkerenin.com,ganool.watch,kebioskop21.com###top-banner
-bioskopkeren.*,layarkaca21.*###ptbanner
+bioskopkeren.*,bioskopkerenin.com,dunia21official.*,ganool.watch,kebioskop21.com,terbit21.*###top-banner
+bioskopkeren.*,dunia21official.*,ganool.watch,terbit21.*###middle-banner
+bioskopkeren.*,dunia21official.*,layarkaca21.*,terbit21.*###ptbanner
+bioskopkeren.*,dunia21official.*,terbit21.*###menu-banner
+bioskopkeren.*,dunia21official.*,terbit21.*###popup-banner
+bioskopkeren.*,terbit21.*###float-bottom-banner
 bioskopkeren.shop,d21.im,dunia21official.*,filmapik.my,movieon21.mov,nontonfilm.website,t21.press,terbit21.*,terbit21official.*##+js(nowoif)
 bioskopkeren.shop,d21.im,dunia21official.*,filmapik.my,movieon21.mov,nontonfilm.website,t21.press,terbit21.*,terbit21official.*##.inner-floatbanner-bottom
 bioskopkeren.shop,d21.im,dunia21official.*,filmapik.my,movieon21.mov,nontonfilm.website,t21.press,terbit21.*,terbit21official.*##a[target*="blank"]:has(> img)
@@ -10280,6 +10288,8 @@ drphone.id,halilintarnews.id,harianmerdeka.id,indimanado.com,jambinews.id,koment
 drphone.id,halilintarnews.id,harianmerdeka.id,indimanado.com,jambinews.id,komentar.co,orasirakyat.com,pasjabar.com,sbnnews.id,teraskabar.id##.fixed-rightSd
 dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com,rilpolitik.com##.gmr-floatbanner
 dteksinews.co.id,harianesia.com,rilpolitik.com##.gmr-topbanner
+dunia21official.*,mediaindonesia.com,terbit21.*##.top-banner
+dunia21official.*,terbit21.*###ads-pop
 duniagames.co.id##+js(rc, cdk-global-scrollblock, html)
 duniagames.co.id##.cdk-overlay-container
 duniagames.co.id##html:remove-class(cdk-global-scrollblock)
@@ -10470,7 +10480,6 @@ gamebrott.com,hukumonline.com##div:matches-css(width: 728px):matches-css(height:
 gamefinity.id,kabarpublik.id###popup-ads
 gamespot.com##.share--column
 ganool.ph##.col-xs-12.col-md-6.col-lg-6
-ganool.watch###middle-banner
 garda.co.id##img[width="900"][height="120"]
 gardapapua.com##aside:has-text(/adv/i)
 gardapapua.com,majalahnabawi.com##img[height="1024"][width="724"]
@@ -11271,7 +11280,6 @@ kinitv.com##.bg-gray-100:has(.adunitContainer)
 kinitv.com##.bg-gray-100:has(> .adunitContainer)
 kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*="z-index: 2147483647"]
 kiryuu01.com,kiryuu02.*,manhwaindo.one###teaserbottom
-kiryuu03.com##div[class*="ads-header"]
 kisahdunia.com##+js(aost, DOMTokenList.prototype.contains, manageBodyClasses)
 kisahterlarang.site,layarwibu.com,sukasex.net,sukasex.tv##+js(rmnt, script, popupUrl)
 kitamudamedia.com##.sponsor-1 > img
@@ -11785,7 +11793,6 @@ mediaindonesia.com##.fix_bottom_banner
 mediaindonesia.com##.flying-carpet
 mediaindonesia.com##.skin-banner-link
 mediaindonesia.com##.skin-wrapper
-mediaindonesia.com##.top-banner
 mediajateng.net##img[width="1440"][height="432"]
 mediakaltim.com,sanga.id##img[height="1600"][width="900"]
 medianews.co.id,proinbar.com###floatAds
@@ -12774,7 +12781,6 @@ tempointeraktif.com###banner-bawah
 terabox.app##.share-embed-container > .shadow
 terasnkri.com##img[width="1100"][height="159"]
 terassulbar.com##.advertisement-area
-terbit21.*###float-bottom-banner
 terbit21.*,terbit21official.*###float-banner
 terbitan.com##img[width="718"][height="355"]
 terkenal.co.id##.post-article img[srcset^="data:image/gif;base64,"]
@@ -12977,6 +12983,7 @@ video.pejuanglendir.site##.happy-under-player-mobile
 videocrot.*##.ads-720
 videyindo.*###customPopupOverlay
 videyindo.*##+js(aeld, click, popMagic)
+videyindo.space##.playeroverlay
 vidio.com##[class^="shopping-banner-module_"]
 vidio.com##[class^="smart-banner-module_"]
 vidio.com##[data-testid="shopping-banner" i]
@@ -13121,6 +13128,7 @@ zooba.id##.infeedads
 ||365kiu.$image,third-party
 ||365kiu.$popup
 ||365qiuqiu.$image,third-party
+||388hero.bio^$third-party
 ||388poker.$image,third-party
 ||396club.$image,third-party
 ||396dewa.$popup
@@ -13603,6 +13611,7 @@ zooba.id##.infeedads
 ||bandartogelsingapore.$image,third-party
 ||bandartogelsingapore.$popup
 ||bandartoke.$image,third-party
+||bandarxl.bio^$third-party
 ||bandungberita.com^*/benner-$image
 ||banten88.com/cp-pub/uploads/images/banner/
 ||bantensatu.co^*/iklan-$image
@@ -13729,6 +13738,7 @@ zooba.id##.infeedads
 ||bisa88.$popup
 ||bisablog.com^*-banner-$image
 ||bisablog.com^*/banner-$image
+||bisnis4d.bio^$third-party
 ||bisnishandal.$image,third-party
 ||bisnishandal.$popup
 ||bithe.co/files/sewaan/
@@ -14202,6 +14212,7 @@ zooba.id##.infeedads
 ||emitennews.com/uploads/ads/ads_
 ||emputogel.com^$third-party
 ||en777.$all
+||enakslot.bio^$third-party
 ||enjoydepo.$image,third-party
 ||enjoydomino.$image,third-party
 ||enjoyqq.$image,third-party
@@ -14312,6 +14323,7 @@ zooba.id##.infeedads
 ||gaslah.my.id^$third-party
 ||gatanews.id^*/iklan-$image
 ||gatra.com^*/banners/
+||gaza-88.com^$third-party
 ||gebyarbola.$image,third-party
 ||gebyarbola.$popup
 ||gebyarliga.$image,third-party
@@ -15006,6 +15018,8 @@ zooba.id##.infeedads
 ||kiumaster.$popup
 ||klik.best^$popup
 ||klik.top^$popup
+||klik.zeus.fun^$all
+||klik4.me^$all
 ||klik66.$image,third-party
 ||klik66.co^$popup
 ||klikajadeh.com^$third-party
@@ -15203,6 +15217,7 @@ zooba.id##.infeedads
 ||luckypoker188.$popup
 ||luckyriverpoker.com^$third-party
 ||luxury-top.$image,third-party
+||luxury111.bio^$third-party
 ||luxury138zz.$image,third-party
 ||luxury138zz.$popup
 ||lytogame.com/images/partner/$third-party
@@ -15840,6 +15855,7 @@ zooba.id##.infeedads
 ||postimg.cc/*/GIFBANNER*-
 ||potensinews.id^*/banner-
 ||potretkota.com^*/advetorial/
+||powderencouraged.com^$third-party
 ||power338bet.$image,third-party
 ||pratamamedia.com^*/banner-$image
 ||predikatnews.com^*/iklan-$image
@@ -16000,6 +16016,7 @@ zooba.id##.infeedads
 ||rakyatpos.com/public/images/ads/
 ||ransplay-io.com^$third-party
 ||rarelypunenhancements.com^$third-party
+||ratu89.news^$third-party
 ||ratubet728x90.$image,third-party
 ||ratubet88.$image,third-party
 ||ratubola.$image,third-party
@@ -16025,6 +16042,9 @@ zooba.id##.infeedads
 ||redaksicom.com^*/iklan-
 ||redaksipotret.co^*/iklan-$image
 ||redbullqq.$image,third-party
+||redirect388herosafest.com^$third-party
+||redirectbandarxlsafest.com^$third-party
+||redirectbisnis4dsafest.com^$third-party
 ||redmiqq.$image,third-party
 ||redstarpoker.com^$third-party
 ||refpa3665.com^$third-party
@@ -16077,6 +16097,7 @@ zooba.id##.infeedads
 ||royalpoker99.$image,third-party
 ||royalpoker99.$popup
 ||royalqq.$image,third-party
+||rts.gdn^$third-party
 ||rumah-judi.com^$third-party
 ||rumahbokep.$image,third-party
 ||rumahtaruhan88.com^$third-party
@@ -16245,7 +16266,7 @@ zooba.id##.infeedads
 ||shngm.id/*.gif
 ||shopee.co.id^$popup,domain=berkasdrive.*|nimegami.*
 ||shopnoit.com^$popup
-||shortbioo.com^$all,domain=kingbokep.media
+||shortbioo.com^$all
 ||shqbsdjatunl.com^$popup,third-party
 ||shrinkads.com/js/xe.js$script
 ||siapbet.$image,third-party
@@ -16347,6 +16368,7 @@ zooba.id##.infeedads
 ||static.addtoany.com/menu^$script
 ||static.mixi.jp/share_button.html^$subdocument,domain=~mixi.jp
 ||statically.io/*.ttgambar.xyz/*.jpg$popup
+||statics1.tceru134gsur.ru^$third-party
 ||streamapi.info/uploads/adsbaru$xhr
 ||suarabaru.id^*/banner-$image
 ||suarabaru.id^*/banner_$image
@@ -16538,6 +16560,7 @@ zooba.id##.infeedads
 ||terasmaluku.com^*/iklan-
 ||terassulbar.com^*/banner-$image
 ||terbit21.gdn/ads/
+||terbit21.gdn^$third-party
 ||terkininews.com/files/banners/
 ||terminal4d.$image,third-party
 ||terminalbet.$image,third-party

@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 23 Jul 2026 20:07 (updated regularly)
+! Last modified: 24 Jul 2026 03:07 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -537,6 +537,7 @@
 ###tamvan2
 ###teaser3[style="position: fixed;width: 100%;text-align: center; bottom: 0;z-index:9999"]
 ###teaser3[style="width: 100%;height:0;text-align: center;display: scroll;position:fixed;bottom: 115px;margin: 0 auto;z-index: 103;"]
+###teaser3[style="width: 100%;text-align: center;display: scroll;position:fixed;bottom: 0;margin: 0 auto;z-index: 103; "]
 ###teaser3[style="width: 100%;text-align: center;display: scroll;position:fixed;bottom: 0;margin: 0 auto;z-index: 103;"]
 ###tell-a-friend
 ###tisisads
@@ -2481,6 +2482,7 @@
 ##[href="https://gacor.vin/samehjp"]
 ##[href="https://gacor.vin/sexcrt"]
 ##[href="https://gacor.zone/anichin"]
+##[href="https://gacor.zone/anoboykko"]
 ##[href="https://gacor.zone/crtsex"]
 ##[href="https://gacor.zone/doujindesu"]
 ##[href="https://gacor.zone/ikirukko"]
@@ -6267,8 +6269,10 @@
 ##img[alt="bandar855" i]
 ##img[alt="bandarxl"]
 ##img[alt="banner 325x300"]
+##img[alt="bengkulutoto" i]
 ##img[alt="bimabet" i]
 ##img[alt="bisnis4d"]
+##img[alt="damaibet" i]
 ##img[alt="densustoto" i]
 ##img[alt="dewacuan" i]
 ##img[alt="dewagg" i]
@@ -7790,6 +7794,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 /^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
 /^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) iframe + div:matches-css(position: absolute):has(> img)
 /^https:\/\/(?:[a-z]{2}\.)?[a-z]{7,14}\.com\/[a-z](?=[a-z]*[0-9A-Z])[0-9A-Za-z]{10,27}\/[A-Za-z]{4,5}$/$match-case,3p,script
+/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{3,6}(?:[&?][0-9_a-z]=[0-9A-Za-z-]+)*$/$match-case,3p,script,subdocument,xhr
 /^https?:\/\/(?:ak\.)?[a-z]{6,12}\.(?:com|net)\/4\/\d{7}/$badfilter,document,popup,subdocument
 /^https?:\/\/(?:www\.)?11tbet([1-9]{1,2}[a-z])\.top/$all
 /^https?:\/\/(?:www\.)?1wsxz([a-z])\.top/$all
@@ -7810,6 +7815,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 /^https?:\/\/(?:www\.)?love678(?:[a-z]{1,3})\.(?:com|cc|live)/$doc
 /^https?:\/\/(?:www\.)?pktoto([a-z]|([1-9][a-z]))\.(cc|top)/$all
 /^https?:\/\/(?:www\.)?tt66([7-8])([0-9])\.com/$all
+/^https?:\/\/[a-z-]{6,}\.(?:com?|pro|info|xyz)\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$match-case,3p,script,xhr
 /aabet.$image
 /abdiusu/AntiAdblockJkoding/*$script
 /abgqq-$image
@@ -9302,7 +9308,7 @@ amartha.com###sticky-banner
 ambontoday.com,autoride.co.id,bacatrend.com,bangsaku.co,bardimin.com,batamclick.com,belanjaoke.com,beritabalap.com,beritainvestigasinews.id,beritalima.com,beritaprioritas.com,beritausaha.com,bisnisidn.com,bisnispost.com,blockchainmedia.id,btm.co.id,businesstoday.id,cakrawalamedia.com,carisinyal.com,cekfaktanya.com,cerah.id,delapannews.com,divisi.id,duniadosen.com,dutabalinews.com,edunews.id,ekbisindonesia.com,ekonominews.com,emitentv.com,etensi.com,extranews.id,fanicat.com,femmeindonesia.com,gobengkulu.com,gokepri.com,gurindam.id,haiidn.com,hallosurabaya.com,haloagro.com,halobogor.com,hamilplus.com,harianekonomi.com,harianmemokepri.com,heisport.com,hellojatim.com,hilirisasinews.com,hipwee.com,hutannews.com,indoinsider.com,infobekasi.co.id,infoekbis.com,infoekonomi.com,infoemiten.com,infoesdm.com,infokumkm.com,infopeluang.com,infopriangan.com,infosumbar.net,infotelko.com,infrastrukturnews.com,inilahjambi.com,innews.id,inspirasiline.com,iradiofm.com,jafarbuaisme.com,jazirahnews.com,jubi.id,kabarbenggawi.com,kabaretam.com,kamini.id,kantamedia.com,katasiber.id,keluyuran.com,kendariinfo.com,kengpo.com,kepripedia.com,kepriraya.com,kilasnews.com,kliksumatera.com,kongsinews.com,koperasipost.com,koranindopos.com,koranntb.com,koranntt.com,koranpagionline.com,koranpelita.co,kotaku.co.id,kroniktotabuan.com,lajur.co,lapakgaming.com,laskarmaluku.com,lingkarnews.com,majesty.co.id,matafakta.com,mediaagri.com,mediaemiten.com,minanews.net,minergi.com,mmoculture.com,monitorkalteng.co.id,nanggroenews.com,obormotindok.co.id,otoinfo.id,paceko.com,pangannews.com,panjikendari.com,pantau24.com,pelopornews.co.id,penerbitdeepublish.com,pertaniannews.com,piknikdong.com,popculture.id,potretjabar.com,prabowonews.com,presmedia.id,prokabar.com,propertipost.com,prospektif.com,radarkarawang.id,radarsatu.com,readnews.id,ridertua.com,sawitpost.com,selidikinews.com,sepeda.me,sepintas.com,serambiislam.com,showpoiler.com,spotbalinews.com,suaraaura.com,suarapapua.com,sukaon.com,sultengekspres.com,sumateraekspres.com,sumateranews.co.id,surabayapostnews.com,syfaganjarstory.com,tambangpost.com,tapanulipost.com,terasmaluku.com,teropongnews.com,theiconomics.com,tipkerja.com,tonjoostudio.com,topikindonesia.com,tutorly.id,tuturpedia.com,ungkap.co.id,urbannews.id,vcgamers.com,voxnusantara.com,wartagarut.com,zonautara.com##.code-block
 anakteknik.co.id,howdy.id,obengplus.com##+js(no-fetch-if, pagead2.googlesyndication.com)
 androidapksfree.com##.header-ad-heading
-anibatch.moe,anichin.co,animekompi.sbs,animexin.dev,bioskop21.*,cinemakeren6.id,desu.xxx,filem21.org,gudangmovies21.chat,idxmovie21.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,komikaja.com,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kusonime.com,layardrama.*,layardrama21.*,mangasusuku.com,melongmovies.com,movieku.*,nimegami.id,nomat.store,nontoncinema.org,omanga.net,otakudesu.blog,otakudesu.id,sobatmov.xyz,winbu.tv##a[target*="blank"]:has(> img)
+anibatch.moe,anichin.co,animekompi.sbs,animexin.dev,anoboy.xyz,bioskop21.*,cinemakeren6.id,desu.xxx,filem21.org,gudangmovies21.chat,idxmovie21.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,komikaja.com,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kusonime.com,layardrama.*,layardrama21.*,mangasusuku.com,melongmovies.com,movieku.*,nimegami.id,nomat.store,nontoncinema.org,omanga.net,otakudesu.blog,otakudesu.id,sobatmov.xyz,winbu.tv##a[target*="blank"]:has(> img)
 anibatch.moe,dramaencode.net,gudangmovies21.chat,kazefuri.cloud,kazefuri.id,otakupoi.org,rebahan21.com,sokuja.uk##+js(nowoif)
 anichin.*,animekhor.org,animekompi.*,animexin.top,cosmicscans.*,kuronime.*,oploverz.best,otakudesu.*,samehadaku.*###overplay
 anichin.blog,anichin.co,anichin.watch,hidoristream.online,kazefuri.cloud,komiksin.net,mangaindo.*,nekokun.my.id,soulscans.my.id###floatcenter
@@ -9322,7 +9328,6 @@ animekompi.*##+js(abort-on-property-write, MutationObserver)
 animekompi.*,artisbokep.*,komikdewasa.art,nekopoi.*,republikbokep.*,sebokep.vip,simontokx.tv,xbokepin.*##a[target*="blank"]:has(> img)
 animekompi.*,komikcast.*,komikdewasa.*##div[id^="teaser"]
 animekompi.sbs##.ays-pb-modals
-animekompi.sbs,dojing.net,movieku.*,sektedoujin.cc##div[id^="teaser"]
 animekompi.web.id##.cads
 animeplus.id##[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
 animotvslash.org,soulscans.my.id##body > div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
@@ -10239,6 +10244,7 @@ ditulis.id,qoo10.co.id,reviewsteknologiku.tech,suarakuningan.com##a[href^="https
 divyamodapk.com##.custpostads
 dodz.pro,ds2play.com##+js(nowoif)
 dojing.net###catfish-banner
+dojing.net,movieku.*,sektedoujin.cc##div[id^="teaser"]
 doktersehat.com##div:matches-css(text-align: center):has-text(/iklan/i)
 dood.*##+js(acis, adcashMacros)
 dood.*##+js(acis, parseInt, break;case $.)

@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 28 Jul 2026 21:27 (updated regularly)
+! Last modified: 31 Jul 2026 22:19 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -190,6 +190,7 @@
 0.0.0.0 4online-gambling.com
 0.0.0.0 4playbet.com
 0.0.0.0 4seeresults.com
+0.0.0.0 4vbbb.com
 0.0.0.0 5000ktv.com
 0.0.0.0 50starscasino.com
 0.0.0.0 513k7.com
@@ -1814,6 +1815,7 @@
 0.0.0.0 augustinecasino.com
 0.0.0.0 aulaelectroshop.com
 0.0.0.0 auredzeon.com
+0.0.0.0 auredzetw.com
 0.0.0.0 aurum.tirto.id
 0.0.0.0 aussie-online-casino.com
 0.0.0.0 australiacasino.net
@@ -1832,6 +1834,7 @@
 0.0.0.0 avira.com
 0.0.0.0 avtomatycasino.com
 0.0.0.0 aws.userlogsanalytics.com
+0.0.0.0 axes88.org
 0.0.0.0 axiatradeward.com
 0.0.0.0 axiobola.com
 0.0.0.0 axon.ai
@@ -7242,6 +7245,7 @@
 0.0.0.0 ptmitraelektronik.web.id
 0.0.0.0 pu1166.com
 0.0.0.0 pu1515.com
+0.0.0.0 pub-ee3a5bccda2d49c7bbc62bd60d648707.r2.dev
 0.0.0.0 pub1.co
 0.0.0.0 publish.web.id
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
@@ -7276,6 +7280,7 @@
 0.0.0.0 push-api.topaz-analytics.com
 0.0.0.0 pushad.metajoy.services
 0.0.0.0 putramahkota.xtgem.com
+0.0.0.0 pvpmetavip.com
 0.0.0.0 pwdmtyzyq.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.ucweb.com
@@ -7936,6 +7941,8 @@
 0.0.0.0 situsbolaonline.com
 0.0.0.0 situsbolatangkas.com
 0.0.0.0 situscasinoonline.com
+0.0.0.0 situsdepe4d.site
+0.0.0.0 situsdepe4d.space
 0.0.0.0 situsiklanbaris.com
 0.0.0.0 situsjudi-online.com
 0.0.0.0 situsjudi.biz
@@ -8318,6 +8325,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.castle.io
 0.0.0.0 t2.xiaohongshu.com
+0.0.0.0 t2m.io
 0.0.0.0 t3337.com
 0.0.0.0 t3338.com
 0.0.0.0 taboola.com
@@ -8602,6 +8610,7 @@
 0.0.0.0 telkomseledisi2013.tk
 0.0.0.0 telkomselpoinedisi2013.com
 0.0.0.0 telolet99.com
+0.0.0.0 temannonton.store
 0.0.0.0 tempatagenjudibola.com
 0.0.0.0 tempatagenjudibola.net
 0.0.0.0 tempatbet.com
@@ -9068,6 +9077,7 @@
 0.0.0.0 ttmini.net
 0.0.0.0 ttwinner.com
 0.0.0.0 tuanbola.net
+0.0.0.0 tuanmuda88baja.com
 0.0.0.0 tubemogul.com
 0.0.0.0 tubgirl.me
 0.0.0.0 tubgirl.org

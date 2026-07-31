@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 30 Jul 2026 14:35 (updated regularly)
+! Last modified: 31 Jul 2026 22:19 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -230,6 +230,7 @@
 ###divShare
 ###et_ads-2
 ###fixfloatingads
+###float-ads
 ###float_ads_bottom
 ###floatads1
 ###floatads2
@@ -9410,6 +9411,11 @@ apkmody.io###above-the-fold-ad
 arahnews.com,bisnisnews.com,businesstoday.id,ekbisindonesia.com,ekonominews.com,fokussiber.com,haibisnis.com,halloidn.com,hallopresiden.com,haloagro.com,harianekonomi.com,harianinvestor.com,heisport.com,infoekbis.com,infokumkm.com,infoseru.com,infotelko.com,infoups.com,jatimraya.com,kilasnews.com,kontenberita.com,lingkarin.com,mediaagri.com,nusraraya.com,pangannews.com,sawitpost.com##img[width="1024"][height="119"]
 arahpandang.com##.ads--stick-parent
 arahpandang.com##.ads--stick-parent-250px
+areakomik.com###float-ads
+areakomik.com##.komik-card.native-ad-slot
+areakomik.com##.lin-ad-img
+areakomik.com##.lin-header-ad-container
+areakomik.com##.lin-native-item.lin-ad-link
 arenagadget.id##.parallaxindetail
 arenalte.com##.super_leaderboard_ads
 arenalte.com,kuatbaca.com,laduni.id,lentera24.com,pedomanbengkulu.com,salampapua.com,telusur.co.id##.advertisement
@@ -10181,7 +10187,7 @@ delik.tv,jabarekspres.com,kbeonline.id,kliksatu.com,pasundanekspres.co,radarcire
 delik.tv,jabarekspres.com,kbeonline.id,kliksatu.com,pasundanekspres.co,radarcirebon.id,radarcirebon.tv,radartasik.id,rakcer.id,realitakita.com##.site-parallax
 delik.tv,jabarekspres.com,kbeonline.id,kliksatu.com,pasundanekspres.co,radarcirebon.id,radarcirebon.tv,radartasik.id,rakcer.id,realitakita.com##.site-sticky-bottom
 delikasia.com,liputan4.com##.widget_block > img
-derapjuang.id,halopaginews.com,humaniora.id,jatengtoday.com,kaltarastories.com,kediritangguh.co,letternews.net,masakini.co,mobilkomersial.com,narasiterkini.com,pilar.id,pojokbatam.id,radarbanten.co.id##.elementor-widget-container > a:has(img)
+derapjuang.id,halopaginews.com,humaniora.id,jatengtoday.com,kaltarastories.com,kediritangguh.co,letternews.net,masakini.co,mobilkomersial.com,narasiterkini.com,pilar.id,pojokbatam.id,radarbanten.co.id,sawitindonesia.com##.elementor-widget-container > a:has(img)
 designcise.com##.sticky-banner-wrapper
 destinasiwisatamu.blogspot.com###headlineatas
 desu.xxx##a[target*="blank"]:has(> img):not(.btn-link)
@@ -10807,6 +10813,10 @@ humaniora.id##figure:has(> a):has-text(/adv/i)
 humaniora.id##img[width="750"][height="160"]
 hybrid.co.id###banner-floating
 hybrid.co.id##.detail__right-ads
+i-jav.space##+js(aopw, document.body.innerHTML)
+i-jav.space##.banner
+i-jav.space##[href*="situsdepe4d"]
+i-jav.space##[href*="t.ly/depe4d"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 id.alongwalker.co##.ads_fullbox
 id.mashable.com##.topadv
@@ -11382,6 +11392,13 @@ komikindo.co##a[href^="https://shope.ee/"]
 komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
 komikindo.pro##.setdah
 komiknesia.asia##img[alt*="adv" i]
+komikpoi.com###wp-iklan-overlay
+komikpoi.com##.wp-iklan-banner
+komikpoi.com##.wp-iklan-footer
+komikpoi.com##.wp-iklan-header
+komikpoi.com##.wp-iklan-slider-left
+komikpoi.com##.wp-iklan-slider-right
+komikpoi.com,rumahparaperjaka.*##body:style(overflow: auto !important;)
 komikstation.com###floatbanner
 komikstation.org##+js(acis, JSON.parse, break;case $.)
 komikstation.org##+js(aeld, /^(?:load|click)$/, popMagic)
@@ -11954,6 +11971,7 @@ moenime.com###moemodals
 moenime.com###top-floating-banner
 moenime.com###w-node-b77
 moenime.com##+js(no-fetch-if, trafficbass.com)
+moenime.com##.header-adss
 mojok.co###kontainer-ads-desktop
 mojok.co###kontainer-ads-mobile
 mojok.co##img[width="1200"][height="240"]
@@ -12246,6 +12264,7 @@ pelitamaluku.com##.bannerside
 pelitamaluku.com##.sidebar-banner
 pelopor9.com##.sidebar-image-ads
 peluangnews.id##img[width="700px"][height="90px"]
+pemersatu.*##+js(aopw, document.body.innerHTML)
 pemersatu.*##.ad-container
 pemersatu.*##[role="advertisement"]
 pemersatu.*##div.ad iframe
@@ -12472,6 +12491,7 @@ rumahbokep.*,videocrot.*,websitebokep-id.*##.inside-player-ad
 rumahbokep.*,videocrot.*,websitebokep-id.*##a[target*="blank"]:has(> img)
 rumahbokep.*,videocrot.*,websitebokep-id.*##body > div[style^="position: fixed; display: block; width: 100%; height: 100%;"]
 rumahbokep.*,videocrot.*,websitebokep-id.*##iframe.padPreload[style^="width: 0px; height: 0px; position: absolute;"]
+rumahparaperjaka.*###modal
 rumahparaperjaka.*,rumahperjaka.*##.elementor-popup-modal
 runninglevel.com##.publift_adunit
 ryuugames.com##.ryuu-sl-ad-button
@@ -13212,6 +13232,7 @@ zooba.id##.infeedads
 ||396dewa.$popup
 ||4dasli.$image,third-party
 ||4dasli.$popup
+||4vbbb.com^$third-party
 ||55kbet.$all
 ||55tbet.$all
 ||560bet.$image,third-party
@@ -13582,6 +13603,7 @@ zooba.id##.infeedads
 ||astrototo.$popup
 ||atnews.id^*/banner/
 ||auredzeon.com^$popup,third-party
+||auredzetw.com^$third-party
 ||aurum.tirto.id^
 ||autonetmagz.com^*/banner-$image
 ||auxbet.$image,third-party
@@ -13593,6 +13615,7 @@ zooba.id##.infeedads
 ||awscdnstatic.detik.net.id/live/_assets/cnbc/banner/
 ||awsubs.*/wp-content/themes/*/btn_close.gif$image
 ||awsubs.*/wp-content/uploads/*.gif$image
+||axes88.org^$third-party
 ||axialnews.id^*/iklan-
 ||axiobola.$image,third-party
 ||axiobola.$popup
@@ -15978,6 +16001,7 @@ zooba.id##.infeedads
 ||proqq.$image,third-party
 ||prosesnews.id^*/iklan-$image
 ||ptliga365.$image,third-party
+||pub-ee3a5bccda2d49c7bbc62bd60d648707.r2.dev^$third-party
 ||publica-news.com/img_banner/
 ||publikterkini.com/assets/banner/
 ||pulausumbawanews.net^*-iklan-$image
@@ -15994,6 +16018,7 @@ zooba.id##.infeedads
 ||pusatjudionline.$image,third-party
 ||pusatqq.$image,third-party
 ||pusattaruhan.com^$third-party
+||pvpmetavip.com^$third-party
 ||q99bet.$image,third-party
 ||q99bet.$popup
 ||qayyumnews.id^*/banner-
@@ -16214,7 +16239,6 @@ zooba.id##.infeedads
 ||satukanegeri.com/data/getIklan/
 ||satunews.id^*/iklan-$image
 ||saungnews.co^*/banner-$image
-||sawitindonesia.com^*/iklan-$image
 ||sawitplus.co/assets/banner/
 ||sbbanner.$image,third-party
 ||sbbanner.$popup
@@ -16378,6 +16402,8 @@ zooba.id##.infeedads
 ||situsagenjudi.com^$third-party
 ||situsbet368.$image,third-party
 ||situsbet368.$popup
+||situsdepe4d.site^$third-party
+||situsdepe4d.space^$third-party
 ||situsjudi.$image,third-party
 ||situsjudi.$popup
 ||situsjudibolaonline.$image,third-party
@@ -16528,6 +16554,7 @@ zooba.id##.infeedads
 ||switchpoker.com^$third-party
 ||syndication.twitter.com/srv/timeline-profile^$third-party
 ||t.co^$popup,domain=berkasdrive.*|nimegami.*
+||t2m.io^$third-party
 ||tadex.id^$third-party
 ||tahun-qq.$image,third-party
 ||tahunqq.$image,third-party
@@ -16619,6 +16646,7 @@ zooba.id##.infeedads
 ||teloletqq.$image,third-party
 ||temanjudi.$image,third-party
 ||temanjudi.$popup
+||temannonton.store^$third-party
 ||temanpoker.$image,third-party
 ||temanpoker99.$image,third-party
 ||temanpoker99.$popup
@@ -16816,6 +16844,7 @@ zooba.id##.infeedads
 ||ttgambar.xyz$popup
 ||tuanbola.$image,third-party
 ||tuanbola.$popup
+||tuanmuda88baja.com^$third-party
 ||tubasmedia.com^*/iklan-$image
 ||tugupoker.$image,third-party
 ||tugupoker.$popup

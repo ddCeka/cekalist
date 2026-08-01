@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 1 Aug 2026 03:59 (updated regularly)
+! Last modified: 1 Aug 2026 16:50 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9374,7 +9374,7 @@ anichin.blog,anichin.cafe,anichin.co,anichin.watch###floatcenter
 anichin.cafe,anichin.co###overplay
 anichin.co##a[target*="blank"]:has(> img)
 anichin.dev##[href="https://cek.to/anc-dwc"]
-anichin.moe,anichin.top,animekompi.vip,bokepindo69.*,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kawanfilm21.co,kimcilonly.site,kingbokep.*,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,simontokx.tv,sukasex.net,sukasex.tv,tantecentil.fans,westmanga.*##+js(nowoif)
+anichin.moe,anichin.top,animekompi.vip,bokepindo69.*,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kawanfilm21.co,kimcilonly.site,kingbokep.*,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,simontokx.tv,sukasex.net,sukasex.tv,tantecentil.fans,tv1.lk21official.*,westmanga.*##+js(nowoif)
 anichin.watch##a:has(img[src$=".gif"])
 animasu.cc##.lmd-iklan
 animasu.cc,animexin.xyz,ganool.nl,ganool.ph,kiryuu.org,komikcast.*,lmanime.com,luciferdonghua.in,mangaindo.me,mangakita.id,mangakita.net,oploverz.*,realmscans.com###teaser3
@@ -9603,6 +9603,7 @@ beautynesia.id,cnnindonesia.com,detik.com,disway.id,haibunda.com##.ads-slot
 bedahnusantara.com,faktakalbar.id,kaltengnews.co.id,okeyboz.com,trasberita.com##[class*="widget"] .metaslider
 begawinews.com##img[height="1024"][width="727"]
 bekasiguide.com,beritaminang.com,detikinspirasi.com,ex-pose.net,faktual.net,fatkhan.web.id,gardaanimalia.com,globalsulteng.com,gosulut.id,hibata.id,industry.co.id,japos.co,jurnalmedia.id,jurnalpatrolinews.co.id,kalbarsatu.id,khazminang.id,koma.id,koranbanjar.net,koranpublika.co.id,lombokfokus.com,madurapost.net,mawartanews.com,mediasulsel.com,munadi.id,penaku.id,radarcikarang.com,redaksi24.co.id,sekindo.id,sijorikepri.com,suarapena.com,tintainformasi.com,topsumbar.co.id,torangbisa.com,uzone.id,waspada.id,wawainews.id,zonajogja.com##.idt-textinsidepost
+bekasisatu.com,dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com,rilpolitik.com##.gmr-floatbanner
 bekasisatu.id,kapuasnews.id,patrolibins.co.id,serbacara.com##.googlepublisherads
 bekesah.co##.alp-advert
 bekesah.co##img[width="1170"][height="234"]
@@ -10354,7 +10355,6 @@ droidlime.com###mvp-site-main:style(margin-top: 0px!important;)
 dropshipaja.com,hostnic.id##:matches-path(/blog) .code-block
 drphone.id,halilintarnews.id,harianmerdeka.id,indimanado.com,jambinews.id,komentar.co,orasirakyat.com,pasjabar.com,sbnnews.id,teraskabar.id##.fixed-leftSd
 drphone.id,halilintarnews.id,harianmerdeka.id,indimanado.com,jambinews.id,komentar.co,orasirakyat.com,pasjabar.com,sbnnews.id,teraskabar.id##.fixed-rightSd
-dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com,rilpolitik.com##.gmr-floatbanner
 dteksinews.co.id,harianesia.com,rilpolitik.com##.gmr-topbanner
 dunia21official.*,mediaindonesia.com,terbit21.*##.top-banner
 dunia21official.*,terbit21.*###ads-pop
@@ -10922,6 +10922,10 @@ indonesiasurya.com##.mr:has(> .mr1-scrollpage-container .mr1-scrollpage-banner)
 indonesiatripnews.com##.wpb_single_image:has(> h2:has-text(/iklan/i))
 indoporn.*##div:has(> .adsbyexoclick)
 indoporn.pro##.full-brkas-container
+indoporntube.com##+js(acis, document.querySelector, adsbygoogle)
+indoporntube.com##+js(nowoif)
+indoporntube.com##div[class*="backdrop-blur-sm"]
+indoporntube.com##svg.lucide-shield-alert
 indoporntv.*##.fluid_nonLinear_ad
 indoporntv.*##.vertbars-300
 indoporntv.*##video:style(cursor: auto!important;)
@@ -11743,7 +11747,11 @@ lk21.de,lk21.film,lk21official.cc,lk21official.dev,lk21online.mom,nontondrama.my
 lk21.de,lk21.film,lk21official.cc,lk21official.dev,lk21online.mom,nontondrama.my##a[target*="blank"]:has(> img)
 lk21id.com,pintas.vip###popupBottom
 lk21id.com,pintas.vip###popupOverlay
+lk21official.*###adContainer
 lk21official.*###banner-content
+lk21official.*###openPopup
+lk21official.*###skipAds
+lk21official.*###videoAd
 lk21official.co##a[href][target="_blank"][rel="nofollow"] > img[src$=".gif"]
 lk21official.mom##[id^="btop-"]
 lk21official.top,skeeterbyte.com,surgafilm21.website##a[target*="blank"]:has(> img)
@@ -12329,7 +12337,7 @@ pixivision.net##._floated-bottom-bar
 play.youvid.org##.player-overlay
 playeriframe.*##.message-box
 playeriframe.sbs###ad-link
-playeriframe.sbs##body > a:has(> .message-box)
+playeriframe.sbs,videonode.de##body > a:has(> .message-box)
 podjav.tv##.banner-ads
 podjav.tv##.banner-card
 podjav.tv##.banner-card-inner
@@ -13083,6 +13091,7 @@ vanakkammalaysia.com.my##img[width="728"][height="91"]
 vcgamers.com##.adslatest
 vcgamers.com##.parallax_div
 vg.no##button[aria-label*=Facebook]
+vicek.id##+js(set, VK_DIRECT_AD, undefined)
 video.pejuanglendir.site##.happy-header-mobile
 video.pejuanglendir.site##.happy-under-player
 video.pejuanglendir.site##.happy-under-player-mobile

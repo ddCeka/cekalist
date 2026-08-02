@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 31 Jul 2026 22:19 (updated regularly)
+! Last modified: 2 Aug 2026 10:16 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -1825,6 +1825,7 @@
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 autobet88.com
+0.0.0.0 autocst.site
 0.0.0.0 autotrack.studyquicks.com
 0.0.0.0 availartikelcasino.com
 0.0.0.0 availartikelkeren.com
@@ -3199,6 +3200,7 @@
 0.0.0.0 cobabet.com
 0.0.0.0 coblos.net
 0.0.0.0 cocoacasino.com
+0.0.0.0 code.global.giraff.io
 0.0.0.0 codeonclick.com
 0.0.0.0 coinslots.org
 0.0.0.0 collect.4gtv.tv
@@ -4165,6 +4167,7 @@
 0.0.0.0 gem-log.sloegem.com
 0.0.0.0 gemarcapsa.com
 0.0.0.0 gemarpoker.com
+0.0.0.0 gembul.xyz
 0.0.0.0 gemilangelektro.com
 0.0.0.0 gendigital.com
 0.0.0.0 genkbola.com
@@ -4212,6 +4215,7 @@
 0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 gladiatorcasino.com
 0.0.0.0 gladiatorslots.com
+0.0.0.0 glamorous-gate.com
 0.0.0.0 glance.inmobi.com
 0.0.0.0 global-elektronik.com
 0.0.0.0 global-receiver-ta.thinkingdata.cn
@@ -4886,6 +4890,7 @@
 0.0.0.0 indracell.com
 0.0.0.0 indukbet.com
 0.0.0.0 inetbet.com
+0.0.0.0 infamous-maximum.com
 0.0.0.0 infinario.com
 0.0.0.0 infoagen338a.org
 0.0.0.0 infoagenbolaibcbet.net
@@ -6262,6 +6267,7 @@
 0.0.0.0 mossturbo.com
 0.0.0.0 mostonlinecasino.com
 0.0.0.0 mousheen.net
+0.0.0.0 movd21.com
 0.0.0.0 moveitlikemilla.com
 0.0.0.0 mp-gb-sdklog.kurogames.net
 0.0.0.0 mrepo.org
@@ -8591,6 +8597,7 @@
 0.0.0.0 tebak88.com
 0.0.0.0 tebakmimpi.net
 0.0.0.0 technoseluler.com
+0.0.0.0 teeming-comfortable.com
 0.0.0.0 teenkizlar.com
 0.0.0.0 teknologielektronik.com
 0.0.0.0 teknologiku.info
@@ -9494,6 +9501,7 @@
 0.0.0.0 wp88.com
 0.0.0.0 wpadmngr.com
 0.0.0.0 wpgambling.com
+0.0.0.0 wprediscache.com
 0.0.0.0 wptcasino.com
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 wscbet.com

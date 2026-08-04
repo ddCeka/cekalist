@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 4 Aug 2026 11:14 (updated regularly)
+! Last modified: 4 Aug 2026 20:24 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -10612,6 +10612,7 @@ github.com##.rounded-1.border.blankslate-spacious.blankslate
 github.com##[href="https://tuple.app/*"]
 github.com##[href="https://www.subble.com"]
 github.com##[href^="https://www.warp.dev/"]
+gitlab.archlinux.org##.gl-overflow-hidden.gl-rounded-lg.broadcast-wrapper
 globalsumut.com##img[width="900"][height="350"]
 gocrot.me,gocrot.org##.popup-cr7
 godriveplayer.net,jeniusplay.com##.pppx
@@ -12553,6 +12554,7 @@ rumahbokep.*,videocrot.*,websitebokep-id.*##iframe.padPreload[style^="width: 0px
 rumahparaperjaka.*###modal
 rumahparaperjaka.*,rumahperjaka.*##.elementor-popup-modal
 runninglevel.com##.publift_adunit
+rustjobs.dev##.w-full.max-w-md.shadow-2xl.rounded-lg.to-amber-500.via-violet-500.from-sky-500.bg-gradient-to-r.p-0\.5.relative
 ryuugames.com##.ryuu-sl-ad-button
 s.id##[class^="AdUnit"]
 s.id##[class^="AdUnit_"]
@@ -13203,6 +13205,7 @@ wowkeren.com##.sidebar-box[style]
 wowkeren.com##article div:matches-css(display: inline-block):has(> script)
 wowkeren.com##div[style*="width:300px;min-height:250px"]
 wtools.io###adsright_vertical
+www.patreon.com##.colorSystemContainer-8000d1-default.token-modes-module__i10qXa__colorAuto > .token-modes-module__i10qXa__screenAuto.token-modes-module__i10qXa__colorAuto
 xbokepin.*###popupBannerOverlay
 xbokepin.*##.rbdb-overlay
 xl.co.id##.sc-concent
@@ -14509,6 +14512,9 @@ zooba.id##.infeedads
 ||getandplay.web.id^$popup
 ||gets.kadal.club/js/getlinkz.js$script,domain=alex71.com
 ||gilangnews.com/assets/banner/
+||github.com/*/*/*/assets/subble.png$image
+||github.com/*/*/*/assets/tuple.png$image
+||github.com/*/*/*/assets/warp.png$image
 ||glamorous-gate.com^$third-party
 ||global-news.co.id^*/iklan-$image
 ||globalbusiness.id^*/banner-$image
@@ -14648,6 +14654,7 @@ zooba.id##.infeedads
 ||hoyatoto88.$image,third-party
 ||hoyatoto88.$popup
 ||hsoyrqqsludd.$popup
+||https://tuple.app/
 ||hubapi.my.id^$3p
 ||humabetang.com^*/ads/
 ||hypertracker.$image,third-party

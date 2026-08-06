@@ -1,7 +1,7 @@
 ! Title: Cekalist penambang-koin
 ! Description: Host file anti penambang koin dan situs yang berkaitan
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 24 Jul 2026 03:07 (updated regularly)
+! Last modified: 6 Aug 2026 17:00 (updated regularly)
 
 0.0.0.0 0slot.trade
 0.0.0.0 100k-faces.glitch.me
@@ -40,7 +40,6 @@
 0.0.0.0 adapools.org
 0.0.0.0 adbtc.top
 0.0.0.0 adiri.tel
-0.0.0.0 adityabirla.com
 0.0.0.0 adminer.com
 0.0.0.0 adsbtc.fun
 0.0.0.0 aeon-pool.com
@@ -49,17 +48,14 @@
 0.0.0.0 afminer.com
 0.0.0.0 ahashpool.com
 0.0.0.0 aiascan.com
-0.0.0.0 aigirlfriend.wtf
 0.0.0.0 aikapool.com
 0.0.0.0 ailayer.xyz
 0.0.0.0 aionmine.org
 0.0.0.0 aipowergrid.io
-0.0.0.0 airtel.in
 0.0.0.0 ajcryptominer.com
 0.0.0.0 akarospool.com
 0.0.0.0 alcor.exchange
 0.0.0.0 alfabit.org
-0.0.0.0 algerietelecom.dz
 0.0.0.0 algotrade.app
 0.0.0.0 alph2mine.com
 0.0.0.0 altcoinbuilders.com
@@ -82,15 +78,10 @@
 0.0.0.0 antpool.com
 0.0.0.0 anyswap.exchange
 0.0.0.0 api-main.oneclickroot.com
-0.0.0.0 api-ws.linke.ai
 0.0.0.0 api.c99.nl
 0.0.0.0 api.cryptonator.com
 0.0.0.0 api.hikvision.com
-0.0.0.0 api.ifriend.ai
 0.0.0.0 api.inwemo.com
-0.0.0.0 api.linke.ai
-0.0.0.0 api.polyspeak.ai
-0.0.0.0 api.talkie-ai.com
 0.0.0.0 apk.gold
 0.0.0.0 apkcafe.de
 0.0.0.0 apkcafe.nl
@@ -126,7 +117,6 @@
 0.0.0.0 authedminer.com
 0.0.0.0 authedwebmine.cz
 0.0.0.0 autonity.org
-0.0.0.0 avatar.one
 0.0.0.0 avescoin.io
 0.0.0.0 avn.network
 0.0.0.0 awesomeminer.com
@@ -148,11 +138,9 @@
 0.0.0.0 beldex.io
 0.0.0.0 bestchange.com
 0.0.0.0 bestxsoftware.com
-0.0.0.0 beta.character.ai
 0.0.0.0 bethscan.io
 0.0.0.0 bevm.io
 0.0.0.0 biblepay.org
-0.0.0.0 bigdata.talkie-ai.com
 0.0.0.0 bin-trade-options.ru
 0.0.0.0 binance.cloud
 0.0.0.0 binance.com
@@ -296,7 +284,6 @@
 0.0.0.0 ccmpool.ro
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn.filehorse.netdna-cdn.com
-0.0.0.0 cdn.polyspeak.ai
 0.0.0.0 cedric-crispin.com
 0.0.0.0 cefirates.com
 0.0.0.0 celsius.network
@@ -307,17 +294,12 @@
 0.0.0.0 chainworksindustries.com
 0.0.0.0 changelly.com
 0.0.0.0 changenow.io
-0.0.0.0 character.ai
-0.0.0.0 charter.net
 0.0.0.0 chia-tech.co
 0.0.0.0 chia.net
 0.0.0.0 chia.tt
 0.0.0.0 chiabatta.xyz
 0.0.0.0 chiacoin.fr
 0.0.0.0 chiayy.com
-0.0.0.0 chinaccs.cn
-0.0.0.0 chinamobile.com
-0.0.0.0 chinanet.cn.net
 0.0.0.0 chunguscoin.net
 0.0.0.0 cirquity.com
 0.0.0.0 ckpool.org
@@ -330,7 +312,6 @@
 0.0.0.0 cloverpool.com
 0.0.0.0 cminer.org
 0.0.0.0 cminors-pool.com
-0.0.0.0 cnc-noc.net
 0.0.0.0 cnhv.co
 0.0.0.0 cnpool.cc
 0.0.0.0 co2ledger.xyz
@@ -398,11 +379,9 @@
 0.0.0.0 coinwebmining.com
 0.0.0.0 coinworker.com
 0.0.0.0 coinxpool.com
-0.0.0.0 colocrossing.com
 0.0.0.0 cominers.org
 0.0.0.0 comining.io
 0.0.0.0 communitypool.org
-0.0.0.0 connection.talkie-ai.com
 0.0.0.0 cookiescript.info
 0.0.0.0 cookiescriptcdn.pro
 0.0.0.0 cool-pool.net
@@ -485,7 +464,6 @@
 0.0.0.0 cuckoo.network
 0.0.0.0 currency.com
 0.0.0.0 d00.org
-0.0.0.0 d1ss45t6zb3sdy.cloudfront.net
 0.0.0.0 dapool.io
 0.0.0.0 darkfibermines.com
 0.0.0.0 darkforums.st
@@ -625,7 +603,6 @@
 0.0.0.0 filehorse.sbsd-updates.eu
 0.0.0.0 filesriver.com
 0.0.0.0 findchia.com
-0.0.0.0 fink.org
 0.0.0.0 firepool.com
 0.0.0.0 fiveg.cash
 0.0.0.0 fixedtradecoin.org
@@ -637,7 +614,6 @@
 0.0.0.0 flypool.org
 0.0.0.0 fmip.fe2.apple-dns.net
 0.0.0.0 forex.pm
-0.0.0.0 fos-vpn.org
 0.0.0.0 foundrydigital.com
 0.0.0.0 foundryusapool.com
 0.0.0.0 foxypool.cf
@@ -671,11 +647,9 @@
 0.0.0.0 getgrass.io
 0.0.0.0 getitfree.us
 0.0.0.0 getmonero.org
-0.0.0.0 ghlc.biz
 0.0.0.0 give-me-coins.com
 0.0.0.0 glitch.me
 0.0.0.0 global-crypto.co.uk
-0.0.0.0 glowapp.vip
 0.0.0.0 gltminer.com
 0.0.0.0 glue.net
 0.0.0.0 gntl.co.uk
@@ -693,7 +667,6 @@
 0.0.0.0 groestlcoin.org
 0.0.0.0 gteh.org
 0.0.0.0 gus.host
-0.0.0.0 gw.vsa.ai
 0.0.0.0 h9.com
 0.0.0.0 haqq.network
 0.0.0.0 harmony.one
@@ -734,7 +707,6 @@
 0.0.0.0 hpool.com
 0.0.0.0 href.li
 0.0.0.0 httpreq.com
-0.0.0.0 htu.cc
 0.0.0.0 humpool.com
 0.0.0.0 huobi.com
 0.0.0.0 huobipool.com
@@ -748,7 +720,6 @@
 0.0.0.0 icrypto.media
 0.0.0.0 idcray.com
 0.0.0.0 iex.ec
-0.0.0.0 ifriend.ai
 0.0.0.0 ihashrate.com
 0.0.0.0 ikpool.com
 0.0.0.0 inetrader.com
@@ -757,7 +728,6 @@
 0.0.0.0 insanecoin.com
 0.0.0.0 insidebitcoins.com
 0.0.0.0 instaforex.com
-0.0.0.0 inter-cloud.tech
 0.0.0.0 iqmining.com
 0.0.0.0 iqoption.com
 0.0.0.0 ironfish.network
@@ -806,7 +776,6 @@
 0.0.0.0 kiwifarms.net
 0.0.0.0 koii.network
 0.0.0.0 konetexplorer.io
-0.0.0.0 kornet.net
 0.0.0.0 kouvr.com
 0.0.0.0 kraken.com
 0.0.0.0 kresus.com
@@ -838,7 +807,6 @@
 0.0.0.0 lightninginabox.co
 0.0.0.0 lincoin.com
 0.0.0.0 linea.build
-0.0.0.0 linke.ai
 0.0.0.0 listat.biz
 0.0.0.0 litecoinpool.org
 0.0.0.0 litesolo.org
@@ -865,7 +833,6 @@
 0.0.0.0 ludicorp.com
 0.0.0.0 lummio.net
 0.0.0.0 luxor.tech
-0.0.0.0 lyxi.ai
 0.0.0.0 m2pool.eu
 0.0.0.0 macyan.net
 0.0.0.0 magicpool.co
@@ -957,7 +924,6 @@
 0.0.0.0 mobiusdigitaltribe2.vip
 0.0.0.0 mobiusdigitaltribe3.vip
 0.0.0.0 mofumofu.me
-0.0.0.0 moldtelecom.md
 0.0.0.0 molepool.com
 0.0.0.0 mona.co
 0.0.0.0 monerise.com
@@ -996,7 +962,6 @@
 0.0.0.0 nahmii.io
 0.0.0.0 nanon.network
 0.0.0.0 nanopool.org
-0.0.0.0 neo.character.ai
 0.0.0.0 neoxa.net
 0.0.0.0 netbull.com
 0.0.0.0 netcoins.ca
@@ -1027,7 +992,6 @@
 0.0.0.0 nossd.com
 0.0.0.0 novaco.in
 0.0.0.0 nownodes.io
-0.0.0.0 ntl.com
 0.0.0.0 nullrefexcep.com
 0.0.0.0 nushypool.com
 0.0.0.0 nyxcoin.org
@@ -2116,15 +2080,12 @@
 0.0.0.0 pirl.network
 0.0.0.0 pkrdscan.com
 0.0.0.0 planq.network
-0.0.0.0 plus.character.ai
-0.0.0.0 pluto.polyspeak.ai
 0.0.0.0 ply.gg
 0.0.0.0 pmpmining.com
 0.0.0.0 polcoin.pl
 0.0.0.0 poljkastarter.com
 0.0.0.0 polkadot.io
 0.0.0.0 poloniex.com
-0.0.0.0 polyspeak.ai
 0.0.0.0 pool-jg1000.fr
 0.0.0.0 pool-moscow.ru
 0.0.0.0 pool-pay.com
@@ -2160,7 +2121,6 @@
 0.0.0.0 propool.ca
 0.0.0.0 proxpool.com
 0.0.0.0 proxynode.network
-0.0.0.0 ptcl.net.pk
 0.0.0.0 public-pool.io
 0.0.0.0 publicnode.com
 0.0.0.0 pukkapool.com
@@ -2185,7 +2145,6 @@
 0.0.0.0 ravencoin.world
 0.0.0.0 ravenminer.com
 0.0.0.0 rawpool.com
-0.0.0.0 realmrift.online
 0.0.0.0 rebelcoin.io
 0.0.0.0 redecoin.eu
 0.0.0.0 redwoodscrypto.com
@@ -2198,7 +2157,6 @@
 0.0.0.0 reown.com
 0.0.0.0 repl.co
 0.0.0.0 repl.it
-0.0.0.0 replika.ai
 0.0.0.0 replit.app
 0.0.0.0 requestbin.com
 0.0.0.0 requestinspector.com
@@ -2213,7 +2171,6 @@
 0.0.0.0 rollux.com
 0.0.0.0 rosebird.org
 0.0.0.0 rplant.xyz
-0.0.0.0 rr.com
 0.0.0.0 ru-poolbe.ru
 0.0.0.0 rupool.org
 0.0.0.0 rupool.pro
@@ -2224,8 +2181,6 @@
 0.0.0.0 saakuru.network
 0.0.0.0 safex.io
 0.0.0.0 safex.org
-0.0.0.0 sancharnet.in
-0.0.0.0 sanxia.polyspeak.ai
 0.0.0.0 sargatxet.cloud
 0.0.0.0 satopool.com
 0.0.0.0 saturnpool.com
@@ -2235,7 +2190,6 @@
 0.0.0.0 secpool.com
 0.0.0.0 securepayment.cc
 0.0.0.0 semipool.com
-0.0.0.0 sensorsdata.glowapp.vip
 0.0.0.0 sfepodownload.mediatek.com
 0.0.0.0 sftapi.com
 0.0.0.0 sgepodownload.mediatek.com
@@ -2254,7 +2208,7 @@
 0.0.0.0 simplemining.net
 0.0.0.0 sinovate.io
 0.0.0.0 sispop.site
-0.0.0.0 skbroadband.com
+0.0.0.0 sky.money
 0.0.0.0 skydogepool.xyz
 0.0.0.0 skypool.org
 0.0.0.0 slushpool.com
@@ -2286,7 +2240,6 @@
 0.0.0.0 spacescan.io
 0.0.0.0 sparechange.io
 0.0.0.0 sparkpool.com
-0.0.0.0 spectranet.com.ng
 0.0.0.0 spectresecurity.io
 0.0.0.0 speedpool.top
 0.0.0.0 speedup-faucet.com
@@ -2311,7 +2264,6 @@
 0.0.0.0 statemesh.net
 0.0.0.0 static.generated.photos
 0.0.0.0 static.reasedoper.pw
-0.0.0.0 staticai.linke.ai
 0.0.0.0 steadyhash.org
 0.0.0.0 steam-up.ru
 0.0.0.0 steamexchange.io
@@ -2329,23 +2281,18 @@
 0.0.0.0 svpool.com
 0.0.0.0 swampthing.net
 0.0.0.0 swanchain.io
-0.0.0.0 sync-image.linke.ai
 0.0.0.0 taal.com
 0.0.0.0 tabiscan.com
 0.0.0.0 taiwebs.com
 0.0.0.0 taker.xyz
 0.0.0.0 talkether.org
-0.0.0.0 talkie-ai.com
 0.0.0.0 tanenbaum.io
 0.0.0.0 taskernet.com
 0.0.0.0 tazmining.ch
 0.0.0.0 tbdice.org
 0.0.0.0 tdcoincore.org
-0.0.0.0 te.eg
 0.0.0.0 tecracoin.io
-0.0.0.0 tedata.net
 0.0.0.0 teepool.com
-0.0.0.0 telkom.co.id
 0.0.0.0 terorie.com
 0.0.0.0 terracoin.org
 0.0.0.0 teste.website
@@ -2406,7 +2353,6 @@
 0.0.0.0 uptodown.com
 0.0.0.0 uralscoin.info
 0.0.0.0 urcryptodepot.com
-0.0.0.0 us-central1-lover-ai-chatbot.cloudfunctions.net
 0.0.0.0 usebtg.com
 0.0.0.0 uunigate.com
 0.0.0.0 uupool.cn
@@ -2431,8 +2377,6 @@
 0.0.0.0 virdpool.com
 0.0.0.0 vitruveo.xyz
 0.0.0.0 vizing.com
-0.0.0.0 vnnic.net.vn
-0.0.0.0 vnnic.vn
 0.0.0.0 volt-mine.com
 0.0.0.0 vvpool.com
 0.0.0.0 wafflepool.com
@@ -2463,9 +2407,7 @@
 0.0.0.0 widecoin.org
 0.0.0.0 wienchain.com
 0.0.0.0 win-spy.com
-0.0.0.0 wind.com.do
 0.0.0.0 winsite.com
-0.0.0.0 withfeelingaitest.firebaseapp.com
 0.0.0.0 wold.by
 0.0.0.0 wolfeye.us
 0.0.0.0 wolfpackbot.com
@@ -2473,7 +2415,6 @@
 0.0.0.0 worldcoin.global
 0.0.0.0 worldcoin.org
 0.0.0.0 wowne.ro
-0.0.0.0 ws.replika.ai
 0.0.0.0 ws1.bmst.pw
 0.0.0.0 ws2.bmst.pw
 0.0.0.0 wsdpool.online
@@ -2530,9 +2471,5 @@
 0.0.0.0 zsolo.bid
 0.0.0.0 ztyj0000.com
 0.0.0.0 zulupool.com
-0.0.0.0 zvi.ru
-0.0.0.0 zx.nl
-0.0.0.0 zylon.net
 0.0.0.0 zypher.game
 0.0.0.0 zypher.network
-0.0.0.0 zzidc.com

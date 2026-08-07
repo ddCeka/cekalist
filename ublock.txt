@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 7 Aug 2026 07:33 (updated regularly)
+! Last modified: 7 Aug 2026 22:19 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9154,6 +9154,9 @@ $popup,domain=skripsitesisdisertasi.biz.id
 456sad.cc
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
+4k-studios.com,sukajavid.net##.ad-under-player
+4k-studios.com,sukajavid.net##.popup-ad-overlay
+4k-studios.com,sukajavid.net##html, body:style(overflow: auto!important; position: unset!important; overscroll-behavior-y: unset!important;)
 4play.to##.davwheat-ad
 55tbetx2.pro
 55tbetx3.site
@@ -10902,6 +10905,7 @@ idntimes.com###hidden-ads-megabillboard
 idntimes.com###hidden-parallax
 idntimes.com##.ads-megabillboard
 idntimes.com##.anchor-button
+idntimes.com##.css-jbpz1l
 idntimes.com##.wrapper-billboard
 idntimes.com##.wrapper-leaderboard
 idntimes.com##.wrapper-megabillboard
@@ -11233,6 +11237,8 @@ jendelakaba.com##.gmr-footerbanner
 jendelakaba.com##.gmr-topbanner
 jendelakaba.com##.gmr-verytopbanner
 jeniusplay.com##.pppppup
+jepangkawai.com##a[href="https://jepangkawai.com/advertise"]
+jepangkawai.com##a[href^="https://jepangkawai.com/ads/"]
 jepretnews.com##.mg-widget > figure > figure > img
 jepretnews.com,kabengga.id,warta-nusantara.com##.mg-widget > figure > img
 jobstreet.com.my##[data-automation$="-ads"]
@@ -13551,6 +13557,7 @@ zooba.id##.infeedads
 ||alkhairaat.id^*/banner-$image
 ||alkhairaat.id^*/iklan-$image
 ||allvegaspoker.com^$third-party
+||alphaomegabravo.cloud/ads/$3p
 ||alternatif188bet.$image,third-party
 ||alternatif188bet.$popup
 ||alurnews.com^*/iklan-
@@ -14376,6 +14383,7 @@ zooba.id##.infeedads
 ||earneasycash.$image,third-party
 ||earneasycash.$popup
 ||ebsoft.web.id/wp-content/banners/
+||eccentricsterilizevastness.com^$popup
 ||edomz.com^$third-party
 ||ekbisbanten.com^*/iklan-$image
 ||elang-qq.$image,third-party
@@ -16605,6 +16613,7 @@ zooba.id##.infeedads
 ||suhutogel.$image,third-party
 ||sukabandar.$image,third-party
 ||sukabuminews.id^*_banner_$image
+||sukajavid.net/assets/images/banner/
 ||sukajudi.$image,third-party
 ||sukanonton.*/wp-content/uploads/*.gif$image
 ||sukataruhanbola.$image,third-party

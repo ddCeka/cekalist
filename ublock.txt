@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 7 Aug 2026 22:19 (updated regularly)
+! Last modified: 8 Aug 2026 18:52 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -1575,6 +1575,7 @@
 ##.mh-ad-spot
 ##.mh-loop-ad
 ##.mh-share-buttons:not(body,html,:empty)
+##.minami-ad-slot
 ##.mks_adswidget_ul
 ##.mobileAd_bottom_floating
 ##.mobileads
@@ -1888,6 +1889,7 @@
 ##.widget_anm_ad_space_specific
 ##.widget_iklan_atas
 ##.widget_iklan_atas_content
+##.wp-block-minami-ad-slot
 ##.wp-iklan-banner
 ##.wp-iklan-footer
 ##.wp-iklan-header
@@ -7483,6 +7485,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 -728x90a.
 -780-x-90-$image,domain=bogordaily.net
 -970x250-$image,domain=lampiran.id|popculture.id
+-970x90-
 -970x90px-$image,domain=dara.co.id
 -970x90px.$image,domain=gadgetdiva.id
 -Banner-Iklan-$image
@@ -9534,7 +9537,7 @@ awsubs.id,bioskop45.com,drakorindo.tv,idbioskop.com,nonton33.net##a[href^="https
 axe.com##:matches-path(/id/inspirasi) .featured-product
 axialnews.id##img[width="970"][height="316"]
 ayobacanews.com,beritajurnalis.net,beritapopuler.co.id,bisnismarket.com,bogorzonenews.com,coinvestasi.com,fakta.com,harianindonesia.net,infoterkini.id,infotren.id,jabaronline.com,jurnalcakrawala.com,kabarindoraya.com,kabarkala.com,kalesang.id,kaltimkita.com,lahatsatu.com,lensametro.com,line1.news,liputan12.id,liriknews.com,mahatva.id,mediawarta.com,mistar.id,nuntium.id,pilarparlemen.id,portal7.co.id,portalbanten.net,portalberita.co.id,pusaranmedia.com,revivaltv.id,sakanews.com,serayunews.com,suarabantennews.com,suarakejaksaan.com,sulselpasti.com##img[alt*="ads" i]
-ayobacanews.com,cosmopolitan.co.id,creativedisc.com,disway.id,downloadtanku.org,genyo.id,hariankandidat.co.id,indonesiatoday.co.id,indopop.id,indozone.id,industry.co.id,jurnalkawasan.com,jurnalnusa.com,katadata.co.id,koran-jakarta.com,lambeturah.co.id,minangsatu.com,modalrakyat.id,moladin.com,morigro.id,ntvnews.id,nusantaraterkini.co,pikiran-rakyat.com,realestat.id,riau24.com,rmol.id,sumbarsatu.com##.ads
+ayobacanews.com,cosmopolitan.co.id,creativedisc.com,disway.id,downloadtanku.org,genyo.id,hariankandidat.co.id,indonesiatoday.co.id,indopop.id,indozone.id,industry.co.id,jurnalkawasan.com,jurnalnusa.com,katadata.co.id,koran-jakarta.com,lambeturah.co.id,minangsatu.com,modalrakyat.id,moladin.com,morigro.id,ntvnews.id,nusantaraterkini.co,pikiran-rakyat.com,realestat.id,riau24.com,rmol.id,semarangnetwork.com,sumbarsatu.com##.ads
 ayobandung.com,ayojakarta.com,hops.id,jawapos.com,pikiran-rakyat.com,resepkoki.id###cont-megabillboard
 ayojakarta.com,indogamers.com,poskota.co.id,sukabumiupdate.com##.display__banner
 ayoqq.gif|$image
@@ -14471,7 +14474,7 @@ zooba.id##.infeedads
 ||fullbet.$image,third-party
 ||fullbet88.$image,third-party
 ||fullbet88.$popup
-||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=adakah.id|andalasrayanews.com|antarpapua.com|autoride.co.id|balinews.id|bandasapuluah.com|bardimin.com|berandaperistiwa.com|beriklan.co.id|beritaup2date.com|bukamata.id|drphone.id|gardaindonesia.id|halmaherapost.com|hipwee.com|indonesiatripnews.com|infobanua.co.id|infomalangraya.co.id|inlens.id|innews.id|investasiku.id|jalurdua.com|jejaknarasi.id|juaramedia.com|jurnalpatrolinews.co.id|kabarhit.com|kalimantanpost.com|kaltimfaktual.co|kilasjateng.id|matrasnews.com|mediakampung.com|owrite.id|petanikode.com|pikiran-rakyat.com|pilaraktual.com|porosnusantara.co.id|rakyatbekasi.com|rinews.id|satelitnews.com|seputarpapua.com|sigap88.com|sketsindonews.com|sportcorner.id|suarabahana.com|sukabuminews.id|teraskabar.id|tikta.id|wartakini.co
+||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=adakah.id|andalasrayanews.com|antarpapua.com|autoride.co.id|balinews.id|bandasapuluah.com|bardimin.com|berandaperistiwa.com|beriklan.co.id|beritaup2date.com|bukamata.id|drphone.id|gardaindonesia.id|halmaherapost.com|hipwee.com|indonesiatripnews.com|infobanua.co.id|infomalangraya.co.id|inlens.id|innews.id|investasiku.id|jalurdua.com|jejaknarasi.id|juaramedia.com|jurnalpatrolinews.co.id|kabarhit.com|kakandazyan.my.id|kalimantanpost.com|kaltimfaktual.co|kilasjateng.id|matrasnews.com|mediakampung.com|owrite.id|petanikode.com|pikiran-rakyat.com|pilaraktual.com|porosnusantara.co.id|rakyatbekasi.com|rinews.id|satelitnews.com|seputarpapua.com|sigap88.com|sketsindonews.com|sportcorner.id|suarabahana.com|sukabuminews.id|teraskabar.id|tikta.id|wartakini.co
 ||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=bolasport.com|grid.id|gridoto.com|juara.net|kompas.com|kompas.tv|kompasiana.com|kontan.co.id|motorplus-online.com|parapuan.co|sonora.id|tribunnews.com
 ||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=dewiku.com|himedik.com|hitekno.com|matamata.com|mobimoto.com|suara.com
 ||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=jurnalistekno.id

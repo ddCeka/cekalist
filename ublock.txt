@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 9 Aug 2026 11:06 (updated regularly)
+! Last modified: 10 Aug 2026 00:36 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -11544,15 +11544,11 @@ kompas.com,kompasiana.com,sonora.id##.osmplaceonsite.ads-partner-wrap
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 kompas.id##.flex.items-center.justify-center.w-full.relative
 kompas.id##.flex.justify-center.lg\:px-8.my-6
-kompas.id##.items-center.justify-center.flex.relative.w-full.lg\:min-h-\[132px\].min-h-\[92px\]
 kompas.id##.items-stretch.flex-col.flex-1.flex.z-0.relative.w-full
 kompas.id##.mb-8.pb-8.border-blue-10.border-b-2
 kompas.id##.relative.flex.justify-center.py-2.bg-white
 kompas.id##.relative:has(> [id^="div-gpt-ad-"])
 kompas.id##.w-full.hidden.lg\:flex.bg-grey-10.justify-center.py-3
-kompas.id##.w-full.relative.z-0.flex.flex-1.flex-col.items-stretch.max-w-\[300px\].min-h-\[250px\]
-kompas.id##.w-full.relative.z-0.flex.flex-1.flex-col.items-stretch.max-w-\[320px\].min-h-\[100px\]
-kompas.id##.z-20.w-full.bottom-0.fixed
 kompas.id##div.relative:has(> .max-w-\[320px\].min-h-\[50px\])
 kompas.id##div.relative:has(> .max-w-\[970px\].min-h-\[90px\])
 kompas.id##div:matches-css(max-width: 320px):matches-css(max-height: 50px)
@@ -11668,7 +11664,6 @@ kumparan.com##button[data-qa-id="close"]
 kumparan.com##div[class*="ModalContent"]
 kumparan.com##div[class*="ModalOverlay"]
 kumparan.com##div[class*="Modalweb__"]
-kumparan.com#?#[data-qa-id^="desktop-article-page-inline-"]:has(span:has-text(/ADVERTISEMENT/i))
 kuninganmass.com##.zox-side-widget > figure > img
 kuotareguler.com##.entry-content > .code-block
 kuramanime.*###aboveDownloadBannerSection
@@ -12123,7 +12118,6 @@ narasi.tv##.container.justify-center:has(> .font-roboto:has-text(/adv/i))
 narasi.tv##.cursor-pointer.ml-auto.w-fit.bg-\[\#e3e3e3\].justify-center.items-center.flex.right-2.top-2.absolute > .h-4.w-4.icon
 narasi.tv##.fixed.bottom-0
 narasi.tv##.max-xl\:hidden.top-24.fixed.z-10
-narasi.tv##.max-xl\:hidden.top-24.left-0.fixed.z-10
 narasi.tv##.mb-4.bg-\[\#e3e3e3\]
 narasi.tv##.min-w-\[160px\].min-h-\[600px\]
 narasi.tv##.pb-6.billboard
@@ -12629,7 +12623,6 @@ sapx.id##:matches-path(/blog) .header-before-ad
 sapx.id##:matches-path(/blog) a[href*="sapx.id/id/layanan/"]:has(> img)
 sarana88.gif|$image
 sarangbola.gif|$image
-sasa.co.id##.cookie_consent
 sattakingcharts.in,quotesopia.com,creditsgoal.com###comments
 sattakingcharts.in,quotesopia.com,creditsgoal.com###masthead
 sattakingcharts.in,quotesopia.com,creditsgoal.com##+js(set, count, 0)
@@ -14545,7 +14538,6 @@ zooba.id##.infeedads
 ||github.com/*/*/*/assets/subble.png$image
 ||github.com/*/*/*/assets/tuple.png$image
 ||github.com/*/*/*/assets/warp.png$image
-||glamorous-gate.com^$third-party
 ||global-news.co.id^*/iklan-$image
 ||globalbusiness.id^*/banner-$image
 ||globalriau.com/photo/banner-$image
@@ -14565,8 +14557,6 @@ zooba.id##.infeedads
 ||goodlucky99.$image,third-party
 ||goodlucky99.$popup
 ||google.co.id/search?q=$popup,domain=komikav.com|komikcast.com|manhwaindo.id
-||googlesyndication.com/pagead/js/adsbygoogle.js$redirect-rule=noop.js,script,domain=nekopoi.care
-||googlesyndication.com/pagead/js/adsbygoogle.js$rewrite=abp-resource:blank-js,script,domain=nekopoi.care
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=noop.js,domain=anidraw.net
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=noop.js,domain=drakorwovel.my.id|nekopoi.*
 ||googletagmanager.com/gtag/js$script,redirect-rule=googletagmanager_gtm.js,domain=harianmerdeka.id
@@ -15542,7 +15532,6 @@ zooba.id##.infeedads
 ||maxbetqq.net^$popup
 ||maxisbet.$image,third-party
 ||mayorbet.$image,third-party
-||mayzaent.com^$third-party
 ||mbandarq.$image,third-party
 ||mbopoker.$image,third-party
 ||mcnewsultra.id^*/banner-$image
@@ -16747,7 +16736,6 @@ zooba.id##.infeedads
 ||tebet88.$image,third-party
 ||techfor.id^*/banner-$image
 ||techmind.id^*-banner-$image
-||teeming-comfortable.com^$third-party
 ||teladankalimantan.com^*/ikl-
 ||telegraph.id^*/banner-$image
 ||teliad.com^$third-party

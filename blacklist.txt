@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 7 Aug 2026 22:18 (updated regularly)
+! Last modified: 10 Aug 2026 00:35 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -4216,7 +4216,6 @@
 0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 gladiatorcasino.com
 0.0.0.0 gladiatorslots.com
-0.0.0.0 glamorous-gate.com
 0.0.0.0 glance.inmobi.com
 0.0.0.0 global-elektronik.com
 0.0.0.0 global-receiver-ta.thinkingdata.cn
@@ -6058,7 +6057,6 @@
 0.0.0.0 maxino.com
 0.0.0.0 maxxpicks.com
 0.0.0.0 mayaonlinesoping.com
-0.0.0.0 mayzaent.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mblapi.ssl2.duapps.com
 0.0.0.0 mbn.com.ua
@@ -8599,7 +8597,6 @@
 0.0.0.0 tebak88.com
 0.0.0.0 tebakmimpi.net
 0.0.0.0 technoseluler.com
-0.0.0.0 teeming-comfortable.com
 0.0.0.0 teenkizlar.com
 0.0.0.0 teknologielektronik.com
 0.0.0.0 teknologiku.info

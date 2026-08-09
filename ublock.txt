@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 8 Aug 2026 18:52 (updated regularly)
+! Last modified: 9 Aug 2026 11:06 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9116,6 +9116,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 100kpj.com##.sticky-bottom
 100kpj.com,tvonenews.com##.sticky-bottom
 103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.*,layardrama21.beauty,layardrama21.club#@#.idmuvi-topbanner-aftermenu
+123av.com,anichin.moe,anichin.top,animekompi.vip,bokepindo69.*,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kawanfilm21.co,kimcilonly.*,kingbokep.*,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,simontokx.tv,sukasex.net,sukasex.tv,tantecentil.fans,tv1.lk21official.*,westmanga.*##+js(nowoif)
 180.*,chugoku-np.co.jp##.social
 18subindo.com##.request-warning-bubble
 18subindo.com##a[href^="https://tinyurl.com/"]
@@ -9406,7 +9407,6 @@ anichin.blog,anichin.cafe,anichin.co,anichin.watch###floatcenter
 anichin.cafe,anichin.co###overplay
 anichin.co##a[target*="blank"]:has(> img)
 anichin.dev##[href="https://cek.to/anc-dwc"]
-anichin.moe,anichin.top,animekompi.vip,bokepindo69.*,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kawanfilm21.co,kimcilonly.*,kingbokep.*,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,simontokx.tv,sukasex.net,sukasex.tv,tantecentil.fans,tv1.lk21official.*,westmanga.*##+js(nowoif)
 anichin.watch##a:has(img[src$=".gif"])
 animasu.cc##.lmd-iklan
 animasu.cc,animexin.xyz,ganool.nl,ganool.ph,kiryuu.org,komikcast.*,lmanime.com,luciferdonghua.in,mangaindo.me,mangakita.id,mangakita.net,oploverz.*,realmscans.com###teaser3
@@ -9633,8 +9633,8 @@ beautynesia.id,cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.ads-s
 beautynesia.id,cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com#@#[class^="div-gpt-ad"]
 beautynesia.id,cnnindonesia.com,detik.com,disway.id,haibunda.com##.ads-slot
 becekku.com##img[src*="blogger.googleusercontent.com"][src$=".gif"]
-becekku.com,dewaporn.*,lendirqu.*,video.pejuanglendir.site##.happy-header
-becekku.com,video.pejuanglendir.site##.happy-header-mobile
+becekku.com,bokepbrut.in,dewaporn.*,lendirqu.*,video.pejuanglendir.site##.happy-header
+becekku.com,bokepbrut.in,video.pejuanglendir.site##.happy-header-mobile
 bedahnusantara.com,faktakalbar.id,okeyboz.com,trasberita.com##[class*="widget"] .metaslider
 begawinews.com##img[height="1024"][width="727"]
 bekasiguide.com,beritaminang.com,detikinspirasi.com,ex-pose.net,faktual.net,fatkhan.web.id,gardaanimalia.com,globalsulteng.com,gosulut.id,hibata.id,industry.co.id,japos.co,jurnalmedia.id,jurnalpatrolinews.co.id,kalbarsatu.id,khazminang.id,koma.id,koranbanjar.net,koranpublika.co.id,lombokfokus.com,madurapost.net,mawartanews.com,mediasulsel.com,munadi.id,penaku.id,radarcikarang.com,redaksi24.co.id,sekindo.id,sijorikepri.com,suarapena.com,tintainformasi.com,topsumbar.co.id,torangbisa.com,uzone.id,waspada.id,wawainews.id,zonajogja.com##.idt-textinsidepost
@@ -9848,6 +9848,8 @@ bogornetwork.com##img[width="730"][height="91"]
 bokep.pemersatu.top,pemersatufun.*###myDiv
 bokep360.*##a[href*="gamdom"]
 bokep360.*##a[title="banner" i]:has(> img)
+bokepbrut.in,video.pejuanglendir.site##.happy-under-player
+bokepbrut.in,video.pejuanglendir.site##.happy-under-player-mobile
 bokepcrot.*,bokepcrot69.*,bokepkita.*,bokepsex.*,inibokep.*,kamarbokep.*,kebokepanku.*,ruangbokep.*,ruangbokep99.*,sibokep.*##+js(nowoif)
 bokepcrot.*,bokepcrot69.*,bokepkita.*,bokepsex.*,inibokep.*,kamarbokep.*,kebokepanku.*,ruangbokep.*,ruangbokep99.*,sibokep.*##.btm_ban
 bokepcrot.*,bokepcrot69.*,bokepkita.*,bokepsex.*,inibokep.*,kamarbokep.*,kebokepanku.*,ruangbokep.*,ruangbokep99.*,sibokep.*##a[target*="blank"]:has(> img)
@@ -13168,8 +13170,6 @@ vcgamers.com##.adslatest
 vcgamers.com##.parallax_div
 vg.no##button[aria-label*=Facebook]
 vicek.id##+js(set, VK_DIRECT_AD, undefined)
-video.pejuanglendir.site##.happy-under-player
-video.pejuanglendir.site##.happy-under-player-mobile
 videocrot.*##.ads-720
 videyindo.*###customPopupOverlay
 videyindo.*##+js(aeld, click, popMagic)

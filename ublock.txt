@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 11 Aug 2026 23:52 (updated regularly)
+! Last modified: 12 Aug 2026 22:00 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -7463,6 +7463,7 @@
 ##ul[class^=sociale-ikoner-del]
 ##ytm-share-target-renderer
 #@#[id^="google_ads_iframe"]
+#ayojatim.com-adsbygoogle(AdSense)
 $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 $popup,domain=skripsitesisdisertasi.biz.id
 %2Fiklan-
@@ -7871,10 +7872,10 @@ $popup,domain=skripsitesisdisertasi.biz.id
 /^.*/pinitbtn\..*/$image,match-case
 /^.*/share-icons_.*$/$image,match-case
 /^.*/share/.*-icon\.png.*$/$image,match-case
-/^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop)$/##*:has-text(/(rbtv|superabbit)77/i):style(scrollbar-width: thin!important;)
 /^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) div:matches-css(position: fixed):has(> img)
 /^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
 /^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) iframe + div:matches-css(position: absolute):has(> img)
+/^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop|my)$/##*:has-text(/(rbtv|superabbit|fctv)77/i):style(scrollbar-width: thin!important;)
 /^https:\/\/(?:[a-z]{2}\.)?[a-z]{7,14}\.com\/[a-z](?=[a-z]*[0-9A-Z])[0-9A-Za-z]{10,27}\/[A-Za-z]{4,5}$/$match-case,3p,script
 /^https:\/\/[0-9a-f]{10}\.[0-9a-f]{10}\.com\/[0-9a-f]{32}\.js$/$third-party,script
 /^https:\/\/[0-9a-z]{6,12}\.in(?:\/[a-z]{2,10}){1,3}$/$match-case,third-party,script
@@ -8859,8 +8860,8 @@ $popup,domain=skripsitesisdisertasi.biz.id
 /ratulotto.$image,third-party
 /ratuqq.$image,third-party
 /ratuqq.gif$image
-/rbtvplus\d+\.(com|autos|baby|blog|cfd|click|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|top|vip|xyz)/##*:style(scrollbar-width: thin!important;)
-/rbtvplus\d+\.(com|autos|baby|blog|cfd|click|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|top|vip|xyz)/##.czlll-rlselse
+/rbtvplus\d+\.(com|autos|baby|blog|bond|cfd|click|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|top|vip|xyz)/##*:style(scrollbar-width: thin!important;)
+/rbtvplus\d+\.(com|autos|baby|blog|bond|cfd|click|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|top|vip|xyz)/##.czlll-rlselse
 /rctiqq.$image,third-party
 /rdomino.$image,third-party
 /rejekibet.$image,third-party
@@ -9545,6 +9546,9 @@ ayobacanews.com,beritajurnalis.net,beritapopuler.co.id,bisnismarket.com,bogorzon
 ayobacanews.com,cosmopolitan.co.id,creativedisc.com,disway.id,downloadtanku.org,genyo.id,hariankandidat.co.id,indonesiatoday.co.id,indopop.id,indozone.id,industry.co.id,jurnalkawasan.com,jurnalnusa.com,katadata.co.id,koran-jakarta.com,lambeturah.co.id,minangsatu.com,modalrakyat.id,moladin.com,morigro.id,ntvnews.id,nusantaraterkini.co,pikiran-rakyat.com,realestat.id,riau24.com,rmol.id,semarangnetwork.com,sumbarsatu.com##.ads
 ayobandung.com,ayojakarta.com,hops.id,jawapos.com,pikiran-rakyat.com,resepkoki.id###cont-megabillboard
 ayojakarta.com,indogamers.com,poskota.co.id,sukabumiupdate.com##.display__banner
+ayojatim.com##.adsbygoogle
+ayojatim.com##div[class*="adsbygoogle"]
+ayojatim.com,bekasisatu.com,dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com,rilpolitik.com##.gmr-floatbanner
 ayoqq.gif|$image
 azhan.co,mediahiburan.my##+js(acis, disableSelection, reEnable)
 babelhebat.com,balipolitika.com,barometerbali.com,beritamujizat.com,beritanasional.id,bisnisbanten.com,bogornetwork.com,bumntrack.co.id,dekade.id,detiksultra.com,dialognews.id,difanews.com,djawaranews.com,eljabar.com,elmitra95fm.com,gakorpan.com,gamingonphone.com,gempurnews.com,hasanah.id,infosumut.id,inilahjateng.com,inlens.id,jangantulalit.com,jejaringpos.com,kabaraktualita.com,kabardesa.co.id,kanalntb.co,kapabar.com,kendarikini.com,kerincitime.co.id,kliksamarinda.com,koranprogresif.id,kronikkaltim.id,manuntungnews.com,matadewata.com,matakota.com,mediaberitalampung.co.id,metrobanten.co.id,mitraenamdua.com,muaraenimnews.com,muslimafiyah.com,newsurban.id,ntbsatu.com,pancarpos.com,pcnucilacap.com,pelitarakyat.com,potretmaluku.id,radarkarawang.id,radarmanadoonline.com,rakyatbicara.id,rumaysho.com,suarabhinneka.com,suaraindependentnews.id,suaraislam.id,sumselmedia.com,topkonstruksi.com,upnews.id,wartabalionline.com,wartakotanews.id,wartausaha.com,zetizens.id##img[width="728"][height="91"]
@@ -9643,7 +9647,6 @@ becekku.com,bokepbrut.in,video.pejuanglendir.site##.happy-header-mobile
 bedahnusantara.com,faktakalbar.id,okeyboz.com,trasberita.com##[class*="widget"] .metaslider
 begawinews.com##img[height="1024"][width="727"]
 bekasiguide.com,beritaminang.com,detikinspirasi.com,ex-pose.net,faktual.net,fatkhan.web.id,gardaanimalia.com,globalsulteng.com,gosulut.id,hibata.id,industry.co.id,japos.co,jurnalmedia.id,jurnalpatrolinews.co.id,kalbarsatu.id,khazminang.id,koma.id,koranbanjar.net,koranpublika.co.id,lombokfokus.com,madurapost.net,mawartanews.com,mediasulsel.com,munadi.id,penaku.id,radarcikarang.com,redaksi24.co.id,sekindo.id,sijorikepri.com,suarapena.com,tintainformasi.com,topsumbar.co.id,torangbisa.com,uzone.id,waspada.id,wawainews.id,zonajogja.com##.idt-textinsidepost
-bekasisatu.com,dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com,rilpolitik.com##.gmr-floatbanner
 bekasisatu.id,kapuasnews.id,patrolibins.co.id,serbacara.com##.googlepublisherads
 bekesah.co##.alp-advert
 bekesah.co##img[width="1170"][height="234"]
@@ -10158,6 +10161,7 @@ codingcertification.org##.ads-video-iklan
 codingcertification.org##.code-block:has( > .banner-row)
 colflix.com###popupBanner
 colflix.com##.wps-player__logo-watermark
+comelook.org##.idmuvi-topplayer
 comotin.com##.Widget:nth-of-type(2)
 comotin.com##.Widget:nth-of-type(3)
 condoblues.com###milotree_box_wrap
@@ -12090,7 +12094,6 @@ movieku.*##.adsx
 movieku.*##.teaser3
 movieku.*##[href^="https://heylink.cam/"]
 mp4.youvid.org###center-banner
-mpcourageny9i9zzipper.my##*:style(scrollbar-width: thin!important;)
 mudah.my##+js(no-fetch-if, ads.google.com)
 mudah.my##[class^="banner_" i]
 mudah.my##[data-testid^="featured-ads"]
@@ -13217,6 +13220,7 @@ waspada.co.id##img[width="628"][height="150"]
 waspada.co.id##img[width="918"][height="78"]
 waspira.com##.header-before-ad
 webbrowsertools.com##.card:has-text(/advertisement/i)
+websitebokep.com##+js(aeld, click, player.seeking)
 wendycode.com##+js(no-setTimeout-if, _0x, 2000)
 westmanga.*##+js(nowoif)
 westmanga.*##+js(set, puShown1, true)

@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 13 Aug 2026 19:22 (updated regularly)
+! Last modified: 14 Aug 2026 00:21 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -7464,6 +7464,9 @@
 ##ytm-share-target-renderer
 #@#[id^="google_ads_iframe"]
 #ayojatim.com-adsbygoogle(AdSense)
+#kebokepanku.com-floatingadbanneratbottomofvideoplayer
+#pemersatufun.com-anti-adblockagegate(Monetag/magsrv)
+#putarvid.com/kebokepanku.com-popMagic/ExoClickpopup/popunderdomains
 $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 $popup,domain=skripsitesisdisertasi.biz.id
 %2Fiklan-
@@ -10500,7 +10503,7 @@ fakta.com##.fkt-home-ads-right-1-container
 faktabali.com##.ktzsingle-bannerright
 faktadata.id##img[width="1080"][height="428"]
 faktualnews.co###wideskyscraper
-fantasiku.com,igobokep.*##+js(noeval-if, /fairAdblock|chp_?adblock|adsbygoogle\.js/)
+fantasiku.com,igobokep.*,kurakura21.net##+js(noeval-if, /fairAdblock|chp_?adblock|adsbygoogle\.js/)
 farah.id##.banner_wrap
 fastdrama.co###myModal
 fastdrama.co,hkfree.co###modal
@@ -11390,6 +11393,9 @@ kba.one###gopremium
 kbr.id,kbrprime.id##.max-w-\[970px\].h-\[50px\]
 kbr.id,kepri.co.id##aside a[target="_blank"]:has(> img)
 keadilan.id##img[width="800"][height="500"]
+kebokepanku.com###close-floatadsbawah
+kebokepanku.com##a[id="tracking-url"][target="_blank"]
+kebokepanku.com##div[id^="floatads"]
 keepo.me##.sticky-share-content
 kejarfakta.co,koran-jakarta.com,rmoljabar.id,rmollampung.id,rmolsumut.id##.ad
 kejoranews.com##.theiaStickySidebar img[width="100%"][height="100%"]
@@ -11674,6 +11680,9 @@ kumparan.com##div[class*="ModalOverlay"]
 kumparan.com##div[class*="Modalweb__"]
 kuninganmass.com##.zox-side-widget > figure > img
 kuotareguler.com##.entry-content > .code-block
+kurakura21.net##.ckivhfxowvtsktlckthzinwdmrzoeuwtfvuj_yqlkwtezxwuwdzodfpinnszvoqlrkuwslova
+kurakura21.net##.ekvqyzjqymzltkxnkwyufmgxttzcneuodyxse_rkixstlhqwphwtdhrhjshdubuivwuxrfvpqjsw
+kurakura21.net##img[src*="chp-ads-block-detector"]
 kuramanime.*###aboveDownloadBannerSection
 kuramanime.*###aboveEpisodeListBannerSection
 kuramanime.*###aboveListBannerSection
@@ -12386,6 +12395,11 @@ pemersatufun.*###deskadmiddle
 pemersatufun.*###dooplay_player_response #myDiv:has(button[onclick*="-adblock" i])
 pemersatufun.com###advertisement
 pemersatufun.com###dooplay_player_response #myDiv:has(button[onclick*="-adblock" i])
+pemersatufun.com##.age-gate-ad-status
+pemersatufun.com##[class*="age-gate"]
+pemersatufun.com##[class*="age-gate-adblock"]
+pemersatufun.com##[data-age-accept]
+pemersatufun.com##[data-age-adblock-link]
 pemersatufun.site###deskadmiddle
 penabali.com##a[href^="https://link.penabali.com/go/"]
 pencetpoker.gir|$image
@@ -13177,6 +13191,9 @@ vcgamers.com##.adslatest
 vcgamers.com##.parallax_div
 vg.no##button[aria-label*=Facebook]
 vicek.id##+js(set, VK_DIRECT_AD, undefined)
+video.pemersatu.org##.adsbygoogle
+video.pemersatu.org##.pmt-ad-gate
+video.pemersatu.org##[class*="pmt-ad-gate"]
 videocrot.*##.ads-720
 videyindo.*###customPopupOverlay
 videyindo.*##+js(aeld, click, popMagic)
@@ -13376,6 +13393,7 @@ zooba.id##.infeedads
 ||99poker.$image,third-party
 ||9bet.$image,third-party
 ||9eb10b7a3d04a.com^$popup,third-party
+||a.magsrv.com^$third-party
 ||abgqq.$image,third-party
 ||abgqq.$popup
 ||abgqq88.$image,third-party
@@ -13739,6 +13757,7 @@ zooba.id##.infeedads
 ||backlink.co.id^*/badge-$image,domain=~backlink.co.id|~blogpartner.id
 ||badnessgimmickposted.com^$popup
 ||badutqq.$image,third-party
+||badylenicesist.com^$third-party
 ||baftarbandarkiu.$image,third-party
 ||baftarbandarkiu.$popup
 ||bagusqq.$image,third-party
@@ -14434,6 +14453,10 @@ zooba.id##.infeedads
 ||ewarta.co/*/files/banner/
 ||ewarta.co/*/files/promotion/
 ||ex-ample.org^$script,from=ex-ample.com
+||exacdn.com^$third-party
+||exdynsrv.com^$third-party
+||exoclick.com^$third-party
+||exosrv.com^$third-party
 ||eze99.me^$image,third-party
 ||eze99.me^$popup
 ||ezebet.$image,third-party
@@ -14626,6 +14649,7 @@ zooba.id##.infeedads
 ||hdpbola.$image,third-party
 ||hebatqq.$image,third-party
 ||herald.id^*_ads_$image
+||histats.com^$third-party
 ||hitadsmedia.com^$third-party
 ||hjtowin.$image,third-party
 ||hkpool.$image,third-party
@@ -15334,6 +15358,7 @@ zooba.id##.infeedads
 ||lendoot.com^*/iklan-
 ||letternews.net^*-banner-$image
 ||letternews.net^*/iklan-$image
+||letterrecoveryunplanted.com^$third-party
 ||lexispoker.$image,third-party
 ||liburpoker.$image,third-party
 ||liburpoker.$popup
@@ -15827,6 +15852,7 @@ zooba.id##.infeedads
 ||onlinetaruhansbobet.$image,third-party
 ||onlinetogel.com^$third-party
 ||openadserving.com^$third-party
+||opoxv.com^$third-party
 ||oppabet.$image,third-party
 ||oppabet.com^$popup
 ||oppabet.com^$third-party
@@ -15925,6 +15951,7 @@ zooba.id##.infeedads
 ||pemaincash.$image,third-party
 ||pemaintogel.$image,third-party
 ||pemaintogel.$popup
+||pemsrv.com^$third-party
 ||penabali.com^*/banner-
 ||penaku.id^*/iklan-$image
 ||pendekarqq.$image,third-party
@@ -16069,6 +16096,7 @@ zooba.id##.infeedads
 ||potretkota.com^*/advetorial/
 ||powderencouraged.com^$third-party
 ||power338bet.$image,third-party
+||poweredby.jads.co^$third-party
 ||pratamamedia.com^*/banner-$image
 ||predikatnews.com^*/iklan-$image
 ||prediksi855.$image,third-party
@@ -17145,6 +17173,7 @@ zooba.id##.infeedads
 ||wp.com/*.photobucket.com/*/Blogger%20Perempuan/banner-$domain=~bloggerperempuan.com
 ||wp.com/www.backlink.co.id/wp-content/uploads/$image,domain=~backlink.co.id|~blogpartner.id
 ||wp.com/www.jagoanhosting.com^*/banner-$domain=~jagoanhosting.app|~jagoanhosting.com
+||wpadmngr.com^$third-party
 ||wpbet365.$image,third-party
 ||wprediscache.com^$third-party
 ||ws.sharethis.com^$third-party

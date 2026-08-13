@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 10 Aug 2026 00:35 (updated regularly)
+! Last modified: 14 Aug 2026 00:21 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -356,6 +356,7 @@
 0.0.0.0 a.appbaqend.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.line.me
+0.0.0.0 a.magsrv.com
 0.0.0.0 a78.com
 0.0.0.0 a805.com
 0.0.0.0 a9388.com
@@ -452,6 +453,7 @@
 0.0.0.0 adash-emas.cn-hangzhou.aliyuncs.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adash.man.aliyuncs.com
+0.0.0.0 adashx.m.taobao.com
 0.0.0.0 adashx.ut.alibaba.com
 0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 adashx4id.ut.taobao.com
@@ -1862,6 +1864,7 @@
 0.0.0.0 ba0088.com
 0.0.0.0 bacc1688.com
 0.0.0.0 badnessgimmickposted.com
+0.0.0.0 badylenicesist.com
 0.0.0.0 baijiabo.com
 0.0.0.0 balak9.com
 0.0.0.0 balakqq.com
@@ -3861,10 +3864,14 @@
 0.0.0.0 ewalletcasinobonus.com
 0.0.0.0 ewetot.com
 0.0.0.0 ex-ample.org,from=ex-ample.com
+0.0.0.0 exacdn.com
 0.0.0.0 exclusive-promotions.com
 0.0.0.0 exclusivebet.com
+0.0.0.0 exdynsrv.com
 0.0.0.0 exe.bid
 0.0.0.0 exelbid.com
+0.0.0.0 exoclick.com
+0.0.0.0 exosrv.com
 0.0.0.0 expekt.net
 0.0.0.0 experiment.pixverse.ai
 0.0.0.0 expert-gambler.com
@@ -4527,6 +4534,7 @@
 0.0.0.0 hilltopads.net
 0.0.0.0 hilton.data.adobedc.net
 0.0.0.0 hippodromeonline.com
+0.0.0.0 histats.com
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hitadsmedia.com
 0.0.0.0 hititbet.com
@@ -5567,6 +5575,7 @@
 0.0.0.0 lesacasino.com
 0.0.0.0 lesbian-tubes.com
 0.0.0.0 lestarionlineshop.com
+0.0.0.0 letterrecoveryunplanted.com
 0.0.0.0 lexus88.com
 0.0.0.0 lf-static.tiktokpangle-cdn-us.com
 0.0.0.0 lg-release-tracking-8080.gcld-line.com
@@ -6739,6 +6748,7 @@
 0.0.0.0 openlog.tapapis.com
 0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 opera.com
+0.0.0.0 opoxv.com
 0.0.0.0 opt8.co
 0.0.0.0 optimalgambling.com
 0.0.0.0 optionbet.com
@@ -6917,6 +6927,7 @@
 0.0.0.0 pemaintogel.com
 0.0.0.0 pemaintogel.info
 0.0.0.0 pemaintogel.us
+0.0.0.0 pemsrv.com
 0.0.0.0 pendekarqq.net
 0.0.0.0 pendo-data-prod.box.com
 0.0.0.0 penggilabola.com
@@ -7130,6 +7141,7 @@
 0.0.0.0 portable4pc.com
 0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 powderencouraged.com
+0.0.0.0 poweredby.jads.co
 0.0.0.0 powerlinks.com
 0.0.0.0 ppin-d.ppin
 0.0.0.0 ppin-f.ppin

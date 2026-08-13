@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 12 Aug 2026 22:00 (updated regularly)
+! Last modified: 13 Aug 2026 19:22 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9335,7 +9335,7 @@ abdipersadafm.co.id,beritainkalbar.com,beritasulteng.id,binabangunbangsa.com,det
 abdumar.com,detak.co,jurnas.net,kabar7.id,kabarviral79.com,realita.co,revolusinews.id,siagaindonesia.id,terabasnews.com,timesindonesia.co.id##img[alt*="adv" i]
 abdumar.com,detak.co,jurnas.net,kabar7.id,kabarviral79.com,realita.co,revolusinews.id,siagaindonesia.id,terabasnews.com,timesindonesia.co.id,waspada.id##img[alt*="adv" i]
 aboutsemarang.id,indoposco.id,linggaterkini.com,timur-online.com##img[width="970"][height="90"]
-acehekspres.com,acehportal.com,acehsatu.com,axialnews.id,baliglobalnews.com,baliilu.com,batamnow.com,batamtoday.com,beritakeadilan.com,bloktuban.com,bukamata.id,canalberita.com,ciremaitoday.com,detaktangsel.com,diaribali.com,doktersehat.com,edisimedan.com,faktualnews.co,jabar-online.com,jabaronline.com,jatimkini.com,kabarhandayani.com,kabarjombang.com,kaltimtoday.co,kanalaspirasi.com,klikpositif.com,lintasterkini.com,mediarealitas.com,mediaselektif.com,mediawawasan.com,metropublik.com,nasionalnews.id,ortax.org,panrita.news,pertamax7.com,pilar.id,porosbumi.com,prolegalnews.id,rakyatntt.com,satubanten.com,seru.co.id,teras7.com,trust3media.com,utamanews.com,zonapasar.com,zonasultra.id##img[alt*="iklan" i]
+acehekspres.com,acehportal.com,acehsatu.com,axialnews.id,baliglobalnews.com,baliilu.com,batamnow.com,batamtoday.com,beritakeadilan.com,beritautama.co,bloktuban.com,bukamata.id,canalberita.com,ciremaitoday.com,detaktangsel.com,diaribali.com,doktersehat.com,edisimedan.com,faktualnews.co,jabar-online.com,jabaronline.com,jatimkini.com,kabarhandayani.com,kabarjombang.com,kaltimtoday.co,kanalaspirasi.com,klikpositif.com,lintasterkini.com,mediarealitas.com,mediaselektif.com,mediawawasan.com,metropublik.com,nasionalnews.id,ortax.org,panrita.news,pertamax7.com,pilar.id,porosbumi.com,prolegalnews.id,rakyatntt.com,satubanten.com,seru.co.id,teras7.com,trust3media.com,utamanews.com,zonapasar.com,zonasultra.id##img[alt*="iklan" i]
 acehekspres.com,acehportal.com,acehstandar.com,acehtrend.com,kabartamiang.com,kabartimurnews.com,malukuterkini.com,metropolis.id,modusaceh.co##article #slpremium
 acehherald.com,centralbatam.co.id,pijarnews.com##img[height="1024"][width="819"]
 acehpost.id,berandatimur.com,bidikindonesianews.co.id,eksposisi.com,inspirasijambi.com,jarilampung.com,kabarjournalist.com,kilasgarutnews.id,lampungcorner.com,landaknews.id,lintascelebes.com,mediasinergi.co,newsceoaceh.com,pontianak-times.co.id,suararepubliknews.com###header-banner
@@ -11176,8 +11176,6 @@ jagadtani.com##.banner-item
 jagatpapua.com##.home .flexslider
 jagatpapua.com##.stream-item-above-post
 jagatpapua.com##.stream-item-after-post-title
-jagatpapua.com##img[height="2560"][width="1810"]
-jagatpapua.com##img[height="2560"][width="1920"]
 jagobengkel.com,versusbeda.com##.jquery-modal
 jagodangdut.com,tvonenews.com,viva.co.id##.giant-banner
 jagodangdut.com,viva.co.id##.giant-banner
@@ -12318,9 +12316,9 @@ orami.co.id##.sticky-ads-banner
 orami.co.id##header > #footer_stickyexp:has(> #div-gpt-ad-stickyexp)
 otakdewasa.id##+js(aopw, ai_front)
 otakudesu.pro##a[rel^="nofollow noopener"] > img[src$=".gif"]
-otodiva.id##.a-wrap
 otodiva.id##.detect-modal
 otodiva.id##html:has(.detect-modal), body:has(.detect-modal):style(overflow: auto!important; position: unset!important;)
+otodiva.id,surabayaonline.co##.a-wrap
 otodriver.com###OD-BILLBOARD
 otodriver.com###OD-MR1:has(> script)
 otodriver.com###OD-MR2:has(> script)
@@ -12873,7 +12871,6 @@ sundul.com##.\33 .Premium.Sundul
 sundul.com##.\34 .Premium.Sundul
 superprof.co.id##:matches-path(/blog) .post-content .teachers-cta-link
 suporter.co.id##div:has(> script)
-surabayaonline.co##img[width="1300"][height="200"]
 surabayaonline.co##img[width="600"][height="303"]
 surau.co##.rt-ads-paralax-header
 surau.co##.rt-ads-paralax-header-info

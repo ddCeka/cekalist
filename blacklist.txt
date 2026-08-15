@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 14 Aug 2026 00:21 (updated regularly)
+! Last modified: 15 Aug 2026 11:08 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -212,7 +212,6 @@
 0.0.0.0 59000.com
 0.0.0.0 6000ktv.com
 0.0.0.0 622222.com
-0.0.0.0 64p3am9x95ct.com
 0.0.0.0 6568.com
 0.0.0.0 666cp.com
 0.0.0.0 6688bet.com
@@ -2033,7 +2032,6 @@
 0.0.0.0 barakjudi.com
 0.0.0.0 barca88.com
 0.0.0.0 baroco303.com
-0.0.0.0 baron777premium.com
 0.0.0.0 barona.com
 0.0.0.0 baruna88.com
 0.0.0.0 batam-blackmarket.com
@@ -2787,7 +2785,6 @@
 0.0.0.0 caramenangjudi.net
 0.0.0.0 caramenangjudibola.com
 0.0.0.0 caramenangtaruhan.net
-0.0.0.0 caramenangtaruhanbola.com
 0.0.0.0 caramenangtogel.com
 0.0.0.0 carapasangbolaonline.com
 0.0.0.0 caratcasino.com
@@ -2795,7 +2792,6 @@
 0.0.0.0 carbonpoker.net
 0.0.0.0 carbonsports.info
 0.0.0.0 carfax.sc.omtrdc.net
-0.0.0.0 caribanner.bid
 0.0.0.0 caribbeanpearlcasino.com
 0.0.0.0 caribbeanpokeronline.com
 0.0.0.0 carnivalcasino.com
@@ -5000,7 +4996,6 @@
 0.0.0.0 istanaiklan.com
 0.0.0.0 istanaimpian1.com
 0.0.0.0 istanaimpian2.com
-0.0.0.0 istanaimpian3.com
 0.0.0.0 it3.solobonus.net
 0.0.0.0 italia.casinosicuri.com
 0.0.0.0 italiabet365.com
@@ -5830,7 +5825,6 @@
 0.0.0.0 luckyriverpoker.com
 0.0.0.0 luckytangkas.net
 0.0.0.0 luxbet.com
-0.0.0.0 luxury111.bio
 0.0.0.0 luxury138zz.com
 0.0.0.0 luxurycasino.com
 0.0.0.0 lw-c-log.lastwarapp.com
@@ -6782,7 +6776,6 @@
 0.0.0.0 paddypower.com
 0.0.0.0 paddypowermobile.com
 0.0.0.0 paddypowerplayer.com
-0.0.0.0 padssup.com
 0.0.0.0 paf.com
 0.0.0.0 paganza.biz
 0.0.0.0 paidforfree.com
@@ -7903,7 +7896,6 @@
 0.0.0.0 shokawah.com
 0.0.0.0 shopnoit.com
 0.0.0.0 shortbioo.com
-0.0.0.0 shqbsdjatunl.com
 0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 siagajayaelektronik.com
 0.0.0.0 sierrastarcasino.com
@@ -8239,7 +8231,6 @@
 0.0.0.0 strawpoii.me
 0.0.0.0 streakgaming.com
 0.0.0.0 stream.spongead.com
-0.0.0.0 streaming.desakemuning.online
 0.0.0.0 strikeitluckycasino.com
 0.0.0.0 strikewin.com
 0.0.0.0 sts.batmobi.net
@@ -8605,6 +8596,7 @@
 0.0.0.0 tdedfootball.com
 0.0.0.0 teachscape.vo.llnwd.net
 0.0.0.0 tealand.cmcm.com
+0.0.0.0 team-168.com
 0.0.0.0 teambet1.com
 0.0.0.0 tebak88.com
 0.0.0.0 tebakmimpi.net

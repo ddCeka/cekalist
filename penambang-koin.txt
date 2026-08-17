@@ -1,7 +1,7 @@
 ! Title: Cekalist penambang-koin
 ! Description: Host file anti penambang koin dan situs yang berkaitan
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 14 Aug 2026 00:22 (updated regularly)
+! Last modified: 17 Aug 2026 19:46 (updated regularly)
 
 0.0.0.0 0slot.trade
 0.0.0.0 100k-faces.glitch.me
@@ -105,6 +105,7 @@
 0.0.0.0 aruble.net
 0.0.0.0 asic-miners.eu
 0.0.0.0 asicminer.co
+0.0.0.0 atera.com
 0.0.0.0 atomicnodes.com
 0.0.0.0 atomicwallet.io
 0.0.0.0 atomminer.com
@@ -126,6 +127,7 @@
 0.0.0.0 b3pool.com
 0.0.0.0 babysswap.com
 0.0.0.0 baikalmine.com
+0.0.0.0 basescan.org
 0.0.0.0 bcex.kr
 0.0.0.0 bchain.info
 0.0.0.0 bchsvexplorer.com
@@ -828,6 +830,7 @@
 0.0.0.0 lookup365.com
 0.0.0.0 loophole.site
 0.0.0.0 loudmining.com
+0.0.0.0 ls.apple.com
 0.0.0.0 luckydogpool.com
 0.0.0.0 luckymonster.pro
 0.0.0.0 luckypool.io

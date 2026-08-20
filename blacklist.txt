@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 15 Aug 2026 11:08 (updated regularly)
+! Last modified: 20 Aug 2026 14:57 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -2675,6 +2675,7 @@
 0.0.0.0 btybet.com
 0.0.0.0 bu1.duba.com
 0.0.0.0 bubblesmedia.ru
+0.0.0.0 buffermotivatorsuffice.com
 0.0.0.0 bukutogel.com
 0.0.0.0 bunchofwinners.win
 0.0.0.0 bungaelektroshop.com

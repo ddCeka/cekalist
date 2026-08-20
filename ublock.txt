@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 19 Aug 2026 22:01 (updated regularly)
+! Last modified: 20 Aug 2026 14:57 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -11225,7 +11225,6 @@ javdesu.tv##.overflow-hidden.w-full.aspect-\[728\/90\].relative
 javindo.*##+js(aost, document.getElementsByTagName, adsBlocked)
 javlendirqu.*,lendirqu.*##.happy-header
 javmiu.xyz###disclaimer
-javsubid.sx##+js(nowoif)
 javsubid.sx##.sidebar-ads
 javsubindo.site###btm_banner
 jawapos.com###apbottom
@@ -11580,11 +11579,8 @@ kompas.com##div:has( > #gpt-passback)
 kompas.com,kompas.tv,sonora.id##.kgnw-middle-ready.kgnw-middle
 kompas.com,kompasiana.com,sonora.id##.osmplaceonsite.ads-partner-wrap
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
-kompas.id##.flex.items-center.justify-center.w-full.relative
-kompas.id##.flex.justify-center.lg\:px-8.my-6
-kompas.id##.items-stretch.flex-col.flex-1.flex.z-0.relative.w-full
+kompas.id##.flex.justify-center.lg\\:px-8.my-6
 kompas.id##.mb-8.pb-8.border-blue-10.border-b-2
-kompas.id##.relative.flex.justify-center.py-2.bg-white
 kompas.id##.relative:has(> [id^="div-gpt-ad-"])
 kompas.id##.w-full.hidden.lg\:flex.bg-grey-10.justify-center.py-3
 kompas.id##div.relative:has(> .max-w-\[320px\].min-h-\[50px\])
@@ -12847,6 +12843,7 @@ starringheavenlyrics.blogspot.com##.lalulintas
 stmikaelkranji.org##.ads_footer_leader
 stmikaelkranji.org##.ads_header_leader
 stomp.sg##.w-full.min-h-\[120px\]:has(> .w-\[320px\].lg\:w-\[970px\])
+streamget.win##+js(nowoif)
 streamtape.*##+js(acis, JSON.parse, Promise)
 streamtape.*##+js(nowoif)
 streamtape.*##[class*="bn-container"], div[style*="z-index: 300000;"]
@@ -14069,6 +14066,7 @@ zooba.id##.infeedads
 ||buanapagi.com^*/iklan-
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
+||buffermotivatorsuffice.com^$popup
 ||bumilampung.com^*/ads-
 ||bumisultra.com^*/baner_
 ||bunchofwinners.$popup

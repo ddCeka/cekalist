@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 20 Aug 2026 14:57 (updated regularly)
+! Last modified: 21 Aug 2026 02:13 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -1673,7 +1673,6 @@
 0.0.0.0 appwall.tv2phone.cn
 0.0.0.0 apsrgeo.amap.com
 0.0.0.0 aptoide-rtb.aptoide.com
-0.0.0.0 aqcaphatjoxv.com
 0.0.0.0 aqi.wd.amberweather.com
 0.0.0.0 aqueduct-collector-prod.alar.my
 0.0.0.0 arbetas.com
@@ -3750,6 +3749,7 @@
 0.0.0.0 elephantdata.net
 0.0.0.0 ellisparkracing.com
 0.0.0.0 eltrafiko.com
+0.0.0.0 embed.dugout.com
 0.0.0.0 emediate.eu
 0.0.0.0 empirecitycasino.com
 0.0.0.0 emputogel.com
@@ -7783,6 +7783,7 @@
 0.0.0.0 scratchgames.com
 0.0.0.0 screen.buzzvil.com
 0.0.0.0 scriptall.ml
+0.0.0.0 scripts.jixie.media
 0.0.0.0 scrollbelow.com
 0.0.0.0 sdjitu.com
 0.0.0.0 sdk-api-v1.singular.net
@@ -9712,5 +9713,4 @@
 0.0.0.0 zxphiz.tech
 0.0.0.0 zzhengre.com
 0.0.0.0 zzun88.com
-0.0.0.0 zzuolmapj.com
 0.0.0.0 zzwin168.com

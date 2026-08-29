@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 29 Aug 2026 09:23 (updated regularly)
+! Last modified: 30 Aug 2026 02:40 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -10525,6 +10525,7 @@ f95zone.to##.offCanvasMenu-list > li:nth-of-type(7)
 f95zone.to##.p-footer
 f95zone.to##.p-navgroup--member.p-account.p-navgroup
 f95zone.to##.p-navgroup-link.uix_sidebarTrigger__component.uix_sidebarCanvasTrigger
+f95zone.to##.tabs--standalone.tabs > .hScroller > .is-calculated.hScroller-scroll
 f95zone.to##.uix_fabBar
 f95zone.to##.uix_fabBar--active.uix_fabBar
 f95zone.to##.uix_tabBar
@@ -13365,6 +13366,7 @@ wowkeren.com##.sidebar-box[style]
 wowkeren.com##article div:matches-css(display: inline-block):has(> script)
 wowkeren.com##div[style*="width:300px;min-height:250px"]
 wtools.io###adsright_vertical
+www.bmkg.go.id##.duration-300.transition-\[bottom\].gap-2.items-end.flex-col.flex.right-4.z-50.fixed.bottom-4
 www.patreon.com##.colorSystemContainer-8000d1-default.token-modes-module__i10qXa__colorAuto > .token-modes-module__i10qXa__screenAuto.token-modes-module__i10qXa__colorAuto
 xbokepin.*###popupBannerOverlay
 xbokepin.*##.rbdb-overlay

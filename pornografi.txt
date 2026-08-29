@@ -1,7 +1,7 @@
 ! Title: Cekalist pornografi
 ! Description: Host file anti situs pornografi
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 27 Aug 2026 13:54 (updated regularly)
+! Last modified: 30 Aug 2026 02:40 (updated regularly)
 
 0.0.0.0 0-0.asia
 0.0.0.0 0-12kids.com
@@ -25434,7 +25434,9 @@
 0.0.0.0 badwap.com.co
 0.0.0.0 badwap.desi
 0.0.0.0 badwap.icu
+0.0.0.0 badwe.top
 0.0.0.0 badwhale.com
+0.0.0.0 badwo.top
 0.0.0.0 badxgirls.com
 0.0.0.0 badxnxx.com
 0.0.0.0 badxv.com
@@ -37218,6 +37220,7 @@
 0.0.0.0 bzazy.com
 0.0.0.0 bzbdsw.com
 0.0.0.0 bzbppf.com
+0.0.0.0 bzdbz.com
 0.0.0.0 bzdcom.shop
 0.0.0.0 bzfdcw.com
 0.0.0.0 bzhzc.com
@@ -41012,6 +41015,7 @@
 0.0.0.0 cdnnb.com
 0.0.0.0 cdnon.org
 0.0.0.0 cdnot4.com
+0.0.0.0 cdnprn.com
 0.0.0.0 cdnsex401235.shop
 0.0.0.0 cdnsex401245.shop
 0.0.0.0 cdnsex401255.shop
@@ -49451,6 +49455,7 @@
 0.0.0.0 deflosex.com
 0.0.0.0 defloteen.com
 0.0.0.0 deflowered.net
+0.0.0.0 deflr.com
 0.0.0.0 defopbox.be
 0.0.0.0 defrontier.com
 0.0.0.0 deft-freeporn.com
@@ -51619,6 +51624,7 @@
 0.0.0.0 dirtymomporn.com
 0.0.0.0 dirtymomsexpics.com
 0.0.0.0 dirtymomsexvideos.cc
+0.0.0.0 dirtymotion.com
 0.0.0.0 dirtymovie.com
 0.0.0.0 dirtymovietime.com
 0.0.0.0 dirtymuscle.com
@@ -118736,6 +118742,7 @@
 0.0.0.0 mirrorselfshotpics.com
 0.0.0.0 mirsexy.com
 0.0.0.0 mirstrasti.com.ua
+0.0.0.0 mirthy.art
 0.0.0.0 miru2-c.com
 0.0.0.0 miru2.jp
 0.0.0.0 mirufu.com
@@ -118809,6 +118816,7 @@
 0.0.0.0 missav.li
 0.0.0.0 missav.one
 0.0.0.0 missav.plus
+0.0.0.0 missav.run
 0.0.0.0 missav.to
 0.0.0.0 missav.video
 0.0.0.0 missav.ws
@@ -119304,6 +119312,7 @@
 0.0.0.0 mitaku.net
 0.0.0.0 mitaliarora.com
 0.0.0.0 mitalijaykar.co.in
+0.0.0.0 mitao.diy
 0.0.0.0 mitao.im
 0.0.0.0 mitaoporn.com
 0.0.0.0 mitchell36.com.au
@@ -149814,6 +149823,7 @@
 0.0.0.0 prnpcs.com
 0.0.0.0 prnsite.com
 0.0.0.0 prnsites.com
+0.0.0.0 prnskr.com
 0.0.0.0 prnteen.com
 0.0.0.0 prnvids.com
 0.0.0.0 prnxxx.pro
@@ -157190,6 +157200,7 @@
 0.0.0.0 ripevagina.com
 0.0.0.0 ripherup.com
 0.0.0.0 ripland.net
+0.0.0.0 ripnsfw.com
 0.0.0.0 ripped.digital
 0.0.0.0 rippedandstripped.com
 0.0.0.0 rippedvixen.com
@@ -185329,6 +185340,7 @@
 0.0.0.0 sz-csj.com
 0.0.0.0 sz-subao.com
 0.0.0.0 sz-yfgm.com
+0.0.0.0 sz-ysh.com
 0.0.0.0 sz-zxxx.com
 0.0.0.0 sz977.com
 0.0.0.0 szadd5688.com
@@ -185478,6 +185490,7 @@
 0.0.0.0 szgeny.com
 0.0.0.0 szgfcz.com
 0.0.0.0 szgtsk.com
+0.0.0.0 szgwd.com
 0.0.0.0 szgybs.com
 0.0.0.0 szhades.com
 0.0.0.0 szhbez.com
@@ -185882,6 +185895,7 @@
 0.0.0.0 tainster.us
 0.0.0.0 taintedgirls.com
 0.0.0.0 taintedtube.com
+0.0.0.0 taipei.fyi
 0.0.0.0 taipei2escorts.me
 0.0.0.0 taipeim.com
 0.0.0.0 taiphimsex.org
@@ -186324,6 +186338,7 @@
 0.0.0.0 taotu.org
 0.0.0.0 taoyanzu.net
 0.0.0.0 taoyszh.com
+0.0.0.0 tapeaz.com
 0.0.0.0 tapecontent.net
 0.0.0.0 tapehd.com
 0.0.0.0 tapesxx.com
@@ -186586,6 +186601,7 @@
 0.0.0.0 tddvpzu.xyz
 0.0.0.0 tde-denso.com
 0.0.0.0 tded.club
+0.0.0.0 tdedav.com
 0.0.0.0 tdhoma.ru
 0.0.0.0 tdk-kst.com
 0.0.0.0 tdosug.net
@@ -186597,6 +186613,7 @@
 0.0.0.0 tdstudy.com
 0.0.0.0 tdu3v0ig223.com
 0.0.0.0 tdwr1998.com
+0.0.0.0 tdxflix.io
 0.0.0.0 tdzpd.com
 0.0.0.0 tdzszy.com
 0.0.0.0 te-en.net
@@ -189144,6 +189161,7 @@
 0.0.0.0 teoporn.com
 0.0.0.0 tepebasiescortgo.xyz
 0.0.0.0 teporn.com
+0.0.0.0 tepoy.org
 0.0.0.0 teppan-av.com
 0.0.0.0 tequilaxxx.com
 0.0.0.0 tera19.com
@@ -198122,6 +198140,7 @@
 0.0.0.0 ubg759.com
 0.0.0.0 ubiles-porn.com
 0.0.0.0 ubilesporn.com
+0.0.0.0 ubmqbnk.cc
 0.0.0.0 ubo8.cc
 0.0.0.0 ubondageporn.com
 0.0.0.0 uboqxway.cc
@@ -198199,6 +198218,7 @@
 0.0.0.0 uforum.life
 0.0.0.0 ufreeporn.org
 0.0.0.0 ufskn39.ru
+0.0.0.0 ufuck.net
 0.0.0.0 ufuckhead.com
 0.0.0.0 ufuqq.com
 0.0.0.0 ufym.info
@@ -198498,6 +198518,7 @@
 0.0.0.0 ukuwan.net
 0.0.0.0 ukuwan02.top
 0.0.0.0 ukvaperwholesale.co.uk
+0.0.0.0 ukviva.com
 0.0.0.0 ukwebcamamateur.co.uk
 0.0.0.0 ukwivesdogging.com
 0.0.0.0 ukwivesgangbanged.com
@@ -198524,6 +198545,7 @@
 0.0.0.0 ulovesex.com
 0.0.0.0 ulovesexdoll.top
 0.0.0.0 ulovethebeach.com
+0.0.0.0 ulovex.com
 0.0.0.0 ultimaporn.origamiw.com
 0.0.0.0 ultimate-adult-sex-toys.com
 0.0.0.0 ultimate-bdsm.com
@@ -218796,6 +218818,7 @@
 0.0.0.0 yuyuemanhua.com
 0.0.0.0 yuzhijiaoyu.com
 0.0.0.0 yuzuki-m.net
+0.0.0.0 yuzzer.com
 0.0.0.0 yvimymxw.cc
 0.0.0.0 yvtif.com
 0.0.0.0 yvvephsk.com
@@ -218987,6 +219010,7 @@
 0.0.0.0 zabawawedwoje.com
 0.0.0.0 zabawmysie.com
 0.0.0.0 zabimov.cc
+0.0.0.0 zabina.in
 0.0.0.0 zabuz.net
 0.0.0.0 zacams.com
 0.0.0.0 zacerta.com
@@ -219016,6 +219040,7 @@
 0.0.0.0 zagforums.com
 0.0.0.0 zaglotka.ru
 0.0.0.0 zaglotki.com
+0.0.0.0 zagnul.com
 0.0.0.0 zagrosiha.com
 0.0.0.0 zagruz.online
 0.0.0.0 zagruz.tv
@@ -219150,6 +219175,7 @@
 0.0.0.0 zchdtz.com
 0.0.0.0 zcjob.com
 0.0.0.0 zcmkgh.com
+0.0.0.0 zcppch.com
 0.0.0.0 zcsex.com
 0.0.0.0 zctianrun.com
 0.0.0.0 zcwgc.com
@@ -219162,6 +219188,7 @@
 0.0.0.0 zdjeciaporno.com
 0.0.0.0 zdjsg.com
 0.0.0.0 zdravstvie.ru
+0.0.0.0 zdstsj.com
 0.0.0.0 zdwajlt.cc
 0.0.0.0 zdxseo.com
 0.0.0.0 ze-sexshop.com
@@ -219237,6 +219264,7 @@
 0.0.0.0 zenworks.online
 0.0.0.0 zenxtube.com
 0.0.0.0 zeocast.com
+0.0.0.0 zephyre.be
 0.0.0.0 zeporn.live
 0.0.0.0 zeporner.com
 0.0.0.0 zeporno.mobi
@@ -219278,10 +219306,12 @@
 0.0.0.0 zeusporno.com
 0.0.0.0 zeusstudios.com
 0.0.0.0 zeusstudios.tv
+0.0.0.0 zeuxxx.com
 0.0.0.0 zeventien.nl
 0.0.0.0 zevkhikaye.com
 0.0.0.0 zex.me
 0.0.0.0 zexdoll.com
+0.0.0.0 zexlix.com
 0.0.0.0 zexut.com
 0.0.0.0 zexyvr.com
 0.0.0.0 zeytinburnuescort.net
@@ -219289,6 +219319,7 @@
 0.0.0.0 zeytinburnuescortmanken.site
 0.0.0.0 zeytinburnuescortsitesi.com
 0.0.0.0 zeytinburnukadin.com
+0.0.0.0 zeyvid.com
 0.0.0.0 zflmcfgl.com
 0.0.0.0 zfmachine.com
 0.0.0.0 zfp70.buzz
@@ -219304,6 +219335,7 @@
 0.0.0.0 zgbjphy.com
 0.0.0.0 zgblqy.com
 0.0.0.0 zgboligang.com
+0.0.0.0 zgbwk.com
 0.0.0.0 zgbx110.com
 0.0.0.0 zgctd.com
 0.0.0.0 zgdbys.com
@@ -219327,6 +219359,7 @@
 0.0.0.0 zgmtzy.com
 0.0.0.0 zgnsyh.com
 0.0.0.0 zgorod-dd.com
+0.0.0.0 zgpxdb.com
 0.0.0.0 zgscpash.com
 0.0.0.0 zgshenbian.com
 0.0.0.0 zgsyjspf.com
@@ -219490,6 +219523,7 @@
 0.0.0.0 ziluhuanbao.com
 0.0.0.0 zimashidai.com
 0.0.0.0 zimbabwesexchat.com
+0.0.0.0 zimhot.com
 0.0.0.0 zimhotbabes.com
 0.0.0.0 zimhotlife.com
 0.0.0.0 zina-magazin.ru

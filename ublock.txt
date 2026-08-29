@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 28 Aug 2026 12:53 (updated regularly)
+! Last modified: 29 Aug 2026 09:23 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9416,7 +9416,7 @@ alkhairaat.id,bacatrend.com,beritakota.id,bunaken.co.id,ceklissatu.com,channelsu
 alkhairaat.id,bisnistoday.co.id,ekbisbanten.com,mercusuar.web.id,netiz.id,sultengterkini.id,yangcanggih.com##a.gofollow:has(> img)
 alkitabonline.org##a[data-ref="AD"]:remove()
 alkitabonline.org##a[data-ref="YUEDUYE-AD"]:remove()
-almaftuchin.com,indokontraktor.com##+js(rmnt, script, adblock)
+almaftuchin.com,indokontraktor.com,niadi.net##+js(rmnt, script, adblock)
 alreinamedia.com,asatuonline.id,balijani.id,bentaratimur.id,benuanta.co.id,beritainvestigasinews.id,beritakota.id,buruhtinta.com,detaknews.co.id,deteksipos.com,divisi.id,exposeonline.co.id,extranews.id,gesahkita.com,halilintarnews.id,harianmerdekapost.com,hibata.id,indepthnews.id,indosatunews.com,infosulsel.com,inilahkuningan.com,jatimnow.com,jatimupdate.id,jejakkasus.info,jodanews.com,kabarbatam.com,kabarpapua.co.id,kabarsumbawa.com,kalbaronline.com,kanalkalimantan.com,katasulsel.com,kebumen24.com,koma.id,koranperbatasan.com,koransultra.com,kotaku.co.id,krsumsel.com,kumbanews.com,lacakpos.co.id,lajur.co,lampungmediaonline.com,lintaslampung.com,lintassumut.com,lombokboss.com,majalahteras.com,mediasuarapalu.com,mediatotabuan.co,menit.co.id,metrobatam.com,monopolisumselnews.com,monpera.id,moralriau.com,muarasultra.com,ojenews.com,papuatimes.co.id,pilarmanado.com,portalika.com,radarnasional.net,radioazamfm.id,rakyatnews.co.id,realita.co,relasipublik.com,securitynews.co.id,sentralsultra.com,seru.co.id,simpulrakyat.co.id,sinarindonesia.id,sinarpaginews.com,sorongraya.co,suarasultra.com,suarasumselnews.co.id,sumselupdate.com,swaranews.com,technologyindonesia.id,tekape.co,terdepan.co.id,teritorial24.com,timeskaltim.com,tintahijau.com,topikterkini.com,totabuan.news,trennews.id,trotoar.id,ulasan.co,wartatasik.com,zonaintegritas.news##.textwidget > img
 alreinamedia.com,asatuonline.id,bandungberita.com,bangkitmedia.com,barometerjatim.com,beritafajartimur.com,beritasuararakyat.com,beritatrends.co.id,betara.id,dailypost.id,dialograkyat.com,drivenime.com,exposenews.id,goaceh.id,infomalang.com,infotimes.id,intipnews.com,jabarnews.com,joglojateng.com,kabarpapua.co.id,kanalkalimantan.com,kebumen24.com,komparatif.id,koreri.com,kutipan.co.id,lampungmediaonline.com,lintaslampung.com,lintassumut.com,majalahteras.com,mediainvestigasimabes.co.id,metrobatam.com,metromerauke.co,minanews.net,navaswara.com,orbitdigitaldaily.com,papuatimes.co.id,patrolmedia.co.id,penjuru.id,pijarkepri.com,radarindo.co.id,rakyatnews.co.id,realita.news,sijoritoday.com,sinfonews.com,sorotsultra.com,star-news.id,suaraklaten.id,suarapubliknews.net,sukabuminews.id,sukoharjonews.com,sultranesia.com,swarajambi.net,teraslampung.com,transgo.co.id,trotoar.id,ulasan.co,warta-pendidikan.com,zonasulsel.com##.textwidget > a:has(img)
 amanahnews.com,asiabusinessinfo.com,bacasaja.id,batamnews.co.id,beritaind.com,bualbual.com,depostjabar.com,diaribali.com,gilangnews.com,hariantimes.com,idenews.id,kabarheadline.com,kiblatriau.com,lineperistiwa.com,merahputihterkini.com,metrokaltara.com,paradiso.co.id,pelalawanpos.co,publiknusantara.com,radarpekanbaru.com,riau86.com,rohilonline.com,uwrite.id##.header-banner
@@ -16065,6 +16065,7 @@ zooba.id##.infeedads
 ||planettoto.com^$third-party
 ||platform.twitter.com/widgets/follow_button$subdocument
 ||platform.twitter.com/widgets/tweet_button$subdocument
+||play.simplepaste.site/embed$script,domain=kingbokep.media|simontok.vu
 ||play.xxiku.com/wp-content/uploads/$media,redirect=noopmp4-1s
 ||playpokeronline.com^$third-party
 ||playwebgame.com/banner/$third-party

@@ -8,13 +8,13 @@ Saya mengumpulkan list ini untuk penggunaan pribadi dan kelompok pribadi saya, b
 &nbsp;
 <div align="center">
   <a href="https://github.com/ddCeka/CekaList" >
-    <img src="https://img.shields.io/github/repo-size/ddCeka/CekaList?label=Repo%20Size&color=black" alt="repo size" >
+    <img src="https://img.shields.io/github/repo-size/ddCeka/CekaList?label=Repo%20Size&color=1c1c39" alt="repo size" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" >
-    <img src="https://img.shields.io/badge/Updated%20Hosts-28/Aug/2026-&color=5F8787" >
+    <img src="https://img.shields.io/badge/Updated%20Hosts-29/Aug/2026-004F4F" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" >
-    <img src="https://img.shields.io/github/last-commit/ddCeka/CekaList?label=Last%20Commit" alt="last commit" >
+    <img src="https://img.shields.io/github/last-commit/ddCeka/CekaList?label=Last%20Commit&color=5F8787" alt="last commit" >
   <a/>
   <a href="https://github.com/ddCeka/CekaList/commits/master" >
     <img src="https://img.shields.io/badge/Maintained-yes-blue" >

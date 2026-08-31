@@ -1,7 +1,7 @@
 ! Title: Cekalist pornografi
 ! Description: Host file anti situs pornografi
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 30 Aug 2026 02:40 (updated regularly)
+! Last modified: 31 Aug 2026 14:57 (updated regularly)
 
 0.0.0.0 0-0.asia
 0.0.0.0 0-12kids.com
@@ -45923,6 +45923,7 @@
 0.0.0.0 cpav26.com
 0.0.0.0 cpca.top
 0.0.0.0 cpcnqrc.xyz
+0.0.0.0 cpgrepacks.site
 0.0.0.0 cph84.com
 0.0.0.0 cphporn.com
 0.0.0.0 cpluk.co.uk

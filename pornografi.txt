@@ -1,7 +1,7 @@
 ! Title: Cekalist pornografi
 ! Description: Host file anti situs pornografi
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 31 Aug 2026 14:57 (updated regularly)
+! Last modified: 2 Sep 2026 00:24 (updated regularly)
 
 0.0.0.0 0-0.asia
 0.0.0.0 0-12kids.com
@@ -1901,15 +1901,20 @@
 0.0.0.0 1768av.club
 0.0.0.0 176mr.com
 0.0.0.0 1778mao.com
+0.0.0.0 177oo.com
 0.0.0.0 177pica.com
 0.0.0.0 177xe.com
 0.0.0.0 1788.media
 0.0.0.0 17888555.xyz
 0.0.0.0 178book.club
+0.0.0.0 178va.com
 0.0.0.0 1799.ws
 0.0.0.0 179hs.com
 0.0.0.0 179lxw.com
 0.0.0.0 179na.com
+0.0.0.0 179pp.com
+0.0.0.0 179qs.com
+0.0.0.0 179vb.com
 0.0.0.0 179xe.com
 0.0.0.0 17aha.com
 0.0.0.0 17b7.com
@@ -1938,12 +1943,14 @@
 0.0.0.0 17cdnsex46.shop
 0.0.0.0 17cdnsex462.shop
 0.0.0.0 17dazi.com
+0.0.0.0 17ddd.com
 0.0.0.0 17gaoff.com
 0.0.0.0 17haba.com
 0.0.0.0 17hand.com
 0.0.0.0 17hehuo.com
 0.0.0.0 17jpav.com
 0.0.0.0 17kind.com
+0.0.0.0 17live.club
 0.0.0.0 17livesex.nl
 0.0.0.0 17lo.tv
 0.0.0.0 17maobk.com
@@ -1994,6 +2001,7 @@
 0.0.0.0 1800freesex.com
 0.0.0.0 1800hotblow.com
 0.0.0.0 1800hugetits.com
+0.0.0.0 1800hy.com
 0.0.0.0 1800jackoff.com
 0.0.0.0 1800momlove.com
 0.0.0.0 1800momwild.com
@@ -28175,6 +28183,7 @@
 0.0.0.0 bdsmsexguide.com
 0.0.0.0 bdsmsexlove.com
 0.0.0.0 bdsmsexpartner.com
+0.0.0.0 bdsmsexplan.com
 0.0.0.0 bdsmsexplus.com
 0.0.0.0 bdsmsexshops.com
 0.0.0.0 bdsmsextgp.com
@@ -41058,6 +41067,7 @@
 0.0.0.0 cdxsjpx.com
 0.0.0.0 cdxxxw.com
 0.0.0.0 cdxxxx.live
+0.0.0.0 cdxyxjc.com
 0.0.0.0 cdybgg.com
 0.0.0.0 cdydcs.com
 0.0.0.0 cdyfzs.com
@@ -48974,6 +48984,7 @@
 0.0.0.0 dbenz.ru
 0.0.0.0 dbestporn.com
 0.0.0.0 dbgays.com
+0.0.0.0 dbisok.com
 0.0.0.0 dbkisses.com
 0.0.0.0 dbms.pl
 0.0.0.0 dbnaked.com
@@ -90562,6 +90573,7 @@
 0.0.0.0 huescort.com
 0.0.0.0 hueyfurniture.com
 0.0.0.0 huezsw.com
+0.0.0.0 hufeee.com
 0.0.0.0 hufung12.com
 0.0.0.0 hugdate.com
 0.0.0.0 huge-big-tit.info
@@ -94350,7 +94362,10 @@
 0.0.0.0 iplayboy.com
 0.0.0.0 ipleasure.co.uk
 0.0.0.0 ipnewsblog.com
+0.0.0.0 iponel.cc
 0.0.0.0 iponel.net
+0.0.0.0 iponel.one
+0.0.0.0 iponel.top
 0.0.0.0 ipopu.com
 0.0.0.0 iporn-babes.com
 0.0.0.0 iporn-hub.xyz
@@ -112290,9 +112305,11 @@
 0.0.0.0 maiacassidy.com
 0.0.0.0 maiadavisfacialabuse.com
 0.0.0.0 maiaeroticshop.net
+0.0.0.0 maiaid.com
 0.0.0.0 maiakitty.com
 0.0.0.0 maiaproape.com
 0.0.0.0 maichequna.com
+0.0.0.0 maid-h.com
 0.0.0.0 maid2bdirty.com
 0.0.0.0 maidbots.net
 0.0.0.0 maidenhead-escorts.com
@@ -156893,6 +156910,7 @@
 0.0.0.0 rezudouga.net
 0.0.0.0 rf-porno.ru
 0.0.0.0 rfc2000.nl
+0.0.0.0 rfgen.net
 0.0.0.0 rfxghwf.xyz
 0.0.0.0 rgav5.club
 0.0.0.0 rgayz.com
@@ -156940,6 +156958,7 @@
 0.0.0.0 rhymecal.com
 0.0.0.0 rhymerev.com
 0.0.0.0 rhysensual.com
+0.0.0.0 riadou.com
 0.0.0.0 riajkxus.xyz
 0.0.0.0 riana-sexcam-girl.com
 0.0.0.0 riarudoll.com
@@ -156955,6 +156974,7 @@
 0.0.0.0 ribsocks-fetish.com
 0.0.0.0 ribya.com
 0.0.0.0 ricachan-house.com
+0.0.0.0 ricams.com
 0.0.0.0 ricandi.com
 0.0.0.0 ricebutterflies.com
 0.0.0.0 ricefuck.com
@@ -157260,6 +157280,7 @@
 0.0.0.0 rivalry.com
 0.0.0.0 rivasor.com
 0.0.0.0 rivboys.com
+0.0.0.0 rivcam.com
 0.0.0.0 rivcam.net
 0.0.0.0 riveraporn.com
 0.0.0.0 riverasian.com
@@ -194033,6 +194054,7 @@
 0.0.0.0 toticos.com
 0.0.0.0 totohentai.com
 0.0.0.0 totoleak.com
+0.0.0.0 totolin.com
 0.0.0.0 totorgasm.com
 0.0.0.0 totoro-hentai.icu
 0.0.0.0 totoxx.xyz
@@ -200232,6 +200254,7 @@
 0.0.0.0 velvetswingersclub.com
 0.0.0.0 velvetveronica.com
 0.0.0.0 velvetxxx.com
+0.0.0.0 velvxx.com
 0.0.0.0 vencounters2.com
 0.0.0.0 vendasafrodite.com.br
 0.0.0.0 vendettaverse.com
@@ -211615,6 +211638,7 @@
 0.0.0.0 xspicyworld.net
 0.0.0.0 xsporn.tv
 0.0.0.0 xsportshd.com
+0.0.0.0 xspyzz.com
 0.0.0.0 xstarlive.com
 0.0.0.0 xstarporn.com
 0.0.0.0 xstars.cam
@@ -211662,6 +211686,7 @@
 0.0.0.0 xtaiwanhub.com
 0.0.0.0 xtantric.com
 0.0.0.0 xtapes.io
+0.0.0.0 xtapes.la
 0.0.0.0 xtapes.me
 0.0.0.0 xtapes.tv
 0.0.0.0 xtaqpx.com
@@ -211678,6 +211703,7 @@
 0.0.0.0 xtcssy.com
 0.0.0.0 xtctoys.co.uk
 0.0.0.0 xtctube.com
+0.0.0.0 xtdfs.com
 0.0.0.0 xtdoll.com
 0.0.0.0 xteacherporn.com
 0.0.0.0 xtechsmarthome.com
@@ -211695,6 +211721,7 @@
 0.0.0.0 xteensex.sbs
 0.0.0.0 xteensloveblackcocks.com
 0.0.0.0 xteenx.pro
+0.0.0.0 xtejin.jp
 0.0.0.0 xtekllc.com
 0.0.0.0 xtemptation.com
 0.0.0.0 xtentations.net
@@ -218590,6 +218617,7 @@
 0.0.0.0 ys28u.com
 0.0.0.0 ys29s.com
 0.0.0.0 ys58k.com
+0.0.0.0 ysb-zh.com
 0.0.0.0 ysbjzs.com
 0.0.0.0 ysbljx.com
 0.0.0.0 ysbt.online
@@ -218604,12 +218632,14 @@
 0.0.0.0 ysppzs.com
 0.0.0.0 ysqcxq.com
 0.0.0.0 ysr1560.com
+0.0.0.0 yssfgg.com
 0.0.0.0 ysstd.com
 0.0.0.0 yssxx.sbs
 0.0.0.0 yswords.com
 0.0.0.0 ysxx02.xyz
 0.0.0.0 ysygood.com
 0.0.0.0 ysyjmall.com
+0.0.0.0 ysykn.com
 0.0.0.0 ysytc.com
 0.0.0.0 ysytmall.com
 0.0.0.0 ysywj.com
@@ -218617,6 +218647,7 @@
 0.0.0.0 yszybwg.com
 0.0.0.0 yt65k.com
 0.0.0.0 ytanoay.sbs
+0.0.0.0 ytbkjs.com
 0.0.0.0 ytboob.com
 0.0.0.0 ytboob.live
 0.0.0.0 ytchengtai.com
@@ -220113,6 +220144,7 @@
 0.0.0.0 zq627.com
 0.0.0.0 zqdljz.com
 0.0.0.0 zqeufmtl.com
+0.0.0.0 zqhsc.com
 0.0.0.0 zqianzhou.com
 0.0.0.0 zqjbcnvm.xyz
 0.0.0.0 zqlfffg.biz

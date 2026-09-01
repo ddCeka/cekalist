@@ -1,7 +1,7 @@
 ! Title: Cekalist penambang-koin
 ! Description: Host file anti penambang koin dan situs yang berkaitan
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 25 Aug 2026 09:17 (updated regularly)
+! Last modified: 2 Sep 2026 00:23 (updated regularly)
 
 0.0.0.0 0slot.trade
 0.0.0.0 100k-faces.glitch.me
@@ -100,6 +100,7 @@
 0.0.0.0 apkgold.ae
 0.0.0.0 apkgold.in
 0.0.0.0 apkgold.kr
+0.0.0.0 apkraw.com
 0.0.0.0 apks.software
 0.0.0.0 appdomain.cloud
 0.0.0.0 applayer.com

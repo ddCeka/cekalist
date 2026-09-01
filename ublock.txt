@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 31 Aug 2026 14:56 (updated regularly)
+! Last modified: 2 Sep 2026 00:23 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -13202,6 +13202,7 @@ tribrata.tv###sidebar-header img[style="max-width: 100%; height: auto;"]
 tribrata.tv##.ad-middle
 tribrata.tv##[id^="sidebar-"] .before-widget:has(img[style="max-width: 100%; height: auto;"])
 tribratanews.banten.polri.go.id##.widget:has(img[style="max-width: 100%; height: auto;"])
+tribratanews.jabar.polri.go.id##[alt="banner ad" i]
 tribratanews.jatim.polri.go.id##[class*="bn-"]
 tribratanews.lampung.polri.go.id###renderBanner
 tribratanews.lampung.polri.go.id###render_section_kanan

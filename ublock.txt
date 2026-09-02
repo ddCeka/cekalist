@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 2 Sep 2026 00:23 (updated regularly)
+! Last modified: 2 Sep 2026 11:15 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9979,6 +9979,8 @@ borobudurnews.com##aside .widget:has(> .adsbygoogle)
 borobudurnews.com,nekopencil.com##div[itemtype="https://schema.org/WPAdBlock"]:has(> script)
 boscinema21.bar,bosku21.help,dramaserial21.bar,filmonline.bar,indofilmdewasa.bar,nontonfilmnikmat.bar,semikeren.site###fadeinbox
 boscinema21.bar,bosku21.help,dramaserial21.bar,filmonline.bar,indofilmdewasa.bar,nontonfilmnikmat.bar,semikeren.site##a[target*="blank"]:has(> img)
+bosku21.help,sangetods.net##.active.adde_modal-overlay
+bosku21.help,sangetods.net##.adde_modal_detector-show.adde_modal_detector
 brainacademy.id##.banner-product
 brainacademy.id##:matches-path(/blog) .side-banner-desktop
 brainacademy.id##:matches-path(/blog) .side-banner-mobile
@@ -11762,8 +11764,7 @@ kumparan.com##div[class*="ModalOverlay"]
 kumparan.com##div[class*="Modalweb__"]
 kuninganmass.com##.zox-side-widget > figure > img
 kuotareguler.com##.entry-content > .code-block
-kurakura21.net##.ckivhfxowvtsktlckthzinwdmrzoeuwtfvuj_yqlkwtezxwuwdzodfpinnszvoqlrkuwslova
-kurakura21.net##.ekvqyzjqymzltkxnkwyufmgxttzcneuodyxse_rkixstlhqwphwtdhrhjshdubuivwuxrfvpqjsw
+kurakura21.net##.tgrxectpstyxyufnyvkvvuivnky_umtosnnhzdutgvqyztwjdbvbswt
 kurakura21.net##img[src*="chp-ads-block-detector"]
 kuramanime.*###aboveDownloadBannerSection
 kuramanime.*###aboveEpisodeListBannerSection
@@ -12480,6 +12481,8 @@ pemersatu.org###pemersatuDiv
 pemersatu.org,pemersatu.store,pemersatu.top,pemersatudotfun.com,pemersatufun.com,pemersatufun.site##[role="advertisement"]
 pemersatu.org,pemersatufun.site###movieplayer-box #myDiv:has(button[onclick*="window.open('https://id.wikihow.com/Menonaktifkan-Adblock'"])
 pemersatu.top##.ad
+pemersatu.top##.age-ad-card
+pemersatu.top##.age-gate-ad-mode
 pemersatu.top##.player > #myDiv
 pemersatu.top,pemersatudotfun.com,pemersatufun.*,pemersatufun.site#@##adright
 pemersatu.top,pemersatufun.site##.ad
@@ -12742,8 +12745,6 @@ sammobile.com##.adm-ad-loading
 samuderakepri.co.id##.header-banner-box
 sange.link##.Dvr-B
 sange.link##.DvrCn
-sangetods.net##.active.adde_modal-overlay
-sangetods.net##.adde_modal_detector-show.adde_modal_detector
 sangevip.com##.promo-banner
 sapx.id##:matches-path(/blog) .header-before-ad
 sapx.id##:matches-path(/blog) a[href*="sapx.id/id/layanan/"]:has(> img)
@@ -14224,6 +14225,7 @@ zooba.id##.infeedads
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
 ||cdn.teknolur.eu.org^$image,domain=kingbokep.media
+||cdn.tsyndicate.com^,domain=kurakura21.net
 ||cdnasiaclub.$popup
 ||cdnasiaclub.com^$third-party
 ||cdnfgo.xyz/wp-content/uploads/*.gif|$domain=komiktap.info
@@ -14251,7 +14253,10 @@ zooba.id##.infeedads
 ||cfs1.uzone.id^$third-party
 ||cfs2.uzone.id^$third-party
 ||champspoker.$image,third-party
+||chaseherbalpasty.com^,domain=kurakura21.net
 ||chilipoker.com^$third-party
+||ci.putsaggies.com^,domain=boscinema21.bar
+||ci.putsaggies.com^,domain=bosku21.help
 ||cimbbet.$image,third-party
 ||cinaqq.$image,third-party
 ||cinaqq.$popup
@@ -14344,6 +14349,7 @@ zooba.id##.infeedads
 ||dbl.id/img/banners/
 ||debridleech.com^
 ||decafeligiblyhad.com^$popup
+||deductgreedyheadroom.com^,domain=bokepbrut.in
 ||deepend.id^*/iklan-$image
 ||delapantogel.com^$third-party
 ||dellpoker.$image,third-party
@@ -14483,6 +14489,7 @@ zooba.id##.infeedads
 ||dragonpoker.$image,third-party
 ||dramaday.net/soundtrack.js$script
 ||dreamers.id/img_ads/
+||driverhugoverblown.com^
 ||ds3.aws-ec2.com/static/ads/$image
 ||duapoker.$image,third-party
 ||duapoker.$popup
@@ -14511,6 +14518,8 @@ zooba.id##.infeedads
 ||dwagg.me^$third-party
 ||dwanonton.*/static/banner/*.gif$image
 ||dwoqq.$image,third-party
+||earmuffpostnasalrisotto.com^
+||earmuffpostnasalrisotto.com^,domain=bokepbrut.in
 ||earneasycash.$image,third-party
 ||earneasycash.$popup
 ||ebsoft.web.id/wp-content/banners/
@@ -14538,6 +14547,7 @@ zooba.id##.infeedads
 ||emputogel.com^$third-party
 ||en777.$all
 ||enakslot.bio^$third-party
+||endlesshandbaglinked.com^,domain=bokepbrut.in
 ||enjoydepo.$image,third-party
 ||enjoydomino.$image,third-party
 ||enjoyqq.$image,third-party
@@ -14705,6 +14715,7 @@ zooba.id##.infeedads
 ||gopoker.$image,third-party
 ||goratu.site^$third-party
 ||goriau.com/assets/imgbank/*/ads-$image
+||goshort.info^$all,domain=jepangbasah.com
 ||gosulsel.com^*/banner-$image
 ||groupiklan.com^$third-party
 ||gudangbanner.com^$third-party
@@ -15143,6 +15154,8 @@ zooba.id##.infeedads
 ||jendralpoker.$image,third-party
 ||jendralpoker.$popup
 ||jeniusplay.com/cdn/vastads/$xmlhttprequest
+||jepangbasah.com/ads/$image
+||jepangmaniak.com/ads/$image
 ||jhonlinmagz.com^*/banner-$image
 ||jituangka.$image,third-party
 ||jitutogel.$image,third-party
@@ -15228,6 +15241,7 @@ zooba.id##.infeedads
 ||juditogelaman.$image,third-party
 ||juditogelonline.$image,third-party
 ||juicyads.com^$third-party
+||juicyads.com^,domain=kurakura21.net
 ||juragan21.*/wp-content/uploads/*.gif$image
 ||jurnalbengkulu.com^*/banner_
 ||jurnalbengkulu.com^*/promo_
@@ -16191,6 +16205,9 @@ zooba.id##.infeedads
 ||powderencouraged.com^$third-party
 ||power338bet.$image,third-party
 ||poweredby.jads.co^$third-party
+||poweredby.jads.co^,domain=bokep.pemersatu.top
+||poweredby.jads.co^,domain=bokepbox.cc
+||poweredby.jads.co^,domain=kurakura21.net
 ||pratamamedia.com^*/banner-$image
 ||predikatnews.com^*/iklan-$image
 ||prediksi855.$image,third-party

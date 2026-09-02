@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 2 Sep 2026 11:15 (updated regularly)
+! Last modified: 3 Sep 2026 00:15 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -2567,6 +2567,9 @@
 ##[href="https://go.onelink.fit/indopride88pojokan"]
 ##[href="https://go.onelink.fit/royalaces88pojokan"]
 ##[href="https://goodlink.click/layartancap"]
+##[href="https://goshort.info/asiawd"]
+##[href="https://goshort.info/royalvano"]
+##[href="https://goshort.info/wdgemoy"]
 ##[href="https://happylink.pro/adkiryuu"]
 ##[href="https://happylink.pro/adsmovie"]
 ##[href="https://happylink.pro/layarkacak999"]
@@ -7931,6 +7934,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 /ads.jpg
 /ads/*$image,domain=korankaltim.com|pantau.com|pusaranmedia.com
 /ads/*$to=gmbr.pro
+/ads/*$to=jepangbasah.com|jepangkawai.com|jepangmaniak.com|jepangmantap.com
 /ads/iklan.$image
 /ads/iklan/*$image
 /ads/iklan_
@@ -11340,8 +11344,9 @@ jendelakaba.com##.gmr-footerbanner
 jendelakaba.com##.gmr-topbanner
 jendelakaba.com##.gmr-verytopbanner
 jeniusplay.com##.pppppup
-jepangbasah.com,jepangkawai.com,jepangmantap.com##a[href*=".com/ads/"]
-jepangbasah.com,jepangkawai.com,jepangmantap.com##a[href*=".com/advertise"]
+jepangbasah.com,jepangkawai.com,jepangmaniak.com,jepangmantap.com##a[href*=".com/ads/"]
+jepangbasah.com,jepangkawai.com,jepangmaniak.com,jepangmantap.com##a[href*=".com/advertise"]
+jepangbasah.com,jepangkawai.com,jepangmaniak.com,jepangmantap.com##a[href*=".com/pasang-iklan/"]
 jepretnews.com##.mg-widget > figure > figure > img
 jepretnews.com,kabengga.id,warta-nusantara.com##.mg-widget > figure > img
 jmnews.id##.ads__top

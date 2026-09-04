@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 3 Sep 2026 00:15 (updated regularly)
+! Last modified: 4 Sep 2026 21:06 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -11347,6 +11347,7 @@ jeniusplay.com##.pppppup
 jepangbasah.com,jepangkawai.com,jepangmaniak.com,jepangmantap.com##a[href*=".com/ads/"]
 jepangbasah.com,jepangkawai.com,jepangmaniak.com,jepangmantap.com##a[href*=".com/advertise"]
 jepangbasah.com,jepangkawai.com,jepangmaniak.com,jepangmantap.com##a[href*=".com/pasang-iklan/"]
+jepangkawai.com,jepangmaniak.com,jepangmantap.com##a.group.block.relative.w-full.aspect-\[8\/1\].rounded-xl.overflow-hidden.shadow-sm.border.border-slate-200.hover:border-brandgreen.transition.bg-slate-900
 jepretnews.com##.mg-widget > figure > figure > img
 jepretnews.com,kabengga.id,warta-nusantara.com##.mg-widget > figure > img
 jmnews.id##.ads__top
@@ -12488,6 +12489,7 @@ pemersatu.org,pemersatufun.site###movieplayer-box #myDiv:has(button[onclick*="wi
 pemersatu.top##.ad
 pemersatu.top##.age-ad-card
 pemersatu.top##.age-gate-ad-mode
+pemersatu.top##.gate-backdrop
 pemersatu.top##.player > #myDiv
 pemersatu.top,pemersatudotfun.com,pemersatufun.*,pemersatufun.site#@##adright
 pemersatu.top,pemersatufun.site##.ad
@@ -14720,7 +14722,7 @@ zooba.id##.infeedads
 ||gopoker.$image,third-party
 ||goratu.site^$third-party
 ||goriau.com/assets/imgbank/*/ads-$image
-||goshort.info^$all,domain=jepangbasah.com
+||goshort.info^$all,domain=jepangbasah.com|jepangkawai.com|jepangmaniak.com|jepangmantap.com
 ||gosulsel.com^*/banner-$image
 ||groupiklan.com^$third-party
 ||gudangbanner.com^$third-party
@@ -15246,6 +15248,7 @@ zooba.id##.infeedads
 ||juditogelaman.$image,third-party
 ||juditogelonline.$image,third-party
 ||juicyads.com^$third-party
+||juicyads.com^,domain=bokepi.com
 ||juicyads.com^,domain=kurakura21.net
 ||juragan21.*/wp-content/uploads/*.gif$image
 ||jurnalbengkulu.com^*/banner_

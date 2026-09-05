@@ -1,7 +1,7 @@
 ! Title: Cekalist pornografi
 ! Description: Host file anti situs pornografi
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 4 Sep 2026 21:07 (updated regularly)
+! Last modified: 5 Sep 2026 16:30 (updated regularly)
 
 0.0.0.0 0-0.asia
 0.0.0.0 0-12kids.com
@@ -2770,6 +2770,7 @@
 0.0.0.0 1maturexxx.cc
 0.0.0.0 1mfd.com
 0.0.0.0 1milf.com
+0.0.0.0 1minx.com
 0.0.0.0 1mov.net
 0.0.0.0 1movieplex.online
 0.0.0.0 1movieshd.org
@@ -83415,6 +83416,7 @@
 0.0.0.0 hardpaintube.com
 0.0.0.0 hardpenetration.com
 0.0.0.0 hardpeterxxx.com
+0.0.0.0 hardpicsx.icu
 0.0.0.0 hardpicsxxx.click
 0.0.0.0 hardpimp.com
 0.0.0.0 hardplace.com
@@ -83465,6 +83467,7 @@
 0.0.0.0 hardsex.click
 0.0.0.0 hardsex.hu
 0.0.0.0 hardsex.icu
+0.0.0.0 hardsex.life
 0.0.0.0 hardsex.xyz
 0.0.0.0 hardsex8.com
 0.0.0.0 hardsexblogs.com
@@ -99365,6 +99368,7 @@
 0.0.0.0 jockcock.com
 0.0.0.0 jockgayporn.com
 0.0.0.0 jockmenlive.com
+0.0.0.0 jockpack.com
 0.0.0.0 jockpayperview.com
 0.0.0.0 jockphysical.org
 0.0.0.0 jockporn.com

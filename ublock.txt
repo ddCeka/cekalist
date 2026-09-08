@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 5 Sep 2026 16:29 (updated regularly)
+! Last modified: 8 Sep 2026 16:19 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9664,7 +9664,6 @@ beautyjournal.id##.r-1ut4w64.r-14lw9ot.css-175oi2r
 beautyjournal.id,jawapos.com##div:matches-css(width: 300px):matches-css(height: 600px)
 beautymaterials.com,gplinks.co##+js(set, count, 0)
 beautymaterials.com,gplinks.co##+js(set, maincount, 0)
-beautynesia.id##.beaupicks
 beautynesia.id##.box-ads--container
 beautynesia.id,cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.ads-slot
 beautynesia.id,cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com#@#[class^="div-gpt-ad"]
@@ -9880,7 +9879,6 @@ blurayufr.cam##+js(acis, chp_ads_blocker_detector)
 bobo.grid.id,bolasport.com##.mb10.text-center.row
 bobobox.com,caroline.id,corpnet.net.id,danacita.co.id##:matches-path(/blog) img[alt*="banner" i]
 bogordaily.net,goosela.com,inionline.id,seputarsumut.com,spionase-news.com,terkamnews.com##.widget:has(> a > img)
-bogordaily.net,mojok.co##.code-block > .voucher_at
 bogordaily.net,vcgamers.com##.insert_ads
 bogornetwork.com##img[width="700"][height="243"]
 bogornetwork.com##img[width="730"][height="91"]
@@ -10255,6 +10253,8 @@ cubmu.com##body > #__next > div.fixed:has(> img[src*="banner"])
 cuplik.com###myCarousel-ik-left
 dadadidi.de###hihi
 dafunda.com##.adsense-inlinepost
+daily.dev##.max-w-\[300px\].min-h-\[286px\]:has(> span:has-text(/adv/i))
+daily.dev##.tablet\:max-w-\[728px\].max-w-\[320px\]:has(> span:has-text(/adv/i))
 dailyindonesia.id,indomerdeka.com,palembangindependen.com##.navbar-main-ads
 dailypost.id###custom_html-136
 dailypost.id##[href^="https://lynk.id/dailypost.id"]
@@ -10376,7 +10376,6 @@ dewiku.com,guideku.com,himedik.com,hitekno.com,mobimoto.com###close-ads-bottom
 dewiku.com,suara.com##.bg-ads-sticky-side
 dewiku.com,suara.com##.bg-ads-sticky-top
 diadona.id##.banner-sc
-diadona.id##.detail-body .voucherWrap
 diadona.id##.drm-banner-x
 diadona.id,uwrite.id##.col-banner
 diagramkota.com,gardaindonesia.id,harianterbit.id,infocikarang.id,sumselindependen.com##.banner-floating
@@ -10561,7 +10560,6 @@ farah.id##.banner_wrap
 fastdrama.co###myModal
 fastdrama.co,hkfree.co###modal
 favo.id##:matches-path(/blog) .main-banner
-favo.id##:matches-path(/blog) .product-card
 fctv33.*,fctv33hd.*,fctv77.*,rbsports77.*,rbsports77hd.*,rbtv77.*##*:style(scrollbar-width: thin!important;)
 fctv33.*,fctv33hd.*,fctv77.*,rbsports77.*,rbsports77hd.*,rbtv77.*##:matches-path(/id) div:matches-css(position: fixed):has(> img)
 fctv33.*,fctv33hd.*,fctv77.*,rbsports77.*,rbsports77hd.*,rbtv77.*##:matches-path(/id) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
@@ -10741,7 +10739,6 @@ gosulut.id##.gmr-share-popup
 gosulut.id##.idt-rellax-bannerwrap
 gosulut.id##.idt-textinsidepost
 gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
-gramedia.com##.entry-content > .grame-promo
 greeners.co,honestdocs.id##.top-banner
 greenscene.co.id,mamikos.com,mojok.co##.footer_stickyexp
 grid.id###button-scroll-top
@@ -10760,6 +10757,7 @@ grid.id##.ads_sky
 grid.id##.before\:content-\[\'advertisment\'\]
 grid.id##.bottom_banner
 grid.id##.bottom_banner-wrapper.relative
+grid.id##.fixed.bottom-0
 grid.id##.nkt__stick
 grid.id##.pushdown-banner
 grid.id##.relative.below_photo
@@ -11118,8 +11116,6 @@ inews.id##.adsPlacement
 inews.id##.ads_mobile_wrap
 inews.id##.ads_sticky_footer
 inews.id##.asideAds
-inews.id##.content-detail .voucherWrap
-inews.id##.detail-artikel .voucherWrap
 inews.id##.getawayApp
 inews.id##.pipLiveStream__content
 inews.id##.rowx
@@ -11465,7 +11461,6 @@ kaskus.co.id##.kasad-h
 kaskus.co.id##.shadow.p-4.border-border.border-t.bg-surface-primary.z-90.right-0.left-0.bottom-0.fixed
 katadata.co.id###modalAdsPopup
 katadata.co.id##+js(rmnt, script, modalAdsPopup)
-katadata.co.id##.detail-body .section-affiliate
 katadata.co.id##.is-adv
 katadata.co.id##.section-affiliate
 katadata.co.id##.skinads
@@ -11899,7 +11894,6 @@ link.liteshort.com##.navbar-default.navbar
 link2unlock.com##header > div:matches-css(text-align: center):has(> center > iframe)
 linkpoi.me##+js(aopr, app_vars.force_disable_adblock)
 linkpoi.me##+js(aopr, disableItToContinue)
-linktown.co.id##.single-related-outer:has-text(/produk/i)
 linktown.co.id##:matches-path(/blog) .brus-banners
 liputan4.com##.ads_beforerelated
 liputan6.com###bottomframe-toggle
@@ -11951,11 +11945,6 @@ m.bisnis.com##.fix_ads
 m.bukalapak.com##.dp-card-container:has(.ico_promotion)
 m.kapanlagi.com##.ad2
 m.kaskus.co.id##.fixed.bottom-0:has(> [id^="div-gpt-ad-"])
-m.vidio.com###fluid-watch-livestreaming .fixed:has(div > button[aria-label*="close" i])
-m.vidio.com##+js(rc, overflow-hidden|lg:overflow-hidden!, body, stay)
-m.vidio.com##.no-scrollbar:style(scrollbar-width: auto!important;)
-m.vidio.com##.overflow-hidden:style(overflow: auto!important;)
-m.vidio.com##body:style(overflow: auto!important; position: unset!important;)
 madrasahdigital.co##.content-inner > .madra-penerbitan-buku
 majalahnabawi.com##img[height="1024"][width="768"]
 makassar.tribunnews.com###div-Right-MediumRectangle-3
@@ -12354,7 +12343,6 @@ okestream.*,okestream365.*##.top-player-banner
 okestreamtv.uk.com,okestreamtv.win###divFLRAbottom
 okeyboz.com,suarabangka.com##.ml-slider
 okezone.com##+js(rc, content-wrap)
-okezone.com##.Post__Container .voucherWrap
 okezone.com##.ads-bottom-fixed
 okezone.com##.ads-mega-box
 okezone.com##.ads-mega-box + #app:style(margin-top: 0!important)
@@ -12364,7 +12352,6 @@ okezone.com##.center-ban
 okezone.com##.center-paralax
 okezone.com##.container-skin-ads
 okezone.com##.detads
-okezone.com##.details .voucherWrap
 okezone.com##.flying_ads
 okezone.com##.iframe-banner:remove()
 okezone.com##.rc-ad-300x250
@@ -12419,7 +12406,6 @@ orami.co.id##.article-post #post-section2:has(> p.text-center:has-text(/adv/i))
 orami.co.id##.article-post #post-top:has(> p.text-center:has-text(/adv/i))
 orami.co.id##.article-post .w-full.h-\[204px\][class*="bg-charcoal-"]
 orami.co.id##.banner-parallax
-orami.co.id##.floating-shopping
 orami.co.id##.footer_stickyexp
 orami.co.id##.sticky-ads-banner
 orami.co.id##header > #footer_stickyexp:has(> #div-gpt-ad-stickyexp)
@@ -12872,9 +12858,7 @@ sindonews.com##.adtp
 sindonews.com##.app-banner
 sindonews.com##.clear.size-wide-custom.dummy
 sindonews.com##.content-paralax:style(top: 0!important;)
-sindonews.com##.content-row .voucher_at
 sindonews.com##.content-row .voutstream
-sindonews.com##.detail-desc .voutstream
 sindonews.com##.download-sindoapps
 sindonews.com##.parallax-close
 sindonews.com##.parallax-non.t600:style(top: 0 !important;)
@@ -13221,7 +13205,6 @@ tribratanewsalor.com,tribratanewsbelu.com,tribratanewsende.com,tribratanewsflore
 tribratanewskupang.com,tribratanewssumbabarat.com##.widget-body > p > a:has(img)
 tribratanewsmanado.com##.textwidget > p > img
 tribratanewsmanado.com##aside img[style="max-width: 100%; height: auto;"]
-tribunnews.com###article .widgettshop
 tribunnews.com###banner_article_slide
 tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
@@ -13229,7 +13212,6 @@ tribunnews.com###boxright [style="width:300px; height:250px;"]
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
-tribunnews.com###jualbeli2022
 tribunnews.com###skinads
 tribunnews.com##.ads-placeholder
 tribunnews.com##.ads-placeholder-inside
@@ -13316,7 +13298,6 @@ videocrot.*##.ads-720
 videyindo.*###customPopupOverlay
 videyindo.*##+js(aeld, click, popMagic)
 videyindo.space##.playeroverlay
-vidio.com##[class^="shopping-banner-module_"]
 vidio.com##[class^="smart-banner-module_"]
 vidio.com##[data-testid="shopping-banner" i]
 vietnam.vn##:matches-path(/id) #ad-post-above
@@ -13329,7 +13310,6 @@ visitor7357.sbs
 visitor87457.sbs
 viva.co.id###oop-home
 viva.co.id###otp_ads
-viva.co.id##.main-content + .section-affiliate
 viva.co.id##.portlet.sideskycrapper
 vivaborneo.com##.sponsor a:has(> img)
 vnn.co.id##.googlepublisherads
@@ -13389,7 +13369,6 @@ yasir252.com##.download > .link-btn:has([title*="iklan" i])
 yasir252.com##a#download-link[rel]
 yasir252.com##a.tombol-link[href][target][rel]
 yasir252.com##div.label-link-btn
-yoona.id##:matches-path(/blog) .yoo-check-our-products
 yourdictionary.com##.advertising-container
 yummy.co.id###IDN_InFeed1:upward(1)
 yummy.co.id###IDN_InFeed2:upward(1)
@@ -16323,7 +16302,6 @@ zooba.id##.infeedads
 ||qquniversal.$image,third-party
 ||quantserve.com/quant.js$redirect-rule=noop.js,domain=hentai.web.id
 ||queennews.id^*/banner-
-||quiz.vidio.com/engagement_campaigns/
 ||r2.dev/*.mp4$media,redirect=noopmp4-1s,domain=nokephub.*
 ||r2.dev/*.mp4$media,rewrite=abp-resource:blank-mp4,domain=nokephub.tv
 ||r2.dev^$media,redirect=noopmp4-1s,domain=baltimorefunguide.com|contravir.com|cyberfortsoftware.com|jnadesigns.com|laporpakfans.com|marc-photo.com|myinteriordesigning.com|ogretiyor.com|poetarea.com|sanctuaryfilmfestival.com|sparkott.com|thymeinourkitchen.com|wgfilm21.*|zeeshealth.com

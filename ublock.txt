@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 9 Sep 2026 15:33 (updated regularly)
+! Last modified: 9 Sep 2026 19:35 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -11100,6 +11100,7 @@ indoxx1.com###player-side-right
 indoxxi.net##.coliklan
 indoxxi.tv###home-bnner-content
 indoxxi.tv###top-bnner-content
+indozone.id##.banner-ads
 indozone.id##img[data-caption*="banner" i]
 indozone.id,optika.id,tek.id##.flying_carpet_div
 industry.co.id###skinAds
@@ -11434,6 +11435,8 @@ kalamanthana.id##.home .wpb_gallery:has(.slides)
 kalananti.id##:matches-path(/blog) .fade.show
 kalananti.id##:matches-path(/blog) body:style(overflow: auto!important; position: unset!important;)
 kalbaronline.com##.parallax-ad-container
+kaldera.id###block-46
+kaldera.id###block-53
 kaldera.id##.widget_block figure > a:has(img)
 kalimantanlive.com##img[width="1057"][height="354"]
 kalimantanlive.com##img[width="800"][height="220"]
@@ -12535,6 +12538,7 @@ pinterpoin.com###banner-ad-1
 pintu.co.id##:matches-path(/news) #inline-banner
 pirnas.com##.baliho
 pixivision.net##._floated-bottom-bar
+playcdn.de,videonode.de##body > a[target="_blank"]
 playeriframe.*##.message-box
 playeriframe.sbs###ad-link
 playeriframe.sbs,videonode.de##body > a:has(> .message-box)

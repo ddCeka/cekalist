@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 9 Sep 2026 19:35 (updated regularly)
+! Last modified: 11 Sep 2026 18:41 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -11528,9 +11528,11 @@ kingbokep.*##[data-dgazzbdbfcbzagfz]
 kingbokep.*##[style^="height:"]:has(> img)
 kingbokep.*##img[src*=".gif"]:not(div[class*="video"] > img)
 kingbokep.*##img[src*=".webp"]:not([class*="video"]):not(div[class*="video"] > img)
-kingbokep.*##img[src*=".webp"]:not(div[class*="video"] > img)
 kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
 kingbokep.bio,kingbokep.one##+js(acis, checkAdsStatus)
+kingbokep.media##img[src*=".gif"]:not(div[class*="video"] > img)
+kingbokep.media##img[src*=".webp"]:not(div[class*="video"] > img)
+kingbokep.media##video[src*=".webm"]:not(div[class*="video"] > img)
 kinitv.com##.bg-gray-100:has(.adunitContainer)
 kinitv.com##.bg-gray-100:has(> .adunitContainer)
 kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*="z-index: 2147483647"]

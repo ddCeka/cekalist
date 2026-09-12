@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 11 Sep 2026 18:41 (updated regularly)
+! Last modified: 13 Sep 2026 00:11 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -776,6 +776,7 @@
 ##.ads728x90-thumb
 ##.ads750
 ##.ads970250
+##.ads970x250
 ##.ads970x90
 ##.adsContainerWeb
 ##.adsFrame
@@ -784,6 +785,8 @@
 ##.adsFrameSideRight
 ##.adsFrameSidebar
 ##.adsFramedet
+##.adsHorad
+##.adsReservebox
 ##.adsSpot
 ##.adsTopBox
 ##.ads_160x600
@@ -7730,8 +7733,8 @@ $popup,domain=skripsitesisdisertasi.biz.id
 .gif$image,domain=/kiryuu0\d+\.com/
 .gif$image,domain=anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.*|cosmicscans.*|kiryuu.*|kiryuu03.*|komikcast.*|kuramanime.*|mangakita.*|movieku.*|nontondrama.*|okestream.*|oploverz.*|shinigami09.com|winbu.*
 .gif$image,to=bk21.net
-.gif|$image,domain=45.11.57.192|oppa.biz|oppadrama.biz
 .gif|$image,domain=oploverz.*
+.gif|$image,domain=oppa.biz|oppadrama.biz
 .id/ads/$image,stylesheet,xmlhttprequest
 .id/adv/$image,stylesheet
 .id/iklan/$image,stylesheet
@@ -9149,9 +9152,6 @@ $popup,domain=skripsitesisdisertasi.biz.id
 100kpj.com,tvonenews.com##.sticky-bottom
 103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.*,layardrama21.beauty#@#.idmuvi-topbanner-aftermenu
 123av.com,anichin.cafe,anichin.moe,anichin.top,animekompi.vip,bokepindo69.*,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kawanfilm21.co,kimcilonly.*,kingbokep.*,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,simontokx.tv,sukasex.net,sukasex.tv,tantecentil.fans,tv1.lk21official.*,westmanga.*##+js(nowoif)
-167.71.137.254##.fixed.bottom-0
-167.71.137.254##.fixed.overflow-hidden
-167.71.137.254##html, body:style(overflow: visible !important;)
 180.*,chugoku-np.co.jp##.social
 18subindo.com##.request-warning-bubble
 18subindo.com##a[href^="https://tinyurl.com/"]
@@ -9194,9 +9194,6 @@ $popup,domain=skripsitesisdisertasi.biz.id
 3gpterbaru.com##+js(aopr, LieDetector)
 3gpterbaru.com,duniaseksi.com##+js(rmnt, script, /decodeURIComponent\(escape|fairAdblock/)
 3gpterbaru.com,duniaseksi.com##^script:has-text(/decodeURIComponent\(escape|fairAdblock/)
-45.11.57.192,oppa.biz,oppadrama.biz##+js(aopr, popup_custom_data)
-45.11.57.192,oppa.biz,oppadrama.biz##.kln
-45.11.57.192,oppa.biz,oppadrama.biz##a[target*="blank"]:has(> img)
 456club11.com
 456sad.cc
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
@@ -9609,7 +9606,7 @@ bagas31.pw##a[href^="https://resourcehub.com.ng/r/?t="]
 bagusnews.co,landaknews.id,merata.net##.header-banner-wrap
 bahasteknologi.com###fkdl[href]
 bahasteknologi.com,besargaji.com###fkdl
-bahasteknologi.com,besargaji.com,kalimbachords.net,khaddavi.net,link2unlock.com,lokerwfh.net,meong.club,techbloogs.com,tutwuri.id##+js(nowoif)
+bahasteknologi.com,besargaji.com,kalimbachords.net,khaddavi.net,lokerwfh.net,meong.club,techbloogs.com,tutwuri.id##+js(nowoif)
 bahasteknologi.com,jenismac.com##+js(nano-sib)
 bakabar.com##.ads-pb
 baladfilm.*,northridgeautospa.com,spucweb.com###floating_banner_top1
@@ -11527,7 +11524,6 @@ kingbokep.*##+js(acis, checkAdsStatus)
 kingbokep.*##[data-dgazzbdbfcbzagfz]
 kingbokep.*##[style^="height:"]:has(> img)
 kingbokep.*##img[src*=".gif"]:not(div[class*="video"] > img)
-kingbokep.*##img[src*=".webp"]:not([class*="video"]):not(div[class*="video"] > img)
 kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
 kingbokep.bio,kingbokep.one##+js(acis, checkAdsStatus)
 kingbokep.media##img[src*=".gif"]:not(div[class*="video"] > img)
@@ -12414,6 +12410,9 @@ oploverz.*##a[target*="blank"]:has(> img)
 oploverz.*##div[class^="fixed"]
 oploverz.*##div[id^="teaser"]
 oploverz.*##main > .fixed:has(> .relative > button > svg)
+oppa.biz,oppadrama.biz##+js(aopr, popup_custom_data)
+oppa.biz,oppadrama.biz##.kln
+oppa.biz,oppadrama.biz##a[target*="blank"]:has(> img)
 optika.id###ads-top-header-parallax
 optika.id##.ads-top-header-parallax-scroll-to-continue
 optika.id##.no-print.ad-middle
@@ -17448,6 +17447,7 @@ zooba.id##.infeedads
 ~jagoanhosting.app,~jagoanhosting.com##[href^="https://member.jagoanhosting.com/aff.php"]:has(img)
 ~jogjaweb.co.id##[href^="https://hub.jogjaweb.co.id/aff.php?"]:has(img)
 ~kegz.site##[href="https://kegz.site/login"]
+~kingbokep.cash,kingbokep.*##img[src*=".webp"]:not([class*="video"]):not(div[class*="video"] > img)
 ~kitabisa.com##[href^="https://kitabisa.com/campaign/"]:has(img)
 ~kjokkenskriveren.no##[class*=ShareButton i]:not(button,body,html,article,[class*=body i],[id*=body i])
 ~line.me##a[href*="/lineit/share?"]

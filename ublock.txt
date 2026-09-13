@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 13 Sep 2026 00:11 (updated regularly)
+! Last modified: 13 Sep 2026 13:21 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -11680,6 +11680,9 @@ kompas.tv##.container_skinad
 kompas.tv##.exads
 kompas.tv,medcom.id##[class^="ads-"]
 kompas.tv,sonora.id##kgnw-middle-player
+kompasiana.com##.adsHorad
+kompasiana.com##.adsRail
+kompasiana.com##.adsReservebox
 kompasiana.com##.align-center.floatingWrap
 kompasiana.com##.banner-center
 kompasiana.com##.banner-mgid
@@ -12344,6 +12347,7 @@ offerlinks.in##.countdown
 offerlinks.in##footer
 ohmymedia.cc###mvp-site-main:style(margin-top: 0!important;)
 okenews.net,otospeedcar.com,seputarkebumen.com,suarakuningan.com##.widget:has(> .widget-content > :is(center, p) > a:has(img))
+okepindo.com##+js(aeld)
 okestream.*##.streamad
 okestream.*##[href="https://angk.at/"]
 okestream.*##[href="https://heylink.me/"]
@@ -14563,6 +14567,7 @@ zooba.id##.infeedads
 ||esportsku.com^*-banner-
 ||espos.id^*/banner/
 ||etoads.net^$third-party
+||eu.kinggroup.buzz^$third-party
 ||europoker.com^$third-party
 ||everypoker.com^$third-party
 ||ewarta.co/*/files/banner/
@@ -16882,6 +16887,7 @@ zooba.id##.infeedads
 ||tatobet.$popup
 ||tatonaga.$image,third-party
 ||tatonaga.$popup
+||te.domineehexer.com^$third-party
 ||team-168.com^$popup
 ||tebarberita.id^*/banner-$image
 ||tebet88.$image,third-party

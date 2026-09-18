@@ -1,7 +1,7 @@
 ! Title: Cekalist pornografi
 ! Description: Host file anti situs pornografi
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 18 Sep 2026 01:25 (updated regularly)
+! Last modified: 19 Sep 2026 00:46 (updated regularly)
 
 0.0.0.0 0-0.asia
 0.0.0.0 0-12kids.com
@@ -18893,6 +18893,7 @@
 0.0.0.0 amaturepornworld.com
 0.0.0.0 amaturesex.net
 0.0.0.0 amaturesexvideos.com
+0.0.0.0 amatureteenpics.click
 0.0.0.0 amaturetube.com
 0.0.0.0 amaturevideo.com
 0.0.0.0 amaturevideos.net
@@ -19058,6 +19059,7 @@
 0.0.0.0 amicigay.it
 0.0.0.0 amiciziesegrete.com
 0.0.0.0 amicrobikini.com
+0.0.0.0 amid.cc
 0.0.0.0 amieesfetishhouse.com
 0.0.0.0 amielynn.net
 0.0.0.0 amigaintimasex.com.br
@@ -20671,6 +20673,7 @@
 0.0.0.0 anneedusexe.fr
 0.0.0.0 annekepleasures.nl
 0.0.0.0 anneklienssolotravelsandadventure.com
+0.0.0.0 anneliesskonhetskammare.se
 0.0.0.0 anneporno.com
 0.0.0.0 annettegates.com
 0.0.0.0 annettehavenporn.com
@@ -29115,6 +29118,7 @@
 0.0.0.0 beastmovie.club
 0.0.0.0 beastology.com
 0.0.0.0 beastpics.club
+0.0.0.0 beastpics.pics
 0.0.0.0 beastpornhub.com
 0.0.0.0 beasts.cc
 0.0.0.0 beastsex.pics
@@ -30434,7 +30438,9 @@
 0.0.0.0 besthugetits.com
 0.0.0.0 bestialgayfuck.com
 0.0.0.0 bestialica.com
+0.0.0.0 bestiality-video.site
 0.0.0.0 bestiality.guru
+0.0.0.0 bestiality.pics
 0.0.0.0 bestiality.show
 0.0.0.0 bestiality.stream
 0.0.0.0 bestiality.video
@@ -37891,9 +37897,11 @@
 0.0.0.0 bytheway.mobi
 0.0.0.0 bytstore.com
 0.0.0.0 bytzyg.com
+0.0.0.0 byutv.cc
 0.0.0.0 byviagra.net
 0.0.0.0 byxbb.com
 0.0.0.0 byxxxporn.com
+0.0.0.0 byyakk.cc
 0.0.0.0 byyum3.com
 0.0.0.0 byzantinorossica.org.ru
 0.0.0.0 bz14.com
@@ -37909,6 +37917,7 @@
 0.0.0.0 bzs.cz
 0.0.0.0 bzsjmelm.top
 0.0.0.0 bztube.com
+0.0.0.0 bzxv.cc
 0.0.0.0 bzykac.pl
 0.0.0.0 bzzeb.com
 0.0.0.0 bzzingbee.com
@@ -38058,6 +38067,7 @@
 0.0.0.0 cai73ff.com
 0.0.0.0 caiaojiaju.com
 0.0.0.0 caidadelpelo.org
+0.0.0.0 caiez.com
 0.0.0.0 caihongriyongping.club
 0.0.0.0 caiji25.com
 0.0.0.0 caijiaowazujiao.com
@@ -40768,6 +40778,7 @@
 0.0.0.0 caolg.com
 0.0.0.0 caoliui.cc
 0.0.0.0 caoni111.com
+0.0.0.0 caonm.cc
 0.0.0.0 caoporn10.app
 0.0.0.0 caoporn100.app
 0.0.0.0 caoporn11.app
@@ -47773,6 +47784,7 @@
 0.0.0.0 cum.beauty
 0.0.0.0 cum.express
 0.0.0.0 cum.gold
+0.0.0.0 cum.lat
 0.0.0.0 cum.net
 0.0.0.0 cum.nu
 0.0.0.0 cum2camboys.com
@@ -48771,11 +48783,13 @@
 0.0.0.0 d2ghj24cs0xf1g.cloudfront.net
 0.0.0.0 d2kq8tpppexvws.cloudfront.net
 0.0.0.0 d2kyeeu71ve80.cloudfront.net
+0.0.0.0 d2ln4qgmi83wfi.cloudfront.net
 0.0.0.0 d2mu8cd7hnkg6q.cloudfront.net
 0.0.0.0 d2pass.com
 0.0.0.0 d2x0utty60e3ca.cloudfront.net
 0.0.0.0 d3.pics
 0.0.0.0 d329v4h155l6cn.cloudfront.net
+0.0.0.0 d32bg2g0w9aqg4.cloudfront.net
 0.0.0.0 d34ostmuvf1nzw.cloudfront.net
 0.0.0.0 d3a3ewgd1iewwz.cloudfront.net
 0.0.0.0 d3e1078hs60k37.cloudfront.net
@@ -53195,6 +53209,7 @@
 0.0.0.0 dog-fart-network.com
 0.0.0.0 dog-fuck.com
 0.0.0.0 dog-gava.ru
+0.0.0.0 dog-sex-porn.top
 0.0.0.0 dog-teen-sex.com
 0.0.0.0 dogachat.net
 0.0.0.0 doganal.biz
@@ -85795,6 +85810,7 @@
 0.0.0.0 hegre-model-dominikac.com
 0.0.0.0 hegre-screengrabs.com
 0.0.0.0 hegre-slim-petite-skinny-girls.com
+0.0.0.0 hegre-small-tit-girls.com
 0.0.0.0 hegre-waxed-girls.com
 0.0.0.0 hegre-world.com
 0.0.0.0 hegre.com
@@ -85830,6 +85846,7 @@
 0.0.0.0 heiliaowang-37.buzz
 0.0.0.0 heiliaowang18.buzz
 0.0.0.0 heiliaowang22.buzz
+0.0.0.0 heilxi.cc
 0.0.0.0 heimatpornos.com
 0.0.0.0 heimlicheflirts.com
 0.0.0.0 heimlichnackt.com
@@ -87344,6 +87361,7 @@
 0.0.0.0 hgames.com
 0.0.0.0 hgays.com
 0.0.0.0 hgd385.com
+0.0.0.0 hgdjl.wiki
 0.0.0.0 hgfeeds.com
 0.0.0.0 hgfhnro.xyz
 0.0.0.0 hgg636.com
@@ -88061,6 +88079,7 @@
 0.0.0.0 hjcfsc.com
 0.0.0.0 hjd2048.com
 0.0.0.0 hjdcw.com
+0.0.0.0 hjdh24.cc
 0.0.0.0 hjdzhg.com
 0.0.0.0 hjertelysten.no
 0.0.0.0 hjfilmworld.com
@@ -88118,6 +88137,7 @@
 0.0.0.0 hljjlz.com
 0.0.0.0 hljszzj.com
 0.0.0.0 hlschain.com
+0.0.0.0 hlsp89.cc
 0.0.0.0 hlszfoig.top
 0.0.0.0 hltfs.com
 0.0.0.0 hltv.org
@@ -88147,6 +88167,7 @@
 0.0.0.0 hmporn.net
 0.0.0.0 hmv.co.jp
 0.0.0.0 hmvision.com
+0.0.0.0 hmys.cc
 0.0.0.0 hmzsd.com
 0.0.0.0 hn-lj.com
 0.0.0.0 hnacsm.com
@@ -111714,6 +111735,7 @@
 0.0.0.0 louisianasexbook.com
 0.0.0.0 louisianasexchat.com
 0.0.0.0 louisianasexdating.com
+0.0.0.0 louisvillebuzz.com
 0.0.0.0 louisvillesexbook.com
 0.0.0.0 loujaxx.net
 0.0.0.0 loujuli.com
@@ -132235,6 +132257,7 @@
 0.0.0.0 okashinaeste.com
 0.0.0.0 okav.com
 0.0.0.0 okav104.com
+0.0.0.0 okavdvd.com
 0.0.0.0 okayama-pocchari.club
 0.0.0.0 okayama-shizuku.com
 0.0.0.0 okayporno.one
@@ -132963,6 +132986,7 @@
 0.0.0.0 omutudata.com
 0.0.0.0 omv.su
 0.0.0.0 omyrelax.com
+0.0.0.0 omyrv.cc
 0.0.0.0 omyskystore.com
 0.0.0.0 on-asianporn.com
 0.0.0.0 on-bdsmporn.com
@@ -134794,6 +134818,7 @@
 0.0.0.0 oumeisex.com
 0.0.0.0 oumeisex.net
 0.0.0.0 oumotv.cc
+0.0.0.0 oumwuy.cc
 0.0.0.0 ounamov.cc
 0.0.0.0 ounoun.com
 0.0.0.0 oupimov.cc
@@ -135328,6 +135353,7 @@
 0.0.0.0 palaisdeflirt.com
 0.0.0.0 palakchawla.com
 0.0.0.0 palakdeshmukh.com
+0.0.0.0 palakji.com
 0.0.0.0 palakkaur.com
 0.0.0.0 palakmehta.com
 0.0.0.0 palaksinha.com
@@ -139326,6 +139352,7 @@
 0.0.0.0 placerdivinoshop.com
 0.0.0.0 placeresdelperu.com
 0.0.0.0 placereshop.ro
+0.0.0.0 placerespuntog.com.ar
 0.0.0.0 placerintenso.es
 0.0.0.0 placerybelleza.cl
 0.0.0.0 placestohavesex.com
@@ -155958,6 +155985,7 @@
 0.0.0.0 qvqtymj.xyz
 0.0.0.0 qvslvawm.xyz
 0.0.0.0 qvtcjlii.net
+0.0.0.0 qw72.kvcdn.top
 0.0.0.0 qwbabes.com
 0.0.0.0 qwe589.com
 0.0.0.0 qwepanda.cfd
@@ -160860,6 +160888,7 @@
 0.0.0.0 sadsilly.org
 0.0.0.0 sadultdeal.com
 0.0.0.0 saeporn.com
+0.0.0.0 safada.fun
 0.0.0.0 safada.info
 0.0.0.0 safada.net
 0.0.0.0 safada.tv
@@ -162159,6 +162188,7 @@
 0.0.0.0 scorepass.com
 0.0.0.0 scoresextoday.com
 0.0.0.0 scoretv.tv
+0.0.0.0 scoreuniverse.com
 0.0.0.0 scorevideos.biz
 0.0.0.0 scorevideos.com
 0.0.0.0 scorevod.com
@@ -162217,6 +162247,7 @@
 0.0.0.0 scrollx.org
 0.0.0.0 scrubcams.com
 0.0.0.0 scrubhub.tv
+0.0.0.0 scrubsboutiqueandmore.com
 0.0.0.0 scrxjs.com
 0.0.0.0 scryamap.com
 0.0.0.0 scsclgs.com
@@ -162286,6 +162317,7 @@
 0.0.0.0 sduka.com
 0.0.0.0 sduko.com
 0.0.0.0 sdult.com
+0.0.0.0 sdwkf.cc
 0.0.0.0 sdxinlang.com
 0.0.0.0 sdyjc.com
 0.0.0.0 sdyqblg.com
@@ -163171,6 +163203,7 @@
 0.0.0.0 selfpiss.com
 0.0.0.0 selfpix.org
 0.0.0.0 selfporno.fr
+0.0.0.0 selfs.cc
 0.0.0.0 selfservetoys.com
 0.0.0.0 selfsex.pt
 0.0.0.0 selfshot.com.de
@@ -177748,6 +177781,7 @@
 0.0.0.0 seyrantepescort.com
 0.0.0.0 seysex.com
 0.0.0.0 seyura.com
+0.0.0.0 seyyy.cc
 0.0.0.0 sezhanre.com
 0.0.0.0 sezhanre.me
 0.0.0.0 seznam.ru
@@ -182694,6 +182728,7 @@
 0.0.0.0 soshit.com
 0.0.0.0 sosiano.com
 0.0.0.0 sosista.club
+0.0.0.0 soska.club
 0.0.0.0 soska.top
 0.0.0.0 soskalike.com
 0.0.0.0 soski.click
@@ -195886,6 +195921,7 @@
 0.0.0.0 torbaliescort.org
 0.0.0.0 torbalieskort.xyz
 0.0.0.0 torbe.es
+0.0.0.0 torboundsbondagetales.com
 0.0.0.0 torchemada.net
 0.0.0.0 torchjxzz.com
 0.0.0.0 torebi.net
@@ -196001,6 +196037,7 @@
 0.0.0.0 totalchat.ru
 0.0.0.0 totaldramaislandhentai.com
 0.0.0.0 totale-defonce.com
+0.0.0.0 totalecstasy.com
 0.0.0.0 totalenslavement.net
 0.0.0.0 totalescort.dk
 0.0.0.0 totalfreeporn.com
@@ -216148,6 +216185,7 @@
 0.0.0.0 xxxclub.cc
 0.0.0.0 xxxclub.club
 0.0.0.0 xxxclub.me
+0.0.0.0 xxxclub.to
 0.0.0.0 xxxclub24.it
 0.0.0.0 xxxclusive4u.nl
 0.0.0.0 xxxcoed.com
@@ -222453,6 +222491,7 @@
 0.0.0.0 zooxporn.com
 0.0.0.0 zooxxx.red
 0.0.0.0 zooxxxporn.com
+0.0.0.0 zooxxxpornvideo.top
 0.0.0.0 zooxxxsex.com
 0.0.0.0 zooya.in
 0.0.0.0 zooyakhan.in

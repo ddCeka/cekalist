@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 13 Sep 2026 13:21 (updated regularly)
+! Last modified: 19 Sep 2026 18:36 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -584,7 +584,6 @@
 0.0.0.0 ads.phonepe.com
 0.0.0.0 ads.pinger.com
 0.0.0.0 ads.rmbl.ws
-0.0.0.0 ads.save21.site
 0.0.0.0 ads.smrtbid.com
 0.0.0.0 ads.sorot.co
 0.0.0.0 ads.taptapnetworks.com
@@ -3990,7 +3989,6 @@
 0.0.0.0 fm-analytics-api.pocketfm.com
 0.0.0.0 fmbola.com
 0.0.0.0 fmbola.net
-0.0.0.0 fnasmpygwa.com
 0.0.0.0 fnkyyrgraizy.com
 0.0.0.0 fnyfeds.com
 0.0.0.0 focas.jp
@@ -9040,7 +9038,6 @@
 0.0.0.0 trackingclick.net
 0.0.0.0 traditioncasino.com
 0.0.0.0 tradplusad.com
-0.0.0.0 traffic-monetizer.com
 0.0.0.0 traffic.calldorado.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafmag.com

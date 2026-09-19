@@ -1,7 +1,7 @@
 ! Title: Cekalist pornografi
 ! Description: Host file anti situs pornografi
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 19 Sep 2026 00:46 (updated regularly)
+! Last modified: 19 Sep 2026 22:26 (updated regularly)
 
 0.0.0.0 0-0.asia
 0.0.0.0 0-12kids.com
@@ -33845,6 +33845,7 @@
 0.0.0.0 blondehaven.com
 0.0.0.0 blondehexe.club
 0.0.0.0 blondehexe.net
+0.0.0.0 blondehexe.org
 0.0.0.0 blondeinthehood.com
 0.0.0.0 blondelondonescort.co.uk
 0.0.0.0 blondemanchesterescort.co.uk

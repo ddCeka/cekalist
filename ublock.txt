@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 19 Sep 2026 18:36 (updated regularly)
+! Last modified: 19 Sep 2026 22:24 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9162,6 +9162,10 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.*,layardrama21.beauty#@#.idmuvi-topbanner-aftermenu
 123av.com,anichin.cafe,anichin.moe,anichin.top,animekompi.vip,bokepindo69.*,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kawanfilm21.co,kimcilonly.*,kingbokep.*,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,simontokx.tv,sukasex.net,sukasex.tv,tantecentil.fans,tv1.lk21official.*,westmanga.*##+js(nowoif)
 180.*,chugoku-np.co.jp##.social
+18subindo.com##.banner-float
+18subindo.com##.banner-float-left
+18subindo.com##.banner-float-right
+18subindo.com##.banner-rotate-wrap
 18subindo.com##.request-warning-bubble
 18subindo.com##a[href^="https://tinyurl.com/"]
 18subindo.com,agenbokep.*,bandarbokep.*,bokepbox.*,bokepi.com,bokepindo.*,bokepindo21.*,bokepjilbab.*,bokepvir.*,cctvbokep.*,duniabokep.*,filmnikmat.*,filmnikmattv1.*,gocrot.me,gocrot.org,igo-bokep.*,igobokep.*,javindo.*,javlendirqu.*,javsubindo.*,kelasmalam.net,kesiangan.com,malayporntube.net,minioppai.org,myhdjav.me,ngentub.cc,ngocoks.com,nokephub.*,nontonbokep.*,nontonhentai.net,nontonhentai.org,pojokan69.com,pukihot.*,rumahperjaka.*,seponghub.*,sibokepjepang.*##a[target*="blank"]:has(img)

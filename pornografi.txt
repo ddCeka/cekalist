@@ -1,7 +1,7 @@
 ! Title: Cekalist pornografi
 ! Description: Host file anti situs pornografi
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 19 Sep 2026 22:26 (updated regularly)
+! Last modified: 21 Sep 2026 08:02 (updated regularly)
 
 0.0.0.0 0-0.asia
 0.0.0.0 0-12kids.com
@@ -20685,6 +20685,7 @@
 0.0.0.0 anniangel-porn.com
 0.0.0.0 anniangel.mobi
 0.0.0.0 anniangel.net
+0.0.0.0 anniangel.org
 0.0.0.0 anniangel.tv
 0.0.0.0 annickguenette.com
 0.0.0.0 anniebody.com
@@ -42288,6 +42289,7 @@
 0.0.0.0 changingworlds.info
 0.0.0.0 changirls.to
 0.0.0.0 changkangkeji.com
+0.0.0.0 changmaoyy.com
 0.0.0.0 changotyme.com
 0.0.0.0 changxiangsh.com
 0.0.0.0 changyujituan.com
@@ -113295,6 +113297,7 @@
 0.0.0.0 maabetasexstory.com
 0.0.0.0 maagdendating.nl
 0.0.0.0 maail.com
+0.0.0.0 maaitv.cc
 0.0.0.0 maal69.bar
 0.0.0.0 maal69.pro
 0.0.0.0 maal69.to
@@ -113305,11 +113308,15 @@
 0.0.0.0 maaltube.com
 0.0.0.0 maandporno.com
 0.0.0.0 maanika.co.in
+0.0.0.0 maanmov.cc
 0.0.0.0 maanobilli.com
+0.0.0.0 maantv.cc
 0.0.0.0 maatjegezocht.nl
+0.0.0.0 mabatv.cc
 0.0.0.0 mabelladolls.com
 0.0.0.0 mabelmonroe.com
 0.0.0.0 mabihong.com
+0.0.0.0 mabitv.cc
 0.0.0.0 maboutiquegay.fr
 0.0.0.0 maca-root.com
 0.0.0.0 macacomagro.com
@@ -155252,6 +155259,7 @@
 0.0.0.0 pute.com
 0.0.0.0 puteautelephone.fr
 0.0.0.0 putes.com
+0.0.0.0 putetv.cc
 0.0.0.0 putianuncio.com
 0.0.0.0 putiesposas.net
 0.0.0.0 putinha.net
@@ -155267,10 +155275,15 @@
 0.0.0.0 putzelmovie.com
 0.0.0.0 puul.net
 0.0.0.0 puvod.com
+0.0.0.0 puwamov.cc
+0.0.0.0 puwomov.cc
+0.0.0.0 puwumov.cc
+0.0.0.0 puxumov.cc
 0.0.0.0 puxxxy.com
 0.0.0.0 puxycam.com
 0.0.0.0 puyo-fan.com
 0.0.0.0 puyo-station-takasaki.net
+0.0.0.0 puyumov.cc
 0.0.0.0 puzemov.cc
 0.0.0.0 puzzcpvy.cc
 0.0.0.0 puzzlewithbox.com
@@ -201976,6 +201989,7 @@
 0.0.0.0 vackerochsingel.com
 0.0.0.0 vackraflickor.com
 0.0.0.0 vaclavvlasek.com
+0.0.0.0 vacobox.com
 0.0.0.0 vadi54.com
 0.0.0.0 vadiandonanet.com
 0.0.0.0 vadodara-muskan-patel.gitbook.io

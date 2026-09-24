@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 20 Sep 2026 17:42 (updated regularly)
+! Last modified: 24 Sep 2026 22:26 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9155,8 +9155,10 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 01ntn.cc##[href^="https://goratu.site"]
 01ntn.cc,176.125.243.211###topban
 01ntn.cc,176.125.243.211##a[target*="blank"]:has(> img)
+01ntn.top###banlogo
+01ntn.top###topban
 01ntn.top,bokepindo24.com,luciferdonghua.in##+js(aeld)
-02.cosmicscans.to##+js(aeld)
+02.cosmicscans.to,91porn.com,okepindo.com##+js(aeld)
 100kpj.com,indosport.com##.sticky-bottom
 100kpj.com,tvonenews.com##.sticky-bottom
 103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.*,layardrama21.beauty#@#.idmuvi-topbanner-aftermenu
@@ -9226,7 +9228,6 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 86news.co,altinanews.com,andalas-time.com,angket24.id,babadbanten.com,bacaonline.id,bakabar.com,balebandung.com,banjarbaruklik.com,barayanews.com,bbsnews.co.id,bekasipedia.com,beritainvestigasinews.id,beritajatim.com,beritamerdekaonline.com,beritamusi.co.id,betara.id,bingkaiwarta.co.id,bogornetwork.com,cipulusnews.com,ciremaitoday.com,classyfm.co.id,corongrakyat.co.id,detiksulawesi.com,dikita.id,distrikbantennews.com,dunia-energi.com,ebcmedia.id,fajarharapan.id,figurnews.com,gamefinity.id,gnews.co.id,gonews.id,harianamanat.com,harianesia.com,hitzserpong.com,idnnewspublish.com,indonesianews.co.id,indotribun.id,infomalangraya.com,inilahbandung.com,inilahonline.com,inisumedang.com,investigasirakyat.com,jabar-online.com,jalurnews.com,jambioke.com,jambiseru.com,jejakkriminal.net,jubi.id,jurnalbengkulu.com,jurnalbidas.com,jurnalborneo.com,kabarmancing.com,kabarsiger.com,kabartangsel.com,kabarxxi.com,kaltimnews.co,kaltimtoday.co,karosatuklik.com,katinting.com,kemajuanrakyat.id,kepri.info,kibar.news,klikwarta.com,koranmonitor.com,kotawaringinnews.co.id,lahatsatu.com,lampiran.id,lensa-rakyat.com,lensanews.net,lintaspost.id,liputan68.com,majalahsinergitas.id,makassarinsight.com,makassarmetro.com,manadonews.co.id,mediajustitia.com,mediapublik.net,mediaterobos.com,memotimur.id,mistar.id,mokinews.com,montera.co.id,musirawas.com,nansarunai.com,natmed.id,nawacitalink.com,neazone.id,okemedan.com,okeyboz.com,opsintb.com,otomotif1.com,palapanews.com,pantaulampung.com,pijarnusa.com,prabunews.com,prioritastv.com,propertinews.id,puankepri.com,pusaranmedia.com,radarcikarang.com,radarcom.id,radarjakarta.id,radarkeadilan.com,rakyatpos.id,rebolasi.com,ruangbicara.co.id,rubrika.co.id,saskindomedia.com,satupiston.com,sebelas12.com,selasar.co,seputarforex.com,seputarsulut.com,serambijambi.id,seraungpost.com,shalokalindonesia.com,siarindomedia.com,sijorikepri.com,silabuskepri.co.id,sketsaindonesia.co.id,starbanjar.com,suarabangka.com,sukoharjonews.com,suluhnews.id,sumselindependen.com,sumselnian.com,sumselupdate.com,suryanenggala.id,suryapagi.com,swatantranews.com,tegas.co,teraskabar.id,teropongmedia.id,theacehpost.com,tifamaluku.com,tilik.id,topiksultra.com,topmetro.news,trenasia.com,trenasia.id,trust3media.com,utamanews.id,utamapost.com,voxlampung.com,wanmedia.co.id,warna.co,wartabanten.id,wartahukum.net,wartanesia.id,wawainews.id,zonapasar.com##img[alt*="banner" i]
 87.199.203.53###floatbanner-bottom
 87.199.203.53,conferencebyphone.com,democracyforcalifornia.com,euthymics.com,gemaxopen.com,kingofgreece.org##a[target*="blank"]:has(> img)
-91porn.com##+js(aeld)
 92news.id##img[width="696"][height="174"]
 =iklan/
 ?key=*&submetric=$3p,popup
@@ -9461,7 +9462,7 @@ anichin.*,animekhor.org,animekompi.*,animexin.top,cosmicscans.*,kuronime.*,oplov
 anichin.blog,anichin.cafe,anichin.co,anichin.moe,anichin.ro,anichin.watch##.kln
 anichin.blog,anichin.cafe,anichin.co,anichin.watch###floatcenter
 anichin.cafe,anichin.co###overplay
-anichin.cafe,anichin.co##a[target*="blank"]:has(> img)
+anichin.cafe,anichin.co,idlixku.com##a[target*="blank"]:has(> img)
 anichin.cafe,anichin.watch##a:has(img[src$=".gif"])
 anichin.co##a[target*="blank"]:has(> img)
 anichin.dev##[href="https://cek.to/anc-dwc"]
@@ -10043,7 +10044,7 @@ brilio.net,briliobeauty.net,techno.id##.voucher_at
 brilio.net,briliofood.net##.placeholder-container:has(> .flying-carpet)
 briliobeauty.net,briliofood.net,techno.id##.ads-container
 briliobeauty.net,harianjogja.com,techno.id##.ads-container
-brobokep.org##+js(nowoif)
+brobokep.org,indoporntube.com,streamget.win##+js(nowoif)
 brotutor.net##+js(aopr, mql)
 buahmangga.com,digoreng.com,semprot.com,senang.top##.p-body .f_floating_div
 buahmangga.com,digoreng.com,semprot.com,senang.top##[class^="popup-"]
@@ -10971,10 +10972,10 @@ humaniora.id##figure:has(> a):has-text(/adv/i)
 humaniora.id##img[width="750"][height="160"]
 hybrid.co.id###banner-floating
 hybrid.co.id##.detail__right-ads
-i-jav.space##+js(aopw, document.body.innerHTML)
 i-jav.space##.banner
 i-jav.space##[href*="situsdepe4d"]
 i-jav.space##[href*="t.ly/depe4d"]
+i-jav.space,pemersatu.*##+js(aopw, document.body.innerHTML)
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 id.alongwalker.co##.ads_fullbox
 id.mashable.com##.topadv
@@ -11077,7 +11078,6 @@ indonesiatripnews.com##.wpb_single_image:has(> h2:has-text(/iklan/i))
 indoporn.*##div:has(> .adsbyexoclick)
 indoporn.pro##.full-brkas-container
 indoporntube.com##+js(acis, document.querySelector, adsbygoogle)
-indoporntube.com##+js(nowoif)
 indoporntube.com##.animate__animated .w-full .backdrop-blur-sm:has(> button)
 indoporntube.com##[id^="container-"].justify-center:has(> script)
 indoporntube.com##a[href="/page/contact?type=place-ads"]
@@ -12367,7 +12367,6 @@ offerlinks.in##.countdown
 offerlinks.in##footer
 ohmymedia.cc###mvp-site-main:style(margin-top: 0!important;)
 okenews.net,otospeedcar.com,seputarkebumen.com,suarakuningan.com##.widget:has(> .widget-content > :is(center, p) > a:has(img))
-okepindo.com##+js(aeld)
 okestream.*##.streamad
 okestream.*##[href="https://angk.at/"]
 okestream.*##[href="https://heylink.me/"]
@@ -12501,7 +12500,6 @@ pelitamaluku.com##.bannerside
 pelitamaluku.com##.sidebar-banner
 pelopor9.com##.sidebar-image-ads
 peluangnews.id##img[width="700px"][height="90px"]
-pemersatu.*##+js(aopw, document.body.innerHTML)
 pemersatu.*##.ad-container
 pemersatu.*##[role="advertisement"]
 pemersatu.*##div.ad iframe

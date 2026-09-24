@@ -1,7 +1,7 @@
 ! Title: Cekalist pornografi
 ! Description: Host file anti situs pornografi
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 23 Sep 2026 19:08 (updated regularly)
+! Last modified: 24 Sep 2026 13:17 (updated regularly)
 
 0.0.0.0 0-0.asia
 0.0.0.0 0-12kids.com
@@ -25606,10 +25606,13 @@
 0.0.0.0 b39k.com
 0.0.0.0 b3st0m3g4porn.com
 0.0.0.0 b44.com
+0.0.0.0 b46b.com
+0.0.0.0 b493.com
 0.0.0.0 b4busty.com
 0.0.0.0 b4butts.com
 0.0.0.0 b4dating.com
 0.0.0.0 b4y.ca
+0.0.0.0 b5.pics
 0.0.0.0 b55a.com
 0.0.0.0 b5bt.com
 0.0.0.0 b77z.com
@@ -62517,6 +62520,7 @@
 0.0.0.0 everycam.net
 0.0.0.0 everycamgirl.com
 0.0.0.0 everydaycum.com
+0.0.0.0 everydayflirts.com
 0.0.0.0 everydayporn.cfd
 0.0.0.0 everydayporn.co
 0.0.0.0 everydayporn.com
@@ -111524,6 +111528,7 @@
 0.0.0.0 lojaluxurias.com.br
 0.0.0.0 lojamistica.com.br
 0.0.0.0 lojapimenta.com.br
+0.0.0.0 lojaritz.com
 0.0.0.0 lojasacaso.com.br
 0.0.0.0 lojasegredo.com.br
 0.0.0.0 lojasexshopuberlandia.com.br
@@ -129214,6 +129219,7 @@
 0.0.0.0 nightmovesonline.com
 0.0.0.0 nightpari.com
 0.0.0.0 nightpornvideo.com
+0.0.0.0 nightprsex18ime.shop
 0.0.0.0 nightqueen4you.com
 0.0.0.0 nights.fun
 0.0.0.0 nightsecretsonline.com
@@ -129225,6 +129231,7 @@
 0.0.0.0 nightshiftgirls.com
 0.0.0.0 nightshiftpatrol.com
 0.0.0.0 nightsinatlanta.com
+0.0.0.0 nightsisex18lve.shop
 0.0.0.0 nightspain.com
 0.0.0.0 nightstand.co.in
 0.0.0.0 nighttimeplay.com
@@ -129236,6 +129243,8 @@
 0.0.0.0 nightwines.com
 0.0.0.0 nightwomens.com
 0.0.0.0 nightxxxsex.bar
+0.0.0.0 nigumov.cc
+0.0.0.0 nigxxx69hthstar.shop
 0.0.0.0 nihangwangluo.com
 0.0.0.0 nihao3.net
 0.0.0.0 niharikaescort.com
@@ -200027,9 +200036,20 @@
 0.0.0.0 tvzona.com
 0.0.0.0 tw-0204.com
 0.0.0.0 tw-080.com
+0.0.0.0 tw-387.com
+0.0.0.0 tw-69.com
+0.0.0.0 tw-777.com
 0.0.0.0 tw-petsbook.com
+0.0.0.0 tw0509.com
 0.0.0.0 tw1007.com
+0.0.0.0 tw383.com
 0.0.0.0 tw387.com
+0.0.0.0 tw625.com
+0.0.0.0 tw626.com
+0.0.0.0 tw627.com
+0.0.0.0 tw628.com
+0.0.0.0 tw629.com
+0.0.0.0 tw630.com
 0.0.0.0 tw84.com
 0.0.0.0 twanal.com
 0.0.0.0 twatfuckers.com

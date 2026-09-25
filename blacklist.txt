@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 19 Sep 2026 18:36 (updated regularly)
+! Last modified: 25 Sep 2026 20:00 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -1640,6 +1640,7 @@
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
 0.0.0.0 app.appsflyer.com
+0.0.0.0 app.bxapi.de
 0.0.0.0 app.siteperformancetest.net
 0.0.0.0 app.ssp.yahoo.com
 0.0.0.0 appbaqend.com
@@ -5371,6 +5372,7 @@
 0.0.0.0 karanpc.com
 0.0.0.0 kartikaonlineshop.com
 0.0.0.0 kartuking.net
+0.0.0.0 karxklgspgv.com
 0.0.0.0 kashbet.net
 0.0.0.0 kasinobet.net
 0.0.0.0 kasinoforum.com
@@ -6141,6 +6143,7 @@
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.claspws.tv
 0.0.0.0 metrics.happycolor.app
+0.0.0.0 metrics.li
 0.0.0.0 metrics.macys.com
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 metrics.sp0n.io
@@ -6796,6 +6799,7 @@
 0.0.0.0 palaceofchance.uk.com
 0.0.0.0 palaceofwinners.com
 0.0.0.0 palacevipcasino.com
+0.0.0.0 palateonce.com
 0.0.0.0 pamelapoker.co
 0.0.0.0 pampercasino.com
 0.0.0.0 panbilelektronika.com
@@ -7199,6 +7203,7 @@
 0.0.0.0 prediksitoptogel.com
 0.0.0.0 preitem.wshareit.com
 0.0.0.0 premier188.com
+0.0.0.0 premiumproven.com
 0.0.0.0 premiumtradings.com
 0.0.0.0 presage.io
 0.0.0.0 presidentialsuitecasino.com
@@ -9489,6 +9494,7 @@
 0.0.0.0 wintrillions.org
 0.0.0.0 winwardcasino.net
 0.0.0.0 winx2x.com
+0.0.0.0 wirzflrmlcvbyh.com
 0.0.0.0 wizbet.com
 0.0.0.0 wizcase.com
 0.0.0.0 wlog.ksapisrv.com

@@ -1,7 +1,7 @@
 ! Title: Cekalist pornografi
 ! Description: Host file anti situs pornografi
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 24 Sep 2026 13:17 (updated regularly)
+! Last modified: 25 Sep 2026 20:01 (updated regularly)
 
 0.0.0.0 0-0.asia
 0.0.0.0 0-12kids.com
@@ -1023,14 +1023,23 @@
 0.0.0.0 107ss.com
 0.0.0.0 107vv.com
 0.0.0.0 107ww.com
+0.0.0.0 1080hdporn.shop
+0.0.0.0 1080liveporn.shop
+0.0.0.0 1080maxporn.shop
 0.0.0.0 1080p4me.com
 0.0.0.0 1080p4u.com
 0.0.0.0 1080paz.com
 0.0.0.0 1080pcontent.com
+0.0.0.0 1080plusporn.shop
 0.0.0.0 1080pok.com
+0.0.0.0 1080porn.shop
+0.0.0.0 1080pporn.shop
 0.0.0.0 1080ppornlist.com
 0.0.0.0 1080pxnxx.com
 0.0.0.0 1080tube.com
+0.0.0.0 1080tvporn.shop
+0.0.0.0 1080vporn.shop
+0.0.0.0 1080xporn.shop
 0.0.0.0 108msd.ru
 0.0.0.0 108porn.com
 0.0.0.0 109110.xyz
@@ -3085,6 +3094,7 @@
 0.0.0.0 1passforallsites.com
 0.0.0.0 1phimsex.net
 0.0.0.0 1pic1day.com
+0.0.0.0 1pizdafoto.lol
 0.0.0.0 1plansex.com
 0.0.0.0 1pondo.com
 0.0.0.0 1pondo.tv
@@ -7585,6 +7595,7 @@
 0.0.0.0 54t2.com
 0.0.0.0 54zt.com
 0.0.0.0 550ee.com
+0.0.0.0 551421.xyz
 0.0.0.0 553366.xyz
 0.0.0.0 553xe.com
 0.0.0.0 554433.com
@@ -20924,6 +20935,7 @@
 0.0.0.0 annickguenette.com
 0.0.0.0 anniebody.com
 0.0.0.0 anniecruz.com
+0.0.0.0 anniemaymay.com
 0.0.0.0 anniesangelsescorts.com
 0.0.0.0 anniesartdesigns.com
 0.0.0.0 anniesdollhouse.com
@@ -25610,6 +25622,7 @@
 0.0.0.0 b493.com
 0.0.0.0 b4busty.com
 0.0.0.0 b4butts.com
+0.0.0.0 b4bz.com
 0.0.0.0 b4dating.com
 0.0.0.0 b4y.ca
 0.0.0.0 b5.pics
@@ -44536,6 +44549,7 @@
 0.0.0.0 cicliblume.it
 0.0.0.0 cicotours.com
 0.0.0.0 cidatv.cc
+0.0.0.0 cielesna.pl
 0.0.0.0 cierrajadefacialabuse.com
 0.0.0.0 cierrazoey.com
 0.0.0.0 cifamov.cc
@@ -45539,10 +45553,13 @@
 0.0.0.0 cmnm.me
 0.0.0.0 cmnm.net
 0.0.0.0 cmoosbrugger.at
+0.0.0.0 cmoz.cc
 0.0.0.0 cms-stars.net
 0.0.0.0 cmsextra.net
+0.0.0.0 cmship.cc
 0.0.0.0 cmski.org
 0.0.0.0 cmsp91.top
+0.0.0.0 cmspin.wiki
 0.0.0.0 cmt-sonabel.org
 0.0.0.0 cmycam.com
 0.0.0.0 cmz.jp
@@ -51469,6 +51486,7 @@
 0.0.0.0 desixsex.xyz
 0.0.0.0 desixvideo.pro
 0.0.0.0 desixvideo1.com
+0.0.0.0 desixx.fun
 0.0.0.0 desixx.top
 0.0.0.0 desixxnxx.com
 0.0.0.0 desixxvideo.com
@@ -62539,6 +62557,7 @@
 0.0.0.0 evescort.com
 0.0.0.0 eveselache.fr
 0.0.0.0 evesplaypen.com
+0.0.0.0 evessecrets.store
 0.0.0.0 evexxx.com
 0.0.0.0 evexxx.me
 0.0.0.0 eveylavolatinaabuse.com
@@ -62562,6 +62581,7 @@
 0.0.0.0 evilangel.me
 0.0.0.0 evilangel.org
 0.0.0.0 evilangeldiscount.club
+0.0.0.0 evilangeldiscount.net
 0.0.0.0 evilangeldiscounts.com
 0.0.0.0 evilangellive.com
 0.0.0.0 evilangellivecams.com
@@ -67995,6 +68015,7 @@
 0.0.0.0 find-best-tits.com
 0.0.0.0 find-best-videos.com
 0.0.0.0 find-buddies.com
+0.0.0.0 find-cam-girls.com
 0.0.0.0 find-escort.co.uk
 0.0.0.0 find-escort.us
 0.0.0.0 find-escorts.co.uk
@@ -68106,6 +68127,7 @@
 0.0.0.0 findingpussy.com
 0.0.0.0 findingshemales.com
 0.0.0.0 findingxxx.com
+0.0.0.0 findlesbiansex.com
 0.0.0.0 findlivecams.com
 0.0.0.0 findlivegirls.com
 0.0.0.0 findlocalaffairs.com
@@ -79077,6 +79099,7 @@
 0.0.0.0 getacluegoddess.com
 0.0.0.0 getaphonesexjob.com
 0.0.0.0 getasianxxx.cc
+0.0.0.0 getav.live
 0.0.0.0 getbarkeep.org
 0.0.0.0 getbdsmtube.com
 0.0.0.0 getbeaten.com
@@ -92733,6 +92756,7 @@
 0.0.0.0 hypnose-femdom.com
 0.0.0.0 hypnose-fetisch-schalthebel-sex.pages.dev
 0.0.0.0 hypnose-herrin.com
+0.0.0.0 hypnoseclips.com
 0.0.0.0 hypnosedominanz.com
 0.0.0.0 hypnosefetisch.com
 0.0.0.0 hypnosis-femdom.com
@@ -111537,6 +111561,7 @@
 0.0.0.0 lokalaflirtar.com
 0.0.0.0 lokalatjejer.com
 0.0.0.0 lokalbokep.com
+0.0.0.0 lokalbokep.xyz
 0.0.0.0 lokaleabenteuer.com
 0.0.0.0 lokalechats.com
 0.0.0.0 lokalejenter.com
@@ -129217,12 +129242,14 @@
 0.0.0.0 nightmareporn.com
 0.0.0.0 nightmax.net
 0.0.0.0 nightmovesonline.com
+0.0.0.0 nightnoire.com
 0.0.0.0 nightpari.com
 0.0.0.0 nightpornvideo.com
 0.0.0.0 nightprsex18ime.shop
 0.0.0.0 nightqueen4you.com
 0.0.0.0 nights.fun
 0.0.0.0 nightsecretsonline.com
+0.0.0.0 nightserene.com
 0.0.0.0 nightservic.com
 0.0.0.0 nightsex.net
 0.0.0.0 nightsex.xyz
@@ -129236,6 +129263,7 @@
 0.0.0.0 nightstand.co.in
 0.0.0.0 nighttimeplay.com
 0.0.0.0 nightvelin.com
+0.0.0.0 nightvelora.com
 0.0.0.0 nightvideo.net
 0.0.0.0 nightvidporn.com
 0.0.0.0 nightwatchpublishing.com
@@ -156449,6 +156477,7 @@
 0.0.0.0 r18japan.com
 0.0.0.0 r18lsp.com
 0.0.0.0 r18manga.com
+0.0.0.0 r18matomeblog.com
 0.0.0.0 r18porn.com
 0.0.0.0 r18porn.net
 0.0.0.0 r18vr.com
@@ -180398,6 +180427,7 @@
 0.0.0.0 sihteeriopisto.com
 0.0.0.0 sihu88.cc
 0.0.0.0 sihuh.com
+0.0.0.0 sihumt.com
 0.0.0.0 siip.eu
 0.0.0.0 siirt.club
 0.0.0.0 siirtescortbu.info
@@ -183932,6 +183962,7 @@
 0.0.0.0 spornogratis.com
 0.0.0.0 sport-betting-links.com
 0.0.0.0 sport-fray.ru
+0.0.0.0 sport-sofia.com
 0.0.0.0 sport-wetten-online.info
 0.0.0.0 sportbabes.com
 0.0.0.0 sportbud.org
@@ -195195,6 +195226,7 @@
 0.0.0.0 tokyobestiality.com
 0.0.0.0 tokyoblog.asia
 0.0.0.0 tokyobondage.com
+0.0.0.0 tokyobondagelife.com
 0.0.0.0 tokyobukkake.com
 0.0.0.0 tokyocoed.com
 0.0.0.0 tokyodiamond.info
@@ -199783,6 +199815,7 @@
 0.0.0.0 turboviplay.com
 0.0.0.0 turbute.com
 0.0.0.0 turchanki.link
+0.0.0.0 turfpr.com
 0.0.0.0 turgutluescort.xyz
 0.0.0.0 turgutreisescort.org
 0.0.0.0 turimov.cc
@@ -200023,6 +200056,7 @@
 0.0.0.0 tvstrip.de
 0.0.0.0 tvto.ru
 0.0.0.0 tvtschatline.com
+0.0.0.0 tvtspersonals.com
 0.0.0.0 tvtsphonesex.com
 0.0.0.0 tvtsphonesex4adults.com
 0.0.0.0 tvtsvod.com
@@ -200057,6 +200091,7 @@
 0.0.0.0 twav6.xyz
 0.0.0.0 twav7.xyz
 0.0.0.0 twbprup.org
+0.0.0.0 twebcams.com
 0.0.0.0 tweennest.com
 0.0.0.0 tweetcouple.com
 0.0.0.0 tweetsexy.com
@@ -201471,6 +201506,7 @@
 0.0.0.0 unfetish.com
 0.0.0.0 unfiltered-management.com
 0.0.0.0 unforgetescortservices.com
+0.0.0.0 unform1.com
 0.0.0.0 ungaamatorer.nu
 0.0.0.0 ungabrudar.org
 0.0.0.0 ungabrudar.se

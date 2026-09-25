@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 24 Sep 2026 22:26 (updated regularly)
+! Last modified: 25 Sep 2026 20:00 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -12320,7 +12320,7 @@ nobartvgratis.com##.popbox
 nobartvgratis.com##a:has(> img[src$=".gif"])
 nobartvgratis.com##body:style(overflow: auto!important; position: unset!important;)
 nokephub.com##a[href^="https://genec77.space/"]
-nomat.shop,nomat.top##.popup.show
+nomat.shop,nomat.top,nomat.world##.popup.show
 nomat.site##.show.popup
 nontonanimeid.*###player_ikln
 nontonanimeid.*##.banner_player
@@ -15326,6 +15326,7 @@ zooba.id##.infeedads
 ||kartuking.$image,third-party
 ||kartuking.$popup
 ||kartuqq.$image,third-party
+||karxklgspgv.com^$third-party
 ||kasinobet.$image,third-party
 ||kasinobet.$popup
 ||kaskus.co.id/images/banner-wap/
@@ -16245,6 +16246,7 @@ zooba.id##.infeedads
 ||prediksitogelonline.$image,third-party
 ||premier188.$image,third-party
 ||premier188.$popup
+||premiumproven.com^$third-party
 ||primbon.com/banner/
 ||primbon.com/banner/ilmugendam.gif
 ||pro-qq.$image,third-party
@@ -17287,6 +17289,7 @@ zooba.id##.infeedads
 ||winpoker789.$popup
 ||winwinbola.$image,third-party
 ||winwinbola.$popup
+||wirzflrmlcvbyh.com^$third-party
 ||wismaqq.$image,third-party
 ||wismaqq.$popup
 ||wismaqq2.$image,third-party

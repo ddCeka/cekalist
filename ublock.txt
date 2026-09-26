@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 25 Sep 2026 20:00 (updated regularly)
+! Last modified: 26 Sep 2026 16:34 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -13436,6 +13436,9 @@ zonabola.com###simplemodal-container
 zonabola.com###simplemodal-overlay
 zonaebt.com##.elementor-widget-container > .uael-gallery-parent
 zonanusantara.com##.desktop-banner
+zonaplus.space###popup-banner-overlay
+zonaplus.space##div.popup-banner-content
+zonaplus.space##div.popup-banner-grid
 zonasi.id##.ray-floating-ads-container
 zooba.id##.infeedads
 |whatsapp://send$domain=~whatsapp.com

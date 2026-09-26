@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 26 Sep 2026 16:34 (updated regularly)
+! Last modified: 27 Sep 2026 01:47 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -8898,8 +8898,8 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 /ratulotto.$image,third-party
 /ratuqq.$image,third-party
 /ratuqq.gif$image
-/rbtvplus\d+\.(com|autos|baby|blog|bond|cfd|click|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|top|vip|xyz|yachts)/##*:style(scrollbar-width: thin!important;)
-/rbtvplus\d+\.(com|autos|baby|blog|bond|cfd|click|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|top|vip|xyz|yachts)/##.czlll-rlselse
+/rbtvplus\d+\.(com|autos|baby|blog|bond|buzz|cfd|click|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|top|vip|xyz|yachts)/##*:style(scrollbar-width: thin!important;)
+/rbtvplus\d+\.(com|autos|baby|blog|bond|buzz|cfd|click|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|top|vip|xyz|yachts)/##.czlll-rlselse
 /rctiqq.$image,third-party
 /rdomino.$image,third-party
 /rejekibet.$image,third-party
@@ -13839,7 +13839,8 @@ zooba.id##.infeedads
 ||asikqq.$image,third-party
 ||asliqq.$image,third-party
 ||asset.kompas.com/data/2025/02/27/sso/js/popup_manager.min.js$script
-||assetcsn.site/GIF/$3p
+||assetcsn.site/GIF/$3p,image
+||assetcsn.site/GIF/$media,redirect=noopmp4-1s
 ||assetcsn.site/banner-$3p
 ||assetcsn.site/banner/$3p
 ||assetcsn.site/image/*.gif$3p

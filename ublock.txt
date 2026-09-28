@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 27 Sep 2026 16:37 (updated regularly)
+! Last modified: 29 Sep 2026 02:59 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9351,6 +9351,7 @@ _728_x_90_
 _728x90px-$image,domain=autoride.co.id
 _728x90px.$image,domain=bogordaily.net
 _728x90px_
+_Banner-Ads_
 _TimAds_$image
 _ads728x90-
 _ads_article_desktop-$image
@@ -10570,6 +10571,7 @@ fajar.co.id###closeAdsBtnx
 fajar.co.id###fajar_like_geniee_ads
 fajar.co.id###vidAdsPlace
 fajar.co.id##.adp_interactive_ad
+fajar.co.id##.fajar-banner
 fajarmalut.com##[role="banner"]
 fakta.com###container-ads9
 fakta.com##.fkt-banner-side-container
@@ -11484,6 +11486,7 @@ kapanlagi.com##.liputan6-mobileapp-widget
 kapanlagi.com,liputan6.com###dfp-bframe-cont
 kapanlagi.com,otosia.com###v5-showcase1
 kapanlagi.com,otosia.com###v5-showcase2
+kapsultekno.com##.shopee-full-banner
 karawangnews.com##.sticky-sidebar
 kareel.com##+js(set, config.adblock.selector, true)
 karogaul.com##.blog-banner

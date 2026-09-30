@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 29 Sep 2026 02:59 (updated regularly)
+! Last modified: 30 Sep 2026 09:17 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -11976,7 +11976,6 @@ lokerjakarta.id##.hustle-popup
 lokerjakarta.id##.mobile-view-banner
 lokerjakarta.id##html.hustle-no-scroll:style(overflow: auto!important; position: unset!important;)
 loklokplay.pages.dev##.banner_wrapper
-lomboktoday.co.id##.taxx_float_ads
 love678love.com
 love678oooo.com
 love678slot.com
@@ -12620,7 +12619,6 @@ pramborsfm.com##.popup-ads
 pricebook.co.id##.description-ads
 primesasia.com##.gmr_floating
 productnation.co##.adbox
-proinbar.com###floatAds
 proinbar.com##.rahParallax
 proinbar.com##[id^="bn_"]
 prokaltim.com##.premium-adv-carousel__container
@@ -12658,7 +12656,6 @@ radarnusantara.com##img[width="1170"][height="233"]
 radarpaser.com##img[height="1600"][width="1131"]
 radarriaunet.com##.banner120
 radarriaunet.com##.banner625
-radarsurabaya.jawapos.com##div:matches-css(width: 160px):matches-css(min-height: 600px)
 radioonline.co.id##.add-box-side
 radioonline.co.id##.add-box-top
 ragamnusantara.id##img[width="1600"][height="201"]

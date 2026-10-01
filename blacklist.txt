@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 25 Sep 2026 20:00 (updated regularly)
+! Last modified: 1 Oct 2026 12:41 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -4242,7 +4242,6 @@
 0.0.0.0 globetcasino12.com
 0.0.0.0 globetlive12.com
 0.0.0.0 globetpartners.com
-0.0.0.0 gnsnpaw.com
 0.0.0.0 gnuf.com
 0.0.0.0 go.admost.com
 0.0.0.0 go.mobstitialtag.com

@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 1 Oct 2026 12:41 (updated regularly)
+! Last modified: 3 Oct 2026 02:27 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -1566,6 +1566,7 @@
 0.0.0.0 api-fp-retry-bj.fengkongcloud.com
 0.0.0.0 api-fp-retry-sa.fengkongcloud.com
 0.0.0.0 api-log-upload.wenext.technology
+0.0.0.0 api-sdk.beaconbank.jp
 0.0.0.0 api-v2.shareitgames.com
 0.0.0.0 api.abcsinsights.com
 0.0.0.0 api.ad-locus.com
@@ -8244,6 +8245,7 @@
 0.0.0.0 stow-d.xxh
 0.0.0.0 strawpoii.me
 0.0.0.0 streakgaming.com
+0.0.0.0 stream-log.profilepassport.jp
 0.0.0.0 stream.spongead.com
 0.0.0.0 strikeitluckycasino.com
 0.0.0.0 strikewin.com
@@ -9728,3 +9730,6 @@
 0.0.0.0 zzhengre.com
 0.0.0.0 zzun88.com
 0.0.0.0 zzwin168.com
+0.0.0.0 |nt-stream-log.profilepassport.jp
+0.0.0.0 |pp3-sdk-api.profilepassport.jp
+0.0.0.0 |pp3-sdkdata-v2-ut.profilepassport.jp

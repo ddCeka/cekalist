@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 3 Oct 2026 02:27 (updated regularly)
+! Last modified: 3 Oct 2026 11:48 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -355,7 +355,6 @@
 0.0.0.0 a.appbaqend.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.line.me
-0.0.0.0 a.magsrv.com
 0.0.0.0 a78.com
 0.0.0.0 a805.com
 0.0.0.0 a9388.com
@@ -3870,14 +3869,10 @@
 0.0.0.0 ewalletcasinobonus.com
 0.0.0.0 ewetot.com
 0.0.0.0 ex-ample.org,from=ex-ample.com
-0.0.0.0 exacdn.com
 0.0.0.0 exclusive-promotions.com
 0.0.0.0 exclusivebet.com
-0.0.0.0 exdynsrv.com
 0.0.0.0 exe.bid
 0.0.0.0 exelbid.com
-0.0.0.0 exoclick.com
-0.0.0.0 exosrv.com
 0.0.0.0 expekt.net
 0.0.0.0 experiment.pixverse.ai
 0.0.0.0 expert-gambler.com
@@ -3970,7 +3965,6 @@
 0.0.0.0 fix-tips.com
 0.0.0.0 fixed-bets.com
 0.0.0.0 fixedbet365.com
-0.0.0.0 fj.fatsoeslandmil.com
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 flb6688.com
 0.0.0.0 flbet.com
@@ -5372,7 +5366,6 @@
 0.0.0.0 karanpc.com
 0.0.0.0 kartikaonlineshop.com
 0.0.0.0 kartuking.net
-0.0.0.0 karxklgspgv.com
 0.0.0.0 kashbet.net
 0.0.0.0 kasinobet.net
 0.0.0.0 kasinoforum.com
@@ -5579,7 +5572,6 @@
 0.0.0.0 lesacasino.com
 0.0.0.0 lesbian-tubes.com
 0.0.0.0 lestarionlineshop.com
-0.0.0.0 letterrecoveryunplanted.com
 0.0.0.0 lexus88.com
 0.0.0.0 lf-static.tiktokpangle-cdn-us.com
 0.0.0.0 lg-release-tracking-8080.gcld-line.com
@@ -6753,7 +6745,6 @@
 0.0.0.0 openlog.tapapis.com
 0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 opera.com
-0.0.0.0 opoxv.com
 0.0.0.0 opt8.co
 0.0.0.0 optimalgambling.com
 0.0.0.0 optionbet.com
@@ -6932,7 +6923,6 @@
 0.0.0.0 pemaintogel.com
 0.0.0.0 pemaintogel.info
 0.0.0.0 pemaintogel.us
-0.0.0.0 pemsrv.com
 0.0.0.0 pendekarqq.net
 0.0.0.0 pendo-data-prod.box.com
 0.0.0.0 penggilabola.com
@@ -7146,7 +7136,6 @@
 0.0.0.0 portable4pc.com
 0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 powderencouraged.com
-0.0.0.0 poweredby.jads.co
 0.0.0.0 powerlinks.com
 0.0.0.0 ppin-d.ppin
 0.0.0.0 ppin-f.ppin
@@ -8610,7 +8599,6 @@
 0.0.0.0 tc.zxcvbnml.com
 0.0.0.0 tccbanner.com
 0.0.0.0 tdedfootball.com
-0.0.0.0 te.domineehexer.com
 0.0.0.0 teachscape.vo.llnwd.net
 0.0.0.0 tealand.cmcm.com
 0.0.0.0 team-168.com
@@ -9495,7 +9483,6 @@
 0.0.0.0 wintrillions.org
 0.0.0.0 winwardcasino.net
 0.0.0.0 winx2x.com
-0.0.0.0 wirzflrmlcvbyh.com
 0.0.0.0 wizbet.com
 0.0.0.0 wizcase.com
 0.0.0.0 wlog.ksapisrv.com

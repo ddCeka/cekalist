@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 3 Oct 2026 02:27 (updated regularly)
+! Last modified: 3 Oct 2026 11:49 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -12529,9 +12529,7 @@ pemersatufun.*###deskadmiddle
 pemersatufun.*###dooplay_player_response #myDiv:has(button[onclick*="-adblock" i])
 pemersatufun.com###advertisement
 pemersatufun.com###dooplay_player_response #myDiv:has(button[onclick*="-adblock" i])
-pemersatufun.com##.age-gate-ad-status
 pemersatufun.com##[class*="age-gate"]
-pemersatufun.com##[class*="age-gate-adblock"]
 pemersatufun.com##[data-age-accept]
 pemersatufun.com##[data-age-adblock-link]
 pemersatufun.site###deskadmiddle
@@ -13337,7 +13335,6 @@ vcgamers.com##.parallax_div
 vg.no##button[aria-label*=Facebook]
 vicek.id##+js(set, VK_DIRECT_AD, undefined)
 video.pemersatu.org##.adsbygoogle
-video.pemersatu.org##.pmt-ad-gate
 video.pemersatu.org##[class*="pmt-ad-gate"]
 videocrot.*##.ads-720
 videyindo.*###customPopupOverlay
@@ -13537,7 +13534,6 @@ zooba.id##.infeedads
 ||99poker.$image,third-party
 ||9bet.$image,third-party
 ||9eb10b7a3d04a.com^$popup,third-party
-||a.magsrv.com^$third-party
 ||abgqq.$image,third-party
 ||abgqq.$popup
 ||abgqq88.$image,third-party
@@ -14257,7 +14253,6 @@ zooba.id##.infeedads
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
 ||cdn.teknolur.eu.org^$image,domain=kingbokep.media
-||cdn.tsyndicate.com^,domain=kurakura21.net
 ||cdnasiaclub.$popup
 ||cdnasiaclub.com^$third-party
 ||cdnfgo.xyz/wp-content/uploads/*.gif|$domain=komiktap.info
@@ -14285,10 +14280,7 @@ zooba.id##.infeedads
 ||cfs1.uzone.id^$third-party
 ||cfs2.uzone.id^$third-party
 ||champspoker.$image,third-party
-||chaseherbalpasty.com^,domain=kurakura21.net
 ||chilipoker.com^$third-party
-||ci.putsaggies.com^,domain=boscinema21.bar
-||ci.putsaggies.com^,domain=bosku21.help
 ||cimbbet.$image,third-party
 ||cinaqq.$image,third-party
 ||cinaqq.$popup
@@ -14380,7 +14372,6 @@ zooba.id##.infeedads
 ||dbl.id/img/banners/
 ||debridleech.com^
 ||decafeligiblyhad.com^$popup
-||deductgreedyheadroom.com^,domain=bokepbrut.in
 ||deepend.id^*/iklan-$image
 ||delapantogel.com^$third-party
 ||dellpoker.$image,third-party
@@ -14549,7 +14540,6 @@ zooba.id##.infeedads
 ||dwanonton.*/static/banner/*.gif$image
 ||dwoqq.$image,third-party
 ||earmuffpostnasalrisotto.com^
-||earmuffpostnasalrisotto.com^,domain=bokepbrut.in
 ||earneasycash.$image,third-party
 ||earneasycash.$popup
 ||ebsoft.web.id/wp-content/banners/
@@ -14577,7 +14567,6 @@ zooba.id##.infeedads
 ||emputogel.com^$third-party
 ||en777.$all
 ||enakslot.bio^$third-party
-||endlesshandbaglinked.com^,domain=bokepbrut.in
 ||enjoydepo.$image,third-party
 ||enjoydomino.$image,third-party
 ||enjoyqq.$image,third-party
@@ -14596,10 +14585,6 @@ zooba.id##.infeedads
 ||ewarta.co/*/files/banner/
 ||ewarta.co/*/files/promotion/
 ||ex-ample.org^$script,from=ex-ample.com
-||exacdn.com^$third-party
-||exdynsrv.com^$third-party
-||exoclick.com^$third-party
-||exosrv.com^$third-party
 ||eze99.me^$image,third-party
 ||eze99.me^$popup
 ||ezebet.$image,third-party
@@ -14635,7 +14620,6 @@ zooba.id##.infeedads
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
 ||fin.co.id^*/ads/
 ||fintechnews.sg^*-banner-
-||fj.fatsoeslandmil.com^$script
 ||flexterkita.com^$third-party
 ||fokusaktual.co.id^*/iklan-$image
 ||fokusrakyat.net^*/iklan-
@@ -15334,7 +15318,6 @@ zooba.id##.infeedads
 ||kartuking.$image,third-party
 ||kartuking.$popup
 ||kartuqq.$image,third-party
-||karxklgspgv.com^$third-party
 ||kasinobet.$image,third-party
 ||kasinobet.$popup
 ||kaskus.co.id/images/banner-wap/
@@ -15504,7 +15487,6 @@ zooba.id##.infeedads
 ||lendoot.com^*/iklan-
 ||letternews.net^*-banner-$image
 ||letternews.net^*/iklan-$image
-||letterrecoveryunplanted.com^$third-party
 ||lexispoker.$image,third-party
 ||liburpoker.$image,third-party
 ||liburpoker.$popup
@@ -15992,7 +15974,6 @@ zooba.id##.infeedads
 ||onlinetaruhansbobet.$image,third-party
 ||onlinetogel.com^$third-party
 ||openadserving.com^$third-party
-||opoxv.com^$third-party
 ||oppabet.$image,third-party
 ||oppabet.com^$popup
 ||oppabet.com^$third-party
@@ -16090,7 +16071,6 @@ zooba.id##.infeedads
 ||pemaincash.$image,third-party
 ||pemaintogel.$image,third-party
 ||pemaintogel.$popup
-||pemsrv.com^$third-party
 ||penabali.com^*/banner-
 ||penaku.id^*/iklan-$image
 ||pendekarqq.$image,third-party
@@ -16235,10 +16215,6 @@ zooba.id##.infeedads
 ||potretkota.com^*/advetorial/
 ||powderencouraged.com^$third-party
 ||power338bet.$image,third-party
-||poweredby.jads.co^$third-party
-||poweredby.jads.co^,domain=bokep.pemersatu.top
-||poweredby.jads.co^,domain=bokepbox.cc
-||poweredby.jads.co^,domain=kurakura21.net
 ||pratamamedia.com^*/banner-$image
 ||predikatnews.com^*/iklan-$image
 ||prediksi855.$image,third-party
@@ -16909,7 +16885,6 @@ zooba.id##.infeedads
 ||tatobet.$popup
 ||tatonaga.$image,third-party
 ||tatonaga.$popup
-||te.domineehexer.com^$third-party
 ||team-168.com^$popup
 ||tebarberita.id^*/banner-$image
 ||tebet88.$image,third-party
@@ -17297,7 +17272,6 @@ zooba.id##.infeedads
 ||winpoker789.$popup
 ||winwinbola.$image,third-party
 ||winwinbola.$popup
-||wirzflrmlcvbyh.com^$third-party
 ||wismaqq.$image,third-party
 ||wismaqq.$popup
 ||wismaqq2.$image,third-party
@@ -17311,7 +17285,6 @@ zooba.id##.infeedads
 ||wp.com/*.photobucket.com/*/Blogger%20Perempuan/banner-$domain=~bloggerperempuan.com
 ||wp.com/www.backlink.co.id/wp-content/uploads/$image,domain=~backlink.co.id|~blogpartner.id
 ||wp.com/www.jagoanhosting.com^*/banner-$domain=~jagoanhosting.app|~jagoanhosting.com
-||wpadmngr.com^$third-party
 ||wpbet365.$image,third-party
 ||wprediscache.com^$third-party
 ||ws.sharethis.com^$third-party

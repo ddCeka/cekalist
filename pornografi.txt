@@ -1,7 +1,7 @@
 ! Title: Cekalist pornografi
 ! Description: Host file anti situs pornografi
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 3 Oct 2026 11:49 (updated regularly)
+! Last modified: 6 Oct 2026 00:17 (updated regularly)
 
 0.0.0.0 0-0.asia
 0.0.0.0 0-12kids.com
@@ -65000,6 +65000,7 @@
 0.0.0.0 facefuckfriendrequest.com
 0.0.0.0 facefuckgif.com
 0.0.0.0 facefuckin.com
+0.0.0.0 facefucking.com
 0.0.0.0 facefucking.me
 0.0.0.0 facefucking.net
 0.0.0.0 facefucking.ninja

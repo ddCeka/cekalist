@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 3 Oct 2026 11:48 (updated regularly)
+! Last modified: 9 Oct 2026 00:40 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -381,6 +381,7 @@
 0.0.0.0 ac1188.com
 0.0.0.0 accesstrade.co.id
 0.0.0.0 accscdn.m.taobao.com
+0.0.0.0 acdn.newshuntads.com
 0.0.0.0 ace.naver.com
 0.0.0.0 acelivecasino.com
 0.0.0.0 acerevenue.com
@@ -1565,6 +1566,7 @@
 0.0.0.0 api-fp-retry-bj.fengkongcloud.com
 0.0.0.0 api-fp-retry-sa.fengkongcloud.com
 0.0.0.0 api-log-upload.wenext.technology
+0.0.0.0 api-sdk-tracking.beaconbank.jp
 0.0.0.0 api-sdk.beaconbank.jp
 0.0.0.0 api-v2.shareitgames.com
 0.0.0.0 api.abcsinsights.com
@@ -6493,6 +6495,7 @@
 0.0.0.0 nr.bidderstack.com
 0.0.0.0 nrc.tapas.net
 0.0.0.0 nsclickvideo.xiaodutv.com
+0.0.0.0 nt-stream-log.profilepassport.jp
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 ntus.bidease.com
 0.0.0.0 numbers.md
@@ -7137,6 +7140,8 @@
 0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 powderencouraged.com
 0.0.0.0 powerlinks.com
+0.0.0.0 pp3-sdk-api.profilepassport.jp
+0.0.0.0 pp3-sdkdata-v2-ut.profilepassport.jp
 0.0.0.0 ppin-d.ppin
 0.0.0.0 ppin-f.ppin
 0.0.0.0 pps-log.op-mobile.opera.com
@@ -9717,6 +9722,3 @@
 0.0.0.0 zzhengre.com
 0.0.0.0 zzun88.com
 0.0.0.0 zzwin168.com
-0.0.0.0 |nt-stream-log.profilepassport.jp
-0.0.0.0 |pp3-sdk-api.profilepassport.jp
-0.0.0.0 |pp3-sdkdata-v2-ut.profilepassport.jp

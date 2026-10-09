@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 9 Oct 2026 00:40 (updated regularly)
+! Last modified: 9 Oct 2026 22:00 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -156,7 +156,6 @@
 0.0.0.0 3838sj.com
 0.0.0.0 38777.com
 0.0.0.0 3888bet.com
-0.0.0.0 388hero.bio
 0.0.0.0 388live.com
 0.0.0.0 3b7c0f01022f61d5.com
 0.0.0.0 3beefun.com
@@ -379,6 +378,7 @@
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 ac1188.com
+0.0.0.0 access.kaiko.cam
 0.0.0.0 accesstrade.co.id
 0.0.0.0 accscdn.m.taobao.com
 0.0.0.0 acdn.newshuntads.com
@@ -1397,7 +1397,7 @@
 0.0.0.0 ak4ng.net
 0.0.0.0 ak8999.com
 0.0.0.0 aki-gb-sdklog.kurogames.net
-0.0.0.0 akseskaiko.cam
+0.0.0.0 aksesin.top
 0.0.0.0 aktivator-windows.net
 0.0.0.0 akucintabola.com
 0.0.0.0 alabamacasinos.com
@@ -4081,6 +4081,8 @@
 0.0.0.0 g3777.com
 0.0.0.0 g3888.com
 0.0.0.0 gaci88.net
+0.0.0.0 gacor.vin
+0.0.0.0 gacor.zone
 0.0.0.0 gadgetdiscon.com
 0.0.0.0 gadingemas.com
 0.0.0.0 gadingpoker.com
@@ -4534,7 +4536,6 @@
 0.0.0.0 hilltopads.net
 0.0.0.0 hilton.data.adobedc.net
 0.0.0.0 hippodromeonline.com
-0.0.0.0 histats.com
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hitadsmedia.com
 0.0.0.0 hititbet.com
@@ -8354,6 +8355,7 @@
 0.0.0.0 tags.creditkarma.com
 0.0.0.0 taipeipools.com
 0.0.0.0 taiwebs.com
+0.0.0.0 tajir.la
 0.0.0.0 tajirabis.com
 0.0.0.0 talog-eu.rebxgame.com
 0.0.0.0 tamacityshop.com

@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 9 Oct 2026 22:00 (updated regularly)
+! Last modified: 10 Oct 2026 11:56 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -7904,7 +7904,6 @@
 0.0.0.0 shiyifacaisalzc.com
 0.0.0.0 shokawah.com
 0.0.0.0 shopnoit.com
-0.0.0.0 shortbioo.com
 0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 siagajayaelektronik.com
 0.0.0.0 sierrastarcasino.com

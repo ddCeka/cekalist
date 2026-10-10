@@ -1,7 +1,7 @@
 ! Title: Cekalist pornografi
 ! Description: Host file anti situs pornografi
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 9 Oct 2026 22:00 (updated regularly)
+! Last modified: 10 Oct 2026 11:56 (updated regularly)
 
 0.0.0.0 0-0.asia
 0.0.0.0 0-12kids.com
@@ -1505,6 +1505,7 @@
 0.0.0.0 121xxx.uk
 0.0.0.0 1221xxxx.com
 0.0.0.0 122568.xyz
+0.0.0.0 122pa.com
 0.0.0.0 122py.com
 0.0.0.0 122ty.com
 0.0.0.0 123-hentai.com
@@ -17994,6 +17995,7 @@
 0.0.0.0 allinternal.com
 0.0.0.0 allinternal1.com
 0.0.0.0 allinternal5.com
+0.0.0.0 allinthestepfamily.com
 0.0.0.0 allintim.life
 0.0.0.0 allisangels.com
 0.0.0.0 allisonbabcock.com
@@ -20560,6 +20562,7 @@
 0.0.0.0 analpix.net
 0.0.0.0 analplanet.com
 0.0.0.0 analplay.webcam
+0.0.0.0 analpleasure.life
 0.0.0.0 analpleasure.pro
 0.0.0.0 analpleasurehub.pro
 0.0.0.0 analpleasures.org
@@ -22981,6 +22984,7 @@
 0.0.0.0 arousexy.com
 0.0.0.0 arousingdates.com
 0.0.0.0 arousingplay.com
+0.0.0.0 arousingvids.life
 0.0.0.0 arousins.com
 0.0.0.0 arousr.com
 0.0.0.0 aroyalgirl.com
@@ -25701,6 +25705,7 @@
 0.0.0.0 avclub.in
 0.0.0.0 avcnn.com
 0.0.0.0 avcollectors.com
+0.0.0.0 avcontent.media
 0.0.0.0 avcrack.com
 0.0.0.0 avcrempie.com
 0.0.0.0 avcumshots.click
@@ -35945,6 +35950,7 @@
 0.0.0.0 bokepindolive.pro
 0.0.0.0 bokepindonesia.com
 0.0.0.0 bokepindonesia.icu
+0.0.0.0 bokepindonesia.top
 0.0.0.0 bokepindonesia.video
 0.0.0.0 bokepindonesiaviral.online
 0.0.0.0 bokepindoporn.biz.id
@@ -36264,6 +36270,7 @@
 0.0.0.0 bondagebeautiesinperil.com
 0.0.0.0 bondagebeauty.com
 0.0.0.0 bondagebelt.net
+0.0.0.0 bondagebimbos.com
 0.0.0.0 bondagebitches.com
 0.0.0.0 bondageblog.com
 0.0.0.0 bondageblog.org
@@ -43835,6 +43842,7 @@
 0.0.0.0 celebsexscenes.com
 0.0.0.0 celebsexstories.club
 0.0.0.0 celebsextapeleaks.com
+0.0.0.0 celebsexy.top
 0.0.0.0 celebsflash.com
 0.0.0.0 celebsfoto.com
 0.0.0.0 celebsgonewild.com
@@ -82608,6 +82616,7 @@
 0.0.0.0 getgaysexhot.org
 0.0.0.0 getgirlie.com
 0.0.0.0 getgle.org
+0.0.0.0 gethard.life
 0.0.0.0 gethauz.com
 0.0.0.0 gethdsexfree.com
 0.0.0.0 getherdun.com
@@ -98032,6 +98041,7 @@
 0.0.0.0 imamistress.com
 0.0.0.0 imanchesterescorts.co.uk
 0.0.0.0 imaniseduction.com
+0.0.0.0 imaniseductionporn.com
 0.0.0.0 imanwa.com
 0.0.0.0 imarnet.com
 0.0.0.0 imarriedasexgod.com
@@ -100089,6 +100099,7 @@
 0.0.0.0 intimateartscenter.com
 0.0.0.0 intimatedistribution.com
 0.0.0.0 intimateerotica.co.uk
+0.0.0.0 intimatefootage.live
 0.0.0.0 intimategadgets.com
 0.0.0.0 intimateitems.co.uk
 0.0.0.0 intimatelivegirls.com
@@ -105550,6 +105561,7 @@
 0.0.0.0 jojasa.com
 0.0.0.0 jojo-kiss.com
 0.0.0.0 jojoav.com
+0.0.0.0 jojobet2.icu
 0.0.0.0 jojosbizarreporngame.com
 0.0.0.0 jokastra.cam
 0.0.0.0 jokehdsex.com
@@ -106213,6 +106225,7 @@
 0.0.0.0 juicyelf.com
 0.0.0.0 juicyemo.com
 0.0.0.0 juicyeroticstories.net
+0.0.0.0 juicyfantasies.media
 0.0.0.0 juicyfatass.com
 0.0.0.0 juicyforum.com
 0.0.0.0 juicyfuck.com
@@ -170133,6 +170146,7 @@
 0.0.0.0 seductivehotties.com
 0.0.0.0 seductivejewess7.com
 0.0.0.0 seductiveladies.com
+0.0.0.0 seductiveoffer.live
 0.0.0.0 seductivephonevixen.com
 0.0.0.0 seductiveporn.com
 0.0.0.0 seductivepornmovies.com
@@ -186220,6 +186234,7 @@
 0.0.0.0 shareasian.com
 0.0.0.0 sharebabe.com
 0.0.0.0 sharedesi.com
+0.0.0.0 sharedmedia.pro
 0.0.0.0 sharedxxx.com
 0.0.0.0 shareeghettogaggers.com
 0.0.0.0 sharehdporn.shop
@@ -188251,6 +188266,7 @@
 0.0.0.0 sikatika.com
 0.0.0.0 sikhaa.in
 0.0.0.0 sikhajain.com
+0.0.0.0 sikis.icu
 0.0.0.0 sikisadulthikaye.com
 0.0.0.0 sikisme.sbs
 0.0.0.0 sikiswap.com
@@ -188668,6 +188684,7 @@
 0.0.0.0 sinnergirls.com
 0.0.0.0 sinners-uk.co.uk
 0.0.0.0 sinnersworld.net
+0.0.0.0 sinnerxxx.vip
 0.0.0.0 sinnesfeuer.de
 0.0.0.0 sinnistar.com
 0.0.0.0 sinnliche-fotografie.de
@@ -191405,6 +191422,7 @@
 0.0.0.0 spanksinn.com
 0.0.0.0 spankslaves.com
 0.0.0.0 spankspace.com
+0.0.0.0 spankspotz.com
 0.0.0.0 spankteens.com
 0.0.0.0 spankthatbottom.com
 0.0.0.0 spankthedonkey.co.uk
@@ -211863,6 +211881,7 @@
 0.0.0.0 vid200.com
 0.0.0.0 vid2porn.com
 0.0.0.0 vid388.com
+0.0.0.0 vid4.xyz
 0.0.0.0 vid60.com
 0.0.0.0 vid8xxxporn.pro
 0.0.0.0 vida-gay.com

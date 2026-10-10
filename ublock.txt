@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 9 Oct 2026 22:00 (updated regularly)
+! Last modified: 10 Oct 2026 11:56 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -7505,7 +7505,7 @@
 ##ul[class^=sociale-ikoner-del]
 ##ytm-share-target-renderer
 #@#[id^="google_ads_iframe"]
-$popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|wrt.my.id
+$popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.my.id
 %2Fiklan-
 *#*/ad/$image,redirect-rule=1x1.gif
 -(728x90)%
@@ -13474,7 +13474,6 @@ zooba.id##.infeedads
 ||365kiu.$image,third-party
 ||365kiu.$popup
 ||365qiuqiu.$image,third-party
-||37c01eb7.shng.me^
 ||388poker.$image,third-party
 ||396club.$image,third-party
 ||396dewa.$popup
@@ -15369,9 +15368,9 @@ zooba.id##.infeedads
 ||klik.best^$popup
 ||klik.top^$popup
 ||klik.top^$third-party
-||klik.zeus.fun^$all
 ||klik.zeus.fun^$popup
-||klik4.me^$all
+||klik.zeus.fun^$third-party
+||klik4.me^$third-party
 ||klik66.$image,third-party
 ||klik66.co^$popup
 ||klikajadeh.com^$third-party
@@ -16615,7 +16614,6 @@ zooba.id##.infeedads
 ||shngm.id/*.gif
 ||shopee.co.id^$popup,domain=berkasdrive.*|nimegami.*
 ||shopnoit.com^$popup
-||shortbioo.com^$all
 ||shrinkads.com/js/xe.js$script
 ||siapbet.$image,third-party
 ||siarindomedia.com^*-iklan-$image

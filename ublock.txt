@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 10 Oct 2026 11:56 (updated regularly)
+! Last modified: 11 Oct 2026 11:20 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9163,6 +9163,8 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 100kpj.com,indosport.com##.sticky-bottom
 100kpj.com,tvonenews.com##.sticky-bottom
 103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.*,layardrama21.beauty#@#.idmuvi-topbanner-aftermenu
+11.shinigami.asia##.bg-base-bg.bottom-0.px-16.fixed.left-0.w-screen.lg:hidden.z-\[201\]:has-text(/Sekarang kamu gak perlu login untuk membaca chapter\./)
+11.shinigami.asia##.bg-base-bg.p-24.fixed.top-100.left-0.w-full.z-\[208\]:has-text(/Sekarang kamu gak perlu login untuk membaca chapter\./)
 123av.com,anichin.cafe,anichin.moe,anichin.top,animekompi.vip,bokepindo69.*,brobokep.org,cosmicscans.*,igodesu.tv,indobo.com,indoporntube.com,jurnalistekno.id,kawanfilm21.co,kimcilonly.*,kingbokep.*,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,simontokx.tv,streamget.win,sukasex.net,sukasex.tv,tantecentil.fans,tv1.lk21official.*,westmanga.*##+js(nowoif)
 180.*,chugoku-np.co.jp##.social
 18subindo.com##.banner-float
@@ -12839,15 +12841,17 @@ serialmovieislami.com,tintajurnalisnews.co.id##.adore-adver
 sf21.space###overlay-iklan-internal
 shinigami.*##.bg-base-card:has(> .flex > .inline > a:has-text(/ads@shinigami./i))
 shinigami.*##.bg-base-card:has(> a > img[alt*="-ad-"])
-shinigami.*##.bg-base-card:has(img[alt*="-ad-"])
-shinigami.*,shinigami09.*##.lepopup-popup-container
-shinigami.*,shinigami09.*##.lepopup-popup-loader
-shinigami.*,shinigami09.*##.lepopup-popup-overlay
-shinigami.*,shinigami09.*,shinigami09.com##.iklannew-container
-shinigami.*,shinigami09.com,shinigamiscans.com,slider.shinigami.io##.ad-container
 shinigami.*,shinigamitoon.*##+js(aopr, lepopup_vars)
 shinigami.*,shinigamitoon.*##a[target*="blank"]:has(> img)
-shinigami09.*###lepopup-popup-13
+shinigami.asia##+js(set-session-storage-item, showAds, -32767)
+shinigami.asia##.flex-col.flex.mx-auto.container.false > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
+shinigami.asia##.gap-24.flex-col.flex > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
+shinigami.asia##.md\:px-24.px-4.pt-4.md\:pt-24 > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
+shinigami.asia##.md\:px-24.px-4.py-12 > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
+shinigami.asia##.pb-16 > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
+shinigami.asia##.z-\[207\].relative.lg\:pb-12.pb-12.w-full.mx-auto.max-w-800
+shinigami.asia##div.col-span-2.md\:col-span-4.lg\:col-span-6 > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
+shinigamiscans.com,slider.shinigami.io##.ad-container
 shopee.co.id##:matches-path(/search?) .search-items-container__tab-panel .item-card-list__item-card-wrapper:has(a div[aria-hidden="true"] > .bg-shopee-black26:has-text(/Ad/))
 shopee.co.id##:matches-path(/search?) .shopee-search-item-result .shopee-search-item-result__item:has(a div[aria-hidden="true"] > .bg-shopee-black26:has-text(/Ad/))
 short.gmsrweb.org,terabox.store,newshuta.in,hindimeguru.com,mazijob.in,updatewallah.in,phonesparrow.com,asaura.com,alljntuworld.in###gads
@@ -13349,6 +13353,8 @@ vivaborneo.com##.sponsor a:has(> img)
 vnn.co.id##.googlepublisherads
 vnn.co.id##.section.Atas.Iklan
 voratoon.com##[class*="ad-slot_"]
+voratoon.com##div[class^="ad-slot"]
+voratoon.com##div[class^="ranking-promo-popup"]
 vox.com##.c-social-buttons
 vplink.in##.navbar-collapse.collapse
 vplink.in##footer

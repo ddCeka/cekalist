@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 11 Oct 2026 18:58 (updated regularly)
+! Last modified: 12 Oct 2026 05:26 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -12675,6 +12675,7 @@ rebahan21.net,rebahan21.org,rebahan21.xyz,rebahin21.com.mx###floating_banner_top
 rebahan21.net,rebahan21.org,rebahan21.xyz,rebahin21.com.mx##a:has(> img[src$=".gif"])
 rebahan21.net,rebahan21.org,rebahan21.xyz,rebahin21.com.mx##a[target*="blank"]:has(> img)
 rebahin21.*###floating-banner
+reborn.layarwibu.com##a[rel~="sponsored"]
 redaksi8.com##.entry-content [class^="redak-after-content-"]
 redaksibaru.id##.redak-adlabel
 redaksibaru.id##.redak-banner-pemkab
@@ -13013,6 +13014,7 @@ sumateranews.co.id##img[width="1500"][height="375"]
 sumbardaily.com##.sidebar-entry .wp-block-image
 sumbardaily.com##.wp-block-image
 sumselindependen.com##.top_post_ads
+sumselindependen.com,timesindonesia.co.id##.my-4.overflow-hidden:has(.relative.z-10.w-full.h-full.flex.items-center.justify-center)
 sumselupdate.com##.spba-banner
 sundalanews.com##.e3lan
 sundul.com##.\33 .Premium.Sundul
@@ -13851,6 +13853,7 @@ zooba.id##.infeedads
 ||astrototo.$image,third-party
 ||astrototo.$popup
 ||asukabeh.my.id^$popup
+||atgroup-link.id^$third-party
 ||atnews.id^*/banner/
 ||auredzeon.com^$popup,third-party
 ||auredzetw.com^$third-party
@@ -14132,7 +14135,6 @@ zooba.id##.infeedads
 ||bolajudionline.$image,third-party
 ||bolajudisbo.$image,third-party
 ||bolajudisbobet.$image,third-party
-||bolakami-banner-tracker.bolakami.workers.dev^$third-party
 ||bolaketangkasan.$image,third-party
 ||bolaketangkasan.$popup
 ||bolalabo.$image,third-party
@@ -14838,6 +14840,7 @@ zooba.id##.infeedads
 ||https://tuple.app/
 ||hubapi.my.id^$3p
 ||humabetang.com^*/ads/
+||huntfishbrag.store^$third-party
 ||hypertracker.$image,third-party
 ||hypertracker.$popup
 ||i.imgur.com/g39FOIf.png$image
@@ -15478,6 +15481,7 @@ zooba.id##.infeedads
 ||law-justice.co/posts/banners/
 ||layananqq.$image,third-party
 ||layarkeren.*/wp-content/uploads/*.gif$image
+||layarotaku.id^$third-party
 ||layarqq.$image,third-party
 ||lazabet.$image,third-party
 ||lazacasino.com^$image,third-party
@@ -16257,7 +16261,6 @@ zooba.id##.infeedads
 ||proqq.$image,third-party
 ||prosesnews.id^*/iklan-$image
 ||ptliga365.$image,third-party
-||pub-ee3a5bccda2d49c7bbc62bd60d648707.r2.dev^$third-party
 ||publica-news.com/img_banner/
 ||publikterkini.com/assets/banner/
 ||pulausumbawanews.net^*-iklan-$image
@@ -16823,7 +16826,7 @@ zooba.id##.infeedads
 ||tangkaspro.$image,third-party
 ||tangkasq.$image,third-party
 ||tangkasq.$popup
-||tantegacor88.link^-party
+||tantegacor88.link^$third-party
 ||taruhan-bola-online.$image,third-party
 ||taruhan-bola.$image,third-party
 ||taruhan-online.$image,third-party

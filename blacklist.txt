@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 10 Oct 2026 11:56 (updated regularly)
+! Last modified: 12 Oct 2026 05:26 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -1806,6 +1806,7 @@
 0.0.0.0 asukabeh.my.id
 0.0.0.0 at-af.outfit7.com
 0.0.0.0 atb-stats-api.imolive.tv
+0.0.0.0 atgroup-link.id
 0.0.0.0 athena.api.kwalee.com
 0.0.0.0 ativadorkmspico.com
 0.0.0.0 atlanticcitycasinos.com
@@ -2533,7 +2534,6 @@
 0.0.0.0 bolajudisbobet.com
 0.0.0.0 bolajudisbobet.net
 0.0.0.0 bolajudit.com
-0.0.0.0 bolakami-banner-tracker.bolakami.workers.dev
 0.0.0.0 bolaketangkasan.com
 0.0.0.0 bolaketangkasan.net
 0.0.0.0 bolaklik.com
@@ -4625,6 +4625,7 @@
 0.0.0.0 https-filtering-check.adtidy.org
 0.0.0.0 hubapi.my.id
 0.0.0.0 huge-odds.com
+0.0.0.0 huntfishbrag.store
 0.0.0.0 huntmad.com
 0.0.0.0 huttelkomsel18.com
 0.0.0.0 huttselreward.com
@@ -5551,6 +5552,7 @@
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 launchpoker.com
 0.0.0.0 laurelpark.com
+0.0.0.0 layarotaku.id
 0.0.0.0 lazacasino.com
 0.0.0.0 lazadaplaza.com
 0.0.0.0 lazadaplazaelectro.com
@@ -7264,7 +7266,6 @@
 0.0.0.0 ptmitraelektronik.web.id
 0.0.0.0 pu1166.com
 0.0.0.0 pu1515.com
-0.0.0.0 pub-ee3a5bccda2d49c7bbc62bd60d648707.r2.dev
 0.0.0.0 pub1.co
 0.0.0.0 publish.web.id
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com

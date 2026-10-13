@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 12 Oct 2026 05:26 (updated regularly)
+! Last modified: 14 Oct 2026 01:40 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -3318,7 +3318,6 @@
 0.0.0.0 csplog.kwai-pro.com
 0.0.0.0 ctl.buyt.in
 0.0.0.0 ctv-ads.api.leiniao.com
-0.0.0.0 cutlink.now
 0.0.0.0 cwei88.com
 0.0.0.0 cws-hulu.conviva.com
 0.0.0.0 cx6188.com
@@ -5612,6 +5611,7 @@
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 linkgenerator.xyz
 0.0.0.0 linkjalur.vip
+0.0.0.0 linkol.xyz
 0.0.0.0 linksbobet2016.com
 0.0.0.0 linktrack.info
 0.0.0.0 lintasniagaelektro.com
@@ -9517,7 +9517,6 @@
 0.0.0.0 wp88.com
 0.0.0.0 wpadmngr.com
 0.0.0.0 wpgambling.com
-0.0.0.0 wprediscache.com
 0.0.0.0 wptcasino.com
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 wscbet.com

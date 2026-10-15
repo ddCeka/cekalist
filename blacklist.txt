@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 14 Oct 2026 01:40 (updated regularly)
+! Last modified: 15 Oct 2026 13:43 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -389,6 +389,7 @@
 0.0.0.0 acmbet.com
 0.0.0.0 acmbet.net
 0.0.0.0 acquaintjokinglyscoring.com
+0.0.0.0 acrossexterminatorfoggy.com
 0.0.0.0 actionpoker.com
 0.0.0.0 activator-kmspico.net
 0.0.0.0 activators.pro
@@ -579,6 +580,7 @@
 0.0.0.0 ads.mobilityware.com
 0.0.0.0 ads.mobvertising.net
 0.0.0.0 ads.mopub.com
+0.0.0.0 ads.mssb.cloud
 0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.pdbarea.com
 0.0.0.0 ads.phonepe.com
@@ -2459,6 +2461,7 @@
 0.0.0.0 bodog88.net
 0.0.0.0 bodog888.com
 0.0.0.0 boi.netai.net
+0.0.0.0 boingbroggle.qpon
 0.0.0.0 bojo.rajatravel.online
 0.0.0.0 bojue06.com
 0.0.0.0 bojue09.com
@@ -3068,6 +3071,7 @@
 0.0.0.0 cdn.assetcsn.site
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 cdn.jampp.com
+0.0.0.0 cdn4ads.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 cdnasiaclub.com
 0.0.0.0 cdnfgo.xyz
@@ -3537,6 +3541,7 @@
 0.0.0.0 dinastyshop.com
 0.0.0.0 direct-collect.dy-api.com
 0.0.0.0 direct-collect.dy-api.eu
+0.0.0.0 directyp.org
 0.0.0.0 dirgaelektroshop.com
 0.0.0.0 dirty2.com
 0.0.0.0 dispatcher.upmc.uc.cn
@@ -4312,6 +4317,7 @@
 0.0.0.0 gplog-sg.byteoversea.com
 0.0.0.0 gpm-mon-va.bytegsdk.com
 0.0.0.0 gpm-mon-va.byteoversea.com
+0.0.0.0 gpskeeper.popinfo.jp
 0.0.0.0 gpwa.org
 0.0.0.0 gr88.com
 0.0.0.0 gracegardenshop.com

@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 14 Oct 2026 01:40 (updated regularly)
+! Last modified: 15 Oct 2026 13:44 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -10420,7 +10420,9 @@ dewaporn.*,video.pejuanglendir.site##.happy-sidebar
 dewatanews.com##.lalulintas
 deweezz.com,naikmotor.com,nusabali.com,pyfahealth.com##a[href*="bit.ly/"]:has(> img)
 dewidomino.gif|$image
+dewiku.com###div-ad-skin_left
 dewiku.com,guideku.com,himedik.com,hitekno.com,mobimoto.com###close-ads-bottom
+dewiku.com,himedik.com,hitekno.com,mobimoto.com##.placeholder_center
 dewiku.com,suara.com##.bg-ads-sticky-side
 dewiku.com,suara.com##.bg-ads-sticky-top
 diadona.id##.banner-sc
@@ -10956,10 +10958,10 @@ historia.id##div:matches-css(min-width: 750px):has-text(/adv/i)
 hitekno.com###div-ad-right_1
 hitekno.com###div-ad-right_2
 hitekno.com##.footer-ads__container
-hitekno.com##.placeholder_center
 hitekno.com##.placeholder_small
 hitekno.com##div.placeholder_r1:nth-of-type(1)
 hitekno.com##div.placeholder_r1:nth-of-type(3)
+hitekno.com##div.placeholder_read_body
 hitekno.com##div.placeholder_read_body:nth-of-type(2)
 hitekno.com##div.placeholder_read_body:nth-of-type(3)
 hitekno.com##div.placeholder_read_body:nth-of-type(4)
@@ -10998,9 +11000,13 @@ humaniora.id##figure:has(> a):has-text(/adv/i)
 humaniora.id##img[width="750"][height="160"]
 hybrid.co.id###banner-floating
 hybrid.co.id##.detail__right-ads
+i-jav.space###ab-wall:style(display: none !important;)
+i-jav.space###banner-link
+i-jav.space##+js(set-local-storage-item, ab-ignore, true)
 i-jav.space##.banner
 i-jav.space##[href*="situsdepe4d"]
 i-jav.space##[href*="t.ly/depe4d"]
+i-jav.space,komikpoi.com,rumahparaperjaka.*##body:style(overflow: auto !important;)
 i-jav.space,pemersatu.*##+js(aopw, document.body.innerHTML)
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 id.alongwalker.co##.ads_fullbox
@@ -11633,7 +11639,6 @@ komikpoi.com##.wp-iklan-footer
 komikpoi.com##.wp-iklan-header
 komikpoi.com##.wp-iklan-slider-left
 komikpoi.com##.wp-iklan-slider-right
-komikpoi.com,rumahparaperjaka.*##body:style(overflow: auto !important;)
 komikstation.com###floatbanner
 komikstation.org##+js(acis, JSON.parse, break;case $.)
 komikstation.org##+js(aeld, /^(?:load|click)$/, popMagic)
@@ -13586,6 +13591,7 @@ zooba.id##.infeedads
 ||acmbet.$popup
 ||acquaintjokinglyscoring.com^
 ||acquaintjokinglyscoring.com^$popup
+||acrossexterminatorfoggy.com^$third-party
 ||actionpoker.com^$third-party
 ||ad-loupe.com^$third-party
 ||adainfo.id^*/web-banner-
@@ -13603,6 +13609,7 @@ zooba.id##.infeedads
 ||ads.d21.media^$third-party
 ||ads.gmbr.pro^
 ||ads.indosatooredoo.com^$third-party
+||ads.mssb.cloud^$third-party
 ||ads.shinigami.io^
 ||ads.sorot.co^$1p
 ||ads.telkomsel.com^$third-party
@@ -13774,6 +13781,7 @@ zooba.id##.infeedads
 ||anekabola.$image,third-party
 ||anekaqq.$image,third-party
 ||anekaqq.$popup
+||anewfeedliberty.com^$all
 ||angel.exabytes.com.my/banners/
 ||angkajitutogel.$image,third-party
 ||angkajitutogel.$popup
@@ -14155,6 +14163,7 @@ zooba.id##.infeedads
 ||bogorchannel.id^*/iklan-$image
 ||bogordaily.net^*-banner-$image
 ||bogordaily.net^*/banner-$image
+||boingbroggle.qpon^$third-party
 ||bojo.rajatravel.online^$third-party
 ||bokep.work/*.gif
 ||bola168.$image,third-party
@@ -14289,11 +14298,13 @@ zooba.id##.infeedads
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
 ||cdn.teknolur.eu.org^$image,domain=kingbokep.media
+||cdn4ads.com^$third-party
 ||cdnasiaclub.$popup
 ||cdnasiaclub.com^$third-party
 ||cdnfgo.xyz/wp-content/uploads/*.gif|$domain=komiktap.info
 ||cdnfgo.xyz^$third-party
 ||cdngue.my.id/public/img/Uangjajan/$3p,image
+||cdnimg.my.id/embed/$script,third-party
 ||cdpoker.com^$third-party
 ||cebanqq.$image,third-party
 ||cek.to^$popup
@@ -14485,6 +14496,7 @@ zooba.id##.infeedads
 ||dinastybet.$popup
 ||dinastybet88.$image,third-party
 ||dirastore.com/delikwp/wp-content/uploads/$3p,image
+||directyp.org^$third-party
 ||dirmanews.com^*/iklan-
 ||diskonqq.$image,third-party
 ||diskusiwebhosting.com/adx/
@@ -17282,6 +17294,7 @@ zooba.id##.infeedads
 ||wespoker.$image,third-party
 ||wespoker.$popup
 ||wg87vip.bet^$third-party
+||whalpacceded.com^
 ||whelmlegge.com^$third-party
 ||wideazone.com^*/baner-$image
 ||widget-am.misteraladin.com^$frame,domain=idxchannel.com|inews.id|okezone.com|sindonews.com

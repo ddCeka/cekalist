@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 16 Oct 2026 17:57 (updated regularly)
+! Last modified: 16 Oct 2026 21:31 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -10153,6 +10153,8 @@ celebrithink.com##img[width="800"][height="130"]
 cendekiamuslim.id,indonesiasatu.co.id##.widget-banner
 centerklik.com,kabarterdepan.com,poindonews.com##a[rel="nofollow"] > img
 centralbatam.co.id,infokejadianmakassar.com##img[width="800"][height="200"]
+ceposonline.com##div[data-ad-slot]
+ceposonline.com,jawapos.com,prokal.co##[id^="home-ad-"]
 ceritaseksindo.org##.banner-float-bottom
 cermati.com##:matches-path(/artikel) .ads-container
 cermati.com##:matches-path(/artikel) .sticky-banner-wrapper
@@ -11185,6 +11187,7 @@ inews.id##div:matches-css(text-align: center):has([id*="-StickyAd" i])
 inews.id,okezone.com##.content-wrap:style(margin-top:0!important;)
 inews.id,sindonews.com##.parallax-ad
 info-ambon.com,terabasnews.com##.wpb_wrapper > p > img
+info-menarik.net##+js(aopw, ai_front)
 info.vebma.com##+js(aeld, click, linkOpened)
 infoaceh.net##+js(aopr, $.magnificPopup.open)
 infoaceh.net##[id^="quads-"]
@@ -11321,6 +11324,9 @@ jagobengkel.com,versusbeda.com##.jquery-modal
 jagodangdut.com,tvonenews.com,viva.co.id##.giant-banner
 jagodangdut.com,viva.co.id##.giant-banner
 jagokata.com##+js(set-local-storage-item, ignoreadblock, true)
+jagosatu.com##[id^="div-gpt-ad"]
+jagosatu.com##div[data-ad-slot="mgid_under_article"]
+jagosatu.com##div[data-ad-slot="recreative_under_article"]
 jakartaglobe.id##div.w-100.d-flex
 jakartaglobe.id##style + .mt-2
 jakartaglobe.id,republika.co.id##.show.fade.modal
@@ -11350,7 +11356,6 @@ jawapos.com##[class$="__disclaimer"]
 jawapos.com##[data-ad-slot]
 jawapos.com##[data-jp-ad-slot-id]
 jawapos.com##[data-jp-ad-slot-wrapper]
-jawapos.com##[id^="home-ad-"]
 jawapos.com##[id^="iklan"]
 jawapos.com##[style^="height"][style$="align-items: center;"]
 jawapos.com##button[aria-label="Tutup Iklan"]

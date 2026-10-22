@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 21 Oct 2026 10:14 (updated regularly)
+! Last modified: 22 Oct 2026 10:29 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9882,10 +9882,10 @@ bogordaily.net,vcgamers.com##.insert_ads
 bogornetwork.com##img[width="700"][height="243"]
 bogornetwork.com##img[width="730"][height="91"]
 bokep.pemersatu.top##body.age-gate-open:style(overflow: auto !important;)
-bokep.pemersatu.top,pemersatufun.*###myDiv
-bokep.pemersatu.top,pemersatufun.*##.kamucurang-fader:style(display: none !important;)
-bokep.pemersatu.top,pemersatufun.*##.kamucurang:style(height: auto !important; overflow: visible !important; background-color: transparent !important;)
-bokep.pemersatu.top,pemersatufun.*##.siapakita:style(display: none !important;)
+bokep.pemersatu.top,pemersatu.top,pemersatufun.*###myDiv
+bokep.pemersatu.top,pemersatu.top,pemersatufun.*##.kamucurang-fader:style(display: none !important;)
+bokep.pemersatu.top,pemersatu.top,pemersatufun.*##.kamucurang:style(height: auto !important; overflow: visible !important; background-color: transparent !important;)
+bokep.pemersatu.top,pemersatu.top,pemersatufun.*##.siapakita:style(display: none !important;)
 bokep.pemersatu.top,pemersatufun.com##.age-gate
 bokep234.*##.jwp-ad-video
 bokep360.*##a[href*="gamdom"]
@@ -10412,6 +10412,9 @@ divyamodapk.com##.custpostads
 djakarta.id###bnrfixtop
 dodl.pages.dev###welcome-message
 dodl.pages.dev##[style^="position: fixed;"]
+dodz.pro##+js(nowoif)
+dodz.pro##+js(set-constant, bait_b3j4hu231, true)
+dodz.pro##div[style*="position: fixed"][style*="background-color: red"]
 dodz.pro,ds2play.com##+js(nowoif)
 dojing.net###catfish-banner
 doktersehat.com##div:matches-css(text-align: center):has-text(/iklan/i)

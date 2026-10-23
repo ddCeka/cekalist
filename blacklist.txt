@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 23 Oct 2026 13:36 (updated regularly)
+! Last modified: 23 Oct 2026 20:36 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -4371,6 +4371,7 @@
 0.0.0.0 gulfgreyhound.com
 0.0.0.0 gulfstreampark.com
 0.0.0.0 gumgum.com
+0.0.0.0 gummy-debt.com
 0.0.0.0 guruplay.com
 0.0.0.0 gutonlinekasino.com
 0.0.0.0 guts.com

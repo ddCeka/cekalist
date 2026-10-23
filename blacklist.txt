@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 20 Oct 2026 23:01 (updated regularly)
+! Last modified: 23 Oct 2026 13:36 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -3348,6 +3348,7 @@
 0.0.0.0 d3hdbjtb1686tn.cloudfront.net
 0.0.0.0 d3vgkjyuhp91nc.cloudfront.net
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
+0.0.0.0 da.flvcdn.net
 0.0.0.0 da55555.com
 0.0.0.0 da6699.com
 0.0.0.0 da7788.com
@@ -6778,6 +6779,7 @@
 0.0.0.0 ov2ochu.bid
 0.0.0.0 overseauspider.yuanshen.com
 0.0.0.0 ozbet.com
+0.0.0.0 ozlinedsp.com
 0.0.0.0 p-behacdn.ksmobile.net
 0.0.0.0 p.statp.com
 0.0.0.0 p1-lm.adukwai.com
@@ -7557,6 +7559,7 @@
 0.0.0.0 rtag.farmers.com
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 rtb.appbid.com
+0.0.0.0 rtb.nefta.app
 0.0.0.0 rtblab.net
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtc-logger.bytevcloud.com
@@ -9620,6 +9623,7 @@
 0.0.0.0 ye.dun.163yun.com
 0.0.0.0 yellaface.com
 0.0.0.0 yesads.com
+0.0.0.0 yetansd.com
 0.0.0.0 yf2816.com
 0.0.0.0 yfanads.com
 0.0.0.0 yhulicell.com

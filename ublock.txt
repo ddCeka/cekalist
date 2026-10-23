@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 22 Oct 2026 10:29 (updated regularly)
+! Last modified: 23 Oct 2026 13:37 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9670,8 +9670,8 @@ beautynesia.id,cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.ads-s
 beautynesia.id,cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com#@#[class^="div-gpt-ad"]
 beautynesia.id,cnnindonesia.com,detik.com,disway.id,haibunda.com##.ads-slot
 becekku.com##img[src*="blogger.googleusercontent.com"][src$=".gif"]
-becekku.com,dewaporn.*,lendirqu.*,video.pejuanglendir.site##.happy-header
-becekku.com,video.pejuanglendir.site##.happy-header-mobile
+becekku.com,bokepinaja.com,dewaporn.*,lendirqu.*,video.pejuanglendir.site##.happy-header
+becekku.com,bokepinaja.com,video.pejuanglendir.site##.happy-header-mobile
 bedahnusantara.com,faktakalbar.id,okeyboz.com,trasberita.com##[class*="widget"] .metaslider
 begawinews.com##img[height="1024"][width="727"]
 bekasiguide.com,beritaminang.com,detikinspirasi.com,ex-pose.net,faktual.net,fatkhan.web.id,gardaanimalia.com,globalsulteng.com,gosulut.id,hibata.id,industry.co.id,japos.co,jurnalmedia.id,jurnalpatrolinews.co.id,kalbarsatu.id,khazminang.id,koma.id,koranbanjar.net,koranpublika.co.id,lombokfokus.com,madurapost.net,mawartanews.com,mediasulsel.com,munadi.id,penaku.id,radarcikarang.com,redaksi24.co.id,sekindo.id,sijorikepri.com,suarapena.com,tintainformasi.com,topsumbar.co.id,torangbisa.com,uzone.id,waspada.id,wawainews.id,zonajogja.com##.idt-textinsidepost
@@ -9895,6 +9895,11 @@ bokepcrot.*,bokepcrot69.*,bokepkita.*,bokepsex.*,inibokep.*,kamarbokep.*,kebokep
 bokepcrot.*,bokepcrot69.*,bokepkita.*,bokepsex.*,inibokep.*,kamarbokep.*,kebokepanku.*,ruangbokep.*,ruangbokep99.*,sibokep.*##a[target*="blank"]:has(> img)
 bokepgemoy.*,kontenterabox.com##+js(aost, document.createElement, adsBlocked)
 bokepi.com##div:has(> a[href^="https://tuanmuda88baja.com/"]):style(display: none !important;)
+bokepinaja.com##.happy-footer-mobile
+bokepinaja.com##.simple-banner
+bokepinaja.com,dewaporn.*,video.pejuanglendir.site##.happy-sidebar
+bokepinaja.com,video.pejuanglendir.site##.happy-under-player
+bokepinaja.com,video.pejuanglendir.site##.happy-under-player-mobile
 bokepindo.*##.pos-bottom.widget-float
 bokepindo.*##.pos-top.widget-float
 bokepindo.*##.widget-float
@@ -10375,7 +10380,6 @@ dewabioskop21.org##.banner-right
 dewaporn.*##.happy-header > [href] > .loading
 dewaporn.*##.happy-header > a:has(> img)
 dewaporn.*##.happy-sidebar > a:has(> img)
-dewaporn.*,video.pejuanglendir.site##.happy-sidebar
 dewatanews.com##.lalulintas
 deweezz.com,naikmotor.com,nusabali.com,pyfahealth.com##a[href*="bit.ly/"]:has(> img)
 dewidomino.gif|$image
@@ -13305,8 +13309,6 @@ vanakkammalaysia.com.my##img[width="728"][height="91"]
 vcgamers.com##.adslatest
 vcgamers.com##.parallax_div
 vg.no##button[aria-label*=Facebook]
-video.pejuanglendir.site##.happy-under-player
-video.pejuanglendir.site##.happy-under-player-mobile
 video.pemersatu.org##+js(rc, ad, div, stay)
 video.pemersatu.org##.adsbygoogle
 video.pemersatu.org##.pvs-ad
@@ -15969,6 +15971,7 @@ zooba.id##.infeedads
 ||outbrain.com/outbrain.js$redirect-rule=noop.js,domain=hentai.web.id
 ||ovowin.$image,third-party
 ||ovowin.$popup
+||ozlinedsp.com^$third-party
 ||pab-indonesia.co.id^*/banner/
 ||pabrikpoker.$image,third-party
 ||pacificpoker.com^$third-party
@@ -17271,6 +17274,7 @@ zooba.id##.infeedads
 ||xys*-jadwal.pages.dev/adblock.js
 ||yastatic.net/share/*-icon.
 ||yesads.com^$third-party
+||yetansd.com^$third-party
 ||yllix.com^$popup,third-party
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js

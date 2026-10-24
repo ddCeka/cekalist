@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 23 Oct 2026 20:36 (updated regularly)
+! Last modified: 24 Oct 2026 21:40 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -3642,6 +3642,7 @@
 0.0.0.0 dt.beyla.site
 0.0.0.0 dtcollect.newsbang.com
 0.0.0.0 dts-log.anker.com
+0.0.0.0 dtscout.com
 0.0.0.0 dualstack-cgicol.amap.com
 0.0.0.0 dualstack-collection.rong-edge.com
 0.0.0.0 dualstack-logs.amap.com
@@ -4543,6 +4544,7 @@
 0.0.0.0 hilltopads.net
 0.0.0.0 hilton.data.adobedc.net
 0.0.0.0 hippodromeonline.com
+0.0.0.0 histats.com
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hitadsmedia.com
 0.0.0.0 hititbet.com

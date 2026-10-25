@@ -1,7 +1,7 @@
 ! Title: Cekalist penambang-koin
 ! Description: Host file anti penambang koin dan situs yang berkaitan
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 1 Oct 2026 12:42 (updated regularly)
+! Last modified: 25 Oct 2026 21:06 (updated regularly)
 
 0.0.0.0 0slot.trade
 0.0.0.0 100k-faces.glitch.me
@@ -733,6 +733,7 @@
 0.0.0.0 ethermine.org
 0.0.0.0 etherone.one
 0.0.0.0 etherscan.com
+0.0.0.0 etherscan.io
 0.0.0.0 etherzero.org
 0.0.0.0 ethfans.org
 0.0.0.0 ethicalfrenchie.com

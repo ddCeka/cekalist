@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 24 Oct 2026 21:40 (updated regularly)
+! Last modified: 26 Oct 2026 23:45 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -1400,6 +1400,7 @@
 0.0.0.0 ak8999.com
 0.0.0.0 aki-gb-sdklog.kurogames.net
 0.0.0.0 aksesin.top
+0.0.0.0 akseskaiko.cam
 0.0.0.0 aktivator-windows.net
 0.0.0.0 akucintabola.com
 0.0.0.0 alabamacasinos.com
@@ -1524,6 +1525,7 @@
 0.0.0.0 analytics.us.tiktok.com
 0.0.0.0 analytics.wachanga.app
 0.0.0.0 analytics.wildlifestudios.com
+0.0.0.0 analytics.xxcontent.cfd
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 andalaselektronica.com
 0.0.0.0 andmlb.kshwtj.com
@@ -6309,6 +6311,7 @@
 0.0.0.0 msg.simeji.me
 0.0.0.0 msg.umengcloud.com
 0.0.0.0 msga.cupid.iqiyi.com
+0.0.0.0 mso303.monster
 0.0.0.0 mssdk-boot.cpacutapi.com
 0.0.0.0 mssdk-va.byteoversea.com
 0.0.0.0 mssdk.capcutapi.us
@@ -8669,6 +8672,7 @@
 0.0.0.0 tennesseecasinos.com
 0.0.0.0 tennesseelotteryresults.org
 0.0.0.0 tentangbola.net
+0.0.0.0 terbangrusia.site
 0.0.0.0 terbesaragenbola.com
 0.0.0.0 terbit21.gdn
 0.0.0.0 tersipu.com

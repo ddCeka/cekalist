@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 24 Oct 2026 21:41 (updated regularly)
+! Last modified: 26 Oct 2026 23:45 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -8874,8 +8874,8 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 /ratulotto.$image,third-party
 /ratuqq.$image,third-party
 /ratuqq.gif$image
-/rbtvplus\d+\.(com|autos|baby|beer|blog|bond|buzz|casa|cfd|click|courses|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|top|vip|xyz|yachts)/##*:style(scrollbar-width: thin!important;)
-/rbtvplus\d+\.(com|autos|baby|beer|blog|bond|buzz|casa|cfd|click|courses|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|top|vip|xyz|yachts)/##.czlll-rlselse
+/rbtvplus\d+\.(com|autos|baby|beer|blog|bond|buzz|casa|cfd|click|courses|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|study|top|vip|xyz|yachts)/##*:style(scrollbar-width: thin!important;)
+/rbtvplus\d+\.(com|autos|baby|beer|blog|bond|buzz|casa|cfd|click|courses|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|study|top|vip|xyz|yachts)/##.czlll-rlselse
 /rctiqq.$image,third-party
 /rdomino.$image,third-party
 /rejekibet.$image,third-party
@@ -9458,10 +9458,14 @@ animeindo.net###sct_banner_top
 animeindo.net###videoad1
 animeindo.video##.in_up_ad-area
 animekhor.org,animekompi.sbs,animexin.dev,hidoristream.online,isekaisubs.web.id,kazefuri.cloud,otakudesu.blog###overplay
+animekompi.*###floatAdOverlay
 animekompi.*##+js(abort-on-property-write, MutationObserver)
+animekompi.*##.float-ad-overlay
+animekompi.*##.promo-grid
 animekompi.*,artisbokep.*,komikdewasa.art,nekopoi.*,republikbokep.*,sebokep.vip,simontokx.tv,xbokepin.*##a[target*="blank"]:has(> img)
 animekompi.*,komikcast.*,komikdewasa.*##div[id^="teaser"]
 animekompi.sbs##.ays-pb-modals
+animekompi.sbs##.float-ad-overlay
 animekompi.web.id##.cads
 animeplus.id##[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
 animotvslash.org,soulscans.my.id##body > div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
@@ -10902,6 +10906,11 @@ hellosehat.com##[data-section="adBlockContent"]
 heloindonesia.com##.img-banner
 hencop.com###teaser7
 hencop.com,heppinn.id,indodb21.com,nontonhentai.net###floatcenter
+hentaisubindo.net##+js(acs, isBlocked)
+hentaisubindo.net##.pf-ad
+hentaisubindo.net##.pf-adblock-wall:style(display: none !important;)
+hentaisubindo.net##div.pf-ad-bait:style(display: block !important; height: 1px !important;)
+hentaisubindo.net,i-jav.space,komikpoi.com,rumahparaperjaka.*##body:style(overflow: auto !important;)
 heppinn.id,javsubid.*,javsubindo.*,nontonhentai.net##.kln
 heppinn.id,komikcast02.com,komikdewasa.*,komikremaja.*,kumapoi.info,kumapoi.me,manhwaindo.*,pemersatu.*###teaser3
 heppinn.id,minioppai.org,nontonhentai.net,nontonhentai.org###floatcenter
@@ -10965,7 +10974,6 @@ i-jav.space##+js(set-local-storage-item, ab-ignore, true)
 i-jav.space##.banner
 i-jav.space##[href*="situsdepe4d"]
 i-jav.space##[href*="t.ly/depe4d"]
-i-jav.space,komikpoi.com,rumahparaperjaka.*##body:style(overflow: auto !important;)
 i-jav.space,pemersatu.*##+js(aopw, document.body.innerHTML)
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 id.alongwalker.co##.ads_fullbox
@@ -13684,6 +13692,7 @@ zooba.id##.infeedads
 ||akarrumput.com^*/ads-
 ||akcdn.detik.net.id/community/media/*/gif-banner-
 ||aksesin.top^$third-party
+||akseskaiko.cam^$third-party
 ||aksikata.com^*/banner-
 ||aktorqq.$image,third-party
 ||aktual.com^*/iklan-
@@ -13722,6 +13731,7 @@ zooba.id##.infeedads
 ||ampclicks.com^$popup,third-party
 ||anaktogel.com^$popup
 ||analisadaily.com/imagesads/
+||analytics.xxcontent.cfd^$third-party
 ||anekabola.$image,third-party
 ||anekaqq.$image,third-party
 ||anekaqq.$popup
@@ -13738,6 +13748,8 @@ zooba.id##.infeedads
 ||animeinweb.com/api/proxy/data/ads/show$xhr
 ||animeinweb.com/api/proxy/data/ads/show$~third-party,xmlhttprequest
 ||animekompi.link/wp-content/uploads/$media,redirect=noopmp4-1s
+||animekompi.sbs/api/ads/
+||animekompi.sbs/api/ads/$image
 ||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
 ||animekompi.sbs/wp-content/uploads/$media,rewrite=abp-resource:blank-mp4,domain=animekompi.sbs
 ||animeku.*/public/vid/huskypres.mp4$media
@@ -14668,6 +14680,7 @@ zooba.id##.infeedads
 ||gatanews.id^*/iklan-$image
 ||gatra.com^*/banners/
 ||gaza-88.com^$third-party
+||gbr.animekompi.link/wp-content/uploads/$image,domain=animekompi.sbs
 ||gebyarbola.$image,third-party
 ||gebyarbola.$popup
 ||gebyarliga.$image,third-party
@@ -15805,6 +15818,7 @@ zooba.id##.infeedads
 ||mousheen.net^$third-party
 ||movd21.com^$third-party
 ||mractionclub.com/banner/
+||mso303.monster^$third-party
 ||mta77.$image,third-party
 ||muhbayu.github.io/adbdetect/js/adbdetect.packed.js
 ||mukaqq.$image,third-party
@@ -16905,6 +16919,7 @@ zooba.id##.infeedads
 ||teraslampung.com^*iklan-$image
 ||terasmaluku.com^*/iklan-
 ||terassulbar.com^*/banner-$image
+||terbangrusia.site^$third-party
 ||terbit21.gdn/ads/
 ||terbit21.gdn^$third-party
 ||terkininews.com/files/banners/

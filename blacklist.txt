@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 26 Oct 2026 23:45 (updated regularly)
+! Last modified: 30 Oct 2026 02:02 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -3069,6 +3069,7 @@
 0.0.0.0 cdn-image.com
 0.0.0.0 cdn-ketchapp.akamaized.net
 0.0.0.0 cdn-rtb.sape.ru
+0.0.0.0 cdn-settings.af-sdk.com
 0.0.0.0 cdn.appnext.com
 0.0.0.0 cdn.assetcsn.site
 0.0.0.0 cdn.batmobi.net
@@ -4809,6 +4810,7 @@
 0.0.0.0 impression.link
 0.0.0.0 imrworldwide.com
 0.0.0.0 in-the-casino.com
+0.0.0.0 inapps.af-sdk.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 incrasebux.com

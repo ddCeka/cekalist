@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 3 Nov 2026 01:09 (updated regularly)
+! Last modified: 4 Nov 2026 17:23 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -1637,6 +1637,12 @@
 ##.news__ads
 ##.news_share:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i])
 ##.newsmatic-advertisement-block
+##.nk-ad-left
+##.nk-ad-mobile
+##.nk-ad-mobile-bottom
+##.nk-ad-mobile-floating
+##.nk-ad-mobile-top
+##.nk-ad-pagenav
 ##.nobar-ads
 ##.obi_random_banners_posts
 ##.oduu-ads
@@ -2555,6 +2561,7 @@
 ##[href="https://cutt.ly/tkfilm108"]
 ##[href="https://cutt.ly/ttfilm108"]
 ##[href="https://cutt.ly/ugsamehadaku"]
+##[href="https://cutt.ly/yorumama"]
 ##[href="https://cutt.ly/zsfilm108"]
 ##[href="https://dub.link/SLOTFBKING"]
 ##[href="https://dub.link/bulatbulat"]
@@ -9819,6 +9826,7 @@ bharian.com.my,hmetro.com.my##.stick-leaderboard-wrapper
 bhinneka.com##:matches-path(/blog) .widget:has(a[href*="/promo/"])
 bhinneka.com,kitalulus.com,midteknologi.com,sapx.id##:matches-path(/blog) .widget:has(img[style="max-width: 100%; height: auto;"])
 bicarablitar.com##.rt-ads-floating
+bicarait.com##[data-ad-container-status]
 bicaranews.com,diksi.co,pillarnusantaranews.com,politikal.id##.banner-header
 bidikcamera.com##img[width="1152"][height="189"]
 bidikindonesianews.co.id,eksposisi.com,indojambi.id,inspirasijambi.com,kilasgarutnews.id,lingkarjambi.id,sekilasbanten.com,terasjambi.id###news-feed-banner

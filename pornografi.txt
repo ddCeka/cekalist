@@ -1,7 +1,7 @@
 ! Title: Cekalist pornografi
 ! Description: Host file anti situs pornografi
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 3 Nov 2026 01:09 (updated regularly)
+! Last modified: 4 Nov 2026 17:24 (updated regularly)
 
 0.0.0.0 0-0.asia
 0.0.0.0 0-12kids.com
@@ -3323,6 +3323,7 @@
 0.0.0.0 1hecha1.com
 0.0.0.0 1hecha3.com
 0.0.0.0 1hecha9.com
+0.0.0.0 1hentai.net
 0.0.0.0 1hentai.org
 0.0.0.0 1hindisexvideo.com
 0.0.0.0 1hindisexvideos.com
@@ -8007,6 +8008,7 @@
 0.0.0.0 4ertik.cloud
 0.0.0.0 4escort.ro
 0.0.0.0 4f-creations.com
+0.0.0.0 4fans.tv
 0.0.0.0 4fantasy.ro
 0.0.0.0 4fap.net
 0.0.0.0 4fappers.com
@@ -13398,6 +13400,11 @@
 0.0.0.0 aaaa15.com
 0.0.0.0 aaaaa75.com
 0.0.0.0 aaaaaaaaaaaaaaaa.com
+0.0.0.0 aaaaadh.buzz
+0.0.0.0 aaaaadh.cyou
+0.0.0.0 aaaaadh.live
+0.0.0.0 aaaaadh.shop
+0.0.0.0 aaaaadh2.shop
 0.0.0.0 aaaaxxx.com
 0.0.0.0 aaab.biz
 0.0.0.0 aaacock.com
@@ -13410,6 +13417,7 @@
 0.0.0.0 aaasexvideos.com
 0.0.0.0 aaaspanking.com
 0.0.0.0 aaastories.com
+0.0.0.0 aabook.net
 0.0.0.0 aabook.xyz
 0.0.0.0 aabooks.cc
 0.0.0.0 aabooks.net
@@ -13494,6 +13502,7 @@
 0.0.0.0 aashtotf13.org
 0.0.0.0 aasian.top
 0.0.0.0 aasianporn.com
+0.0.0.0 aaspz.link
 0.0.0.0 aasu.in
 0.0.0.0 aasvaa.com
 0.0.0.0 aatk63.com
@@ -13510,6 +13519,11 @@
 0.0.0.0 aavv000.com
 0.0.0.0 aavvpp.xyz
 0.0.0.0 aaxx.men
+0.0.0.0 aaxy.cc
+0.0.0.0 aaxy1.xyz
+0.0.0.0 aaxy3.xyz
+0.0.0.0 aaxy4.xyz
+0.0.0.0 aaxy8.xyz
 0.0.0.0 aaxydlbi.cc
 0.0.0.0 aazgevl.xyz
 0.0.0.0 aazqqys.cc
@@ -29597,6 +29611,7 @@
 0.0.0.0 bangmafiaxxx.com
 0.0.0.0 bangmatch.com
 0.0.0.0 bangmatures.com
+0.0.0.0 bangmaxxing.com
 0.0.0.0 bangme.cc
 0.0.0.0 bangmecam.com
 0.0.0.0 bangmedaddy.com
@@ -37535,6 +37550,7 @@
 0.0.0.0 bluvista.tv
 0.0.0.0 bluvistacams.tv
 0.0.0.0 bluvoyer.com
+0.0.0.0 blwdh.cyou
 0.0.0.0 blya.net
 0.0.0.0 blyadi-dosug.com
 0.0.0.0 blyadi.name
@@ -37542,6 +37558,7 @@
 0.0.0.0 blyadun.ru
 0.0.0.0 blygagrannar.com
 0.0.0.0 blygt.com
+0.0.0.0 bmall.se
 0.0.0.0 bmbtob.com
 0.0.0.0 bmk14.com
 0.0.0.0 bmmn.org
@@ -41391,6 +41408,7 @@
 0.0.0.0 buzz-cloud.com
 0.0.0.0 buzzantenna.net
 0.0.0.0 buzzav.com
+0.0.0.0 buzzav.net
 0.0.0.0 buzzbuddy.ca
 0.0.0.0 buzzdoll.com
 0.0.0.0 buzzfamily.sbs
@@ -47121,6 +47139,7 @@
 0.0.0.0 checkjapanporn.com
 0.0.0.0 checknewporn.com
 0.0.0.0 checkoutmychick.com
+0.0.0.0 checkporn.cc
 0.0.0.0 checkporno.com
 0.0.0.0 checkporno.pro
 0.0.0.0 checkporno.ru
@@ -48415,6 +48434,7 @@
 0.0.0.0 cilxxx69andfsta.shop
 0.0.0.0 cimanchesterescorts.co.uk
 0.0.0.0 cimomov.cc
+0.0.0.0 cimumov.cc
 0.0.0.0 cin-colle.net
 0.0.0.0 cin-m.jp
 0.0.0.0 cincinnatiohioeroticbachelorettecakes.com
@@ -59788,6 +59808,7 @@
 0.0.0.0 dusimov.cc
 0.0.0.0 dusk-magazine.com
 0.0.0.0 dusk-tv.com
+0.0.0.0 duskhive.com
 0.0.0.0 duskissex69tare.shop
 0.0.0.0 dustinsview.com
 0.0.0.0 dustyporn.com
@@ -60697,6 +60718,7 @@
 0.0.0.0 ebvids.com
 0.0.0.0 eby4.net
 0.0.0.0 ebyn.click
+0.0.0.0 ebyn.me
 0.0.0.0 ebyn.net
 0.0.0.0 ebynga.cc
 0.0.0.0 ebynga.me
@@ -67737,6 +67759,7 @@
 0.0.0.0 exehotels.ru
 0.0.0.0 exek.pw
 0.0.0.0 exelroze.info
+0.0.0.0 exeporn.com
 0.0.0.0 exeporn.net
 0.0.0.0 exeporno.club
 0.0.0.0 exeporno.xyz
@@ -71326,6 +71349,7 @@
 0.0.0.0 feszejiy.xyz
 0.0.0.0 fet-app.com
 0.0.0.0 fet-erotica.com
+0.0.0.0 fet.com
 0.0.0.0 fet.fun
 0.0.0.0 fetbdsm.com
 0.0.0.0 fetbomb.com
@@ -78532,6 +78556,8 @@
 0.0.0.0 ftparqcp.cc
 0.0.0.0 ftpcapastopcolecao.com
 0.0.0.0 ftqkbvm.top
+0.0.0.0 ftqqq.com
+0.0.0.0 ftqqq.cyou
 0.0.0.0 ftr19.com
 0.0.0.0 ftv-girls-free.com
 0.0.0.0 ftv-milfs.org
@@ -79593,6 +79619,7 @@
 0.0.0.0 fullporn.me
 0.0.0.0 fullporn.net
 0.0.0.0 fullporn.ru
+0.0.0.0 fullporn.to
 0.0.0.0 fullporn.tube
 0.0.0.0 fullpornclips.com
 0.0.0.0 fullporner-france.com
@@ -87584,6 +87611,7 @@
 0.0.0.0 gooningtv.com
 0.0.0.0 goonity.com
 0.0.0.0 goonmuse.com
+0.0.0.0 goonpass.b-cdn.net
 0.0.0.0 goonpass.com
 0.0.0.0 goontasy.com
 0.0.0.0 goopay.sbs
@@ -89076,6 +89104,7 @@
 0.0.0.0 gsboys.com
 0.0.0.0 gsbwbwl.com
 0.0.0.0 gsc-toshima.com
+0.0.0.0 gscweb.com
 0.0.0.0 gsd533.com
 0.0.0.0 gsdoll.com
 0.0.0.0 gsexclanddelta.shop
@@ -89152,6 +89181,8 @@
 0.0.0.0 gsxxx69tardmaje.shop
 0.0.0.0 gsxyfy.com
 0.0.0.0 gsyouxi.com
+0.0.0.0 gt37421.com
+0.0.0.0 gt37421.shop
 0.0.0.0 gta-v5.ru
 0.0.0.0 gta4mobile.club
 0.0.0.0 gtbeyqts.club
@@ -92479,6 +92510,7 @@
 0.0.0.0 hee3d.com
 0.0.0.0 heebhub.com
 0.0.0.0 heebig.com
+0.0.0.0 heedex.com
 0.0.0.0 heehiso.com
 0.0.0.0 heelslut.com
 0.0.0.0 heelstuber.com
@@ -95935,6 +95967,7 @@
 0.0.0.0 hornyfanslive.com
 0.0.0.0 hornyfap.tv
 0.0.0.0 hornyfilmer.com
+0.0.0.0 hornyfoxes.com
 0.0.0.0 hornyfreaks.com
 0.0.0.0 hornyfreecams.com
 0.0.0.0 hornyfuck.com
@@ -97794,6 +97827,7 @@
 0.0.0.0 hotswingers.org
 0.0.0.0 hotswingerspictures.com
 0.0.0.0 hotswingersporn.com
+0.0.0.0 hotswipez.com
 0.0.0.0 hott.cam
 0.0.0.0 hottart.com
 0.0.0.0 hottbonds.com
@@ -98822,6 +98856,7 @@
 0.0.0.0 huangaa.com
 0.0.0.0 huangdajie.net
 0.0.0.0 huanglong888.com
+0.0.0.0 huangpian.sbs
 0.0.0.0 huangse.love
 0.0.0.0 huangsesp.cyou
 0.0.0.0 huangsesp.xyz
@@ -98919,6 +98954,7 @@
 0.0.0.0 hudeem-vmeste.ru
 0.0.0.0 hudemov.cc
 0.0.0.0 hudetv.cc
+0.0.0.0 hudieqing.com
 0.0.0.0 hudporn.cc
 0.0.0.0 hudsonpunch.com
 0.0.0.0 hudutv.cc
@@ -99973,6 +100009,7 @@
 0.0.0.0 icpornmovz.com
 0.0.0.0 icrelfa.com
 0.0.0.0 icsexmovz.com
+0.0.0.0 ictic.sk
 0.0.0.0 icum.com
 0.0.0.0 icumgfs.com
 0.0.0.0 icupertino.ru
@@ -100144,6 +100181,7 @@
 0.0.0.0 ifreway.com
 0.0.0.0 ifriends.cam
 0.0.0.0 ifriends.top
+0.0.0.0 ifsa.io
 0.0.0.0 ifsapornosex.com
 0.0.0.0 ifsatube.com
 0.0.0.0 ifsaz.com
@@ -101907,12 +101945,14 @@
 0.0.0.0 indivision.cc
 0.0.0.0 indixpro.top
 0.0.0.0 indo-xxx.com
+0.0.0.0 indo18.cc
 0.0.0.0 indo18.id
 0.0.0.0 indo18.net
 0.0.0.0 indo18.vip
 0.0.0.0 indo4.org
 0.0.0.0 indo7.org
 0.0.0.0 indoabgg.baby
+0.0.0.0 indoav.cc
 0.0.0.0 indoav.com
 0.0.0.0 indobhabhi.vip
 0.0.0.0 indobokep.cc
@@ -102129,6 +102169,7 @@
 0.0.0.0 inhomemadeporn.com
 0.0.0.0 inhumanity.com
 0.0.0.0 inhumanity.nl
+0.0.0.0 ini.hair
 0.0.0.0 inibokep.info
 0.0.0.0 inibokep.monster
 0.0.0.0 inifeed.com
@@ -107928,6 +107969,7 @@
 0.0.0.0 jkuntp.com
 0.0.0.0 jkunzyapi.com
 0.0.0.0 jkup.cc
+0.0.0.0 jkxxx.com
 0.0.0.0 jkysxm.com
 0.0.0.0 jkywoxvw.top
 0.0.0.0 jkzfav.cc
@@ -110687,6 +110729,7 @@
 0.0.0.0 kgascvwa.top
 0.0.0.0 kgporno.link
 0.0.0.0 kgshe.cc
+0.0.0.0 kgucen.com
 0.0.0.0 kh-tour.com
 0.0.0.0 kh54.cc
 0.0.0.0 khalamite.com
@@ -110930,6 +110973,7 @@
 0.0.0.0 kinbakuluxuria.com
 0.0.0.0 kinbakunm.com
 0.0.0.0 kind-girls.net
+0.0.0.0 kindal.ru
 0.0.0.0 kindan-r18.com
 0.0.0.0 kindasoftporn.pl
 0.0.0.0 kinderarzt-kirsten.de
@@ -111566,6 +111610,7 @@
 0.0.0.0 kissjav.li
 0.0.0.0 kissjav.sbs
 0.0.0.0 kissjav.tv
+0.0.0.0 kisska.net
 0.0.0.0 kisskiss.ch
 0.0.0.0 kisskiss.tv
 0.0.0.0 kisslaopo.com
@@ -111595,6 +111640,7 @@
 0.0.0.0 kisumuraha.com
 0.0.0.0 kisuni.xyz
 0.0.0.0 kit-box.uk
+0.0.0.0 kit07.ru
 0.0.0.0 kitaiki1.ru
 0.0.0.0 kitaiskoe-porno.com
 0.0.0.0 kitanamontana.ch
@@ -113903,6 +113949,7 @@
 0.0.0.0 largexxxhub.com
 0.0.0.0 largexxxmovies.com
 0.0.0.0 lariho.net
+0.0.0.0 laripe.com
 0.0.0.0 larissinhasexshop.com.br
 0.0.0.0 larithine.com
 0.0.0.0 larkindata.com
@@ -114645,6 +114692,7 @@
 0.0.0.0 lb0408.com
 0.0.0.0 lb260522.top
 0.0.0.0 lb260908.top
+0.0.0.0 lbain.com
 0.0.0.0 lbcock.com
 0.0.0.0 lbdsex.com
 0.0.0.0 lbfantasy.com
@@ -119542,6 +119590,8 @@
 0.0.0.0 lokporn.com
 0.0.0.0 loksmith.io
 0.0.0.0 lol-porn.com
+0.0.0.0 lol49.cc
+0.0.0.0 lol49.org
 0.0.0.0 lola-escort.com
 0.0.0.0 lola-foxx.com
 0.0.0.0 lola-nu.top
@@ -119620,6 +119670,7 @@
 0.0.0.0 lolodereims.net
 0.0.0.0 lolosexshop.com.br
 0.0.0.0 lolpol.com
+0.0.0.0 lolpol.lol
 0.0.0.0 lolpol2.com
 0.0.0.0 lolporn.net
 0.0.0.0 lolporn.pro
@@ -119993,6 +120044,7 @@
 0.0.0.0 losmejorespacks.com
 0.0.0.0 losmejoressitiosdecitasadulto.com
 0.0.0.0 losporn.org
+0.0.0.0 losses.top
 0.0.0.0 lossimpsonporno.biz
 0.0.0.0 lossimpsonporno.com
 0.0.0.0 lossimpsonxxx.com
@@ -120107,6 +120159,7 @@
 0.0.0.0 love-moms.info
 0.0.0.0 love-of-your-dreams.com
 0.0.0.0 love-ona.com
+0.0.0.0 love-p.net
 0.0.0.0 love-piter.ru
 0.0.0.0 love-poetry.net
 0.0.0.0 love-s.net
@@ -120656,6 +120709,7 @@
 0.0.0.0 loviux.es
 0.0.0.0 lovl.b-cdn.net
 0.0.0.0 lovlyluna.com
+0.0.0.0 lovm.cc
 0.0.0.0 lovnamilfice.com
 0.0.0.0 lovnymph.top
 0.0.0.0 lovporner69.com
@@ -121049,6 +121103,7 @@
 0.0.0.0 lush.lol
 0.0.0.0 lush0.com
 0.0.0.0 lushbristolescorts.co.uk
+0.0.0.0 lushbulb.com
 0.0.0.0 lushbuzz.com
 0.0.0.0 lushchat.com
 0.0.0.0 lushely.com
@@ -125562,6 +125617,7 @@
 0.0.0.0 mbpaper.com
 0.0.0.0 mbrmozujian.com
 0.0.0.0 mbtiporn.com
+0.0.0.0 mbtkd.shop
 0.0.0.0 mbttbpm.xyz
 0.0.0.0 mbunt.ru
 0.0.0.0 mbw55.com
@@ -125625,6 +125681,8 @@
 0.0.0.0 mdcm.sbs
 0.0.0.0 mdcm.site
 0.0.0.0 mdcmmb.cc
+0.0.0.0 mddhx.buzz
+0.0.0.0 mddhx.xyz
 0.0.0.0 mdes.cc
 0.0.0.0 mdfaworio.com
 0.0.0.0 mdfhtv.cc
@@ -129885,6 +129943,7 @@
 0.0.0.0 mm473.com
 0.0.0.0 mm480.com
 0.0.0.0 mm491.com
+0.0.0.0 mm4k.buzz
 0.0.0.0 mm506.com
 0.0.0.0 mm514.com
 0.0.0.0 mm535.com
@@ -129944,6 +130003,7 @@
 0.0.0.0 mmgcollectibles.com
 0.0.0.0 mmgo5.site
 0.0.0.0 mmhdhub.com
+0.0.0.0 mmhdx.shop
 0.0.0.0 mmia.cc
 0.0.0.0 mmif2017.ru
 0.0.0.0 mmiillff.com
@@ -129962,6 +130022,7 @@
 0.0.0.0 mmmovinggg.com
 0.0.0.0 mmoframes.com
 0.0.0.0 mmogu.cc
+0.0.0.0 mmoonvline.com
 0.0.0.0 mmopeon.ru
 0.0.0.0 mmpnetwork.com
 0.0.0.0 mmporn.com
@@ -129986,6 +130047,7 @@
 0.0.0.0 mmsxxx.com
 0.0.0.0 mmsz.cc
 0.0.0.0 mmtar.com
+0.0.0.0 mmtube.net
 0.0.0.0 mmusclebearporn.com
 0.0.0.0 mmvfilms.com
 0.0.0.0 mmvfilms.de
@@ -130199,6 +130261,7 @@
 0.0.0.0 mochasinnghettogaggers.com
 0.0.0.0 mochito.mobi
 0.0.0.0 mocitv.cc
+0.0.0.0 moclon.pro
 0.0.0.0 mocromeiden.nl
 0.0.0.0 mocrosex.nl
 0.0.0.0 mocrosexdating.nl
@@ -130413,6 +130476,7 @@
 0.0.0.0 moedigi.com
 0.0.0.0 moeeki.net
 0.0.0.0 moefig.com
+0.0.0.0 moefuns.cc
 0.0.0.0 moegaku-omiya.com
 0.0.0.0 moehentai.tv
 0.0.0.0 moejoetube.com
@@ -132863,6 +132927,8 @@
 0.0.0.0 mwmhua.cc
 0.0.0.0 mworld.pro
 0.0.0.0 mwpclub.com
+0.0.0.0 mwsl.shop
+0.0.0.0 mwsll.cyou
 0.0.0.0 mwtaahkv.xyz
 0.0.0.0 mwuclinic.com
 0.0.0.0 mwupbxy.top
@@ -133079,6 +133145,7 @@
 0.0.0.0 myasianxxxx.shop
 0.0.0.0 myassociationwebsite.com
 0.0.0.0 myaussieattraction.com
+0.0.0.0 myav10.cc
 0.0.0.0 myavaaddams.com
 0.0.0.0 myavlive.co
 0.0.0.0 myavlive.com
@@ -134734,6 +134801,7 @@
 0.0.0.0 n69.pl
 0.0.0.0 n7.pics
 0.0.0.0 n8165.com
+0.0.0.0 n8cams.nl
 0.0.0.0 n8club.com
 0.0.0.0 n8ked.app
 0.0.0.0 n8kedaiporn.com
@@ -134764,6 +134832,7 @@
 0.0.0.0 naapuriosuma.com
 0.0.0.0 naatham.com
 0.0.0.0 nababe.info
+0.0.0.0 nababu.xyz
 0.0.0.0 nabanan.ru
 0.0.0.0 nabher.com
 0.0.0.0 nabiles-porn.com
@@ -135160,6 +135229,7 @@
 0.0.0.0 nakedcamsluts.com
 0.0.0.0 nakedcamstars.com
 0.0.0.0 nakedcamworld.com
+0.0.0.0 nakedcdn.com
 0.0.0.0 nakedcelebrities.com
 0.0.0.0 nakedcelebs.dk
 0.0.0.0 nakedcelebs.top
@@ -139160,6 +139230,7 @@
 0.0.0.0 notaigirls.com
 0.0.0.0 notalkfemales.com
 0.0.0.0 notanothersexshop.com
+0.0.0.0 note15.cyou
 0.0.0.0 note3.fun
 0.0.0.0 notetrucking.com
 0.0.0.0 notexxx.com
@@ -139352,6 +139423,7 @@
 0.0.0.0 npprteam.shop
 0.0.0.0 nppuszo.cc
 0.0.0.0 nproxy.org
+0.0.0.0 npstatics.b-cdn.net
 0.0.0.0 npxzgmo.top
 0.0.0.0 npzidhw.com
 0.0.0.0 nqhziib.com
@@ -141003,6 +141075,7 @@
 0.0.0.0 nwxs28.com
 0.0.0.0 nx-fx.com
 0.0.0.0 nx888.net
+0.0.0.0 nxazhtz.cc
 0.0.0.0 nxbcbrjm.xyz
 0.0.0.0 nxcpic.com
 0.0.0.0 nxg.mobi
@@ -141470,7 +141543,9 @@
 0.0.0.0 ofleakz.com
 0.0.0.0 oflsp.cc
 0.0.0.0 ofmagic.eu
+0.0.0.0 ofns.ink
 0.0.0.0 ofpacks.net
+0.0.0.0 ofpins.com
 0.0.0.0 ofporno.ru
 0.0.0.0 ofreeporn.com
 0.0.0.0 ofsex.ru
@@ -141500,6 +141575,7 @@
 0.0.0.0 oglaf.com
 0.0.0.0 oglasnik69.net
 0.0.0.0 ogloszenia-kobiet.pl
+0.0.0.0 ognavi.com
 0.0.0.0 ognestrelki.ru
 0.0.0.0 ogoevbje.top
 0.0.0.0 ogolenka.ru
@@ -141611,6 +141687,7 @@
 0.0.0.0 ohoh24.com
 0.0.0.0 ohohporn.com
 0.0.0.0 ohoku.jp
+0.0.0.0 ohoney.eu
 0.0.0.0 ohoporn.com
 0.0.0.0 ohoui.fun
 0.0.0.0 ohpornocasero.com
@@ -144464,6 +144541,7 @@
 0.0.0.0 ouiporno.com
 0.0.0.0 ouiqawlh.club
 0.0.0.0 oujimov.cc
+0.0.0.0 oujins.com
 0.0.0.0 oumeisex.com
 0.0.0.0 oumeisex.net
 0.0.0.0 oumeisqsp.cc
@@ -147025,6 +147103,7 @@
 0.0.0.0 phimditnhau.org
 0.0.0.0 phimditnhau.sale
 0.0.0.0 phimditnhau2.com
+0.0.0.0 phimfo.com
 0.0.0.0 phimfull.pro
 0.0.0.0 phimgainhat.com
 0.0.0.0 phimguru.com
@@ -147056,6 +147135,7 @@
 0.0.0.0 phimphim.top
 0.0.0.0 phimporn.xyz
 0.0.0.0 phimpornhay.com
+0.0.0.0 phims.vip
 0.0.0.0 phims3x.com
 0.0.0.0 phimse.vip
 0.0.0.0 phimsec.app
@@ -148705,6 +148785,7 @@
 0.0.0.0 pinkcrushers.com
 0.0.0.0 pinkdist.com
 0.0.0.0 pinkdressing.com
+0.0.0.0 pinkdvd.pl
 0.0.0.0 pinkdynamite.co.uk
 0.0.0.0 pinkeiga.com
 0.0.0.0 pinkeiga.tv
@@ -150061,6 +150142,7 @@
 0.0.0.0 poonbabes.com
 0.0.0.0 pooncakes.com
 0.0.0.0 poonfarm.com
+0.0.0.0 poono.site
 0.0.0.0 poontangcams.com
 0.0.0.0 poontangheat.com
 0.0.0.0 poonypics.com
@@ -150109,9 +150191,12 @@
 0.0.0.0 popjav.tv
 0.0.0.0 popka.click
 0.0.0.0 popka.info
+0.0.0.0 popka.one
 0.0.0.0 popka.org
 0.0.0.0 popki.click
+0.0.0.0 popki.one
 0.0.0.0 popki.tv
+0.0.0.0 popkii.top
 0.0.0.0 poplifeecua.com
 0.0.0.0 poplive.xyz
 0.0.0.0 popmich.com
@@ -151070,6 +151155,7 @@
 0.0.0.0 porna-porn.xyz
 0.0.0.0 porna-porna.cfd
 0.0.0.0 porna-porna.club
+0.0.0.0 porna.help
 0.0.0.0 porna.icu
 0.0.0.0 porna.wtf
 0.0.0.0 porna10.icu
@@ -154068,6 +154154,7 @@
 0.0.0.0 pornnungxxx.me
 0.0.0.0 pornnungxxx2.me
 0.0.0.0 pornnut.com
+0.0.0.0 pornnv.lat
 0.0.0.0 pornnylons.com
 0.0.0.0 porno--x.com
 0.0.0.0 porno-1.online
@@ -155983,6 +156070,7 @@
 0.0.0.0 pornohype.org
 0.0.0.0 pornohypnosis.com
 0.0.0.0 pornohyx.online
+0.0.0.0 pornoia.ai
 0.0.0.0 pornoiapro.com
 0.0.0.0 pornoidka.com
 0.0.0.0 pornoidol.com
@@ -161768,6 +161856,7 @@
 0.0.0.0 privatpornovideos.com
 0.0.0.0 privatporr.se
 0.0.0.0 privatsedition.com
+0.0.0.0 privatsessions.com
 0.0.0.0 privatsex-chat.de
 0.0.0.0 privatsex-girls.com
 0.0.0.0 privatsex-kontakte.net
@@ -165198,6 +165287,7 @@
 0.0.0.0 pushgif.com
 0.0.0.0 pushherlimits.com
 0.0.0.0 pushingtaboo.com
+0.0.0.0 pushingvideo.com
 0.0.0.0 pushino-dd.com
 0.0.0.0 pushkingrad.com
 0.0.0.0 pushkino-dd.com
@@ -165520,6 +165610,7 @@
 0.0.0.0 putana77.net
 0.0.0.0 putanapapa.com
 0.0.0.0 putanasgirls.com
+0.0.0.0 putang.com
 0.0.0.0 putani-moskva.com
 0.0.0.0 putani-samara.ru
 0.0.0.0 putani.info
@@ -165530,6 +165621,7 @@
 0.0.0.0 putanu-zakazhi.ru
 0.0.0.0 putanustream.top
 0.0.0.0 putany.name
+0.0.0.0 putany.net
 0.0.0.0 putanykem.ru
 0.0.0.0 putanypiterskie.ru
 0.0.0.0 putaozy.xyz
@@ -165616,6 +165708,7 @@
 0.0.0.0 pwdzr.com
 0.0.0.0 pwerta.com
 0.0.0.0 pwetan.lol
+0.0.0.0 pwetan.mom
 0.0.0.0 pwetantv.com
 0.0.0.0 pwetflix.com
 0.0.0.0 pwfddrfx.cc
@@ -165767,6 +165860,8 @@
 0.0.0.0 qcmm.shop
 0.0.0.0 qcq25.com
 0.0.0.0 qcsexo.com
+0.0.0.0 qcxxdh.buzz
+0.0.0.0 qcxxdh.com
 0.0.0.0 qcxxdh.top
 0.0.0.0 qdbowei.com
 0.0.0.0 qddstl.com
@@ -165974,6 +166069,7 @@
 0.0.0.0 qmgporn.com
 0.0.0.0 qmgporn.org
 0.0.0.0 qmjkospn.xyz
+0.0.0.0 qmkan.com
 0.0.0.0 qmlvyougl.com
 0.0.0.0 qmname.com
 0.0.0.0 qmngxmr.xyz
@@ -165982,6 +166078,7 @@
 0.0.0.0 qmzm.shop
 0.0.0.0 qnb2b.com
 0.0.0.0 qncpnqng.xyz
+0.0.0.0 qnito.com
 0.0.0.0 qnmav.shop
 0.0.0.0 qntuan.com
 0.0.0.0 qnudes.com
@@ -166076,6 +166173,7 @@
 0.0.0.0 qqw3.com
 0.0.0.0 qrbrqois.cc
 0.0.0.0 qrd7.top
+0.0.0.0 qreel.com
 0.0.0.0 qropsclaims.com
 0.0.0.0 qrp2.com
 0.0.0.0 qryplbkx.org
@@ -169252,6 +169350,7 @@
 0.0.0.0 reviewtwistys.com
 0.0.0.0 reviewvideosz.com
 0.0.0.0 reviewvrporn.com
+0.0.0.0 reviko.org
 0.0.0.0 revisioniq.uk
 0.0.0.0 revistahextremo.net
 0.0.0.0 revistaporno.org
@@ -172443,6 +172542,7 @@
 0.0.0.0 sb7i.top
 0.0.0.0 sb82.com
 0.0.0.0 sb8i.xyz
+0.0.0.0 sb98.com
 0.0.0.0 sb9z.top
 0.0.0.0 sbabes.com
 0.0.0.0 sbb211.com
@@ -172573,6 +172673,7 @@
 0.0.0.0 scat.gold
 0.0.0.0 scat.in
 0.0.0.0 scat.media
+0.0.0.0 scat.one
 0.0.0.0 scat.red
 0.0.0.0 scat.ws
 0.0.0.0 scat365.com
@@ -189337,6 +189438,7 @@
 0.0.0.0 sexzlin.cz
 0.0.0.0 sexzm.cyou
 0.0.0.0 sexzm.live
+0.0.0.0 sexzm.shop
 0.0.0.0 sexzmenek.com
 0.0.0.0 sexzmenek.si
 0.0.0.0 sexzmenki.com
@@ -190991,6 +191093,7 @@
 0.0.0.0 shinnsi.net
 0.0.0.0 shinosaka-jyokyoshi.com
 0.0.0.0 shintorg66.ru
+0.0.0.0 shinv.link
 0.0.0.0 shiny-archives.com
 0.0.0.0 shiny-dance.com
 0.0.0.0 shiny-foxes.com
@@ -191514,6 +191617,7 @@
 0.0.0.0 shynudists.com
 0.0.0.0 shyonlinedating.com
 0.0.0.0 shyqdq.com
+0.0.0.0 shyszb.com
 0.0.0.0 shyteenporn.com
 0.0.0.0 shyteenpussy.com
 0.0.0.0 shytjf.com
@@ -191550,6 +191654,7 @@
 0.0.0.0 sibari.net
 0.0.0.0 siberia113.ru
 0.0.0.0 sibillalamarr.ch
+0.0.0.0 sibirki.best
 0.0.0.0 sibirki.cc
 0.0.0.0 sibirki.dev
 0.0.0.0 sibirki.guru
@@ -191640,6 +191745,7 @@
 0.0.0.0 sigilosexshop.com.br
 0.0.0.0 sigloxxx.cam
 0.0.0.0 sigma-slut.com
+0.0.0.0 sigma13.ru
 0.0.0.0 sigmaporn.com
 0.0.0.0 signal69.com
 0.0.0.0 signcams.com
@@ -192015,6 +192121,7 @@
 0.0.0.0 singaporesexual.com
 0.0.0.0 singaporestories.com
 0.0.0.0 singapuras.ru
+0.0.0.0 singdr.com
 0.0.0.0 singelcougars.se
 0.0.0.0 singelgrannar.com
 0.0.0.0 singeporno.com
@@ -192153,6 +192260,7 @@
 0.0.0.0 sintube.org
 0.0.0.0 sinulatorcams.com
 0.0.0.0 sinunluoksesi.com
+0.0.0.0 sinwet.xyz
 0.0.0.0 sinworld.net
 0.0.0.0 sinx.com
 0.0.0.0 sipbtjfn.com
@@ -195654,6 +195762,7 @@
 0.0.0.0 srazgovorami.com
 0.0.0.0 srbam.com
 0.0.0.0 srchsex.com
+0.0.0.0 srculo.com
 0.0.0.0 srdc.be
 0.0.0.0 srdinternational.com
 0.0.0.0 srecniljudi.com
@@ -196939,6 +197048,7 @@
 0.0.0.0 stripchat.ch
 0.0.0.0 stripchat.com
 0.0.0.0 stripchat.cool
+0.0.0.0 stripchat.cx
 0.0.0.0 stripchat.de
 0.0.0.0 stripchat.direct
 0.0.0.0 stripchat.express
@@ -197181,6 +197291,7 @@
 0.0.0.0 stroyurist.ru
 0.0.0.0 strp.chat
 0.0.0.0 strpjmp.com
+0.0.0.0 strpssts-ana.com
 0.0.0.0 strubbi.com
 0.0.0.0 struggle.army
 0.0.0.0 strumpfhosenfetish.com
@@ -199215,6 +199326,7 @@
 0.0.0.0 sx.de
 0.0.0.0 sx77.org
 0.0.0.0 sxarab.top
+0.0.0.0 sxbook.app
 0.0.0.0 sxbzj.net
 0.0.0.0 sxccdn.com
 0.0.0.0 sxchkj.com.cn
@@ -199449,6 +199561,8 @@
 0.0.0.0 sywjk.com
 0.0.0.0 syxcf.com
 0.0.0.0 syxdfhmc.com
+0.0.0.0 syxdh.sbs
+0.0.0.0 syxdh.top
 0.0.0.0 syxdtc.com
 0.0.0.0 syxfzy.com
 0.0.0.0 syxgdn.com
@@ -205611,6 +205725,7 @@
 0.0.0.0 thisisporn.net
 0.0.0.0 thisiswherewemeetforlove.co
 0.0.0.0 thisiswherewemeetforlove.com
+0.0.0.0 thisit.top
 0.0.0.0 thisjav.tv
 0.0.0.0 thismaturesex.com
 0.0.0.0 thisone.ru
@@ -205634,8 +205749,12 @@
 0.0.0.0 thisyearssnaps.com
 0.0.0.0 thixxxnatalya.com
 0.0.0.0 thkunzu.cc
+0.0.0.0 thmj.pics
+0.0.0.0 thmj.shop
+0.0.0.0 thmj1.cyou
 0.0.0.0 thmljac.cc
 0.0.0.0 thnnn.shop
+0.0.0.0 thnnn.xyz
 0.0.0.0 thod.com
 0.0.0.0 thogor.com
 0.0.0.0 thoiken.net
@@ -205648,6 +205767,8 @@
 0.0.0.0 thor-tgirls.com
 0.0.0.0 thorja.at
 0.0.0.0 thosecams.com
+0.0.0.0 thot.ing
+0.0.0.0 thot.skin
 0.0.0.0 thotalert.com
 0.0.0.0 thotarchive.top
 0.0.0.0 thotbay.org
@@ -205694,6 +205815,7 @@
 0.0.0.0 thotreviews.com
 0.0.0.0 thots.org
 0.0.0.0 thots.tv
+0.0.0.0 thots.vip
 0.0.0.0 thotsanonymous.com
 0.0.0.0 thotsbay-leaked.com
 0.0.0.0 thotsbay.com
@@ -208578,6 +208700,7 @@
 0.0.0.0 tporn.info
 0.0.0.0 tporn.live
 0.0.0.0 tporn.org
+0.0.0.0 tporn.tube
 0.0.0.0 tporner.com
 0.0.0.0 tpornos.site
 0.0.0.0 tpornstars.com
@@ -210795,6 +210918,7 @@
 0.0.0.0 tsywu.cc
 0.0.0.0 tt076.com
 0.0.0.0 tt156.com
+0.0.0.0 tt18.info
 0.0.0.0 tt374.com
 0.0.0.0 tt406.com
 0.0.0.0 tt407.com
@@ -210861,6 +210985,7 @@
 0.0.0.0 ttt722.com
 0.0.0.0 ttt772.com
 0.0.0.0 ttt922.com
+0.0.0.0 ttt955.com
 0.0.0.0 tttmllox.cc
 0.0.0.0 tttys4.cc
 0.0.0.0 ttvba.com
@@ -211015,6 +211140,7 @@
 0.0.0.0 tube8-sexvideos.com
 0.0.0.0 tube8-teens.com
 0.0.0.0 tube8-xvideos.online
+0.0.0.0 tube8.at
 0.0.0.0 tube8.ca
 0.0.0.0 tube8.com
 0.0.0.0 tube8.com.ru
@@ -211415,6 +211541,7 @@
 0.0.0.0 tubeprosex.biz
 0.0.0.0 tubepublicporn.com
 0.0.0.0 tubepussy.org
+0.0.0.0 tubepy.com
 0.0.0.0 tubeq.mobi
 0.0.0.0 tubeqd.tv
 0.0.0.0 tubeqz.com
@@ -211588,6 +211715,7 @@
 0.0.0.0 tubewolf.com
 0.0.0.0 tubex.best
 0.0.0.0 tubex.cc
+0.0.0.0 tubex.fun
 0.0.0.0 tubex.hu
 0.0.0.0 tubex.skin
 0.0.0.0 tubex.work
@@ -212972,6 +213100,7 @@
 0.0.0.0 uglypeople.nl
 0.0.0.0 uglysex.fun
 0.0.0.0 uglysexhookup.com
+0.0.0.0 ugnay.com
 0.0.0.0 ugosinhache.com
 0.0.0.0 ugotitflauntit.com
 0.0.0.0 ugotitflauntit.org
@@ -214993,6 +215122,7 @@
 0.0.0.0 vcndqcyr.xyz
 0.0.0.0 vcowogg.top
 0.0.0.0 vcpvip.com
+0.0.0.0 vcrush.ai
 0.0.0.0 vcrxxxvideo.xyz
 0.0.0.0 vcteens.com
 0.0.0.0 vctp.com
@@ -215010,6 +215140,7 @@
 0.0.0.0 vdo69x.com
 0.0.0.0 vdoclip18up.com
 0.0.0.0 vdonsk-dd.com
+0.0.0.0 vdos.click
 0.0.0.0 vdoxporn.com
 0.0.0.0 vdppkafg.cc
 0.0.0.0 vdrywdi.xyz
@@ -215034,6 +215165,7 @@
 0.0.0.0 vecchifilmporno.com
 0.0.0.0 vecinadelanga.com
 0.0.0.0 vecinasmaduritas.com
+0.0.0.0 veckka.com
 0.0.0.0 vecplc.com
 0.0.0.0 vedeandcrede.com
 0.0.0.0 vedetexxx.com
@@ -217341,6 +217473,7 @@
 0.0.0.0 vipslot.com
 0.0.0.0 vipsoncam.com
 0.0.0.0 vipsorority.com
+0.0.0.0 vipss6.com
 0.0.0.0 vipstand.pm
 0.0.0.0 vipstepmom.com
 0.0.0.0 vipstream.com
@@ -218499,6 +218632,7 @@
 0.0.0.0 voyr.com
 0.0.0.0 voyrmodels.com
 0.0.0.0 voysex.ru
+0.0.0.0 voyyp.net
 0.0.0.0 vozrast.cc
 0.0.0.0 vpasu.com
 0.0.0.0 vpcams.com
@@ -219035,6 +219169,7 @@
 0.0.0.0 vvlx.net
 0.0.0.0 vvplusni.top
 0.0.0.0 vvv86.com
+0.0.0.0 vvvdh.top
 0.0.0.0 vvyou.cc
 0.0.0.0 vwlfekmu.top
 0.0.0.0 vwolfsexse.buzz
@@ -219124,6 +219259,7 @@
 0.0.0.0 w4bpics.com
 0.0.0.0 w4bporn.com
 0.0.0.0 w4c.cc
+0.0.0.0 w4nker.com
 0.0.0.0 w4nkr.com
 0.0.0.0 w4sex.com
 0.0.0.0 w5y2.com
@@ -219136,6 +219272,7 @@
 0.0.0.0 wa-mall.com
 0.0.0.0 wa931.com
 0.0.0.0 wa9k.com
+0.0.0.0 waank.com
 0.0.0.0 wachabate.com
 0.0.0.0 wachwuj.com
 0.0.0.0 wackmymeat.com
@@ -221357,6 +221494,7 @@
 0.0.0.0 wfhaichuan.com
 0.0.0.0 wfhrcvu.xyz
 0.0.0.0 wfporn.com
+0.0.0.0 wfrzhg.com
 0.0.0.0 wg99v.com
 0.0.0.0 wga833.com
 0.0.0.0 wgame9.com
@@ -221635,6 +221773,7 @@
 0.0.0.0 whwxkj.com
 0.0.0.0 whxiangshu.com
 0.0.0.0 whxxx.asia
+0.0.0.0 whxxx.buzz
 0.0.0.0 whxznn.com
 0.0.0.0 whyabdl.org
 0.0.0.0 whygamesolag.com
@@ -221690,6 +221829,7 @@
 0.0.0.0 wickedwebcamsites.com
 0.0.0.0 wickedwives.co.uk
 0.0.0.0 wicksen.de
+0.0.0.0 wicon.it
 0.0.0.0 wicothesource.com
 0.0.0.0 wideblacks.com
 0.0.0.0 widejapanporn.com
@@ -222482,6 +222622,7 @@
 0.0.0.0 woningnet.com
 0.0.0.0 woniuyulew.com
 0.0.0.0 wonporn.com
+0.0.0.0 woo.hair
 0.0.0.0 woo1.ru
 0.0.0.0 wooav.com
 0.0.0.0 woobs.com
@@ -223510,6 +223651,7 @@
 0.0.0.0 x-asianporn.com
 0.0.0.0 x-asians.live
 0.0.0.0 x-asmr.com
+0.0.0.0 x-baku.com
 0.0.0.0 x-bet.cc
 0.0.0.0 x-bl.jp
 0.0.0.0 x-blogs.com
@@ -223605,6 +223747,7 @@
 0.0.0.0 x-sexvideos.com
 0.0.0.0 x-shemale.me
 0.0.0.0 x-shemales.com
+0.0.0.0 x-shop.by
 0.0.0.0 x-shop.tv
 0.0.0.0 x-siterips.com
 0.0.0.0 x-sportives.com
@@ -223682,6 +223825,7 @@
 0.0.0.0 x208.info
 0.0.0.0 x214.net
 0.0.0.0 x22x.pro
+0.0.0.0 x25108.com
 0.0.0.0 x2show.com
 0.0.0.0 x32187.cn
 0.0.0.0 x34porn.com
@@ -223698,6 +223842,7 @@
 0.0.0.0 x3vid.com
 0.0.0.0 x3vids.com
 0.0.0.0 x456k.com
+0.0.0.0 x4rt.com
 0.0.0.0 x4tos.b-cdn.net
 0.0.0.0 x4tos.com
 0.0.0.0 x4u.xyz
@@ -223775,6 +223920,8 @@
 0.0.0.0 xamvn.pro
 0.0.0.0 xamxxx.com
 0.0.0.0 xanaflix.com
+0.0.0.0 xanal.site
+0.0.0.0 xanal.top
 0.0.0.0 xanasexy.com
 0.0.0.0 xanaspalace.com
 0.0.0.0 xanaspalacelive.com
@@ -223830,6 +223977,7 @@
 0.0.0.0 xasiat-pic.b-cdn.net
 0.0.0.0 xasiat.b-cdn.net
 0.0.0.0 xasiat.com
+0.0.0.0 xasiat.ws
 0.0.0.0 xasior.com
 0.0.0.0 xasmrx.pro
 0.0.0.0 xaspwzh.cc
@@ -223846,6 +223994,7 @@
 0.0.0.0 xavideos.click
 0.0.0.0 xavidols.com
 0.0.0.0 xavxx.live
+0.0.0.0 xavxx.shop
 0.0.0.0 xavxx.xyz
 0.0.0.0 xawek.com
 0.0.0.0 xaxaxaxa.xyz
@@ -223866,6 +224015,7 @@
 0.0.0.0 xbangster.com
 0.0.0.0 xbanny.com
 0.0.0.0 xbay.me
+0.0.0.0 xbayin.com
 0.0.0.0 xbbcx.pro
 0.0.0.0 xbbjxl.com
 0.0.0.0 xbbw.net
@@ -223923,6 +224073,7 @@
 0.0.0.0 xblacktube.com
 0.0.0.0 xblackx.pro
 0.0.0.0 xbleu.com
+0.0.0.0 xbliss.ai
 0.0.0.0 xblog.tv
 0.0.0.0 xblognetwork.com
 0.0.0.0 xblox.org
@@ -224760,6 +224911,7 @@
 0.0.0.0 xhlyw.cc
 0.0.0.0 xhmaster.mobi
 0.0.0.0 xhmaster.name
+0.0.0.0 xhmediacdn.com
 0.0.0.0 xhmoon5.com
 0.0.0.0 xhname.com
 0.0.0.0 xhofficial.com
@@ -224945,6 +225097,7 @@
 0.0.0.0 xifun18.com
 0.0.0.0 xigayiny.cc
 0.0.0.0 xigua01.com
+0.0.0.0 xiguase.cc
 0.0.0.0 xihecun.com
 0.0.0.0 xiheel.com
 0.0.0.0 xihs.cc
@@ -224982,6 +225135,7 @@
 0.0.0.0 xing8.one
 0.0.0.0 xing8av.buzz
 0.0.0.0 xing8av.xyz
+0.0.0.0 xing8av2.shop
 0.0.0.0 xing8dh.com
 0.0.0.0 xingarj.sbs
 0.0.0.0 xingat.com
@@ -227123,6 +227277,17 @@
 0.0.0.0 xsav219.com
 0.0.0.0 xsav220.com
 0.0.0.0 xsav260.com
+0.0.0.0 xsb31.xyz
+0.0.0.0 xsb32.xyz
+0.0.0.0 xsb33.xyz
+0.0.0.0 xsb34.xyz
+0.0.0.0 xsb35.xyz
+0.0.0.0 xsb36.xyz
+0.0.0.0 xsb37.xyz
+0.0.0.0 xsb38.xyz
+0.0.0.0 xsb39.xyz
+0.0.0.0 xsb40.xyz
+0.0.0.0 xsb41.xyz
 0.0.0.0 xscandals.com
 0.0.0.0 xscenex.com
 0.0.0.0 xscorts.ch
@@ -228263,6 +228428,7 @@
 0.0.0.0 xxdesire.com
 0.0.0.0 xxdh.mom
 0.0.0.0 xxerotica.com
+0.0.0.0 xxetz.com
 0.0.0.0 xxf.mobi
 0.0.0.0 xxfdh.buzz
 0.0.0.0 xxfdh.cyou
@@ -228384,6 +228550,8 @@
 0.0.0.0 xxmm35.com
 0.0.0.0 xxmm6.com
 0.0.0.0 xxmm91.com
+0.0.0.0 xxmmcc.cyou
+0.0.0.0 xxmmcc.shop
 0.0.0.0 xxmobile.pro
 0.0.0.0 xxmom.com
 0.0.0.0 xxmoms.com
@@ -228494,6 +228662,7 @@
 0.0.0.0 xxradost.top
 0.0.0.0 xxrmrzx.com
 0.0.0.0 xxsdh.com
+0.0.0.0 xxsdh.lol
 0.0.0.0 xxsem.buzz
 0.0.0.0 xxsem.com
 0.0.0.0 xxsem.cyou
@@ -232868,6 +233037,7 @@
 0.0.0.0 y9m6.com
 0.0.0.0 ya.pics
 0.0.0.0 ya0589.com
+0.0.0.0 yaa.mom
 0.0.0.0 yaav.xyz
 0.0.0.0 yaawo.top
 0.0.0.0 yaayaa.net
@@ -233504,6 +233674,7 @@
 0.0.0.0 yiff-ai.com
 0.0.0.0 yiff-comics.com
 0.0.0.0 yiff-party.com
+0.0.0.0 yiff.pw
 0.0.0.0 yiffmonkey.com
 0.0.0.0 yiffverse.com
 0.0.0.0 yify-movies.net
@@ -233643,6 +233814,8 @@
 0.0.0.0 ylmcash.com
 0.0.0.0 ylovecams.com
 0.0.0.0 ylrnyz.com
+0.0.0.0 ylsxx.lat
+0.0.0.0 ylsxx.pics
 0.0.0.0 ylsynet.com
 0.0.0.0 ylubochka.ru
 0.0.0.0 ylvdhypc.com
@@ -234837,6 +235010,7 @@
 0.0.0.0 yssfgg.com
 0.0.0.0 ysstd.com
 0.0.0.0 yssxx.sbs
+0.0.0.0 ysu78.com
 0.0.0.0 yswords.com
 0.0.0.0 ysxx02.xyz
 0.0.0.0 ysygood.com
@@ -235977,6 +236151,7 @@
 0.0.0.0 zjskcnc.com
 0.0.0.0 zjskjm.com
 0.0.0.0 zjskrfb.top
+0.0.0.0 zjsla.com
 0.0.0.0 zjsyjt.com
 0.0.0.0 zjtss.com
 0.0.0.0 zjtyjxc.com
@@ -236623,6 +236798,7 @@
 0.0.0.0 zurich-girls.ch
 0.0.0.0 zurichescorts.com
 0.0.0.0 zutumov.cc
+0.0.0.0 zuvrix.xyz
 0.0.0.0 zuwutv.cc
 0.0.0.0 zuyemov.cc
 0.0.0.0 zuyutv.cc
@@ -236679,6 +236855,8 @@
 0.0.0.0 zxspe.cc
 0.0.0.0 zxspuy.cc
 0.0.0.0 zxthgcd.cc
+0.0.0.0 zxtxx.lat
+0.0.0.0 zxtxx.pics
 0.0.0.0 zxulvjk.xyz
 0.0.0.0 zxvideos.net
 0.0.0.0 zxw261.cc

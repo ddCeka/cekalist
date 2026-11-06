@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 6 Nov 2026 15:45 (updated regularly)
+! Last modified: 7 Nov 2026 06:50 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9916,10 +9916,6 @@ bogordaily.net,vcgamers.com##.insert_ads
 bogornetwork.com##img[width="700"][height="243"]
 bogornetwork.com##img[width="730"][height="91"]
 bokep.pemersatu.top##body.age-gate-open:style(overflow: auto !important;)
-bokep.pemersatu.top,pemersatu.top,pemersatufun.*###myDiv
-bokep.pemersatu.top,pemersatu.top,pemersatufun.*##.kamucurang-fader:style(display: none !important;)
-bokep.pemersatu.top,pemersatu.top,pemersatufun.*##.kamucurang:style(height: auto !important; overflow: visible !important; background-color: transparent !important;)
-bokep.pemersatu.top,pemersatu.top,pemersatufun.*##.siapakita:style(display: none !important;)
 bokep.pemersatu.top,pemersatufun.com##.age-gate
 bokep234.*##.jwp-ad-video
 bokep360.*##a[href*="gamdom"]
@@ -11814,9 +11810,7 @@ kumparan.com##div[class*="ModalOverlay"]
 kumparan.com##div[class*="Modalweb__"]
 kuninganmass.com##.zox-side-widget > figure > img
 kuotareguler.com##.entry-content > .code-block
-kurakura21.net##.eczkflmfhstvfztsumhrirexbn_hcsktyuvtuthdvvprdbwzjvrod
-kurakura21.net##.uyvbutnyjubgiylpathdhjwr_lehjtnhznybscgcbtbhelfdz
-kurakura21.net##img[src*="chp-ads-block-detector"]
+kurakura21.net##body > div:has(a[href^="https://chpadblock.com"], img[src*="chp-ads-block-detector"])
 kuramanime.*###aboveDownloadBannerSection
 kuramanime.*###aboveEpisodeListBannerSection
 kuramanime.*###aboveListBannerSection
@@ -12529,6 +12523,10 @@ pemersatu.org,pemersatufun.site###movieplayer-box #myDiv:has(button[onclick*="wi
 pemersatu.top##.ad
 pemersatu.top##.fixed.gate-backdrop
 pemersatu.top##.player > #myDiv
+pemersatu.top,pemersatudotfun.com,pemersatufun.*###myDiv
+pemersatu.top,pemersatudotfun.com,pemersatufun.*##.kamucurang-fader:style(display: none !important;)
+pemersatu.top,pemersatudotfun.com,pemersatufun.*##.kamucurang:style(height: auto !important; overflow: visible !important; background-color: transparent !important;)
+pemersatu.top,pemersatudotfun.com,pemersatufun.*##.siapakita:style(display: none !important;)
 pemersatu.top,pemersatudotfun.com,pemersatufun.*,pemersatufun.site#@##adright
 pemersatu.top,pemersatufun.site##.ad
 pemersatu.top,pemersatufun.site##html, body:style(overflow: auto!important; position: unset!important;)

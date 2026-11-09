@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 4 Nov 2026 17:22 (updated regularly)
+! Last modified: 9 Nov 2026 14:53 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -2105,6 +2105,7 @@
 0.0.0.0 belanja99elektro.com
 0.0.0.0 belitogel.com
 0.0.0.0 bellaads.com
+0.0.0.0 bellsgirdles.com
 0.0.0.0 benderapoker.net
 0.0.0.0 benidormbingo.com
 0.0.0.0 bepolite.eu
@@ -3230,6 +3231,7 @@
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.gamechanger.io
 0.0.0.0 collector.scopely.io
+0.0.0.0 collector.snowplow.supercell.com
 0.0.0.0 collector.vhx.tv
 0.0.0.0 college-basketball-picks-online.com
 0.0.0.0 collegefootballlocks.com
@@ -4076,6 +4078,7 @@
 0.0.0.0 ftuapps.me
 0.0.0.0 fuck.org
 0.0.0.0 fugupoker.com
+0.0.0.0 fulahunslack.com
 0.0.0.0 fullbet88.com
 0.0.0.0 fun688.com
 0.0.0.0 fun788.com
@@ -6208,6 +6211,7 @@
 0.0.0.0 mitrapoker.com
 0.0.0.0 mixadvert.com
 0.0.0.0 mixpanel-proxy-ivbdkvonca-uc.a.run.app
+0.0.0.0 mkt.supercell.com
 0.0.0.0 mkvpoker.club
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 mmcshoping.com
@@ -6460,6 +6464,7 @@
 0.0.0.0 news-events.apple.com
 0.0.0.0 news-img.site
 0.0.0.0 news-sports-events.apple.com
+0.0.0.0 newshinyd.com
 0.0.0.0 newsnet.in.ua
 0.0.0.0 newyorkcasinos.net
 0.0.0.0 newyorklotteryresults.org

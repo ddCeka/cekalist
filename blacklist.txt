@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 9 Nov 2026 14:53 (updated regularly)
+! Last modified: 11 Nov 2026 19:14 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -658,6 +658,7 @@
 0.0.0.0 adversal.com
 0.0.0.0 adverticum.net
 0.0.0.0 advertise.com
+0.0.0.0 advertising.amazon.dev
 0.0.0.0 advertising.com
 0.0.0.0 advertur.ru
 0.0.0.0 advil.waze.com
@@ -5854,6 +5855,7 @@
 0.0.0.0 luxury138zz.com
 0.0.0.0 luxurycasino.com
 0.0.0.0 lw-c-log.lastwarapp.com
+0.0.0.0 lw-c-log.lastwarapp.net
 0.0.0.0 lxqcgj.com
 0.0.0.0 lynbet.com
 0.0.0.0 lynbet.net
@@ -7168,6 +7170,7 @@
 0.0.0.0 powerlinks.com
 0.0.0.0 pp3-sdk-api.profilepassport.jp
 0.0.0.0 pp3-sdkdata-v2-ut.profilepassport.jp
+0.0.0.0 pp3-sdkdata-v2.profilepassport.jp
 0.0.0.0 ppin-d.ppin
 0.0.0.0 ppin-f.ppin
 0.0.0.0 pps-log.op-mobile.opera.com

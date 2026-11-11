@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 9 Nov 2026 14:54 (updated regularly)
+! Last modified: 11 Nov 2026 19:14 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -1381,6 +1381,8 @@
 ##.iklan-pos
 ##.iklan-puff
 ##.iklan-related-post
+##.iklan-responsive-banner
+##.iklan-responsive-header
 ##.iklan-retangle
 ##.iklan-right
 ##.iklan-samping
@@ -1393,6 +1395,7 @@
 ##.iklan-skin-left
 ##.iklan-skin-right
 ##.iklan-slider
+##.iklan-slot-double
 ##.iklan-sp-adlabel
 ##.iklan-sp-dalam-berita
 ##.iklan-sp-entity-placement
@@ -1715,6 +1718,8 @@
 ##.ray-ads-in-content
 ##.ray-floating-ads
 ##.ray-floating-ads-container
+##.rb-ad
+##.rb-ad-banner
 ##.react-share__ShareButton:not(body,html,:empty)
 ##.read-ad-slot
 ##.read-ads-mobile
@@ -13432,6 +13437,10 @@ wowkeren.com##article div:matches-css(display: inline-block):has(> script)
 wowkeren.com##div[style*="width:300px;min-height:250px"]
 wtools.io###adsright_vertical
 www.patreon.com##.colorSystemContainer-8000d1-default.token-modes-module__i10qXa__colorAuto > .token-modes-module__i10qXa__screenAuto.token-modes-module__i10qXa__colorAuto
+www.reddit.com##+js(aeld, touchmove, preventDefault)
+www.reddit.com##+js(rc, rpl-scroll-lock|scroll-is-blocked, body, stay)
+www.reddit.com##+js(rc, rpl-scroll-lock|scroll-is-blocked, html, stay)
+www.reddit.com##.configured-xpromo-bottom-sheet
 xbokepin.*###popupBannerOverlay
 xbokepin.*##.rbdb-overlay
 xl.co.id##.sc-concent

@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 11 Nov 2026 19:14 (updated regularly)
+! Last modified: 12 Nov 2026 13:41 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -8932,7 +8932,6 @@
 0.0.0.0 tokoviral.online
 0.0.0.0 tokyopoolstoday.com
 0.0.0.0 tokyopoolstoday.net
-0.0.0.0 tolonglah.pages.dev
 0.0.0.0 tonefuse.com
 0.0.0.0 tonybet.com
 0.0.0.0 toogel.org

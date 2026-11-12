@@ -1,7 +1,7 @@
 ! Title: Cekalist pornografi
 ! Description: Host file anti situs pornografi
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 11 Nov 2026 19:15 (updated regularly)
+! Last modified: 12 Nov 2026 13:42 (updated regularly)
 
 0.0.0.0 0-0.asia
 0.0.0.0 0-12kids.com
@@ -3691,6 +3691,7 @@
 0.0.0.0 1y8pim.top
 0.0.0.0 1yazzb.cc
 0.0.0.0 1ydmc.com
+0.0.0.0 1ykzidi.garden
 0.0.0.0 1youngteenporn.com
 0.0.0.0 1ywq.com
 0.0.0.0 1yygbh.com
@@ -4074,6 +4075,7 @@
 0.0.0.0 224dou.com
 0.0.0.0 224gei.com
 0.0.0.0 224nan.com
+0.0.0.0 224swd.garden
 0.0.0.0 224va.com
 0.0.0.0 224zai.com
 0.0.0.0 225az.com
@@ -39715,6 +39717,7 @@
 0.0.0.0 bp-xiaomeng.com
 0.0.0.0 bp4x.xyz
 0.0.0.0 bpclips.com
+0.0.0.0 bpharmamixa.ru
 0.0.0.0 bpoalxgf.xyz
 0.0.0.0 bporn.mobi
 0.0.0.0 bporn.org
@@ -49583,6 +49586,7 @@
 0.0.0.0 clubsinsational2.net
 0.0.0.0 clubsissy.com
 0.0.0.0 clubsmiles.com
+0.0.0.0 clubsteffi.fun
 0.0.0.0 clubstiletto.com
 0.0.0.0 clubstroke.net
 0.0.0.0 clubstrokecams.com
@@ -56397,6 +56401,7 @@
 0.0.0.0 deyuanyiyao.com
 0.0.0.0 dezbracata.ro
 0.0.0.0 dezirelingerie.co.uk
+0.0.0.0 dezmall.com
 0.0.0.0 dezyred.com
 0.0.0.0 df6141.com
 0.0.0.0 dfamosas.net
@@ -62723,6 +62728,7 @@
 0.0.0.0 erocom-videos.com
 0.0.0.0 erocom.tv
 0.0.0.0 erocomi.site
+0.0.0.0 erocomic.net
 0.0.0.0 erocomicsxxx.com
 0.0.0.0 erocommunity.com
 0.0.0.0 erocommunity.eu
@@ -62823,6 +62829,7 @@
 0.0.0.0 eroganso.com
 0.0.0.0 erogarga.com
 0.0.0.0 erogaroku.com
+0.0.0.0 erogatsuo.com
 0.0.0.0 erogays.com
 0.0.0.0 erogaz.com
 0.0.0.0 erogazo-happening.com
@@ -62871,6 +62878,7 @@
 0.0.0.0 eroglobustyumen.com
 0.0.0.0 eroglobusufa.info
 0.0.0.0 erogotoshi.com
+0.0.0.0 erogrammer.com
 0.0.0.0 erogrand.net
 0.0.0.0 erogsite.com
 0.0.0.0 eroguide.dk
@@ -62907,8 +62915,10 @@
 0.0.0.0 erojobs.biz
 0.0.0.0 erojoy.com
 0.0.0.0 erojoy.net
+0.0.0.0 erojoyx.com
 0.0.0.0 erojumbo.com
 0.0.0.0 erojumper.de
+0.0.0.0 erokatter.com
 0.0.0.0 erokatya.com
 0.0.0.0 erokazka.com.ua
 0.0.0.0 erokezka.com
@@ -62925,6 +62935,7 @@
 0.0.0.0 erokontakt.net
 0.0.0.0 erokontakt4you.com
 0.0.0.0 erokore.com
+0.0.0.0 erokoru.com
 0.0.0.0 erokrad.live
 0.0.0.0 erokuni.xyz
 0.0.0.0 eroladies.com
@@ -62973,6 +62984,7 @@
 0.0.0.0 eromangaaaaeroticcartoondiary.com
 0.0.0.0 eromangadoujin.com
 0.0.0.0 eromangaosa-mu.com
+0.0.0.0 eromangar.com
 0.0.0.0 eromangirl.work
 0.0.0.0 eromania.pl
 0.0.0.0 eromanidc.com
@@ -63065,6 +63077,8 @@
 0.0.0.0 eropron.xyz
 0.0.0.0 eroraiast.com
 0.0.0.0 eroraikry.com
+0.0.0.0 erorairnd.com
+0.0.0.0 erorairnd.info
 0.0.0.0 erorate.com
 0.0.0.0 eroreal.ru
 0.0.0.0 erorealm.com
@@ -63218,6 +63232,7 @@
 0.0.0.0 erotaieki.tokyo
 0.0.0.0 erotaiken.net
 0.0.0.0 erotales.me
+0.0.0.0 erotalive.com
 0.0.0.0 erotechno.com
 0.0.0.0 eroteen.de
 0.0.0.0 eroteka-opt.ru
@@ -63707,6 +63722,7 @@
 0.0.0.0 eroticfictiondeluxe.com
 0.0.0.0 eroticfilmschool.com
 0.0.0.0 eroticfilth.com
+0.0.0.0 eroticflex.xyz
 0.0.0.0 eroticflix.com
 0.0.0.0 eroticfolly.com
 0.0.0.0 eroticfootgallery.com
@@ -63770,6 +63786,7 @@
 0.0.0.0 eroticious.com
 0.0.0.0 eroticiracconti.it
 0.0.0.0 eroticiracconti.net
+0.0.0.0 eroticism.live
 0.0.0.0 eroticism4play.com
 0.0.0.0 eroticismmagazine.com
 0.0.0.0 eroticity.net
@@ -84977,6 +84994,7 @@
 0.0.0.0 gemporn.com
 0.0.0.0 gemslondonescorts.com
 0.0.0.0 gemumov.cc
+0.0.0.0 gen-shun.com
 0.0.0.0 genaporn.com
 0.0.0.0 gencescort.com
 0.0.0.0 gencomics.es
@@ -85036,6 +85054,7 @@
 0.0.0.0 gennycam.com
 0.0.0.0 genoa-escort.com
 0.0.0.0 genotsgrot.nl
+0.0.0.0 genovaeros.com
 0.0.0.0 genovaerotica.com
 0.0.0.0 genovaerotica.it
 0.0.0.0 genporner69.com
@@ -85062,6 +85081,8 @@
 0.0.0.0 gentlemensclub.com
 0.0.0.0 gentlemensclubphonesex.com
 0.0.0.0 gentlesex.shop
+0.0.0.0 gentlesex1.xyz
+0.0.0.0 gentlesex69.xyz
 0.0.0.0 gentlesex69a.shop
 0.0.0.0 gentlesexa.shop
 0.0.0.0 gentlesexbeta.shop
@@ -85072,6 +85093,7 @@
 0.0.0.0 gentlesexplusa.shop
 0.0.0.0 gentlesexproa.shop
 0.0.0.0 gentlesexqueena.shop
+0.0.0.0 gentlesexxx.xyz
 0.0.0.0 gentlesexxxa.shop
 0.0.0.0 gentsnav.com
 0.0.0.0 gentxxx.com
@@ -95797,6 +95819,7 @@
 0.0.0.0 homepornvideo.net
 0.0.0.0 homepornzone.com
 0.0.0.0 homeprivatevids.com
+0.0.0.0 homepron.name
 0.0.0.0 homesecret.top
 0.0.0.0 homesex.bid
 0.0.0.0 homesexcam.org
@@ -96006,6 +96029,7 @@
 0.0.0.0 hontsuma-at.com
 0.0.0.0 hontsuma-machida.com
 0.0.0.0 honxxx.com
+0.0.0.0 honxxx.shop
 0.0.0.0 honyukan.com
 0.0.0.0 hoochiecams.com
 0.0.0.0 hoodamateurs.com
@@ -108957,6 +108981,7 @@
 0.0.0.0 jrgirls.pw
 0.0.0.0 jrgliht.xyz
 0.0.0.0 jrhamster.com
+0.0.0.0 jricgk7.wiki
 0.0.0.0 jridols.com
 0.0.0.0 jrjsry.com
 0.0.0.0 jrkmte.com
@@ -121991,6 +122016,7 @@
 0.0.0.0 lxxxxxlxx.com
 0.0.0.0 lxzdmy.com
 0.0.0.0 ly-muyuan.com
+0.0.0.0 ly56114.com
 0.0.0.0 ly8g.com
 0.0.0.0 lycheeip.com
 0.0.0.0 lycm.net
@@ -131048,6 +131074,7 @@
 0.0.0.0 mojoporn.net
 0.0.0.0 mojoporntube.com
 0.0.0.0 mojoporntube.net
+0.0.0.0 mojovids.com
 0.0.0.0 mojutv.cc
 0.0.0.0 mojva.com
 0.0.0.0 mokilop.net
@@ -131062,6 +131089,7 @@
 0.0.0.0 moldescort.com
 0.0.0.0 moldova-escort.com
 0.0.0.0 molester-jav.com
+0.0.0.0 molesterjav.com
 0.0.0.0 molinine.com
 0.0.0.0 molisetrasgressiva.it
 0.0.0.0 molizi.com.cn
@@ -134460,11 +134488,13 @@
 0.0.0.0 mymerrychristmaswishes.com
 0.0.0.0 mymilf.info
 0.0.0.0 mymilf.it
+0.0.0.0 mymilf.live
 0.0.0.0 mymilfcams.eu
 0.0.0.0 mymilfcamz.com
 0.0.0.0 mymilfchat.com
 0.0.0.0 mymilfexposed.com
 0.0.0.0 mymilflist.com
+0.0.0.0 mymilflover.com
 0.0.0.0 mymilfmatch.com
 0.0.0.0 mymilfpics.com
 0.0.0.0 mymilfsexdates.com
@@ -144757,6 +144787,7 @@
 0.0.0.0 oriental-slut.com
 0.0.0.0 oriental-tube.com
 0.0.0.0 oriental-xxx.com
+0.0.0.0 oriental69.best
 0.0.0.0 orientalabuse.com
 0.0.0.0 orientalasianporn.com
 0.0.0.0 orientaldragonmassage.com
@@ -168063,6 +168094,7 @@
 0.0.0.0 reachporn.com
 0.0.0.0 reachporn.top
 0.0.0.0 reachpornmovies.com
+0.0.0.0 reachxxx.com
 0.0.0.0 reachxxxmovies.com
 0.0.0.0 reachxxxvideos.com
 0.0.0.0 reactionporn.com
@@ -200754,7 +200786,11 @@
 0.0.0.0 tabootemptationsclips.com
 0.0.0.0 taboothepornmovie.com
 0.0.0.0 tabootube.cc
+0.0.0.0 tabootube.cfd
 0.0.0.0 tabootube.co
+0.0.0.0 tabootube.fyi
+0.0.0.0 tabootube.icu
+0.0.0.0 tabootube.info
 0.0.0.0 tabootube.nl
 0.0.0.0 tabootube.store
 0.0.0.0 tabootube.to
@@ -206414,6 +206450,7 @@
 0.0.0.0 thirdwavefashion.com
 0.0.0.0 thirdworldporn.com
 0.0.0.0 thirdworldxxx.com
+0.0.0.0 thirstchat.com
 0.0.0.0 thirstycallgirls.online
 0.0.0.0 thirstydates.com
 0.0.0.0 thirstymilf.com
@@ -209279,6 +209316,7 @@
 0.0.0.0 touchmywifeporn.com
 0.0.0.0 touchofclasskingston.com
 0.0.0.0 touchofhappiness.co.uk
+0.0.0.0 touchon.net
 0.0.0.0 touchqueen.ru
 0.0.0.0 touchs.org
 0.0.0.0 touchsauna.com
@@ -215220,6 +215258,7 @@
 0.0.0.0 ustilimsksm.com
 0.0.0.0 ustsuz.com
 0.0.0.0 ustvgo.tv
+0.0.0.0 ustytube.com
 0.0.0.0 usualfans.com
 0.0.0.0 usurpadoras.com
 0.0.0.0 usxvid.com
@@ -221901,6 +221940,7 @@
 0.0.0.0 weheartbdsm.com
 0.0.0.0 wehelpyou.pk
 0.0.0.0 wehirestrippers.com
+0.0.0.0 weibangfu.com
 0.0.0.0 weibaocn.com
 0.0.0.0 weiber-sexchat.com
 0.0.0.0 weiber.net
@@ -221914,6 +221954,7 @@
 0.0.0.0 weiblichesexfantasien.com
 0.0.0.0 weibojob.com
 0.0.0.0 weibtech.com
+0.0.0.0 weicnspkiv.buzz
 0.0.0.0 weiduw.com
 0.0.0.0 weifengcn.com
 0.0.0.0 weige.tw
@@ -224762,6 +224803,7 @@
 0.0.0.0 xanaspalace.com
 0.0.0.0 xanaspalacelive.com
 0.0.0.0 xandohs.com
+0.0.0.0 xandriao.com
 0.0.0.0 xangel.vip
 0.0.0.0 xangesexy.cam
 0.0.0.0 xanimehub.com
@@ -236192,6 +236234,7 @@
 0.0.0.0 ywuspk.cc
 0.0.0.0 ywwlsy.com
 0.0.0.0 ywxnjz.com
+0.0.0.0 ywynxx.pics
 0.0.0.0 yx-iot.net
 0.0.0.0 yxcfcc.com
 0.0.0.0 yxcjizs.xyz

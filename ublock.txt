@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 12 Nov 2026 13:43 (updated regularly)
+! Last modified: 13 Nov 2026 23:08 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -9643,7 +9643,7 @@ balanganews.com##.infeed-wrap
 balanganews.com,gadgetdiva.id##.infeed-ad
 balebandung.com,deepend.id,gamebrott.com,minanews.net,pilarhukum.com,sintesanews.id##img[height="600"][width="160"]
 balebandung.com,kemajuanrakyat.id##img[title*="iklan" i]
-baliberkabar.id,bentengsumbar.com,bijaknews.com,bongkarmerdeka.com,borneonusantaranews.com,centangbirumedia.com,channelntb.com,deltapariranews.com,dentamedia.id,dhean.news,dikonews7.com,dutanusantaramerdeka.com,fajarsumbar.com,faktanews.id,gebraknasional.com,gustani.id,indomen.co.id,indometro.id,jejakkasus.id,jurnalispost.online,kabarnusantara.co.id,kabarviral79.com,kabasurau.co.id,kapuaspost.web.id,kebumenekspres.com,kepriaktual.com,kodim1307.id,komentar.co,kontakbanten.co.id,koranaceh.net,kritikbekasi.com,kwarta5.com,lamosai.com,lelemuku.com,lintashukum-indonesia.com,mandalikapost.com,marmatanews.id,mediarakyatnusantara.online,mediasergap.com,mediawawasan.com,onlinepantura.com,parasriau.com,peoplenews.id,pilarempat.com,postkotantb.com,redaksimanado.com,reviewsteknologiku.tech,runnerscase.com,sahabatnews.net,samudranews.com,sasambonews.com,selaparangnews.com,senipertanian.com,seputarkebumen.com,suarakonsumenindonesia.com,sumatrazone.co.id,tanamonews.com,trust3media.com,ujaran.co.id,vnn.co.id##.widget:has(> .widget-content > a > img)
+baliberkabar.id,bentengsumbar.com,bijaknews.com,bongkarmerdeka.com,borneonusantaranews.com,centangbirumedia.com,channelntb.com,deltapariranews.com,dentamedia.id,dhean.news,dikonews7.com,dutanusantaramerdeka.com,fajarsumbar.com,faktanews.id,gebraknasional.com,gustani.id,indomen.co.id,indometro.id,jejakkasus.id,jurnalispost.online,kabarnusantara.co.id,kabarviral79.com,kabasurau.co.id,kapuaspost.web.id,kebumenekspres.com,kepriaktual.com,kodim1307.id,komentar.co,kontakbanten.co.id,koranaceh.net,kritikbekasi.com,kwarta5.com,lamosai.com,lelemuku.com,lintashukum-indonesia.com,mandalikapost.com,marmatanews.id,mediarakyatnusantara.online,mediasergap.com,mediawawasan.com,onlinepantura.com,parasriau.com,peoplenews.id,pilarempat.com,postkotantb.com,realitasnews.com,redaksimanado.com,reviewsteknologiku.tech,runnerscase.com,sahabatnews.net,samudranews.com,sasambonews.com,selaparangnews.com,senipertanian.com,seputarkebumen.com,suarakonsumenindonesia.com,sumatrazone.co.id,tanamonews.com,trust3media.com,ujaran.co.id,vnn.co.id##.widget:has(> .widget-content > a > img)
 baliberkabar.id,ilampung.com,infokyai.com,jadiprofesional.com,jelajahsatu.com,lenteranasional.com,mitramabesnews.id,postkotantb.com,suarakayong.id,suarakonsumenindonesia.com##.slotbanner
 baliglobalnews.com,beritapagi.co.id,garudadaily.com,kilassultra.com,sindomakassar.com##.adcontainer
 baliilu.com##img[width="866"][height="1300"]
@@ -12689,8 +12689,6 @@ readwebtoons.com##.float-ck
 reaksimedia.com###main-ads:remove()
 realestat.id##.elementor-widget > a:has(img):not(a:has(img[src*="logo" i]))
 realitamedia.com,realitasnews.com###headads
-realitasnews.com##img[data-original-width="2112"][data-original-height="278"]
-realitasnews.com##img[data-original-width="819"][data-original-height="1280"]
 realthaisluts.com##.video-list-ads
 rebahan21.net,rebahan21.org,rebahan21.xyz,rebahin21.com.mx###floating_banner_top
 rebahan21.net,rebahan21.org,rebahan21.xyz,rebahin21.com.mx##a:has(> img[src$=".gif"])

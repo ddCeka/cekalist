@@ -1,7 +1,7 @@
 ! Title: Cekalist pornografi
 ! Description: Host file anti situs pornografi
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 13 Nov 2026 23:08 (updated regularly)
+! Last modified: 16 Nov 2026 16:59 (updated regularly)
 
 0.0.0.0 0-0.asia
 0.0.0.0 0-12kids.com
@@ -88,6 +88,7 @@
 0.0.0.0 007escorts.co.uk
 0.0.0.0 007gayboys.com
 0.0.0.0 007girl.com
+0.0.0.0 007h82.garden
 0.0.0.0 007kongbao.com
 0.0.0.0 007milf.com
 0.0.0.0 007moms.com
@@ -11050,6 +11051,7 @@
 0.0.0.0 7mmtv.sx
 0.0.0.0 7moviesrulez.com
 0.0.0.0 7mw.top
+0.0.0.0 7n3eu8.garden
 0.0.0.0 7ncn.com
 0.0.0.0 7nen.com
 0.0.0.0 7nexus.ru
@@ -121238,6 +121240,7 @@
 0.0.0.0 lovelycamgirls.com
 0.0.0.0 lovelycartoons.com
 0.0.0.0 lovelycheerleaders.com
+0.0.0.0 lovelychicwedding.com
 0.0.0.0 lovelyclips.com
 0.0.0.0 lovelyescortsgirls.com
 0.0.0.0 lovelyescortsindia.com
@@ -130008,6 +130011,7 @@
 0.0.0.0 mirrefo.com
 0.0.0.0 mirror-life.ru
 0.0.0.0 mirrorbfs.com
+0.0.0.0 mirrored.to
 0.0.0.0 mirrorgirls.net
 0.0.0.0 mirrorlife.com
 0.0.0.0 mirrorporn.net
@@ -142766,6 +142770,7 @@
 0.0.0.0 okanaganeroticartshow.com
 0.0.0.0 okanimeporn.com
 0.0.0.0 okantobokublog.com
+0.0.0.0 okardmoredining.com
 0.0.0.0 okasan-5.biz
 0.0.0.0 okasan-nf.biz
 0.0.0.0 okasan-nkg.biz
@@ -202268,6 +202273,7 @@
 0.0.0.0 teaner.com
 0.0.0.0 teansfixed.com
 0.0.0.0 tearfulanal.com
+0.0.0.0 tearoma.net
 0.0.0.0 tearsporn.com
 0.0.0.0 tease-and-denial.org
 0.0.0.0 tease-factory.com
@@ -225075,6 +225081,7 @@
 0.0.0.0 wyspw.shop
 0.0.0.0 wystv.com
 0.0.0.0 wyswspb.cfd
+0.0.0.0 wytq.shop
 0.0.0.0 wywyxs.cc
 0.0.0.0 wyylde.com
 0.0.0.0 wyys36.wiki

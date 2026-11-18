@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 18 Nov 2026 23:31 (updated regularly)
+! Last modified: 19 Nov 2026 02:24 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -351,6 +351,7 @@
 0.0.0.0 9nagatangkas.info
 0.0.0.0 9nagatangkas.org
 0.0.0.0 9tip.com
+0.0.0.0 Barakjudi.com
 0.0.0.0 a.appbaqend.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.line.me
@@ -586,7 +587,6 @@
 0.0.0.0 ads.pinger.com
 0.0.0.0 ads.rmbl.ws
 0.0.0.0 ads.smrtbid.com
-0.0.0.0 ads.sorot.co
 0.0.0.0 ads.taptapnetworks.com
 0.0.0.0 ads.telkomsel.com
 0.0.0.0 ads.viber.com
@@ -1809,7 +1809,6 @@
 0.0.0.0 astrototo.com
 0.0.0.0 astrsk.net
 0.0.0.0 asttoxa.ru
-0.0.0.0 asukabeh.my.id
 0.0.0.0 at-af.outfit7.com
 0.0.0.0 atb-stats-api.imolive.tv
 0.0.0.0 atgroup-link.id
@@ -1875,7 +1874,6 @@
 0.0.0.0 b99.yahoo.co.jp
 0.0.0.0 ba0088.com
 0.0.0.0 bacc1688.com
-0.0.0.0 badnessgimmickposted.com
 0.0.0.0 badylenicesist.com
 0.0.0.0 baijiabo.com
 0.0.0.0 balak9.com
@@ -2042,7 +2040,6 @@
 0.0.0.0 bannersnack.com
 0.0.0.0 bannerwall.herewetest.com
 0.0.0.0 bannerwall.s3.appcnt.com
-0.0.0.0 barakjudi.com
 0.0.0.0 barca88.com
 0.0.0.0 baroco303.com
 0.0.0.0 barona.com
@@ -2064,7 +2061,6 @@
 0.0.0.0 batavia-elektronik.com
 0.0.0.0 bataviashoping.com
 0.0.0.0 batsavcdn.ksmobile.net
-0.0.0.0 battueskink.com
 0.0.0.0 bavetline.com
 0.0.0.0 bayctrk.com
 0.0.0.0 bazar-online.com
@@ -2691,7 +2687,6 @@
 0.0.0.0 btybet.com
 0.0.0.0 bu1.duba.com
 0.0.0.0 bubblesmedia.ru
-0.0.0.0 buffermotivatorsuffice.com
 0.0.0.0 bukutogel.com
 0.0.0.0 bunchofwinners.win
 0.0.0.0 bungaelektroshop.com
@@ -3460,7 +3455,6 @@
 0.0.0.0 deapi.sooplive.com
 0.0.0.0 dearerfonder.info
 0.0.0.0 debojuagug1sf.cloudfront.net
-0.0.0.0 decafeligiblyhad.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 dekisoft.com
 0.0.0.0 delapantgl.com
@@ -3469,7 +3463,6 @@
 0.0.0.0 delawarelotteryresults.org
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 deliveryengine.adswizz.com
-0.0.0.0 deloton.com
 0.0.0.0 delpark.com
 0.0.0.0 deltadowns.com
 0.0.0.0 deltatoto.com
@@ -3747,7 +3740,6 @@
 0.0.0.0 eats-ads-event-capture.coupang.com
 0.0.0.0 ec.adadapted.com
 0.0.0.0 ecasinoclub.com
-0.0.0.0 eccentricsterilizevastness.com
 0.0.0.0 eclkmpbn.com
 0.0.0.0 eclkmpsa.com
 0.0.0.0 ecogra.org
@@ -3883,7 +3875,6 @@
 0.0.0.0 evt.mxplay.com
 0.0.0.0 ewalletcasinobonus.com
 0.0.0.0 ewetot.com
-0.0.0.0 ex-ample.org,from=ex-ample.com
 0.0.0.0 exclusive-promotions.com
 0.0.0.0 exclusivebet.com
 0.0.0.0 exe.bid
@@ -4217,7 +4208,6 @@
 0.0.0.0 germanykasino.com
 0.0.0.0 gerwen.info
 0.0.0.0 get-kmspico.com
-0.0.0.0 getandplay.web.id
 0.0.0.0 getinmac.com
 0.0.0.0 getintomac.net
 0.0.0.0 getintopc.cc
@@ -4388,7 +4378,7 @@
 0.0.0.0 guts.com
 0.0.0.0 gvbet.com
 0.0.0.0 gvbet.net
-0.0.0.0 gwrtdp-tn690bfadt.tclclouds.com
+0.0.0.0 gwrtdp-tn690BFAdt.tclclouds.com
 0.0.0.0 gxwjkbxubfjd.com
 0.0.0.0 gynax.com
 0.0.0.0 h-adashx.ut.alibaba.com
@@ -4642,7 +4632,6 @@
 0.0.0.0 httpdns.bilivideo.com
 0.0.0.0 httpool.com
 0.0.0.0 https-filtering-check.adtidy.org
-0.0.0.0 hubapi.my.id
 0.0.0.0 huge-odds.com
 0.0.0.0 huntfishbrag.store
 0.0.0.0 huntmad.com
@@ -4806,7 +4795,6 @@
 0.0.0.0 imcbet.com
 0.0.0.0 imcbet.net
 0.0.0.0 imcpoker.com
-0.0.0.0 imgbanner.site
 0.0.0.0 imgx.jampp.com
 0.0.0.0 imp.startappservice.com
 0.0.0.0 impbid.com
@@ -5443,7 +5431,6 @@
 0.0.0.0 klasemenagenbola.com
 0.0.0.0 klavercasino.com
 0.0.0.0 klik-sbobet.com
-0.0.0.0 klik.best
 0.0.0.0 klik.top
 0.0.0.0 klik.zeus.fun
 0.0.0.0 klik101.com
@@ -5662,7 +5649,6 @@
 0.0.0.0 locopanda-casino.com
 0.0.0.0 locopanda.com
 0.0.0.0 lodecasino.com
-0.0.0.0 log-boot.tiktokv.com
 0.0.0.0 log-mediation.easemobi.net
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-nontt.bytegsdk.com
@@ -6418,7 +6404,6 @@
 0.0.0.0 naughtybarelylegals.com
 0.0.0.0 naverpa-phinf.pstatic.net
 0.0.0.0 nawala.info
-0.0.0.0 nawala.my
 0.0.0.0 nawala.net
 0.0.0.0 nba833.com
 0.0.0.0 nbcollect.kugou.com
@@ -6590,7 +6575,6 @@
 0.0.0.0 oceanofgamesu.com
 0.0.0.0 oceansofgamess.com
 0.0.0.0 oceantogames.com
-0.0.0.0 oclasrv.com
 0.0.0.0 oconner.biz
 0.0.0.0 octafx.com
 0.0.0.0 octillion.tv
@@ -6877,7 +6861,6 @@
 0.0.0.0 pasangcasinoonline.net
 0.0.0.0 pasangibcbetbola.com
 0.0.0.0 pasangiklan.com
-0.0.0.0 pasangiklan.jatimtimes.com
 0.0.0.0 pasangiklangratisbaris.com
 0.0.0.0 pasangiklangratisbaris.net
 0.0.0.0 pasangjudibola.org
@@ -7504,7 +7487,6 @@
 0.0.0.0 rezkyelektrostore.com
 0.0.0.0 rezpector11.mywapblog.com
 0.0.0.0 rf1616.com
-0.0.0.0 rfesgftfefdesrfewsterwtfgewtfe.store
 0.0.0.0 rfgodfdf.bid
 0.0.0.0 rgo88.com
 0.0.0.0 rgobet.com
@@ -7943,7 +7925,6 @@
 0.0.0.0 silversandscasino.com
 0.0.0.0 simcardelektronik.com
 0.0.0.0 simonsayscasino.com
-0.0.0.0 simplepaste.site
 0.0.0.0 sinar-abadishop.com
 0.0.0.0 sinarbm.com
 0.0.0.0 sinarelektroshop.com
@@ -8635,7 +8616,6 @@
 0.0.0.0 tdedfootball.com
 0.0.0.0 teachscape.vo.llnwd.net
 0.0.0.0 tealand.cmcm.com
-0.0.0.0 team-168.com
 0.0.0.0 teambet1.com
 0.0.0.0 tebak88.com
 0.0.0.0 tebakmimpi.net
@@ -8737,7 +8717,6 @@
 0.0.0.0 thelivedealer.com
 0.0.0.0 thelotter.com
 0.0.0.0 themacuser.org
-0.0.0.0 theme-sphere.com
 0.0.0.0 themobiletracker.com
 0.0.0.0 thepalacegroup.com
 0.0.0.0 thepiratebay.party
@@ -8769,7 +8748,6 @@
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 thinkbingo.com
 0.0.0.0 thistledown.com
-0.0.0.0 thoroughgear.com
 0.0.0.0 thupox.com
 0.0.0.0 ti9bet.com
 0.0.0.0 tianji98.com
@@ -8930,7 +8908,6 @@
 0.0.0.0 tokorajaelektronika.com
 0.0.0.0 tokosuntik.com
 0.0.0.0 tokosuntik.net
-0.0.0.0 tokoviral.online
 0.0.0.0 tokyopoolstoday.com
 0.0.0.0 tokyopoolstoday.net
 0.0.0.0 tonefuse.com

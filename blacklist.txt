@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 13 Nov 2026 23:07 (updated regularly)
+! Last modified: 18 Nov 2026 23:31 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -378,7 +378,6 @@
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 ac1188.com
-0.0.0.0 access.kaiko.cam
 0.0.0.0 accesstrade.co.id
 0.0.0.0 accscdn.m.taobao.com
 0.0.0.0 acdn.newshuntads.com
@@ -4032,6 +4031,7 @@
 0.0.0.0 fourseven.byethost
 0.0.0.0 foxgambling.com
 0.0.0.0 foxycasino.com
+0.0.0.0 fozekikikiminu.com
 0.0.0.0 fp-it.fengkongcloud.com
 0.0.0.0 fp-sa-it.fengkongcloud.com
 0.0.0.0 fpconfig.net

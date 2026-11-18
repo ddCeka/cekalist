@@ -38,6 +38,9 @@ https://raw.githubusercontent.com/ddCeka/CekaList/master/blacklist.txt
 &nbsp;
 - Filter pelengkap
 ```
+https://raw.githubusercontent.com/ddCeka/CekaList/master/disinformasi-propaganda.txt
+```
+```
 https://raw.githubusercontent.com/ddCeka/CekaList/master/penambang-koin.txt
 ```
 ```

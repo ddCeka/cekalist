@@ -1,4 +1,4 @@
-﻿! Title: CekaList - Disinformasi dan Propaganda
+﻿! Title: CekaList disinformasi-propaganda
 ! Description: Host file anti situs disinformasi dan propaganda
 ! Last modified: 19 Aug 2024 19:21 UTC (updated regularly)
 ! host_count: 2116

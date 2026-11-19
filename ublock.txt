@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 19 Nov 2026 02:24 (updated regularly)
+! Last modified: 20 Nov 2026 00:48 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -213,6 +213,9 @@
 ###close-iklanbawah
 ###contents > yt-share-target-renderer:nth-of-type(1n+2)
 ###ctoolbar
+###custom-header-ad
+###custom-sidebar-ad
+###custom-top-ad
 ###d_ads
 ###desaiklan
 ###desktop-ads-id-1
@@ -626,6 +629,7 @@
 ##.ad-pos-tengah-detail-berita
 ##.ad-rail-box600
 ##.ad-shell
+##.ad-sidebar-container
 ##.ad-slot-wrap
 ##.ad-type2_
 ##.ad-wrapper-fixed
@@ -1251,6 +1255,7 @@
 ##.header-ad-mobile
 ##.header-adds
 ##.header-menu-bottom-ads
+##.header-top-ad-row
 ##.header_kabar_ads
 ##.heateor_sss_sharing_container:not(html,body,:empty)
 ##.height_sonoraads_600
@@ -1979,6 +1984,7 @@
 ##[alt="iklan-horizontal-home-1"]
 ##[app=addtoany]:not(html,body,:empty)
 ##[aria-label*="iklan_header" i]
+##[class*="google-anno"]:style(display: none !important;)
 ##[class*="ikln-" i]
 ##[class*="oduu-html-id"]
 ##[class*=share-toolbar]:not(html,body,[class*=body i],[id*=body i],[class*=content i],[id*=content i],[class*=has-share-toolbar])
@@ -5448,6 +5454,7 @@
 ##[href^="https://yukclick.me/terbit21"]
 ##[href^="https://zetapoker99.com"]
 ##[href^="https://zeuspkv.com"]
+##[id*="google-anno"]:style(display: none !important;)
 ##[id^="adsic728x90"]
 ##[socialshare]:not(html,body,:empty)
 ##[title="7METER" i]
@@ -10141,7 +10148,9 @@ ceklissatu.com##.widget > .widget-content > figure > img
 ceklissatu.com,goaceh.id,infotangerang.co.id,infotangerang.id##.billboard
 ceklissatu.com,indonesiabusinesspost.com,juragan-anime.net,kapanlagi.com,kompas.com,kompasiana.com,merdeka.com,nanime.in,otosia.com##.banner
 ceklist.id##.affcoups
+ceknricek.com##.ceknr-target
 ceknricek.com##.ppx-banner
+ceknricek.com##.vignette-backdrop-wrap
 cekresi.me,datapendidikan.com,tempatwisata.pro##center:has(> p[style^="text-align: center;position: relative;"] > button)
 cekresi.me,datapendidikan.com,tempatwisata.pro##span:has-text(/adv/i)
 cekresi.me,indobo.com,techaku.com,tempatwisata.pro,vebma.com##+js(no-fetch-if, pagead2.googlesyndication.com)
@@ -10655,6 +10664,7 @@ fitpractise.com##.site-footer
 fitpractise.com##.site-header
 flashbackrecorder.com#@#.elementor-popup-modal
 florespos.net##img[width="728"][height="100"]
+fokal.id,kisahdunia.com##.jeg_ad
 fokusborneo.com##.single-article center > img
 fokusmedan.com##img[width="720"][height="120"]
 forbes.com##.article-sharing
@@ -11324,6 +11334,7 @@ jakartaglobe.id##style + .mt-2
 jakartaglobe.id,republika.co.id##.show.fade.modal
 jakartaglobe.id,republika.co.id##.show.fade.modal-backdrop
 jakartakita.com##.widget > div > img
+jakartakita.com##[data-type="_mgwidget"]
 jakartaraya.co.id,koma.id,sindomanado.com##.article-adv
 jakbos.com##img:nth-of-type(2)
 jalantikus.com###beforeDaftarIsimobilead300container00div-gpt-ad-1569380311053-0
@@ -11578,7 +11589,6 @@ kiryuu01.com,kiryuu02.*,manhwaindo.one###teaserbottom
 kisahdunia.com##+js(aost, DOMTokenList.prototype.contains, manageBodyClasses)
 kisahdunia.com##.code-block
 kisahdunia.com##.elementor-element-ddaec1c
-kisahdunia.com##.jeg_ad
 kisahdunia.com##.jeg_ad_top
 kisahdunia.com##.jnews_above_footer_ads
 kisahdunia.com##.jnews_header_bottom_ads
@@ -11877,6 +11887,12 @@ lapar.com##.banner_main
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 lapar.com,loveindonesia.com##.banner_box
 law-justice.co,suaraindonesia.co.id##.sticky_bottom
+layanfilem.*###adHomeTop
+layanfilem.*,lk21.*,lk21official.*,nontondrama.*###nativeAds
+layanfilem.*,lk21official.*###adContainer
+layanfilem.*,lk21official.*###openPopup
+layanfilem.*,lk21official.*###skipAds
+layanfilem.*,lk21official.*###videoAd
 layardrama.*,layardrama21.*#@#.idmuvi-topbanner-aftermenu
 layardrama21.*###floatbanner-bottom
 layardrama21.*##+js(noeval-if, /fairAdblock|chp_?adblock|adsbygoogle\.js/)
@@ -11966,18 +11982,13 @@ livesports044.com,livesports055.com,livesports077.com,livesports088.com##*:style
 livesports044.com,livesports055.com,livesports077.com,livesports088.com##body:style(overflow: auto!important; position: unset!important;)
 livesports044.com,livesports055.com,livesports077.com,livesports088.com,tigoals.is##.banner
 livesports044.com,tigoals213.com##.banner.flex-center
-lk21.*,lk21official.*,nontondrama.*###nativeAds
 lk21.de,lk21.film,lk21official.cc,lk21official.dev,lk21online.mom,nontondrama.my###nativeAds
 lk21.de,lk21.film,lk21official.cc,lk21official.dev,lk21online.mom,nontondrama.my##a[target*="blank"]:has(> img)
 lk21.tv##.fancybox-skin
 lk21film.de##img[width="565px"][height="90px"]
 lk21id.com,pintas.vip###popupBottom
 lk21id.com,pintas.vip###popupOverlay
-lk21official.*###adContainer
 lk21official.*###banner-content
-lk21official.*###openPopup
-lk21official.*###skipAds
-lk21official.*###videoAd
 lk21official.mom##[id^="btop-"]
 lk21semi.*##+js(acs, chp_ads_blocker_detector)
 lkprd.fun,lkprd.site##.adshu
@@ -12188,6 +12199,7 @@ mirrorinkomik.my.id,mirrorkomik.click,mirrorkomik.info##img[alt*="banner" i]
 mirrorkomik.info##div[id^="teaser"]
 mirrorkomik.net###adrandpop
 mirrorkomik.net###aplikasi
+mistar.id##a[rel~="sponsored"]:has(img[src*="advertisement"])
 mitra.bukalapak.com##.banner-fixed
 mitra10.com##:matches-path(/blog) .gtm_mitra10_cta_banner_header
 mlyuk.pro###popupBanner
@@ -12717,11 +12729,13 @@ republika.co.id##.mobile-billboard
 republika.co.id##.parallax
 republika.co.id##.parallax__container
 republika.co.id##.popup
+republika.co.id##.rp-ad
 republika.co.id##.scrollToRead
 republika.co.id##.scrollToRead + .container:has( > .content)
 republika.co.id##.scrollToRead + .container:has(> .content)
 republika.co.id##.set-ads-468
 republika.co.id##.share
+republika.co.id##[class^="widget-ads-"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 republika.co.id##article .wrapper-replay:has(> a > img[data-original^="https://static.republika.co.id/files/ads/"])
 republika.co.id##article > div:matches-css(text-align:center):has-text(/sponsored/i)

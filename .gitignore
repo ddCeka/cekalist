@@ -1,0 +1,7 @@
+alive.txt
+dead.txt
+update.txt
+update[0-9]*.txt
+*.patch
+*.orig
+*.rej

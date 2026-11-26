@@ -1,7 +1,7 @@
 ! Title: Cekalist Vers.Ubo
 ! Description: Anti iklan umum di Indonesia versi ublock
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 25 Nov 2026 21:00 (updated regularly)
+! Last modified: 26 Nov 2026 15:06 (updated regularly)
 
 ###Ad300B
 ###Ad728x90
@@ -2505,6 +2505,8 @@
 ##[href="https://cek.to/kuronimehoki"]
 ##[href="https://cek.to/lk21xxi180dp"]
 ##[href="https://cek.to/lk21xxi180h"]
+##[href="https://cek.to/lkrebahin36"]
+##[href="https://cek.to/rebahinxxi36"]
 ##[href="https://cek.to/reffbd36idlix"]
 ##[href="https://cek.to/samehada36"]
 ##[href="https://ceklink.vip/bioskop21"]

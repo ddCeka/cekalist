@@ -1,7 +1,7 @@
 ! Title: Cekalist disinformasi-propaganda
 ! Description: Anti situs disinformasi dan propaganda
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 24 Nov 2026 01:03 (updated regularly)
+! Last modified: 27 Nov 2026 08:51 (updated regularly)
 
 0.0.0.0 0-230-23.rest
 0.0.0.0 0-ilxrc-w285.p9bckp.sbs
@@ -2817,6 +2817,7 @@
 0.0.0.0 keywestreporter.com
 0.0.0.0 kfax.com
 0.0.0.0 khavar.com
+0.0.0.0 ki48.no
 0.0.0.0 kimberly.digital
 0.0.0.0 kimmillerconcernedchristians.com
 0.0.0.0 kimyen.net

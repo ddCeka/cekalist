@@ -1,7 +1,7 @@
 ! Title: Cekalist
 ! Description: Host file anti iklan umum di Indonesia
 ! Homepage: https://github.com/ddCeka/CekaList
-! Last modified: 24 Nov 2026 21:30 (updated regularly)
+! Last modified: 27 Nov 2026 08:51 (updated regularly)
 
 0.0.0.0 0016.com
 0.0.0.0 0111.com
@@ -1671,6 +1671,7 @@
 0.0.0.0 applogs.pixelfederation.com
 0.0.0.0 applovin.com
 0.0.0.0 appmetr.com
+0.0.0.0 appmetrica.sovcombank.ru
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 appmetrica.yandex.net
 0.0.0.0 appnee.com
